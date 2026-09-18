@@ -8,10 +8,14 @@ await mkdir('test-results',{recursive:true});
 try{
  const page=await browser.newPage({viewport:{width:1440,height:1000}});
  page.on('pageerror',e=>errors.push(e.message));
+ async function openPlanner(collection){
+  const shell=page.locator(`.team-shell[data-collection="${collection}"]`);await shell.waitFor();
+  if(await shell.getAttribute('open')===null)await shell.locator('.team-toggle').click();
+ }
  await page.goto(base);await page.locator('#results .card').first().waitFor();
  await page.locator('input[name=q]').fill('cho gath');assert.equal(await page.locator('#results .card').count(),1);
  await page.locator('input[name=q]').fill('aatrox');await page.locator('#results .card').click();
- await page.locator('.team-toggle').click();
+ await openPlanner('olaf-top');
  await page.locator('#team-result h2').waitFor();
  for(const [role,id]of [['jungle','elise'],['mid','syndra'],['adc','ziggs'],['support','lux']])await page.locator(`[data-role="${role}"]`).selectOption(id);
  await page.locator('#team-result h2').waitFor();
@@ -24,10 +28,10 @@ try{
  await page.screenshot({path:'test-results/desktop-viewport.png'});
  await page.reload();await page.locator('#team-result h2').waitFor();assert.equal(await page.locator('[data-role="adc"]').inputValue(),'jinx');
  await page.locator('[data-champion="warwick"]').click();
- await page.locator('.team-shell:not([open])').waitFor();await page.locator('.team-toggle').click();await page.locator('#team-result h2').waitFor();
+ await openPlanner('warwick-top');await page.locator('#team-result h2').waitFor();
  assert.match(await page.locator('h1').innerText(),/Aatrox/);
  await page.locator('[data-lane="adc"]').click();
- await page.locator('.team-toggle').click();await page.locator('[data-role="adc"]').selectOption('vayne');
+ await openPlanner('olaf-adc');await page.locator('[data-role="adc"]').selectOption('vayne');
  await page.locator('#team-result h2').waitFor();assert.equal(await page.locator('[data-role="adc"]').inputValue(),'vayne');
  await page.locator('#team-reset').click();await page.getByText('Wähle deinen Lane-Gegner, um').waitFor();
  await page.setViewportSize({width:390,height:844});
