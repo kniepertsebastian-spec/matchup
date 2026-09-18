@@ -1,0 +1,50 @@
+{
+  "slug": "amumu",
+  "name": "Amumu",
+  "tier": "B",
+  "reason": "Amumus gesamtes Kit besteht aus Crowd Control, Bandage-Toss-Root, Tantrum-Stun und die Flächen-Betäubung seiner Ultimate, was genau die Kategorie ist, die Olafs R vollständig neutralisiert. Früh kann sein Root aus Fog of War trotzdem für unangenehme Überraschungsganks sorgen, spät gewinnt Olaf praktisch jedes geplante Duell, da Amumu wenig eigenen Schaden gegen einen CC-immunen Gegner hat. Insgesamt ein deutlich günstiges Matchup, besonders nach Level 6.",
+  "runeReason": "Conqueror mit Boneplating passt hervorragend, da Amumu wenig Burst-Schaden austeilt, dafür aber über Despair konstanten Flächenschaden anrichtet, gegen den Health und die zusätzliche Rüstung aus Boneplating im langen Fight sehr effizient sind.",
+  "l1": "Amumus Bandage Toss aus dem Busch kann einen Level-2-Kontakt überraschend einleiten, im offenen Duell ohne Überraschungsmoment gewinnt Olaf aber praktisch immer über reinen Schaden.",
+  "l25": "Amumu will früh mit Bandage-Toss-Root ganken statt Camps zu kontestieren, Olaf sollte in diesem Fenster aktiv Krabbe und Scuttle kontrollieren, da Amumus eigener Clear-Schaden gering ist.",
+  "l6": "Sobald Olaf R hat, verliert Amumus komplettes Kit seinen Schrecken, da Root, Stun und Ultimate-Betäubung sofort entfernt werden, Amumu bleibt danach im Objective-Fight nur noch als Soak-Tank relevant statt als echte Duell-Bedrohung.",
+  "threats": "Bandage-Toss-Root aus Fog of War, Tantrum-Stun, Despair-Flächenschaden über Zeit, R-Flächenbetäubung im Teamfight.",
+  "window": "Sobald Olaf R aktiv ist, wird praktisch jedes Duell gegen Amumu zu einem guten Fenster, da sein gesamtes CC-Kit wirkungslos wird.",
+  "errors": "Nicht blind in vermutete Bandage-Toss-Reichweite aus dem Busch laufen, R nicht verschwenden, wenn Amumu bereits all seine CC verbraucht hat, da dann auch ohne R gewonnen werden kann.",
+  "wave": "Ein normaler Clear mit etwas Vorsicht vor Bandage-Toss-Ganks ist ausreichend, Amumu ist selbst im Camp-Race meist unterlegen, da sein Clear-Schaden gering ist, offensives Konter-Jungle ist deshalb meist sicher.",
+  "trade": "Q werfen sobald Amumu committed, dann Autos, R zünden sobald Root oder Stun tatsächlich treffen, da sonst unnötig früh verbraucht wird, gegen ein bereits leeres CC-Kit reicht reines Stat-Trading ohne R.",
+  "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Amumus tanky Build, da er meist volle Widerstandsitems kauft und ohne Shred nur schwer schnell genug fällt.",
+  "situ": "Gegen ein Team mit zusätzlichem Flächen-CC um Amumus Ultimate herum kann ein früherer Health-Gegenstand das Überleben eines Dives verbessern.",
+  "side": "1 Item: das Duell bleibt eng, solange Olaf noch kein R hat. 2 Items: mit R wird Olaf klar favorisiert. 3 Items: Amumu hat gegen einen vollständig ausgerüsteten, CC-immunen Olaf kaum noch eigenen Schaden, um das Duell zu gewinnen.",
+  "plan": "Vor Level 6 vorsichtig vor Bandage-Toss-Ganks aus Fog of War bleiben, danach aktiv Objective-Fights und Dives suchen, da R sein gesamtes CC-Kit neutralisiert. Amumu bleibt primär als Soak- und Setup-Tank relevant, nicht als eigenständige Duell-Bedrohung.",
+  "override": "Bei einem sehr passiven, sammelnden Amumu ohne frühe Root-Ganks kann conqueror_inspiration sinnvoller sein, um früher Objective-Tempo aufzubauen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads, da Amumus gesamter Wert aus Crowd Control besteht.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "A",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/amumu/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

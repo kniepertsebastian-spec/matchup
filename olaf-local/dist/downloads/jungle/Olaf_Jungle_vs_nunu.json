@@ -1,0 +1,50 @@
+{
+  "slug": "nunu",
+  "name": "Nunu & Willump",
+  "tier": "B",
+  "reason": "Nunu ist kein Duellant, sondern ein Setup- und Objective-Champion, der über Konsum-Camps sehr schnell clearen und über seine Ultimate massive Engage- oder Steal-Bedrohung liefern kann, ohne dabei selbst viel Schaden im 1v1 auszuteilen. Im geraden Duell gewinnt Olaf fast immer, da Nunu kaum Selbstschutz gegen einen CC-immunen, sustain-starken Gegner hat, das eigentliche Risiko liegt in Nunus Tempo bei Objectives und Ganks statt im direkten Skirmish. Insgesamt ein klar günstiges Matchup für Olaf im 1v1.",
+  "runeReason": "Conqueror mit Boneplating passt gut, da Nunu selbst wenig Burst-Schaden liefert und ein ausgedehnter Fight Olaf die Zeit gibt, seinen Sustain-Vorteil voll auszuspielen, Boneplating dämpft dabei den anfänglichen Root-Treffer seiner W.",
+  "l1": "Ein Level-2-Duell gegen Nunu ist für Olaf fast immer sicher, da Nunu ohne Ally-Hilfe kaum Schaden liefert, ein Invade lohnt sich meist auch ohne besonderen Vorteil auf Olafs Seite.",
+  "l25": "Nunu will extrem schnell über Konsum große Camps clearen und früh eigene Objective-Präsenz aufbauen, Olaf sollte diesen Tempo-Vorsprung im Auge behalten, statt sich auf reine Krabbenkontrolle zu verlassen.",
+  "l6": "Ab 6 wird Nunus Ultimate zur zentralen Bedrohung für Dives und Objective-Steals statt für den direkten 1v1, Olafs R bleibt im geraden Duell klar überlegen, sollte aber auf angekündigte Snowball-Kanalisierungen achten, um rechtzeitig auszuweichen.",
+  "threats": "W-Snowball-Wurf mit Verlangsamung, Q-Konsum für schnellen Camp-Clear und Heilung, R-Kanalisierter Flächenschaden mit Knockup als Engage- oder Steal-Tool.",
+  "window": "Ein direktes Duell ist praktisch immer ein gutes Fenster, solange kein zweiter gegnerischer Champion in der Nähe ist, um Nunus fehlenden Eigenschaden zu kompensieren.",
+  "errors": "Nunus schnellen Konsum-Clear nicht unterschätzen und Objective-Timing danach ausrichten, nicht ohne Grund in eine bereits kanalisierende Ultimate hineinlaufen.",
+  "wave": "Gegen Nunu lohnt sich meist ein eigener zügiger Clear mit besonderem Augenmerk auf Drachen- und Herold-Timing, da er über Konsum schneller cleart als die meisten Jungler und dadurch früh Objective-Druck aufbaut, direkte 1v1-Camp-Kontests gewinnt Olaf klar.",
+  "trade": "Q werfen sobald Nunu committed, dann durchgehend Autos, da Nunu kaum Gegenschaden hat, R nur bei Bedarf gegen seine W-Verlangsamung oder eine kanalisierende Ultimate einsetzen.",
+  "items": "Hydra-DD passt gut zum eigenen Clear-Tempo, um Nunus Objective-Vorsprung über Konsum-Farming auszugleichen, echte Antiheal-Relevanz ist untergeordnet.",
+  "situ": "Gegen ein Team mit viel zusätzlichem Engage um Nunus Ultimate herum kann ein früherer Health- oder Tenacity-Gegenstand das Überleben eines koordinierten Dives verbessern.",
+  "side": "1 Item: Olaf gewinnt jedes direkte Duell klar. 2 Items: weiterhin klarer Vorteil im 1v1, Nunus Wert liegt bei Objectives statt im Skirmish. 3 Items: Olaf dominiert geplante Fights, sollte aber koordinierte Ultimate-Steal-Versuche an Drache oder Baron einkalkulieren.",
+  "plan": "Direkte Duelle gegen Nunu ohne Ally-Hilfe aktiv suchen, da Olaf hier klar überlegen ist. Gleichzeitig Nunus schnellen Konsum-Clear und Objective-Timing im Auge behalten, um nicht durch reinen Tempo-Vorsprung ins Hintertreffen zu geraten.",
+  "override": "Gegen ein Team mit viel zusätzlichem Engage um Nunus Ultimate herum kann conqueror_inspiration sinnvoller sein, um früher Tempo für Gegen-Engages aufzubauen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Nunus überwiegend magischen Schaden und seine Root- sowie Knockup-Komponenten.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "A",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/nunu/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

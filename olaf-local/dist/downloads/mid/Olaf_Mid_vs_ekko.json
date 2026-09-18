@@ -1,0 +1,50 @@
+{
+  "slug": "ekko",
+  "name": "Ekko",
+  "tier": "C",
+  "reason": "Ekko ist vor dem Aufbau seiner W-Stacks und vor Level 6 relativ schwach im direkten Trade, was Olaf frühe All-in-Fenster gegen einen Champion ohne verlässliche Flucht verschafft. Ab Level 6 kombiniert sein Ultimate jedoch Flächenstun, Heilung und Movement-Speed in einem Paket, das speziell gegen melee-basierte All-in-Champions wie Olaf sehr stark ist.",
+  "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, das Olaf vor Level 6 nutzen kann, solange Ekkos W-Stacks noch nicht aufgebaut sind. Bone Plating dämpft speziell den E-Stun-Einstieg und den R-Flächenstun-Burst, mit dem Ekko ab Level 6 Duelle eröffnet.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Ekkos frühe Schadenswerte ohne W-Stacks gering sind und sein E-Stun-Reset erst nach Rückkehr zur ursprünglichen Position greift.",
+  "l25": "Ekko poked vorsichtig mit W-Zone und E und baut W-Stacks über Auto-Attacken auf; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist, da Ekko dann ohne seinen Haupt-Stun-Reset im Nahbereich steht.",
+  "l6": "Ekkos R ist ein Zeitrücksprung mit garantiertem Flächenstun, hohem Schaden und Selbstheilung basierend auf fehlender gegnerischer HP; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig, was für das direkte Duell entscheidend ist, sollte aber möglichst vor dem sichtbaren R-Cast aktiviert werden.",
+  "threats": "E-Stun bei Rückkehr zur Ausgangsposition, W-Zonenverlangsamung mit Stack-Aufbau, R-Flächenstun mit Schaden und Selbstheilung, hohe spätgame Duell- und Reset-Stärke.",
+  "window": "Solange Ekkos E-Stun-Reset bereits verbraucht ist oder sichtbar auf Cooldown liegt, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+  "errors": "Nach einem sichtbaren E-Wurf sofort committen, ohne die Rückkehr-Stun-Komponente einzukalkulieren. Vor Level 6 zu passiv spielen und das dichteste All-in-Fenster verpassen. Ragnarok erst nach dem sichtbaren R-Stun aktivieren statt proaktiv davor.",
+  "wave": "Gegen Ekkos vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um sein W-Stack-Aufbau-Tempo zu verlangsamen; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Ekkos eigenes E verbraucht ist, R proaktiv vor einem sichtbaren R-Cast aktivieren, um den Flächenstun zu entfernen und die Heilung im Austausch zu sichern.",
+  "items": "Der Zugriffsdruck durch Ekkos E-Reset und R-Zeitrücksprung macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen, bevor er verschwindet.",
+  "situ": "Gegen seinen Burst-Heal-Kombo ist ein früher Zusatzitem mit Grievous-Wounds-Fokus sinnvoll, sobald Ekko über R-Selbstheilung Duelle verlängert.",
+  "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Ekko unter Level 6 bleibt. 2 Items: Ekkos R-Kombo macht offene Duelle riskanter, nur mit Cooldown-Vorteil committen. 3 Items: Ekkos Burst-Heal-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok-Timing suchen.",
+  "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes E-Cooldown-Fenster nutzen. Ab Level 6 den R-Flächenstun respektieren und Ragnarok proaktiv vor dem Engage aktivieren, im Late Game Grievous Wounds gegen seine Selbstheilung priorisieren.",
+  "override": "Bei sehr aggressivem frühem Ekko-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor Level 6 noch konsequenter zu gewinnen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen den R-Flächenstun und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/ekko/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

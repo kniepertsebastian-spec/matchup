@@ -1,0 +1,50 @@
+{
+  "slug": "aurora",
+  "name": "Aurora",
+  "tier": "D",
+  "reason": "Aurora hat mit ihrem Dash sowohl Reichweite als auch eine Möglichkeit, Slows von sich selbst zu entfernen, was Olafs Q-Setup direkt entwertet. Ihr Kit erlaubt sowohl Poke auf Distanz als auch ein eigenständiges All-in, wenn sie den Dash offensiv statt defensiv einsetzt.",
+  "runeReason": "First Strike wäre defensiv reizvoll, aber gegen ihre kurzen Aggressionsfenster liefert Precision-Damage über PTA mehr Gegenwert bei den seltenen sauberen drei Auto-Treffern. Boneplating federt die Q-Poke-Serie vor dem eigentlichen All-in ab.",
+  "l1": "Im direkten Kontakt ohne ihren Dash gewinnt Olaf die reine Schlagabtausch-Situation. Sobald sie den Dash zum Cleanse eines Slows nutzen kann, entkommt sie jedem frühen Punktkontakt.",
+  "l25": "Poke-Phase ist unangenehm, da ihr Q Reichweite und ihr Dash Sicherheit gibt. All-in nur direkt nach sichtbar verbrauchtem Dash, sonst lieber unter Turm farmen und CS-Verluste akzeptieren.",
+  "l6": "Ihr Portal-Ultimate erlaubt Repositionierung oder plötzlichen zweiten Kontaktpunkt und kann Verfolgung komplett umgehen. Olafs R hilft gegen Slows aus ihrem Kit, aber nicht gegen die reine Distanzverschiebung durch das Portal.",
+  "threats": "Dash mit Debuff-Cleanse, Portal-Ultimate zur Repositionierung, Q-Poke auf Distanz, Zonen-Slow.",
+  "window": "Direkt nach ihrem Dash, solange er auf Cooldown ist und kein Portal in Reichweite liegt, ist das verlässlichste Kontaktfenster.",
+  "errors": "Q in ihre offene Dash-Reichweite werfen und dann selbst nachlaufen. Ihr Portal ignorieren und blind weiterverfolgen, wenn sie hindurchgeht.",
+  "wave": "Kontrolliertes Freezing nahe der eigenen Seite, damit ihr Poke-Vorteil nicht die ganze Wave erreicht. Bei sichtbarem Dash-Verbrauch kurze Aggressionsfenster für CS-Druck nutzen.",
+  "trade": "Q zum Slow-Versuch, sofort nachsetzen falls Dash weg ist, E zwischen Autos, R erst bei tatsächlichem Auto-Kontakt und nicht auf reine Verdachtsdistanz.",
+  "items": "Ravenous Hydra in Maw-Linie gegen ihren AP-Burst und die Notwendigkeit, ihre Poke-Serie zu überleben, bevor ein Duell überhaupt möglich wird.",
+  "situ": "Maw of Malmortius als Standard gegen ihren Magieschaden, Sterak's Gage wenn sie zusätzlich als Frontline-Bedrohung im Teamfight auftritt.",
+  "side": "1 Item: kaum verlässliche Kill-Fenster, Poke dominiert. 2 Items: mit Maw und R spielbare Duelle bei verbrauchtem Dash. 3 Items: bleibt wegen ihrer Repositionierung ein enges, lesbares Matchup statt eines klaren Vorteils.",
+  "plan": "Fahre die Lane defensiv, spare Trades für sichtbare Dash-Cooldowns auf und priorisiere frühe Roams, wenn die Poke-Phase zu verlustreich wird. Kein Commitment ohne Blick auf ihren Dash- und Portal-Status.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Splitpush-Duelle nach vielen Items kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/aurora/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "yone",
+  "name": "Yone",
+  "tier": "C",
+  "reason": "Yone ist im Nahkampf gebunden und hat vor Level 6 keinen Fluchtmechanismus außer der Q3-Vorwärtsbewegung, was Olafs frühe All-ins begünstigt. Sein Ultimate liefert aber einen soliden Hard-Knockup und starken Schaden über gemischte Skalierung, was das späte Sidelane-Duell klar zu seinen Gunsten verschiebt.",
+  "runeReason": "Conqueror passt zum verlängerten Nahkampf-Duell, das Olaf gegen einen Champion ohne verlässlichen Fluchtweg vor Level 6 erzwingen kann. Bone Plating dämpft die Serie aus Q-Auto-Reset und dem R-Knockup-Burst, mit dem Yone ab Level 6 Duelle eröffnet.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Yone ohne E-Soul-Swap keinen sicheren Fluchtweg hat und sein Q-Auto-Reset gegen Reckless Swing wenig Gegengewicht bietet.",
+  "l25": "Yone poked mit Q aus sicherer Distanz und weicht mit E zurück in seine eigene Seelenform; Olaf sollte all-in gehen, sobald E auf Cooldown liegt, da Yone dann faktisch ohne Rückzug im Nahkampf steht.",
+  "l6": "Yones R ist ein zuverlässiger Hard-Knockup mit Nachlauf-Schaden für ihn und alle getroffenen Verbündeten in der Linie; Ragnarok entfernt den Knockup-Effekt bei aktivem Cast, daher lohnt sich rechtzeitiges Timing vor dem R-Impact.",
+  "threats": "Q3-Vorwärtsdash mit Reset, E-Soul-Swap als Teleport/Fluchtweg, R-Hard-Knockup mit Flächenschaden, gemischter Schaden gegen Rüstung und MR gleichzeitig.",
+  "window": "Solange E auf Cooldown ist und Yone sich bereits in Körperform befindet, ist ein Reckless-Swing-Allin am sichersten, da kein Fluchtweg existiert.",
+  "errors": "Gegen aktive Geistform (E) all-in gehen und hoffen, den Rückweg abzuschneiden. Q blind auf Yones vermutete Position werfen, wenn er in Seelenform unsichtbar für Skillshots wird. Nach R-Knockup ungedeckt weiterlaufen, wenn Yone bereits Flash/Item-Fluchtweg hat.",
+  "wave": "Da Yone in Geistform keinen Schaden am Turm/Minions nimmt, lohnt sich kein aggressiver Freeze gegen ihn; besser leicht slow-pushen, um Yones Rückkehrfenster in Körperform für den All-in zu erzwingen.",
+  "trade": "Q auf die Wave zum Farmen, bei Kontakt sofort E zünden, sobald Yones eigenes E verbraucht ist, R erst beim Gegenschlag oder wenn Yones R-Knockup droht, um die Heilung im verlängerten Trade zu sichern.",
+  "items": "Der Zugriffsdruck durch Yones Q3-Dash und Soul-Swap macht Tempo entscheidender als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu halten und Duelle zu verlängern.",
+  "situ": "Gegen den gemischten Schaden ist ein früher Randuin's Omen sinnvoll, sobald Yones R-Knockup-Combo zuverlässig droht.",
+  "side": "1 Item: Olaf dominiert direkten Kontakt klar. 2 Items: Yones R-Knockup-Combo macht Duelle riskanter, aber noch gewinnbar mit Tempo-Vorteil. 3 Items: Yones gemischter Schaden und Krit-Spikes machen offene Duelle even bis leicht ungünstig, gezielt auf Cooldown-Vorteile warten.",
+  "plan": "Früh auf Yones E-Cooldown lauern und kompromisslos all-in gehen, solange er in Körperform gebunden ist. Ab Level 6 den R-Knockup respektieren und nur mit Vorsprung (HP, Cooldowns) committen, im Late Game Tempo-Vorteile statt offener Duelle suchen.",
+  "override": "Bei starkem Magieschaden im gegnerischen Team auf conqueror_secondwind wechseln, um den gemischten Schaden über die Lane hinweg abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen den R-Knockup und den gemischten Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/yone/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

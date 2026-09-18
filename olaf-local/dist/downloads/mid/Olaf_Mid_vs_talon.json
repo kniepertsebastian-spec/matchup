@@ -1,0 +1,50 @@
+{
+  "slug": "talon",
+  "name": "Talon",
+  "tier": "D",
+  "reason": "Talon ist ein früher Lane-Bully mit hoher Burst-Dichte und Terrain-Mobilität, die ihm sowohl Engage als auch Flucht über Wände erlaubt, was Olafs Zugriff massiv einschränkt. Anders als reine CC-Champions hat er aber selbst keine harte Kontrolle, wodurch Olafs R primär als Damage- statt Cleanse-Tool relevant wird.",
+  "runeReason": "PTA passt zu seiner Rolle als fragiler, burst-lastiger Assassine mit begrenzter Sustain-Verteidigung. Boneplating federt speziell seine Q-Stich-Kombo und den anfänglichen W-Wurf ab, bevor Olaf selbst zuschlägt.",
+  "l1": "Im offenen Kontakt ohne Terrain in der Nähe ist der Trade meist zugunsten von Olaf, sobald eine Wand für seinen E-Sprung erreichbar ist, wird der Kontakt deutlich riskanter.",
+  "l25": "Sein W-Wurf poked effektiv über Distanz und lädt beim Aufsammeln zusätzlichen Schaden auf – All-in vor allem, wenn er sich ohne Fluchtwand vorwagt. Farm-Fokus, solange Terrain seine Flucht sichert.",
+  "l6": "Sein Ultimate erzeugt eine Unsichtbarkeitszone mit verstärkter Mobilität, die ihn kurzzeitig praktisch unauffindbar macht, bringt aber keine eigene harte Kontrolle. Olafs R hilft weniger gegen CC als gegen seinen reinen Burst-Vorteil in diesem Fenster.",
+  "threats": "Stich-Kombo mit Nahkampf-Exekution, W-Wurf mit Aufsammel-Bonus, Terrain-Sprung zur Mobilität, Unsichtbarkeits-Ultimate.",
+  "window": "Ohne erreichbare Wand in seiner Nähe und nach verbrauchtem W-Wurf ist der All-in am zuverlässigsten.",
+  "errors": "Trades in Wandnähe suchen, wo sein E-Sprung sowohl Engage als auch Flucht erlaubt. Nach seinem Ultimate blind in die Unsichtbarkeitszone hineinlaufen, statt auf Positionsindikatoren zu achten.",
+  "wave": "Slowpush abseits von Terrain-Elementen, um seine Sprung-Mobilität zu neutralisieren. Nach verbrauchtem W kurze Aggressionsfenster nutzen.",
+  "trade": "Q zum Slow, abseits von Wänden an ihn heranlaufen, E nach sicherem Kontakt, R erst wenn kein Fluchtterrain in seiner unmittelbaren Nähe liegt.",
+  "items": "Stridebreaker plus Death's Dance, da der Kern des Problems sein Terrain-Zugriff ist und Sustain gegen seine physische Burst-Kombo zusätzlich hilft.",
+  "situ": "Sterak's Gage gegen seine hohe Burst-Dichte, Executioner's Calling wenn zusätzliche Heilquellen aus seinem Build das Duell verlängern.",
+  "side": "1 Item: sehr riskantes Duell, sein Burst kann früh entscheiden. 2 Items: mit Stridebreaker-Zugriff und R meist spielbar, wenn kein Terrain in Reichweite liegt. 3 Items: leicht positiv, sofern er nicht wiederholt über Wände entkommen kann.",
+  "plan": "Zwinge Trades abseits von Wänden und Terrain-Elementen und nutze sein Fehlen an harter Kontrolle für konsequente R-Commits. Vermeide Verfolgung durch unbekanntes Terrain, in dem sein Sprung ihn absetzen kann.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/talon/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "lissandra",
+  "name": "Lissandra",
+  "tier": "D",
+  "reason": "Lissandra kombiniert Dauer-CC über Q-Slow und W-Zone mit doppelter E-Blink-Mobilität, was ihr erlaubt, Olafs Annäherung ständig zu unterbrechen und selbst kontrolliert zu engagieren. Ihr R-Hardstun ist speziell gegen einen rein melee-basierten All-in-Champion wie Olaf ein starkes Werkzeug, das seinen größten Trumpf, den direkten Kontakt, neutralisiert.",
+  "runeReason": "Conqueror liefert die Sustain, um den chronischen Q-Slow-Poke beim Heranlaufen über Omnivamp abzufedern und in einen verlängerten Vorteil umzumünzen, sobald Kontakt tatsächlich steht. Second Wind mildert den Dauerschaden aus wiederholten Q-Treffern, bevor überhaupt ein sauberer All-in möglich ist.",
+  "l1": "Im direkten Kontakt ist der Level-1-Trade eng, da Lissandras W-Ring-of-Frost-Zone bei Treffer selbst CC liefert; wer den ersten Ring-Treffer vermeidet, kontrolliert meist den Austausch.",
+  "l25": "Lissandra poked mit Q-Slow und weicht mit E-Blink jedem direkten Kontakt aus; Olaf muss all-in gehen, wenn beide E-Ladungen bereits verbraucht sind, da sie sonst zweimal aus der Reichweite blinken kann.",
+  "l6": "Lissandras R macht sie entweder selbst kurzzeitig unangreifbar oder betäubt ein Ziel hart über die volle Dauer, was speziell Olafs All-in-Fenster zunichtemacht; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig und ist hier eines der wichtigsten Werkzeuge im gesamten Matchup.",
+  "threats": "Q-Slow-Poke, W-Ring-of-Frost-Zonen-CC, doppelte E-Blink-Mobilität, R-Hardstun oder Selbstschutz mit Nachlaufschaden.",
+  "window": "Solange beide E-Blink-Ladungen von Lissandra verbraucht sind und ihr R noch nicht verfügbar ist, ist ein Reckless-Swing-Allin am sichersten, da sie dann strukturell ohne Fluchtweg im Nahbereich steht.",
+  "errors": "In die sichtbare W-Ring-of-Frost-Zone laufen und die CC-Komponente unterschätzen. All-in gehen, während noch eine E-Ladung verfügbar ist. Ragnarok erst nach dem R-Stun statt rechtzeitig davor aktivieren.",
+  "wave": "Gegen Lissandras Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Q-Reichweite zu minimieren; bei sichtbarem Verbrauch beider E-Ladungen kann Olaf aggressiv nachsetzen und pushen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, sobald beide E-Blinks von Lissandra verbraucht sind, R proaktiv vor einem sichtbaren R-Stun-Versuch aktivieren, um die CC zu entfernen und die Heilung im Austausch zu sichern.",
+  "items": "Gegen Lissandras reinen Magieburst und CC-Zonenschaden ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in ihrem größten Schadensfenster.",
+  "situ": "Bei besonders CC-lastigem Lissandra-Spiel kann früh Quicksilver Sash sinnvoll sein, um sich gezielt aus dem R-Hardstun zu befreien, falls Ragnarok gerade nicht verfügbar ist.",
+  "side": "1 Item: Das Duell bleibt eng und stark timing-abhängig vom R-Stun. 2 Items: Lissandras CC-Zonenkontrolle macht offene Duelle riskanter, insbesondere ohne verfügbares Ragnarok. 3 Items: Lissandras Kombination aus Blink-Mobilität und Hardstun übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok-Timing suchen.",
+  "plan": "Früh auf E-Cooldown lauern und nur bei verbrauchten Blinks committen. Ab Level 6 den R-Stun konsequent respektieren und Ragnarok proaktiv vor dem Engage aktivieren, im Late Game CC-Reduktion und Cleanse-Optionen priorisieren.",
+  "override": "Bei besonders passivem, poke-fokussiertem Lissandra-Spiel auf pta_secondwind wechseln, um im seltenen Kontaktfenster maximalen Burst statt reiner Sustain zu priorisieren.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen den R-Hardstun und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/lissandra/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

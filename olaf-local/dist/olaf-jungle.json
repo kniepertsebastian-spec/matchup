@@ -6,9 +6,1470 @@
   "statsPatch": "Keine belastbaren Olaf-Jungle-Paarungsdaten",
   "method": [
     [
-      "Platzhalter",
-      "Wird durch das Build-Skript ersetzt."
+      "Geltungsbereich",
+      "Olaf als Jungler in Ranked Solo Queue. Eigenständige Jungle-Liste. Gleicher Z–F-Maßstab, aber eigene qualitative Kit-Einschätzung ohne verifizierte Jungle-Paarungsstatistik für diesen Patch."
+    ],
+    [
+      "Bewertungsannahme",
+      "Ähnlicher Gold-/Erfahrungsstand, vergleichbares Jungle-Tempo und kein bestimmter Lane-Matchup als Standardumfeld vorausgesetzt. Tier beschreibt die grundsätzliche Spielbarkeit des Jungle-vs-Jungle-Duells (Invade, Scuttle, Konter-Jungle, Objective-Fights), nicht Ganks auf andere Lanes."
+    ],
+    [
+      "Championpool",
+      "28 aktuell verbreitete Jungler entlang der METAsrc-Jungle-Tierliste 26.18 (u. a. Master Yi, Lee Sin, Viego, Kayn, Briar, Shyvana, Graves als S/S+-Tier) plus etablierte Flex- und Duell-relevante Jungler. Für seltenere Picks keine einheitlich verifizierte aktuelle Pickrate; ihre Aufnahme ist redaktionell."
+    ],
+    [
+      "Statistik",
+      "Keine belastbaren Olaf-Jungle-Paarungswinrates extrahiert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Toplane-Winrates werden nicht übertragen. Fehlend heißt nicht 0 %."
+    ],
+    [
+      "Quellen und Tiers",
+      "Riot-Kits und Summoner's-Rift-Änderungen 26.18 sind die mechanische Grundlage. Poolseiten dienen nur der Rollenauswahl. Sämtliche Tiers, Runenentscheidungen und Spielpläne sind eigene qualitative Ableitungen; keine Quelle bestätigt diese Liste als fertige Empfehlung."
+    ],
+    [
+      "Invade & Level 1-2",
+      "Olafs frühe Autoreichweite und Q-Slow erlauben aggressive Scuttle-/Invade-Kontakte, aber ohne Smite-Timing-Vorteil ist ein 1v1 am Krebs riskant. Level-2-Duellstärke hängt stark vom Gegner-Kit ab."
+    ],
+    [
+      "Pathing & Ganks",
+      "Vollclear vs. drei Camps und Gank ist eine laufende Matchup-Entscheidung, keine feste Regel. Gegen starke Invader eher sicherer, kontrollierter Clear; gegen schwache frühe Duellanten aktives Konter-Jungle."
+    ],
+    [
+      "R und Zugang",
+      "Ragnarok hebt gegnerisches CC auf und heilt über Schaden, hilft aber nicht gegen reinen Rückschaden, Stealth oder Distanz. Erst aktivieren, wenn danach zeitnah Autos/E auf ein Ziel möglich sind."
+    ],
+    [
+      "Rune",
+      "PTA für ein durch schnellen Kontakt gesichertes Fenster mit mindestens drei Autos. Conqueror bei langen Objective-/Duell-Phasen und Gegnern mit Sustain oder Tankiness. Der Nebenbaum folgt dem Bedrohungstyp (Poke vs. Burst vs. Zugang)."
+    ],
+    [
+      "Jungle-Startitem im Icon-Katalog",
+      "Das Jungle-Rollenitem selbst ist im lokalen Icon-Katalog dieser App nicht hinterlegt, weil diese Build-Umgebung keinen Netzwerkzugriff auf Riots Datenquelle hatte. Die Start-Kachel zeigt daher nur Health Potions; kaufe das reguläre Jungle-Startitem in der Praxis dennoch zuerst."
+    ],
+    [
+      "Hydra/Stridebreaker als Core",
+      "Ravenous Hydra für Sustain zwischen Camps/Duellen und Waveclear bei Lane-Ganks. Stridebreaker/Hexplate als Alternative, wenn Zugang zu einem mobilen oder Stealth-Ziel das Hauptproblem ist, nicht Sustain."
+    ],
+    [
+      "Sidelane und Team",
+      "Bei 1/2/3 Items sind gleiche Itemzahlen nur eine grobe Annahme: Level, Gold, Summoners und Objective-Timer zählen. Olafs Wert als Jungler hängt stark von Invade-Erfolg, Scuttle-Kontrolle und Dive-/Duell-Potenzial um Drake/Herald/Baron ab."
+    ],
+    [
+      "Patchprüfung",
+      "18.09.2026: 26.18. Nur Summoner's Rift, keine League-Classic-/ARAM-Änderungen. Die Matchup-Tiers sind keine vollständige numerische Simulation."
+    ],
+    [
+      "Quelle: Live-Patch",
+      "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-18-notes/"
+    ],
+    [
+      "Quelle: Pool",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ],
+    [
+      "Quelle: Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
     ]
   ],
-  "matchups": []
+  "matchups": [
+    {
+      "slug": "masteryi",
+      "name": "Master Yi",
+      "tier": "B",
+      "reason": "Yi hat früh kaum Werkzeuge gegen Invades oder Konter-Jungle, da Alpha Strike primär Farmtool ist und Highlander erst spät zur Verfügung steht. Olaf gewinnt frühe Skirmishes über rohe Statlines und Q-Poke, verliert aber an Kontrolle, sobald Yi mit Critical-Items und Highlander unantastbar wird. Insgesamt bleibt Olaf im Vorteil, weil Yi kein Peel und keine Crowd Control gegen einen R-immunen Duellanten hat.",
+      "runeReason": "PTA belohnt saubere frühe Auto-Trades, bevor Yi über Alpha Strike aus dem Auto-Reset-Fenster verschwindet. Boneplating dämpft die Alpha-Strike-Treffer plus Folgeautos beim Invade um 2:30. Gegen Yis reines Autoattack-Damage ist die zusätzliche Rüstung wertvoller als Second Wind.",
+      "l1": "Yi hat kein Werkzeug gegen einen frühen Invade, Olaf gewinnt den Level-2-Duell fast immer über Q-Poke plus W-Sustain, solange kein Support-Gank hilft.",
+      "l25": "Yi will die eigene Blue-Seite schnell clearen und danach ungestört weiterfarmen statt früh zu ganken, Olaf kann das ausnutzen und seine Krabben-/Scuttle-Camps kontestieren, ohne echten Gegendruck zu riskieren.",
+      "l6": "Ab 6 wird Yi über Highlander erstmals mobil und CC-immun gegen Slows, Olafs R bleibt trotzdem die stärkere Ressource in einem geraden 1v1, weil Yi kaum Zugriff auf Distanz hat, wenn Olaf ihn einmal fixiert.",
+      "threats": "Alpha-Strike-Unverwundbarkeit gegen Autos, Double-Strike-Passiv-Schaden, Highlander-Tempo und Slow-Immunität, True-Damage-Ult bei erhöhtem Angriffstempo.",
+      "window": "Solange Yi kein Highlander hat, ist jeder Invade und jede Krabbe ab 2:30 ein gutes Fenster, weil er weder Fluchtwerkzeug noch CC besitzt.",
+      "errors": "Nicht in Alpha Strike hineinklicken und Autos verschwenden, nicht versuchen einen Highlander-Yi ohne eigenes R über offenes Feld zu jagen.",
+      "wave": "Voller Clear ist gegen Yi meist besser als aggressives 3-Camp-Gank-Pathing, weil Olaf im Camp-Race die Skirmish-Fenster diktiert und Yi im 1-für-1-Tausch meist verliert, solange kein Alpha-Strike-Reset zwischen den Camps sitzt.",
+      "trade": "Q auf Yi werfen sobald er ein Camp startet, dann Auto-Autos bis W aktiv ist, R erst wenn Yi tatsächlich Highlander gezündet hat, sonst reicht reines Stat-Trading.",
+      "items": "Hydra mit Grievous-Wounds-Komponente ist Standard, weil sie Yis spätere Lifesteal-Builds direkt neutralisiert und gleichzeitig den Clear beschleunigt.",
+      "situ": "Gegen einen fetten, fed Yi mit Infinity-Edge-Crit kann ein früherer defensiver Ausrüstungsgegenstand mit Health nötig werden, um den Highlander-Diveburst zu überleben.",
+      "side": "1 Item: Olaf dominiert jeden Skirmish klar. 2 Items: weiterhin knapper Vorteil, solange kein Highlander gezündet ist. 3 Items: Yi kann mit vollem Crit-Build einen sauberen Auto-Reset-Fight gewinnen, Olaf braucht dann R sofort bei Kontakt.",
+      "plan": "Früh aggressiv invaden und Krabben kontestieren, solange Yi noch kein Highlander hat. Mit Hydra-DD Antiheal gegen spätere Lifesteal-Builds vorbereiten und Fights nur eingehen, wenn Yi Alpha Strike bereits verbraucht hat.",
+      "override": "Bei viel gegnerischem CC-Zugriff im restlichen Team kann conqueror_boneplating statt PTA sinnvoller sein, um den Sustain-Vorteil über längere Fights zu sichern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Yis gesamter Schaden aus Autoattacks und Critical Strikes besteht.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "A",
+      "late": "C",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/masteryi/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "leesin",
+      "name": "Lee Sin",
+      "tier": "C",
+      "reason": "Lee Sin ist der klassische frühe Tempo-Jungler mit Kick-Kombo, Q-Poke und Insec-Potential, der Olafs Skirmish-Plan direkt in der eigenen Kategorie herausfordert und dabei meist zuerst zuschlägt. Sobald Lee seine frühe Stärke nicht in einen Vorsprung umsetzt, fällt er relativ ab, während Olaf über R jede Lee-CC-Kette ignorieren kann. Insgesamt ein Matchup, das stark davon abhängt, wer das erste Duell gewinnt.",
+      "runeReason": "Conqueror mit Boneplating trägt Olaf durch Lees Burst-Combo aus Q-Sweetspot, Kick und Empowered-Strikes und liefert im späteren, längeren Duell die nötige Sustain gegen Lees Shield-Spam. Boneplating dämpft speziell die ersten drei Treffer des Kick-Combos beim Invade.",
+      "l1": "Lee gewinnt den reinen Level-2-Duell häufiger, weil Q-Sweetspot plus Kick massiven Burst-Schaden auf Distanz liefert, den Olaf ohne Gap-Closer schwer kontern kann, ein Invade ohne Support-Hilfe ist riskant.",
+      "l25": "Lee will extrem schnell drei Camps clearen und ab Level 3 ganken, Olaf sollte eigene Krabben und Scuttle-Kontrolle defensiv spielen und Wards für die gegnerischen Buff-Camps setzen, statt blind zu kontestieren.",
+      "l6": "Sobald Olaf R hat, wird der Insec-Kick deutlich weniger gefährlich, weil die Slow- und Knockup-Komponenten sofort entfernt werden, Lee bleibt aber durch Ward-Hop weiterhin schwer zu fangen und kann Gegen-Gank-Fenster über die Karte kreieren.",
+      "threats": "Q-Sweetspot-Poke, W-Shield und Ward-Insec-Kick, R-Knockup mit Dash, hohes frühes Gank-Tempo über die ganze Karte.",
+      "window": "Sobald Lee W und Q auf Cooldown verbraucht hat, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+      "errors": "Nicht ohne Vision in Lees übliche Kick-Winkel laufen, R nicht vor dem eigentlichen Kick-Impact zünden, sonst verpufft die CC-Entfernung wirkungslos.",
+      "wave": "Gegen Lee lohnt sich meist ein defensiverer Drei-Camp-dann-Gank-Pfad statt vollem Clear, weil Lee sonst über sein Tempo Krabbe und Scuttle allein wegnimmt, direkte Konter-Jungle-Versuche sind riskant ohne Vision auf seine Startposition.",
+      "trade": "Q werfen sobald Lee committed, dann sofort Autos, R erst zünden wenn der Kick tatsächlich unterwegs ist, ein früher R-Einsatz verschwendet die einmalige CC-Entfernung.",
+      "items": "Hydra-DD bleibt Standard für Clear-Tempo und etwas Sustain gegen Lees Poke-lastiges Frühspiel, echte Antiheal-Relevanz ist gering, da Lee kaum heilt.",
+      "situ": "Gegen ein Team mit viel zusätzlichem CC um Lees Insec herum kann ein früherer Health-lastiger Defensivgegenstand die Diveüberlebenschance deutlich erhöhen.",
+      "side": "1 Item: Lee bleibt durch Tempo und Burst leicht im Vorteil. 2 Items: das Duell wird ausgeglichener, sobald Olaf W konstant hält. 3 Items: Olaf gewinnt geplante 1v1 dank R-Sustain klar, Lee bleibt aber gefährlich in Gank-Situationen mit Hilfe.",
+      "plan": "Frühe Invades nur mit Vision und im Team spielen, da Lee im Solo-Duell auf Level 2 vorne liegt. Sobald R verfügbar ist, aktiv Gegen-Ganks und Objective-Fights suchen, weil Lees CC dort neutralisiert wird und sein reiner Schaden abfällt.",
+      "override": "Gegen ein Team mit wenig zusätzlichem Peel um Lee herum kann pta_boneplating für schnellere, definierte Kill-Fenster sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Lees physischen Kick- und Auto-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "E",
+      "late": "B",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/leesin/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "viego",
+      "name": "Viego",
+      "tier": "C",
+      "reason": "Viego kombiniert Stealth über E, einen Dash-Reset über Q und Selbstheilung über sein Passiv zu einem der aggressivsten frühen Jungle-Duellanten, was Olafs eigenes Skirmish-Fenster stark verkleinert. Sobald Olaf R hat, entfernt er Viegos Furcht sofort und kann dank Sustain gegenhalten, Viego bleibt aber durch Q-Reset-Mobilität schwer endgültig zu töten. Insgesamt ein enges, beidseitig gefährliches Matchup.",
+      "runeReason": "Conqueror mit Boneplating passt zu Viegos wiederholten Q-Dash-Treffern und dem Selbstheilungs-Passiv, da Olaf über die längere Auseinandersetzung sowohl Health als auch Adaptive-Stats braucht, um den Sustain-Wettlauf zu gewinnen.",
+      "l1": "Viego kann über E-Stealth aus dem Busch einen Level-2-Invade praktisch unsichtbar einleiten, ein Olaf ohne Vision auf die gegnerische Startposition verliert diesen Kontakt häufig.",
+      "l25": "Viego will früh isoliert Krabbe oder Scuttle stehlen und danach über Q-Resets ganken, Olaf sollte eigene Camps zügig clearen und Krabbenkontrolle nicht ohne Wards riskieren.",
+      "l6": "Ab 6 verliert Viegos R-Furcht ihren Schrecken gegen Olaf, sobald R aktiv ist, gleichzeitig bleibt Viego durch Q-Dash auf tote Einheiten weiterhin mobil genug, um Objective-Fights einseitig zu eröffnen oder zu verlassen.",
+      "threats": "E-Stealth-Ambush, Q-Dash mit Reset auf niedrige HP, Passiv-Selbstheilung nach Takedowns, R-Furcht und Massen-CC im Teamfight.",
+      "window": "Sobald Viego E auf Cooldown verbraucht hat, meist unmittelbar nach einem Stealth-Gank-Versuch, ist ein Gegen-Invade sicherer, da ihm dann die Überraschungskomponente fehlt.",
+      "errors": "Nicht blind in vermeintlich leere Büsche laufen, ohne Viegos E-Cooldown im Kopf zu haben, R nicht vor der eigentlichen R-Furcht zünden, sondern erst wenn sie tatsächlich greift.",
+      "wave": "Gegen Viego lohnt sich ein zügiger, aber wachsamer Clear mit Wards an den eigenen Krabben- und Scuttle-Zugängen, da er gezielt isolierte Stealth-Kontests sucht, ein offener Camp-Race ohne Vision favorisiert meist ihn.",
+      "trade": "Erst Q auf Viego werfen sobald er aus dem Stealth committed, dann Autos, R zünden sobald die Furcht tatsächlich greift, nicht präventiv, da sie sonst verpufft.",
+      "items": "Hydra-DD liefert Antiheal gegen Viegos Passiv-Selbstheilung nach Kills und hält gleichzeitig das Clear-Tempo hoch genug, um seine Stealth-Fenster zu verkürzen.",
+      "situ": "Gegen ein zweites schweres CC-Werkzeug im gegnerischen Team kann ein früherer Tenacity- oder Health-Gegenstand die Diveüberlebenschance nach einer Furcht deutlich verbessern.",
+      "side": "1 Item: Viego bleibt durch Mobilität und Stealth im Vorteil. 2 Items: das Duell wird ausgeglichen, sobald Olaf R konstant zur Verfügung steht. 3 Items: Olaf gewinnt einen fairen 1v1-Fight meist knapp, sofern Viego keinen Reset über eine dritte Einheit findet.",
+      "plan": "Eigene Camps mit Vision absichern und frühe Solo-Kontests ohne Wards vermeiden. Ab Level 6 aktiv Objective-Fights suchen, da R Viegos Furcht neutralisiert und Olaf im geraden Sustain-Duell die Oberhand gewinnt, sofern Viego keinen Q-Reset findet.",
+      "override": "Bei einem sehr passiv spielenden Viego ohne frühe Stealth-Aggression kann pta_boneplating für schnellere Trade-Fenster die bessere Wahl sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Viegos R-Furcht und generelles Team-CC.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/viego/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "kayn",
+      "name": "Kayn",
+      "tier": "D",
+      "reason": "Kayn zählt aktuell laut vielen Tier-Listen zu den stärksten Junglern, ist aber vor Level 6 ohne Formwahl spürbar schwächer und ohne echte Crowd Control verwundbar für frühe Skirmishes. Nach der Formwahl wird er entweder als Rhaast ein zäher Lifesteal-Bruiser oder als Schattenassassine ein Wall-Dash-Assassine, beides macht ihn im späten 1v1 deutlich schwerer zu bezwingen als vorher. Insgesamt überwiegt Kayns Stärke in der späten Duell-Phase Olafs frühes Zeitfenster.",
+      "runeReason": "Conqueror mit Boneplating passt zu beiden Kayn-Formen, da Rhaast über lange Fights Lifesteal aufbaut und die Schattenassassine kurzzeitig sehr viel Burst-Schaden austeilt, Boneplating dämpft speziell diesen frühen Burst vor der Formwahl.",
+      "l1": "Vor Level 6 hat Kayn keine nennenswerte Fluchtoption oder CC, Olaf gewinnt den Level-2-Duell in den meisten Fällen klar über reine Statlines und W-Sustain.",
+      "l25": "Kayn will vor 6 zügig durch den Dschungel wandern und Blau-Buff-Camps stapeln, um schneller die Formwahl freizuschalten, Olaf kann in diesem Fenster aktiv seine Krabben und Camps kontestieren, ohne echten Gegendruck zu riskieren.",
+      "l6": "Sobald Kayn seine Form wählt, kippt das Kräfteverhältnis deutlich, Rhaast wird durch Lifesteal im längeren Fight sehr zäh, während die Schattenassassine über die Wand-Passage jeden ungünstigen Fight einfach verlassen kann, Olaf sollte Fights danach nur noch bei klarem Cooldown-Vorteil suchen.",
+      "threats": "E-Wanddash und Unsichtbarkeit als Schattenassassine, Passiv-Lifesteal und Grab-Reset als Rhaast, R-Massen-CC im Teamfight, hohe Burst- oder Sustain-Skalierung je nach Form.",
+      "window": "Vor Level 6 ist praktisch jedes offene Duell und jeder Invade ein gutes Fenster, danach nur noch, wenn Kayns Formfähigkeit E gerade verbraucht wurde.",
+      "errors": "Nicht versuchen, eine geformte Schattenassassine ohne Wandkontrolle über eine Wand zu jagen, gegen Rhaast nicht ohne Antiheal in einen langen Fight gehen.",
+      "wave": "Vor Level 6 lohnt sich aggressives Konter-Jungle und Krabbenkontrolle, da Kayn hier klar unterlegen ist, nach der Formwahl sollte Olaf Camp-Races meiden und stattdessen über Objective-Timing spielen.",
+      "trade": "Vor 6 Q werfen und durchgehend Autos gegen den formlosen Kayn, R erst ab Level 6 sinnvoll gegen seine R-Fear-Komponente im Teamfight einsetzen, nicht im Solo-Duell verschwenden.",
+      "items": "Hydra-DD liefert wichtige Antiheal gegen Rhaasts Passiv-Lifesteal und hält gleichzeitig genug Clear-Tempo, um das frühe Zeitfenster vor der Formwahl maximal auszunutzen.",
+      "situ": "Gegen eine Schattenassassine mit viel Burst-Potenzial kann ein früherer Health-Gegenstand die Überlebenschance in überraschten Ganks deutlich verbessern.",
+      "side": "1 Item: Olaf dominiert die frühe Phase klar. 2 Items: das Duell bleibt knapp im Olaf-Vorteil, solange Kayn noch nicht geformt hat. 3 Items: ein geformter Kayn gewinnt die meisten Duelle, Olaf sollte dann gezielt Objective-Timing statt direkter Fights spielen.",
+      "plan": "Vor Level 6 aggressiv invaden, konter-jungeln und Blau-Buff-Stacking verhindern, um Kayns Formwahl zu verzögern. Nach der Formwahl Duelle nur noch bei klarem Cooldown-Vorteil suchen und stattdessen über Vision und Objective-Timing arbeiten.",
+      "override": "Gegen eine früh sehr aggressive Schattenassassinen-Wahl kann pta_boneplating für kürzere, definierte Burst-Fenster vor der vollen Formentwicklung sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Kayns Schaden in beiden Formen überwiegend physisch ist.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "E",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kayn/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "briar",
+      "name": "Briar",
+      "tier": "E",
+      "reason": "Briar ist als reiner Skirmish-Jungler mit Selbst-CC-Frenzy, Heilung auf Schaden und einem Fear-Passiv nach Takedowns direkt auf Olafs eigenes Spielfeld ausgelegt und bringt dabei mehr harte Kontrolle mit, konkret Betäubung über E und Slow über Q. Beide Champions wollen dieselben frühen Skirmishes und Camps, Briar hat aber die stärkeren Werkzeuge, um diese Fights zu erzwingen und zu gewinnen. Insgesamt eines der unangenehmsten Matchups für Olaf im Jungle.",
+      "runeReason": "Conqueror mit Boneplating ist praktisch Pflicht, da beide Champions auf ausgedehnte, gegenseitig heilende Duelle setzen und Olaf die zusätzliche frühe Rüstung braucht, um Briars Q-Slow-Setup und E-Betäubung überhaupt zu überleben.",
+      "l1": "Briar gewinnt den Level-2-Duell in den meisten Fällen, da Q-Slow plus E-Betäubung eine verlässliche Lock-Down-Kombo liefert, die Olaf ohne eigenes R nicht brechen kann, ein Invade ohne klaren Vorteil ist riskant.",
+      "l25": "Briar will aggressiv Krabbe und frühe Skirmishes suchen statt einen sauberen Clear, Olaf sollte defensiv pathen und eigene Camps nur mit Vision auf Briars Position kontestieren.",
+      "l6": "Sobald Olaf R hat, entfernt er Briars Betäubung sofort und kann über Sustain gegenhalten, Briars eigenes R liefert ihr aber vergleichbare Heilung und Tempo, sodass der Fight auch danach eng bleibt und meist der zuerst treffende Spieler gewinnt.",
+      "threats": "Q-Dash mit Slow, E-Betäubung, Passiv-Heilung auf Schaden, R-Furchtlos-Frenzy mit erhöhtem Tempo und Heilung, Fear nach Takedowns.",
+      "window": "Ein gutes Fenster existiert nur, wenn Briars R bereits verbraucht ist oder wenn Olaf mit einem Ally gleichzeitig ansetzen kann, ein reiner Solo-Kontest sollte vermieden werden, solange beide Ultimates verfügbar sind.",
+      "errors": "Nicht in Briars Q-Reichweite stehen bleiben, um die Betäubung zu vermeiden, R nicht vor Briars R zünden, da sie sonst ihre eigene Heilung ungestört aufbaut.",
+      "wave": "Gegen Briar ist ein defensiverer Clear mit klarer Krabben-Priorität über Wards sinnvoller als ein offener Camp-Race, da sie fast jeden neutralen 1-für-1-Kontest im Skirmish für sich entscheidet.",
+      "trade": "Q aus Distanz werfen und Nahkontakt vermeiden bis Briars E-Betäubung verbraucht ist, erst dann Autos und R zünden, ein früher Nahkampf ohne verbrauchte Betäubung ist meist verloren.",
+      "items": "Hydra-DD ist wichtig, um über Grievous Wounds Briars starke Selbstheilung zu drücken, da sie sonst in praktisch jedem Duell zurückheilt.",
+      "situ": "Gegen Briar kann ein früherer robuster Defensivgegenstand mit Health und Tenacity das Überleben der E-Betäubung deutlich verbessern, wenn das Duell nicht vermeidbar ist.",
+      "side": "1 Item: Briar dominiert die meisten direkten Fights. 2 Items: weiterhin knapper Nachteil für Olaf, besonders vor R. 3 Items: mit R und Antiheal wird der Fight ausgeglichener, bleibt aber ein Münzwurf abhängig davon, wer zuerst trifft.",
+      "plan": "Frühe Solo-Duelle möglichst vermeiden und stattdessen mit Vision und Team-Unterstützung agieren. Grievous Wounds so früh wie möglich sichern und Fights nur eingehen, wenn Briars R bereits verbraucht ist oder ein Ally gleichzeitig ansetzt.",
+      "override": "Bei einem Team mit zusätzlichem harten Peel um Briar herum kann conqueror_secondwind sinnvoller sein, um ihren wiederholten Q-Poke besser abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Briars überwiegend physischen Skirmish-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "E",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/briar/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "shyvana",
+      "name": "Shyvana",
+      "tier": "C",
+      "reason": "Shyvana hat einen soliden, aber nicht besonders defensiven Clear, was frühe Konter-Jungle-Versuche von Olaf begünstigt, solange sie noch nicht Level 6 ist. Sobald ihre Drachenform verfügbar ist, wird sie durch zusätzliche Rüstung, Magieresistenz und die True-Damage-Komponente ihres Passivs zu einem deutlich zäheren und gefährlicheren Dauerduellanten. Insgesamt ein Matchup, das früh für Olaf, spät eher für Shyvana spricht.",
+      "runeReason": "Conqueror mit Boneplating passt zu Shyvanas Flächenschaden über E und ihrem prozentualen HP-Schaden, da Olaf über den Sustain-Aufbau in der Drachenform hinweg relevant bleiben muss, Boneplating dämpft zusätzlich ihre frühen E-Treffer beim Invade.",
+      "l1": "Vor Level 6 ist Shyvana im direkten Duell verwundbarer, da ihr die Drachenform und der zusätzliche Widerstand fehlen, Olaf gewinnt einen Level-2-Kontest meist über reine Statlines.",
+      "l25": "Shyvana will zügig durch ihre Camps clearen und früh ihre Ultimate-Level erreichen statt aggressiv zu ganken, Olaf kann in diesem Fenster aktiv Krabbe und Scuttle kontestieren.",
+      "l6": "Sobald Shyvana Drachenform hat, gewinnt sie durch zusätzlichen Widerstand und die True-Damage-Komponente ihres Passivs deutlich mehr ausgedehnte Duelle, Olafs R bleibt zwar stark, reicht aber allein oft nicht mehr für einen klaren Sieg.",
+      "threats": "E-Flächenschaden mit prozentualem HP-Anteil, Passiv-True-Damage bei Doppel-Angriffen, R-Drachenform mit zusätzlichem Widerstand und Flächenschaden bei Landung.",
+      "window": "Vor Level 6 ist praktisch jedes Duell ein gutes Fenster für Olaf, danach lohnt sich ein Kontest nur, wenn Shyvanas R bereits verbraucht ist.",
+      "errors": "Nicht versuchen, eine aktive Drachenform-Shyvana ohne eigenes R im offenen Duell zu stellen, E-Flächenschaden bei niedriger HP nicht unterschätzen.",
+      "wave": "Vor Level 6 lohnt sich aktives Konter-Jungle, da Shyvanas Clear offensiv statt defensiv ausgelegt ist, nach der Drachenform sollte Olaf Camp-Races vermeiden und stattdessen über Objective-Timing spielen.",
+      "trade": "Q werfen sobald Shyvana committed, dann Autos solange sie in Menschenform ist, R gezielt gegen ihre aktive Drachenform sparen statt früh zu verbrauchen.",
+      "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Shyvanas zunehmend tanky Build und ihre Drachenform-Widerstände in ausgedehnten Fights.",
+      "situ": "Gegen eine sehr früh gefährliche Drachenform kann ein früherer Health- oder Widerstandsgegenstand das Überleben des Landing-Flächenschadens verbessern.",
+      "side": "1 Item: Olaf im klaren Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Shyvana Drachenform verfügbar hat. 3 Items: Shyvana wird durch zusätzlichen Widerstand und True Damage im langen Fight zunehmend gefährlich, Olaf sollte dann kürzere, definierte Fenster suchen.",
+      "plan": "Vor Level 6 aktiv konter-jungeln und Krabbenkontrolle sichern, da Shyvana hier klar unterlegen ist. Nach ihrer Drachenform Fights nur noch gezielt nach verbrauchtem R suchen und über Objective-Timing statt offener Duelle spielen.",
+      "override": "Gegen eine sehr passiv spielende Shyvana ohne frühen Skirmish-Fokus kann pta_boneplating für schnellere Trade-Fenster vor Level 6 sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Shyvanas überwiegend physischen Auto- und E-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/shyvana/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "sylas",
+      "name": "Sylas",
+      "tier": "D",
+      "reason": "Sylas ist im Jungle eher ein Nebenweg für Mid-Spieler und hat dadurch früh eine schwächere Clear- und Skirmish-Stärke als reine Jungler, was Olaf ein reales frühes Zeitfenster gibt. Sobald Sylas Level 6 erreicht, wird er durch die Möglichkeit, gegnerische Ultimates zu stehlen, sowie durch Lifesteal auf Q und hohen Magieschaden zu einer ernsten Bedrohung, insbesondere weil er theoretisch Ragnarok selbst stehlen kann. Insgesamt überwiegt Sylas' späte Burst- und Sustain-Kombination Olafs frühen Vorteil.",
+      "runeReason": "Conqueror mit Boneplating passt zu Sylas' Lifesteal auf Q-Treffer und seiner Kettenkontrolle über E-Dash, da Olaf im ausgedehnten Duell sowohl Health als auch Adaptive-Stats braucht, um gegen seine Selbstheilung zu bestehen.",
+      "l1": "Ohne vollen Kombo-Zugriff ist Sylas im Level-2-Duell verwundbarer, Olaf kann bei aggressivem Invade häufig gewinnen, solange Sylas Q noch nicht auf mehrere Ziele trifft.",
+      "l25": "Sylas will meist zügig seine ersten Camps clearen und ab Level 3 mit der vollen Q-W-E-Kombo ganken, Olaf sollte diese frühen Camps aktiv kontestieren, solange Sylas' Kombo-Schaden noch begrenzt ist.",
+      "l6": "Ab Level 6 wird Sylas durch potenziellen Ultimate-Diebstahl gefährlich, im schlimmsten Fall kann er Olafs eigenes R stehlen, Olaf sollte R deshalb bewusst timen und nicht unnötig vor Sylas zünden, wenn ein Diebstahl möglich ist.",
+      "threats": "Q-Root mit Lifesteal, E-Ketten-Dash für Mobilität, W-Flächenburst, R-Ultimate-Diebstahl inklusive möglichem Zugriff auf Olafs eigenes R.",
+      "window": "Solange Sylas' Kombo aus Q, W und E noch nicht vollständig verfügbar ist, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest sicherer.",
+      "errors": "R nicht sorglos vor Sylas zünden, wenn er selbst noch Zugriff auf sein eigenes R hat, nicht in die Reichweite von Q-Root laufen, ohne den Cooldown im Kopf zu haben.",
+      "wave": "Vor Level 6 lohnt sich aktives Konter-Jungle gegen Sylas' schwächere frühe Präsenz, nach 6 sollte Olaf Fights defensiver timen und besonders auf den Zustand von Sylas' R achten.",
+      "trade": "Erst Q auf Sylas werfen, dann Autos solange er außerhalb seiner vollen Kombo-Reichweite ist, R nur zünden wenn Sylas' eigenes R bereits verbraucht oder klar sichtbar in Vorbereitung ist.",
+      "items": "Hydra-Maw kontert Sylas' magischen Burst-Schaden direkt und liefert den nötigen Magieresistenz-Puffer für ausgedehnte Duelle gegen seine Kombo.",
+      "situ": "Gegen eine sehr aggressive Sylas-Spielweise mit früher Kombo kann ein noch früherer Magieresistenz-Gegenstand das Überleben eines Ganks deutlich verbessern.",
+      "side": "1 Item: Olaf im Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Sylas' Kombo vollständig verfügbar ist. 3 Items: Sylas' Burst- und Sustain-Kombination wird gefährlich, Olaf sollte Fights dann kürzer und gezielter timen.",
+      "plan": "Vor Level 6 aktiv konter-jungeln, da Sylas hier klar unterlegen ist. Ab Level 6 R-Timing bewusst gegen einen möglichen Ultimate-Diebstahl planen und Fights meiden, solange Sylas' eigenes R noch verfügbar ist.",
+      "override": "Bei sehr hohem zusätzlichen Ganking-Druck durch das gegnerische Team kann conqueror_inspiration sinnvoller sein, um früher Tempo für Gegen-Ganks aufzubauen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Sylas' Q-Root und seinen überwiegend magischen Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "E",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/sylas/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "graves",
+      "name": "Graves",
+      "tier": "D",
+      "reason": "Graves' Rauchwand blendet Olafs Autoattacks komplett, was direkt seinen Kernmechanismus trifft, da Ragnaroks Heilung auf tatsächlich zugefügtem Schaden basiert und verfehlte Autos keinen Effekt haben. Früh ist das Duell noch ausgeglichener, da Graves' Buckshot-Kombo Mana und Cooldowns braucht, spät wird die Blend-Komponente in Kombination mit True-Damage-Nahschüssen zunehmend gefährlich für Olafs gesamten Spielplan. Insgesamt ein unangenehmes Matchup speziell wegen der Anti-Synergie zwischen Blind und Ragnarok.",
+      "runeReason": "Präzision-Übernahme mit Boneplating zielt auf ein kurzes, sauberes Trade-Fenster ab, bevor Graves die Rauchwand zünden und den Fight neutralisieren kann, Boneplating dämpft dabei den harten frühen Nahschuss-Burst.",
+      "l1": "Der Level-2-Duell ist relativ eng, solange Graves' Rauchwand noch nicht verfügbar ist, Olaf sollte den Kontakt möglichst schnell und nah suchen, bevor Graves auf Distanz gehen kann.",
+      "l25": "Graves will meist zügig clearen und ab Level 3 mit Buckshot-Poke ganken statt Nahkämpfe zu suchen, Olaf sollte eigene Krabben verteidigen, aber unnötige Distanzduelle gegen seinen True-Damage-Buckshot vermeiden.",
+      "l6": "Ab 6 wird Graves' Rauchwand zum zentralen Problem in jedem längeren Duell, da sie Olafs Auto-basierte Heilung durch R direkt unterbindet, Olaf sollte Fights danach nur noch außerhalb der Rauchwand oder mit sofortigem Nahkontakt suchen.",
+      "threats": "Buckshot mit True-Damage-Nahschuss, Rauchwand-Blind gegen Olafs Autoattacks, Sprung-Mobilität über E, R-Flächenschaden mit Rückstoß.",
+      "window": "Ein gutes Fenster ist unmittelbar nach Graves' Rauchwand-Einsatz, da sie einen langen Cooldown hat und er danach ohne Blend-Schutz kämpfen muss.",
+      "errors": "Nicht versuchen, innerhalb einer aktiven Rauchwand normal Autoattack-Trades zu führen, R nicht in eine bereits aktive Blend hinein zünden, da die Heilungskomponente dann größtenteils verpufft.",
+      "wave": "Ein normaler Clear mit vorsichtiger Krabbenkontrolle ist gegen Graves sinnvoller als aggressives Konter-Jungle, da seine Nahschuss-Bursts frühe Invades riskant machen, ein 1-für-1-Camp-Tausch bleibt meist ausgeglichen.",
+      "trade": "Q werfen sobald Graves committed, dann schnell auf Nahdistanz gehen bevor die Rauchwand fällt, R erst zünden wenn der Fight bereits außerhalb der Blend-Zone stattfindet.",
+      "items": "Hydra-DD bleibt Standard für Clear-Tempo, echte Antiheal-Relevanz ist gering, da Graves selbst kaum heilt, der Fokus liegt eher auf schnellem Nahkontakt.",
+      "situ": "Gegen einen sehr fed Graves mit True-Damage-Nahschuss kann ein früherer Health-lastiger Defensivgegenstand das Überleben eines Ganks deutlich verbessern.",
+      "side": "1 Item: das Duell bleibt eng und fenster-abhängig. 2 Items: Graves' Blend-Kombination wird spürbar gefährlicher in ausgedehnten Fights. 3 Items: Olaf sollte Fights nur noch außerhalb der Rauchwand suchen, da die Heilung über R sonst stark eingeschränkt ist.",
+      "plan": "Frühe Nahkontakt-Duelle suchen, bevor Graves' Rauchwand verfügbar ist, und spätere Fights bewusst außerhalb der Blend-Zone timen. Grievous Wounds ist hier weniger relevant als schnelles Schließen der Distanz vor dem Rauchwand-Cooldown.",
+      "override": "Gegen ein Team mit viel zusätzlichem Burst-Schaden um Graves herum kann conqueror_boneplating für mehr Sustain in längeren Fights sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Graves' Schaden fast vollständig physisch und True Damage ist.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "E",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/graves/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "amumu",
+      "name": "Amumu",
+      "tier": "B",
+      "reason": "Amumus gesamtes Kit besteht aus Crowd Control, Bandage-Toss-Root, Tantrum-Stun und die Flächen-Betäubung seiner Ultimate, was genau die Kategorie ist, die Olafs R vollständig neutralisiert. Früh kann sein Root aus Fog of War trotzdem für unangenehme Überraschungsganks sorgen, spät gewinnt Olaf praktisch jedes geplante Duell, da Amumu wenig eigenen Schaden gegen einen CC-immunen Gegner hat. Insgesamt ein deutlich günstiges Matchup, besonders nach Level 6.",
+      "runeReason": "Conqueror mit Boneplating passt hervorragend, da Amumu wenig Burst-Schaden austeilt, dafür aber über Despair konstanten Flächenschaden anrichtet, gegen den Health und die zusätzliche Rüstung aus Boneplating im langen Fight sehr effizient sind.",
+      "l1": "Amumus Bandage Toss aus dem Busch kann einen Level-2-Kontakt überraschend einleiten, im offenen Duell ohne Überraschungsmoment gewinnt Olaf aber praktisch immer über reinen Schaden.",
+      "l25": "Amumu will früh mit Bandage-Toss-Root ganken statt Camps zu kontestieren, Olaf sollte in diesem Fenster aktiv Krabbe und Scuttle kontrollieren, da Amumus eigener Clear-Schaden gering ist.",
+      "l6": "Sobald Olaf R hat, verliert Amumus komplettes Kit seinen Schrecken, da Root, Stun und Ultimate-Betäubung sofort entfernt werden, Amumu bleibt danach im Objective-Fight nur noch als Soak-Tank relevant statt als echte Duell-Bedrohung.",
+      "threats": "Bandage-Toss-Root aus Fog of War, Tantrum-Stun, Despair-Flächenschaden über Zeit, R-Flächenbetäubung im Teamfight.",
+      "window": "Sobald Olaf R aktiv ist, wird praktisch jedes Duell gegen Amumu zu einem guten Fenster, da sein gesamtes CC-Kit wirkungslos wird.",
+      "errors": "Nicht blind in vermutete Bandage-Toss-Reichweite aus dem Busch laufen, R nicht verschwenden, wenn Amumu bereits all seine CC verbraucht hat, da dann auch ohne R gewonnen werden kann.",
+      "wave": "Ein normaler Clear mit etwas Vorsicht vor Bandage-Toss-Ganks ist ausreichend, Amumu ist selbst im Camp-Race meist unterlegen, da sein Clear-Schaden gering ist, offensives Konter-Jungle ist deshalb meist sicher.",
+      "trade": "Q werfen sobald Amumu committed, dann Autos, R zünden sobald Root oder Stun tatsächlich treffen, da sonst unnötig früh verbraucht wird, gegen ein bereits leeres CC-Kit reicht reines Stat-Trading ohne R.",
+      "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Amumus tanky Build, da er meist volle Widerstandsitems kauft und ohne Shred nur schwer schnell genug fällt.",
+      "situ": "Gegen ein Team mit zusätzlichem Flächen-CC um Amumus Ultimate herum kann ein früherer Health-Gegenstand das Überleben eines Dives verbessern.",
+      "side": "1 Item: das Duell bleibt eng, solange Olaf noch kein R hat. 2 Items: mit R wird Olaf klar favorisiert. 3 Items: Amumu hat gegen einen vollständig ausgerüsteten, CC-immunen Olaf kaum noch eigenen Schaden, um das Duell zu gewinnen.",
+      "plan": "Vor Level 6 vorsichtig vor Bandage-Toss-Ganks aus Fog of War bleiben, danach aktiv Objective-Fights und Dives suchen, da R sein gesamtes CC-Kit neutralisiert. Amumu bleibt primär als Soak- und Setup-Tank relevant, nicht als eigenständige Duell-Bedrohung.",
+      "override": "Bei einem sehr passiven, sammelnden Amumu ohne frühe Root-Ganks kann conqueror_inspiration sinnvoller sein, um früher Objective-Tempo aufzubauen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads, da Amumus gesamter Wert aus Crowd Control besteht.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "A",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/amumu/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "talon",
+      "name": "Talon",
+      "tier": "C",
+      "reason": "Talon kombiniert hohen frühen Burst über seine Q-W-E-Kombo mit einem Sprung über Terrain, der ihm sowohl Ganks als auch Fluchtwege ermöglicht, die Olaf ohne eigenes R kaum kontern kann. Sobald Talon jedoch fixiert und gefangen wird, ist er sehr verwundbar, da er kaum Peel oder Sustain gegen einen R-empowerten Duellanten hat. Insgesamt ein Matchup, das stark davon abhängt, ob Olaf den Zugriff auf einen mobilen Gegner herstellen kann.",
+      "runeReason": "Präzision-Übernahme mit Boneplating passt zu einem kurzen Burst-Duell, in dem Olaf drei saubere Autos landen muss, bevor Talon über W-Terrain-Sprung oder R-Stealth entkommt, Boneplating dämpft gleichzeitig seinen frühen Q-W-E-Alphaschlag.",
+      "l1": "Talon kann über die W-Sprung-Mechanik Terrain überwinden und Olaf so bei einem Invade überraschen, im direkten Level-2-Duell ohne Fluchtoption ist Olaf aber durch höheren Sustain meist im Vorteil.",
+      "l25": "Talon will früh isoliert Ziele mit voller Kombo bursten und danach über W schnell die Position wechseln, Olaf sollte eigene Krabben nur mit Vision auf Talons Cooldowns kontestieren.",
+      "l6": "Ab 6 macht R-Stealth Talon noch schwerer zu fixieren, Olafs eigenes R hilft primär dabei, den ersten Burst zu überleben, ein Kill gelingt meist nur, wenn Talon bereits committed und keinen Fluchtweg mehr hat.",
+      "threats": "Q-W-E-Burst-Kombo, W-Terrain-Sprung als Flucht- und Ganktool, R-Stealth mit Bereichsschnitt, hohe frühe Ein-Ziel-Bedrohung.",
+      "window": "Sobald Talons W-Sprung auf Cooldown verbraucht wurde, meist direkt nach einem Gank- oder Invade-Versuch, ist ein Gegen-Invade deutlich sicherer, da ihm dann die Fluchtoption fehlt.",
+      "errors": "Nicht versuchen, einen Talon ohne Zugriffstool über offenes Terrain zu verfolgen, R nicht verschwenden, um seinen ersten Burst zu überleben, wenn Talon danach ohnehin fliehen kann.",
+      "wave": "Ein normaler Clear mit Vision an den eigenen Krabben- und Scuttle-Zugängen ist gegen Talon sinnvoller als aggressives Konter-Jungle, da er isolierte Ziele gezielt sucht, ein 1-für-1-Camp-Tausch bleibt meist ausgeglichen.",
+      "trade": "Q werfen sobald Talon committed, dann Autos solange er im Nahkampf gebunden ist, R erst zünden wenn Talon tatsächlich all-in geht und keinen sofortigen W-Fluchtweg mehr hat.",
+      "items": "Stridebreaker als Kernzugriffsitem hilft, Talons W-Sprung-Mobilität über den Slow-Effekt auszugleichen, da das eigentliche Problem nicht fehlende Heilung, sondern fehlender Zugriff auf einen mobilen Gegner ist.",
+      "situ": "Gegen einen sehr fed Talon mit hohem frühen Burst kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ganks verbessern.",
+      "side": "1 Item: Talon bleibt durch Burst und Mobilität im Vorteil. 2 Items: mit Stridebreaker-Zugriff wird das Duell ausgeglichener. 3 Items: Olaf gewinnt einen geplanten, fixierten Fight meist klar, sofern Talon keinen sofortigen Fluchtweg mehr hat.",
+      "plan": "Frühe Solo-Kontests ohne Vision auf Talons Cooldowns vermeiden und Stridebreaker-Tempo nutzen, um ihn überhaupt zu fixieren. Fights gezielt nach verbrauchtem W-Sprung suchen, da Talon dann seine wichtigste Fluchtoption verliert.",
+      "override": "Gegen ein Team mit zusätzlichem harten Engage um Talon herum kann conqueror_boneplating sinnvoller sein, um Fights auch ohne perfektes Fixier-Fenster zu überstehen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Talons Schaden fast vollständig physisch ist.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/talon/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "khazix",
+      "name": "Kha'Zix",
+      "tier": "D",
+      "reason": "Kha'Zix' Isolations-Passiv gibt seiner Q massiv erhöhten Schaden gegen Ziele ohne nahe Einheiten, und ein Olaf allein im Dschungel an einem Camp oder in der Krabbe zählt praktisch immer als isoliert, was diesen Burst besonders gefährlich macht. Gleichzeitig fehlt Kha'Zix echte harte Crowd Control, sodass Olaf mit R einen laufenden Fight über Sustain durchstehen kann, sofern er den ersten Burst überlebt. Insgesamt ein enges, burst-lastiges Matchup zu Gunsten des schneller treffenden Spielers.",
+      "runeReason": "Conqueror mit Boneplating liefert die zusätzliche frühe Rüstung und den Health-Puffer, um Kha'Zix' isolierten Q-Burst zu überstehen, während der Adaptive-Bonus im längeren Duell gegen seine Evolve-Upgrades relevant bleibt.",
+      "l1": "Ein Level-2-Invade gegen Kha'Zix ist riskant, da seine Isolations-Q bereits früh hohen Einzelzielschaden liefert, Olaf sollte den Kontakt nur mit Support-Hilfe suchen, um die Isolation zu brechen.",
+      "l25": "Kha'Zix will gezielt isolierte Ziele an Krabbe oder Buff-Camps jagen statt offene Kontests zu suchen, Olaf sollte eigene Camps möglichst mit einer zweiten Einheit in der Nähe clearen, um die Isolations-Bonus zu vermeiden.",
+      "l6": "Ab 6 kann Kha'Zix über Stealth aus seiner Ultimate noch gezielter isolierte Ziele anspringen, Olafs R hilft primär gegen den Slow seiner E-Sprungklauen, ein Fight bleibt aber gefährlich, wenn Olaf bereits isoliert getroffen wird, bevor R reagieren kann.",
+      "threats": "Isolations-Q mit stark erhöhtem Einzelzielschaden, E-Sprung mit Slow, R-Nahezu-Unsichtbarkeit für Ambush-Angriffe, hohe Evolve-Skalierung im späteren Spiel.",
+      "window": "Sobald Kha'Zix' E-Sprung auf Cooldown verbraucht wurde, meist direkt nach einem Ambush-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+      "errors": "Nicht allein und isoliert an Krabbe oder Buff-Camps ohne Vision stehen, R nicht erst nach dem ersten großen Isolations-Q-Treffer zünden, da der Schaden dann bereits eingeschlagen ist.",
+      "wave": "Camps möglichst mit einer zweiten Einheit oder Vision in der Nähe clearen, um Kha'Zix' Isolationsbonus zu neutralisieren, ein offener Solo-Camp-Race an abgelegenen Stellen der Karte ist gegen ihn riskant.",
+      "trade": "Q werfen sobald Kha'Zix committed, dann sofort Autos um seinen eigenen Isolationsbonus zu verhindern, R zünden sobald sein E-Sprung verbraucht ist, um den Slow-Vorteil auszugleichen.",
+      "items": "Hydra-DD liefert genug Sustain und Clear-Tempo, um isolierte Situationen an abgelegenen Camps zu vermeiden, echte Antiheal-Relevanz ist gering, da Kha'Zix selbst kaum heilt.",
+      "situ": "Gegen einen sehr fed Kha'Zix mit evolvierter Isolations-Q kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ambush deutlich verbessern.",
+      "side": "1 Item: der Isolationsbonus macht Kha'Zix in abgelegenen Duellen gefährlich. 2 Items: das Duell wird ausgeglichener, sobald Olaf Camps nicht mehr isoliert clearen muss. 3 Items: Olaf gewinnt geplante, nicht-isolierte Fights meist klar dank R-Sustain.",
+      "plan": "Camps möglichst nicht komplett isoliert clearen und abgelegene Krabben- oder Buff-Kontests mit Vision absichern. Fights gezielt nach verbrauchtem E-Sprung suchen, da Kha'Zix dann weder Mobilität noch seinen vollen Isolationsbonus hat.",
+      "override": "Bei einem sehr passiv spielenden Kha'Zix ohne frühe Isolations-Jagd kann pta_boneplating für schnellere Trade-Fenster sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Kha'Zix' Schaden überwiegend physisch aus Q und Autos kommt.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/khazix/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "ekko",
+      "name": "Ekko",
+      "tier": "D",
+      "reason": "Ekkos frühe Jungle-Präsenz ist solide, aber nicht überragend, was Olaf ein reales Zeitfenster vor Level 6 gibt, solange Ekkos W-Betäubungszone noch nicht als Setup für einen Gank genutzt wurde. Das eigentliche Problem ist seine Ultimate, die ihm erlaubt, aus einem verlorenen Duell zurückzuspulen, sich zu heilen und den Gegner gleichzeitig zu verlangsamen, was Olafs Finish-Fenster in einem geplanten Duell praktisch neutralisiert. Insgesamt spricht das Matchup früh leicht für Olaf, spät klar für Ekko.",
+      "runeReason": "Präzision-Übernahme mit Boneplating zielt darauf ab, Ekko zu bursten, bevor seine Rückspul-Ultimate als Sicherheitsnetz zur Verfügung steht, da ein längerer Conqueror-Fight ihm nur mehr Zeit gibt, bis zur R-Verfügbarkeit zu überleben.",
+      "l1": "Vor Level 6 ist Ekko im Level-2-Duell verwundbarer, da ihm die Rückspul-Ultimate als Absicherung fehlt, Olaf kann bei aggressivem Invade häufig gewinnen, solange Ekkos W-Zone noch nicht platziert ist.",
+      "l25": "Ekko will früh seine W-Betäubungszone für Gank-Setups nutzen statt offene Kontests zu suchen, Olaf sollte eigene Camps zügig clearen und Krabbenkontrolle nur mit Vision auf Ekkos W-Cooldown riskieren.",
+      "l6": "Ab 6 wird jedes geplante Duell gegen Ekko riskant, da seine Ultimate ihm erlaubt, aus fast jeder Verlustsituation herauszuspulen, sich zu heilen und Olaf zu verlangsamen, ein Fight sollte danach nur noch eingegangen werden, wenn R bereits sichtbar verbraucht wurde.",
+      "threats": "W-Rückkehrzone mit Betäubung, hoher Passiv-Burstschaden bei mehreren Treffern in kurzer Zeit, R-Rückspul mit Heilung und Flächen-Slow als Fluchttool.",
+      "window": "Ein gutes Fenster existiert primär vor Level 6 oder danach nur, wenn Ekkos R bereits sichtbar verbraucht wurde, ein Duell gegen eine volle Ultimate ist praktisch nicht zu gewinnen.",
+      "errors": "Nicht versuchen, einen Ekko mit voller Ultimate finalzuschlagen, da er einfach zurückspult und heilt, R nicht verschwenden, um in eine bereits aktive W-Zone hineinzukämpfen.",
+      "wave": "Vor Level 6 lohnt sich moderates Konter-Jungle gegen Ekkos durchschnittlichen frühen Clear, nach 6 sollte Olaf Fights defensiver timen und primär auf den Zustand von Ekkos R achten statt auf reine Cooldown-Vorteile bei Q und W.",
+      "trade": "Q werfen sobald Ekko committed, dann Autos solange er außerhalb seiner W-Zone bleibt, R nur zünden wenn Ekkos eigenes R bereits verbraucht ist, sonst wird der Fight ohnehin durch seine Rückspul-Heilung neutralisiert.",
+      "items": "Hydra-Maw kontert Ekkos magischen Burst-Schaden direkt und liefert den nötigen Magieresistenz-Puffer, um seine Passiv-Burst-Fenster zu überstehen.",
+      "situ": "Gegen eine sehr aggressive Ekko-Spielweise mit früher W-Setup-Kombo kann ein noch früherer Magieresistenz-Gegenstand das Überleben eines Ganks deutlich verbessern.",
+      "side": "1 Item: Olaf im Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Ekkos R verfügbar ist. 3 Items: Ekkos Rückspul-Sicherheitsnetz macht ein geplantes Finish praktisch unmöglich, Olaf sollte dann nur noch nach verbrauchtem R fighten.",
+      "plan": "Vor Level 6 aktiv konter-jungeln, da Ekko hier nur durchschnittlich stark ist. Ab Level 6 Fights ausschließlich nach sichtbar verbrauchtem R suchen, da seine Rückspul-Heilung jedes andere geplante Duell zunichtemacht.",
+      "override": "Gegen ein Team mit zusätzlichem harten CC um Ekkos Setup herum kann conqueror_boneplating sinnvoller sein, um längere, erzwungene Fights zu überstehen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Ekkos W-Betäubung und seinen überwiegend magischen Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "E",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ekko/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "zac",
+      "name": "Zac",
+      "tier": "C",
+      "reason": "Zac hat über seinen Q-Zieharm frühe Zugriffs-CC und über E einen Doppel-Knockup, der Olaf ohne eigenes R in Skirmishes empfindlich treffen kann, besonders in Kombination mit seiner Passiv-Regeneration außerhalb von Fights. Sobald Olaf R hat, werden beide Knockup-Komponenten sofort entfernt, und Zacs eigener Schaden reicht gegen einen sustain-starken Olaf oft nicht aus, um das Duell zu gewinnen. Insgesamt spricht die frühe Phase für Zac, die späte klar für Olaf.",
+      "runeReason": "Conqueror mit Boneplating passt zu Zacs zäher, regenerationsstarker Statur, da Olaf über einen langen Fight sowohl gegen seine CC-Fenster als auch gegen seine passive Heilung außerhalb von Kämpfen ankommen muss.",
+      "l1": "Zac kann über den Q-Zieharm einen Level-2-Kontakt aus überraschender Distanz erzwingen, Olaf sollte diesen Zugriff respektieren und Fights nicht in offener Zieharm-Reichweite eingehen.",
+      "l25": "Zac will früh über W-Sprung mit Flächen-Knockup ganken statt Camps zu kontestieren, Olaf kann in diesem Fenster eigene Krabben und Scuttle kontrollieren, sollte aber Vision auf Zacs Q-Reichweite halten.",
+      "l6": "Sobald Olaf R hat, verlieren sowohl der Q-Zieharm als auch der E-Doppel-Knockup ihre Wirkung gegen ihn, Zac bleibt durch seine Tankiness und Blob-Wiederbelebung trotzdem schwer endgültig zu finishen, weshalb Fights länger dauern als erwartet.",
+      "threats": "Q-Zieharm als Zugriffs-CC, E-Doppel-Knockup bei Aufprall und Rückkehr, Passiv-Regeneration außerhalb von Kämpfen, mögliche Wiederbelebung über Blobs nach dem Tod.",
+      "window": "Sobald Zacs Q-Zieharm auf Cooldown verbraucht wurde, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+      "errors": "Nicht in offener Q-Zieharm-Reichweite ohne Fluchtoption stehen, einen niedrigen Zac nicht als sicher tot betrachten, solange genug Blob-HP für eine Wiederbelebung übrig ist.",
+      "wave": "Ein normaler Clear mit Vision auf Zacs Q-Reichweite ist gegen ihn sinnvoller als aggressives Konter-Jungle, da sein Zieharm-Zugriff frühe Invades riskant macht, ein 1-für-1-Camp-Tausch bleibt wegen seiner Passiv-Regeneration meist zu seinen Gunsten.",
+      "trade": "Q werfen sobald Zac committed, dann Autos solange sein Q-Zieharm auf Cooldown ist, R zünden sobald einer der beiden Knockups tatsächlich trifft, nicht präventiv.",
+      "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Zacs tanky Build, da seine Passiv-Regeneration ohne Shred-Schaden schwer genug zu überwinden ist.",
+      "situ": "Gegen einen frühen, aggressiven Zac mit viel Zieharm-Zugriff kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ganks verbessern.",
+      "side": "1 Item: Zac bleibt durch Zugriff und CC im Vorteil. 2 Items: das Duell wird ausgeglichener, sobald Olaf R konstant zur Verfügung steht. 3 Items: Olaf gewinnt einen geplanten Fight meist klar, sollte aber auf ausreichend übrig gebliebene Blob-HP für eine mögliche Wiederbelebung achten.",
+      "plan": "Frühe Solo-Duelle in offener Q-Zieharm-Reichweite vermeiden und stattdessen mit Vision und Teamunterstützung agieren. Ab Level 6 aktiv Objective-Fights suchen, da R Zacs beide Knockup-Komponenten neutralisiert und Olaf im geraden Sustain-Duell die Oberhand gewinnt.",
+      "override": "Bei einem sehr passiv spielenden Zac ohne frühe Zieharm-Aggression kann pta_boneplating für schnellere Trade-Fenster vor Level 6 sinnvoller sein.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Zacs zwei Knockup-Komponenten und generelles Team-CC.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "B",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/zac/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "nunu",
+      "name": "Nunu & Willump",
+      "tier": "B",
+      "reason": "Nunu ist kein Duellant, sondern ein Setup- und Objective-Champion, der über Konsum-Camps sehr schnell clearen und über seine Ultimate massive Engage- oder Steal-Bedrohung liefern kann, ohne dabei selbst viel Schaden im 1v1 auszuteilen. Im geraden Duell gewinnt Olaf fast immer, da Nunu kaum Selbstschutz gegen einen CC-immunen, sustain-starken Gegner hat, das eigentliche Risiko liegt in Nunus Tempo bei Objectives und Ganks statt im direkten Skirmish. Insgesamt ein klar günstiges Matchup für Olaf im 1v1.",
+      "runeReason": "Conqueror mit Boneplating passt gut, da Nunu selbst wenig Burst-Schaden liefert und ein ausgedehnter Fight Olaf die Zeit gibt, seinen Sustain-Vorteil voll auszuspielen, Boneplating dämpft dabei den anfänglichen Root-Treffer seiner W.",
+      "l1": "Ein Level-2-Duell gegen Nunu ist für Olaf fast immer sicher, da Nunu ohne Ally-Hilfe kaum Schaden liefert, ein Invade lohnt sich meist auch ohne besonderen Vorteil auf Olafs Seite.",
+      "l25": "Nunu will extrem schnell über Konsum große Camps clearen und früh eigene Objective-Präsenz aufbauen, Olaf sollte diesen Tempo-Vorsprung im Auge behalten, statt sich auf reine Krabbenkontrolle zu verlassen.",
+      "l6": "Ab 6 wird Nunus Ultimate zur zentralen Bedrohung für Dives und Objective-Steals statt für den direkten 1v1, Olafs R bleibt im geraden Duell klar überlegen, sollte aber auf angekündigte Snowball-Kanalisierungen achten, um rechtzeitig auszuweichen.",
+      "threats": "W-Snowball-Wurf mit Verlangsamung, Q-Konsum für schnellen Camp-Clear und Heilung, R-Kanalisierter Flächenschaden mit Knockup als Engage- oder Steal-Tool.",
+      "window": "Ein direktes Duell ist praktisch immer ein gutes Fenster, solange kein zweiter gegnerischer Champion in der Nähe ist, um Nunus fehlenden Eigenschaden zu kompensieren.",
+      "errors": "Nunus schnellen Konsum-Clear nicht unterschätzen und Objective-Timing danach ausrichten, nicht ohne Grund in eine bereits kanalisierende Ultimate hineinlaufen.",
+      "wave": "Gegen Nunu lohnt sich meist ein eigener zügiger Clear mit besonderem Augenmerk auf Drachen- und Herold-Timing, da er über Konsum schneller cleart als die meisten Jungler und dadurch früh Objective-Druck aufbaut, direkte 1v1-Camp-Kontests gewinnt Olaf klar.",
+      "trade": "Q werfen sobald Nunu committed, dann durchgehend Autos, da Nunu kaum Gegenschaden hat, R nur bei Bedarf gegen seine W-Verlangsamung oder eine kanalisierende Ultimate einsetzen.",
+      "items": "Hydra-DD passt gut zum eigenen Clear-Tempo, um Nunus Objective-Vorsprung über Konsum-Farming auszugleichen, echte Antiheal-Relevanz ist untergeordnet.",
+      "situ": "Gegen ein Team mit viel zusätzlichem Engage um Nunus Ultimate herum kann ein früherer Health- oder Tenacity-Gegenstand das Überleben eines koordinierten Dives verbessern.",
+      "side": "1 Item: Olaf gewinnt jedes direkte Duell klar. 2 Items: weiterhin klarer Vorteil im 1v1, Nunus Wert liegt bei Objectives statt im Skirmish. 3 Items: Olaf dominiert geplante Fights, sollte aber koordinierte Ultimate-Steal-Versuche an Drache oder Baron einkalkulieren.",
+      "plan": "Direkte Duelle gegen Nunu ohne Ally-Hilfe aktiv suchen, da Olaf hier klar überlegen ist. Gleichzeitig Nunus schnellen Konsum-Clear und Objective-Timing im Auge behalten, um nicht durch reinen Tempo-Vorsprung ins Hintertreffen zu geraten.",
+      "override": "Gegen ein Team mit viel zusätzlichem Engage um Nunus Ultimate herum kann conqueror_inspiration sinnvoller sein, um früher Tempo für Gegen-Engages aufzubauen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Nunus überwiegend magischen Schaden und seine Root- sowie Knockup-Komponenten.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "A",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/nunu/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "zed",
+      "name": "Zed",
+      "tier": "B",
+      "reason": "Zed ist vor Level 6 ohne Shield oder harte Defensive extrem verwundbar, weshalb ein sauberer Level-2-Kontakt oder ein früher Invade meist zugunsten von Olaf ausgeht. Sobald Zed skaliert, sucht er den offenen Duell-Fight gegen Olaf ohnehin kaum noch, sondern weicht über Shadow-Dashes aus und jagt stattdessen Backline-Ziele in anderen Lanes.",
+      "runeReason": "PTA belohnt genau die drei sauberen Autos, die Olaf braucht, bevor Zed sich per W wegteleportiert oder Distanz aufbaut. Boneplating dämpft die Burst-Spitze aus Q-E-R, falls Zed zuerst den Kontakt sucht.",
+      "l1": "Level 1-2 hat Zed keinerlei Schild oder CC; ein Invade oder Scuttle-Contest um 2:30-3:00 kippt bei getroffenem Q klar zu Olaf, solange Zed nicht bereits im Bush wartet.",
+      "l25": "Zed pusht seinen Clear meist zügig auf Level 3-4 für den ersten Gank und meidet direkten Kontakt im Fluss; genau diese frühen Wegkreuzungen sind Olafs beste Invade-Fenster, solange Zeds W noch nicht bereit ist.",
+      "l6": "Mit R übersteht Olaf Zeds Todesmarkierung und kann den Gegenstoß setzen, sobald die Q-E-R-Kombo verpufft ist; ab Level 6 sucht Zed aber eher Roams auf Mid oder Bot statt den offenen Jungle-Duell mit Olaf.",
+      "threats": "Shadow-Dash (W) zum Reset, Death Mark (R) Burst, Living Shadow-Slash (E), Q-Poke aus Distanz.",
+      "window": "Sobald Zeds W bereits für eine Rotation oder einen Fluchtversuch verbraucht wurde, ist er im offenen Duell praktisch ungeschützt – das ist Olafs Moment für Invade oder Konter-Gank.",
+      "errors": "Frontal in Zeds Q-Range laufen, statt selbst zuerst den eigenen Q zu platzieren. Nach der R-Markierung planlos weiterkämpfen, statt R sofort für die Sustain zu zünden.",
+      "wave": "Voller Clear lohnt sich, wenn Zed früh invadiert werden kann, da er kaum Gegenwehr hat; ansonsten lohnen sich drei Camps und ein früher Gank, um Zeds langsamen Frühclear direkt zu bestrafen.",
+      "trade": "Erst Q für den Slow, dann E für den True-Damage-Tick und die Sustain; R erst zünden, wenn Zed seine Death Mark oder den Shadow-Dash tatsächlich einsetzt, danach saubere Autos gegen den schildlosen Zed.",
+      "items": "Stridebreaker liefert den Slow und die Tenacity, um Zeds Repositionierung über den Schatten zu kontern, da reine Sustain gegen einen Gegner, der Duelle meidet, weniger Wert hat.",
+      "situ": "Bei früher aggressiver Invade-Linie von Zed kann ein defensiver Gegenstand mit Health und Armor gegen seine Burst-Spitze sinnvoll sein.",
+      "side": "1 Item: Olaf gewinnt saubere Level-2-3-Kontakte klar. 2 Items: Zed sucht bereits aktiv Ausweichrouten, direkte Duelle werden selten. 3 Items: Zed meidet Olaf komplett und spielt über Roams, Olaf sollte diese Zeit für Objective-Druck nutzen.",
+      "plan": "Früh aggressiv invadieren und Level-2-Kontakt suchen, da Zed hier am schwächsten ist. Ab Mitte des Spiels nicht hinter Zed herjagen, sondern Seiten und Objectives kontrollieren, während Zed seine Kills anderswo sucht.",
+      "override": "Bei starker Magie-Flankierung im Zed-Team auf pta_inspiration wechseln, um mehr Tempo für frühe Invades zu bekommen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps, da Zeds Schaden fast vollständig physisch aus Autos und Q kommt.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "B",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/zed/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "fiddlesticks",
+      "name": "Fiddlesticks",
+      "tier": "C",
+      "reason": "Fiddlesticks ist ein gefährlicher Ambush- und Invade-Champion, dessen Furcht (Q) und Crowstorm (R) frühe Skirmishes gegen Olaf kippen können, bevor dieser überhaupt reagiert. Olafs R entfernt aber auch bereits aktive Furcht-Effekte, weshalb Olaf im direkten Duell ab Level 6 einen realen Gegenstoß hat, sobald er den ersten CC-Treffer übersteht.",
+      "runeReason": "Conqueror passt zum Sustain-Wettlauf gegen Bountiful Harvest, das Fiddle im Kampf heilt; Boneplating dämpft die Burst-Öffnung aus Q-Furcht und Reap, bevor Olaf zurückschlagen kann.",
+      "l1": "Level 1-2 ist Fiddlesticks ohne W-Kanal wenig bedrohlich, ein Scuttle-Contest um 2:30-3:00 ist meist ausgeglichen, solange er nicht aus einem Bush ambusht; Olaf gewinnt einen offenen Level-2-Duell in der Regel.",
+      "l25": "Fiddlesticks pathet gerne über Büsche und nutzt seine passive Tarnung nahe an Monstern, um Scuttle oder Camps zu stehlen; Olaf sollte Flusskreuzungen meiden, wenn Fiddle dort zuletzt nicht gesichtet wurde.",
+      "l6": "Ab Level 6 wird Crowstorm zur echten Dive- und Pick-Gefahr in Objective-Kämpfen; sobald Olaf R aktiviert, ist er gegen die abschließende Furcht immun und kann den Kampf gegen einen bereits verausgabten Fiddlesticks für sich entscheiden.",
+      "threats": "Terrify-Furcht (Q), Bountiful-Harvest-Drain (W), Crowstorm-Ambush (R), Dread-Bonusschaden aus dem Nebel.",
+      "window": "Wenn W oder R von Fiddlesticks bereits für einen Gank oder Farmversuch verbraucht wurden, ist er im offenen Duell deutlich schwächer – dann lohnt sich Konter-Invade oder Objective-Druck.",
+      "errors": "Blind in unbewachte Büsche laufen, ohne Wards oder Control Ward zu setzen. Gegen eine laufende Crowstorm-Kanalisierung stehen bleiben, statt sofort Distanz zu suchen oder R zu zünden.",
+      "wave": "Voller Clear ist meist sicherer als aggressives Counter-Jungling, da Fiddlesticks' Ambush-Potenzial einen unvorsichtigen Invade teuer macht; bei gesicherter Vision lohnt sich aber ein Drei-Camp-Rhythmus mit frühem Gank.",
+      "trade": "Erst Q für den Slow setzen, dann E für Sustain und Druck; R erst zünden, sobald Fiddlesticks Furcht oder Crowstorm bereits eingesetzt hat, um die CC-Immunität optimal zu nutzen.",
+      "items": "Die Maw-Linie liefert Magieresistenz gegen Fiddlesticks' überwiegend magischen Schaden aus W und R, was im verlängerten Duell den Unterschied macht.",
+      "situ": "Bei sehr aggressivem Ambush-Spiel kann ein früher defensiver Magieresistenz-Gegenstand die Invade-Fenster von Fiddlesticks deutlich entschärfen.",
+      "side": "1 Item: Fiddlesticks kann mit Furcht und Drain noch gefährlich picken. 2 Items: Olaf übersteht die Furcht dank R zuverlässiger und kontert. 3 Items: Olaf dominiert offene Duelle, Fiddlesticks bleibt aber als Pick-Bedrohung in Teamfights relevant.",
+      "plan": "Vision um eigene Camps und Flussübergänge priorisieren, um Ambush-Fenster zu neutralisieren. Ab Level 6 aktiv nach Objective-Kämpfen suchen, in denen Olaf die Furcht über R kontert und den Gegenstoß setzt.",
+      "override": "Bei viel gegnerischem physischem Poke- oder All-in-Druck auf conqueror_secondwind wechseln, um repetitive Chip-Schäden abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Furcht-CC und den überwiegend magischen Schaden von Fiddlesticks.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/fiddlesticks/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "skarner",
+      "name": "Skarner",
+      "tier": "D",
+      "reason": "Der überarbeitete Skarner zählt aktuell zu den stärksten frühen Jungle-Duellanten, mit schnellem Clear, einem Schild für verlängerte Kämpfe und einem Suppression-Ultimate, das jeden Fight einseitig entscheiden kann. Olaf hat gegen die tankige Statur und die Sustain über den Schild kaum echte Antworten, außer die frühe Phase zu meiden und auf sein Late-Game-Tempo zu setzen.",
+      "runeReason": "Conqueror ist gegen einen tankigen Dauerduellanten mit Schild fast Pflicht, um die Heilung im verlängerten Kampf zu kompensieren; Boneplating dämpft die Stun-Burst-Kombo aus Sprung und R-Griff.",
+      "l1": "Level 1-2 gewinnt Skarner die meisten offenen Duelle dank Schild und höherer Basiswerte; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit klarem Vorteil (Summoner-Spell-Vorsprung, Teamhilfe) suchen.",
+      "l25": "Skarner pathet aggressiv und invadiert häufig selbst, da sein Clear zu den schnellsten im Spiel zählt; Olaf sollte in dieser Phase eher den eigenen Rhythmus sichern als einen Camp-Wettlauf gegen ihn zu führen.",
+      "l6": "Mit R kann Olaf einer Suppression durch Skarners Griff zuvorkommen, wenn er früh genug reagiert, da Ragnarok bestehende Crowd Control sofort entfernt; verpasst er das Timing, entscheidet der Griff den Kampf meist zugunsten von Skarner.",
+      "threats": "Crystal-Slash-Cleave (Q), Exoskeleton-Schild (W), Sprung mit Kristallspitze (E), Suppression-Griff (R).",
+      "window": "Erst nach Skarners W-Schild und E-Sprung auf Cooldown ist ein Konter-Invade realistisch – idealerweise kombiniert mit Teamunterstützung, da ein reines 1v1 selten in Olafs Favor steht.",
+      "errors": "Ein offenes 1v1 gegen vollen Skarner ohne Item- oder Levelvorsprung suchen. Nach dem R-Griff im offenen Feld weiterkämpfen, statt die verbleibende Immunitätsdauer aus Olafs eigenem R aktiv zu nutzen.",
+      "wave": "Gegen Skarner lohnt sich meist der volle Clear mit maximaler Vision, da ein direkter Camp-Wettlauf oder Counter-Jungle-Versuch wegen seines überlegenen frühen Tempos selten profitabel ist.",
+      "trade": "Q zuerst für den Slow, dann sofort E für Sustain; R nur zünden, wenn Skarner bereits committed ist oder seinen Griff verbraucht hat, sonst früh abbrechen, statt in den Schild hineinzukämpfen.",
+      "items": "Die Cleaver-Linie liefert den nötigen Rüstungsschred gegen Skarners tankige Statur, da reine Lebensraub-Sustain gegen seinen Schild zu langsam skaliert.",
+      "situ": "Ein früher defensiver Gegenstand mit Health gegen Skarners Burst-Kombo aus Sprung und Griff kann das Überleben in erzwungenen Kontakten deutlich verbessern.",
+      "side": "1 Item: Skarner dominiert die meisten offenen Duelle klar. 2 Items: Der Abstand verringert sich, Olaf kann bei gutem Timing des Griffs mithalten. 3 Items: Extended Fights werden ausgeglichener, bleiben aber wegen Skarners Tankiness riskant.",
+      "plan": "Frühe direkte Kontakte meiden und stattdessen über Vision und Teamhilfe spielen, bis Olaf Item- und Levelvorteile aufgebaut hat. Objective-Kämpfe erst suchen, wenn Skarners Schild und Griff bereits verbraucht sind.",
+      "override": "Bei starkem gegnerischen Sustain-Team zusätzlich auf conqueror_secondwind wechseln, um den Dauerkampf gegen Skarner und seine Verbündeten abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Skarners überwiegend physischen Nahkampfschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "E",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/skarner/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "reksai",
+      "name": "Rek'Sai",
+      "tier": "D",
+      "reason": "Rek'Sais Unburrow-Knockup und ihr Tremor-Sense-Kartenüberblick machen sie zu einer der stärksten frühen Invade- und Skirmish-Junglerinnen, während ihre Tunnel Olaf keine verlässliche Fluchtroute zum Nachsetzen lassen. Im späteren Spiel verliert sie relativ an Sustain, sodass ein sauber getimter Olaf mit R einen ausgeglicheneren Gegenstoß hat.",
+      "runeReason": "PTA passt zur kurzen, brutalen Öffnung durch Rek'Sais Unburrow, in der Olaf schnell drei Autos landen muss; Boneplating dämpft genau diesen ersten großen Treffer.",
+      "l1": "Level 1-2 hat Rek'Sai durch den Unburrow-Knockup und höheren Frühschaden meist die Oberhand; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Summoner-Spell-Vorteil suchen.",
+      "l25": "Rek'Sai nutzt ihre Tunnel, um zwischen Camps und Lanes extrem schnell zu rotieren und früh zu ganken; Olaf sollte eigene Tunnelausgänge im Auge behalten und Invades nur mit gesicherter Fluchtroute wagen.",
+      "l6": "Mit R kann Rek'Sai aus dem Untergrund auf ein Ziel zuschlagen und knocken; sobald Olaf sein eigenes R zündet, übersteht er den Knockup-Einstieg und kann den anschließenden offenen Kampf über Sustain gewinnen.",
+      "threats": "Unburrow-Knockup (R), Furious-Bite-Sustain (E), Tremor Sense zur Gegnerortung, Burrow-Fluchtmobilität.",
+      "window": "Sobald Rek'Sais Unburrow-R auf Cooldown liegt oder sie zuletzt bereits eine Rotation über Tunnel verbraucht hat, ist ein Konter-Invade oder Objective-Zugriff deutlich sicherer.",
+      "errors": "Nach einem verpassten Unburrow-Knockup blind weiterverfolgen, obwohl Rek'Sai zurückgraben kann. Ohne Vision auf mögliche Tunnelausgänge in den eigenen Jungle vordringen.",
+      "wave": "Gegen Rek'Sai lohnt sich eher der volle Clear mit hoher Wachsamkeit an Kreuzungen als ein direkter Camp-Wettlauf, da ihr Rotation-Tempo über Tunnel schwer einzuholen ist.",
+      "trade": "Q zuerst für den Slow, um ihre Fluchtroute zu erschweren, dann E für Sustain; R erst zünden, wenn der Unburrow-Knockup bereits verbraucht wurde, sonst besteht Gefahr, in den Burst hineinzulaufen.",
+      "items": "Stridebreaker hilft, Rek'Sai vor dem Zurückgraben zu verlangsamen und im Duell festzuhalten, da reine Sustain gegen ihre Mobilität allein nicht ausreicht.",
+      "situ": "Bei starkem frühem Invade-Druck kann ein defensiver Health-Gegenstand das Überleben des ersten Unburrow-Treffers deutlich verbessern.",
+      "side": "1 Item: Rek'Sai gewinnt die meisten offenen Duelle klar. 2 Items: Der Kampf wird ausgeglichener, sofern Olaf den Knockup übersteht. 3 Items: Olafs Sustain und Rohschaden holen im verlängerten Duell auf, sofern er sie überhaupt festhalten kann.",
+      "plan": "Frühe direkte Kontakte meiden, Vision an Flussübergängen priorisieren und Invades nur mit gesicherter Fluchtroute wagen. Ab Level 6 auf Momente warten, in denen Rek'Sais R bereits verbraucht ist, bevor Olaf den Kampf sucht.",
+      "override": "Bei viel gegnerischer Magiepräsenz im Team auf stride_maw wechseln, um zusätzlich Magieresistenz für den Zugriff auf Rek'Sai einzubauen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Rek'Sais überwiegend physischen Nahkampfschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/reksai/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "ivern",
+      "name": "Ivern",
+      "tier": "A",
+      "reason": "Ivern ist im direkten Duell kaum eine Bedrohung, da er weder harten Burst noch nennenswerten Sustain gegen einen Skirmisher wie Olaf mitbringt und primär über Rootcaller-Root und Schilde peelt statt selbst zu kämpfen. Olaf kann Ivern und seine Camps in der frühen Phase praktisch ungestraft angreifen, muss aber Daisy und die Shields im späteren Team-Kontext respektieren.",
+      "runeReason": "PTA passt, da Ivern selten Schild oder Sustain für sich selbst aufbaut und ein sauberer Drei-Treffer-Auto-Fenster meist reicht, um ihn zurückzudrängen. Boneplating federt den Root-Combo-Einstieg über Rootcaller ab.",
+      "l1": "Level 1-2 hat Ivern keine nennenswerte eigene Duellstärke; ein Scuttle-Contest um 2:30-3:00 geht bei offenem Kontakt praktisch immer an Olaf, solange kein Root aus Rootcaller trifft.",
+      "l25": "Ivern verlässt früh seine eigenen Camps zugunsten von Lane-Ganks und Brambles-Kontrolle, wodurch Counter-Jungling seinem Team zwar wenig direkten Goldverlust bei ihm selbst, aber verlorene Ressourcen für seine Lanes bringt.",
+      "l6": "Mit Daisy als Sechster-Level-Ultimate kann Ivern in Objective-Kämpfen einen zusätzlichen Tank-Körper und einen Stampf-Knockup einbringen; Olaf sollte Daisy dabei separat einschätzen und nicht direkt Ivern selbst als Bedrohung werten.",
+      "threats": "Rootcaller-Root (Q), Triggerseed-Schild und Bramble-Root (W), Daisy-Stampf-Knockup (R).",
+      "window": "Praktisch jedes offene 1v1 gegen Ivern ohne aktives Rootcaller oder Daisy in der Nähe ist ein sicheres Invade-Fenster für Olaf.",
+      "errors": "Blind in eine frisch gepflanzte Bramble-Bush hineinlaufen und den Root kassieren. Daisy in einem Objective-Kampf ignorieren, obwohl sie erheblichen Zusatzschaden und Crowd Control liefert.",
+      "wave": "Aggressives Counter-Jungling lohnt sich, um Iverns Lanes Ressourcen zu entziehen, auch wenn Ivern selbst wenig eigenes Gold verliert; ein Drei-Camp-Rhythmus mit frühem Gank ist meist effizienter als der volle eigene Clear.",
+      "trade": "Q zuerst, um Iverns Fluchtdistanz zu verringern, dann direkt E für Schaden und Sustain; R ist gegen Ivern selten nötig, sollte aber für Daisy oder ankommende Teamhilfe aufgespart werden.",
+      "items": "Die Hydra-Death's-Dance-Linie ist der solide Standardweg, da Ivern selbst keinen speziellen Zugriffs- oder Magiedruck erzeugt, gegen den reagiert werden müsste.",
+      "situ": "Ein defensiver Gegenstand ist gegen Ivern selten nötig; situativ lohnt sich eher etwas gegen Daisy oder den restlichen Team-CC-Druck.",
+      "side": "1 Item: Olaf dominiert jedes offene Duell klar. 2 Items: Ivern bleibt weiterhin praktisch chancenlos im 1v1. 3 Items: Der Fokus verschiebt sich auf Daisy und Iverns Team-Peel statt auf Ivern selbst.",
+      "plan": "Ivern früh und konsequent counter-jungeln, um seinen Lanes Ressourcen zu entziehen, ohne Rootcaller-Root zu riskieren. In späteren Objective-Kämpfen Daisy als eigenständige Bedrohung einplanen, nicht Ivern selbst.",
+      "override": "Bei viel gegnerischem CC-Druck durch Ivern-Peel und weitere Kontrolleffekte auf pta_inspiration wechseln, um schneller durch Root- und Schild-Fenster zu kommen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Root- und Knockup-Kontrolle von Ivern und Daisy.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "A",
+      "late": "B",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ivern/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "gwen",
+      "name": "Gwen",
+      "tier": "D",
+      "reason": "Gwens Jungle-Clear ist früh eher schwach, weshalb Olaf in den ersten Levels reale Invade-Chancen hat; sobald sie aber über Snip-Snip-Stacks und Skip-'n-Slash-Resets skaliert, zählt sie zu den gefährlichsten reinen Duellanten gegen Bruiser wie Olaf. Olafs E-Truedamage umgeht immerhin Gwens Hallowed-Mist-Reduktion, was den späten Rückstand etwas abfedert, ohne ihn aufzuheben.",
+      "runeReason": "Conqueror passt zum verlängerten Stack-Duell gegen Gwens Q-Rotation, da Olaf Sustain gegen ihre Nebel-Reduktion braucht; Boneplating dämpft die Burst-Spitze aus Skip-'n-Slash-Dash und den ersten Q-Treffern.",
+      "l1": "Level 1-2 ist Gwen ohne aufgebaute Q-Stacks vergleichsweise schwach; ein Scuttle-Contest um 2:30-3:00 steht meist zugunsten von Olaf, solange sie sich nicht bereits im eigenen Hallowed Mist verschanzt.",
+      "l25": "Gwens Clear-Tempo ist unterdurchschnittlich, weshalb sie selten früh aggressiv ganken kann; Olaf sollte diese Phase aktiv für Invades oder eigene Ganks nutzen, bevor Gwen ihre ersten Items und Stacks aufbaut.",
+      "l6": "Mit R kann Gwen aus Distanz slowen und Truedamage-Nova austeilen, was Fluchtversuche von Olaf erschwert; Olafs eigenes R hilft primär gegen ihren Nahkampf-Dash-Zugriff, nicht gegen die Fernkomponente von Needlework.",
+      "threats": "Hallowed-Mist-Schadensreduktion (W), Skip-'n-Slash-Dash-Resets (E), Snip-Snip-Truedamage-Stacks (Q), Needlework-Slow-Nova (R).",
+      "window": "Solange Gwen ihre Q-Stacks für den nächsten großen Treffer noch nicht aufgebaut hat oder W bereits für Vorwärtsverteidigung verbraucht wurde, ist ein früher Kontakt für Olaf deutlich sicherer.",
+      "errors": "Außerhalb von Gwens Hallowed Mist auf Autos setzen, wo die Reduktion greift, statt aktiv mit E hineinzugehen. Nach einem Skip-'n-Slash-Reset planlos weiterverfolgen, statt die Distanz neu einzuschätzen.",
+      "wave": "Früh lohnt sich aggressives Counter-Jungling und ein Drei-Camp-Gank-Rhythmus, da Gwens Clear-Tempo unterdurchschnittlich ist; im späteren Spiel sollte Olaf direkte Camp-Wettläufe meiden, sobald Gwen mehrere Items hat.",
+      "trade": "Q zuerst für den Slow, dann sofort mit E hinein in Gwens Hallowed Mist, da die True-Damage-Komponente ihre Reduktion umgeht; R erst zünden, wenn ihr Skip-'n-Slash-Dash bereits verbraucht ist.",
+      "items": "Stridebreaker hilft, Gwens Dash-Resets einzuholen und sie im Nebel festzuhalten, da reine Hydra-Sustain gegen ihre Mobilität allein zu wenig Zugriff bietet.",
+      "situ": "Bei starkem physischem Zusatzdruck aus dem Gwen-Team kann ein defensiver Armor-Gegenstand das Überleben in verlängerten Duellen verbessern.",
+      "side": "1 Item: Olaf hat durch Gwens schwachen Clear reale Vorteile. 2 Items: Der Kampf wird ausgeglichener, sobald Gwen Q-Stacks zuverlässig aufbaut. 3 Items: Gwen wird zu einer der gefährlichsten Duellantinnen im Spiel, Olaf sollte direkte 1v1 vermeiden.",
+      "plan": "Die frühe Schwäche von Gwens Clear konsequent über Invades und Counter-Jungling ausnutzen. Im späteren Spiel offene 1v1 gegen eine ausgebaute Gwen meiden und stattdessen über Zahlenvorteile und Objectives spielen.",
+      "override": "Bei viel gegnerischem Chip-Schaden aus Poke-Lanern auf conqueror_secondwind wechseln, um die frühe Phase gegen zusätzlichen Dauerdruck abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Gwens überwiegend magischen Schaden und die Needlework-Slow.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "E",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/gwen/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "xinzhao",
+      "name": "Xin Zhao",
+      "tier": "C",
+      "reason": "Xin Zhaos Drei-Treffer-Passive und die Q-Knockup-Kombo machen ihn zu einem der stärksten frühen Skirmisher gegen Olaf, zumal sein E die Heilung des Ziels für die Dauer des Effekts reduziert und damit direkt Olafs Sustain-Plan angreift. Im späteren Spiel gleicht sich die Duellstärke etwas an, da Xin ohne eigene Sustain-Quelle auskommt und Olafs Rohschaden aufholt.",
+      "runeReason": "Conqueror passt zum verlängerten Dauerduell gegen einen anderen Bruiser; Boneplating dämpft die Q-E-Knockup-Kombo, mit der Xin den Kampf eröffnet.",
+      "l1": "Level 1-2 gewinnt Xin durch seine Passive und die Drei-Treffer-Knockup-Kombo die meisten offenen Duelle; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Summoner-Spell- oder Levelvorteil suchen.",
+      "l25": "Xin Zhao ist ein aktiver früher Invader mit hohem Tempo über E-Dash zu Einheiten; Olaf sollte in dieser Phase defensiver pathen und eigene Camps eher absichern als offene Kreuzungen zu suchen.",
+      "l6": "Ab Level 6 kann Olaf mit R Xins Knockup-Combo überstehen und dank fehlender eigener Sustain auf Xins Seite den Sustain-Wettlauf gewinnen, sofern das E-Heal-Reduktion-Fenster von Xin bereits abgelaufen ist.",
+      "threats": "Drei-Treffer-Knockup (Q/Passive), Heilungsreduktion durch Battle Cry (E), Crescent-Guard-Fernschaden-Immunität (R).",
+      "window": "Sobald Xins E-Heilungsreduktion abgelaufen ist und sein Q-Knockup verbraucht wurde, ist der Sustain-Wettlauf klar zugunsten von Olaf – dieses Fenster eignet sich für Konter-Invade oder Objective-Druck.",
+      "errors": "In der aktiven Heilungsreduktion durch Battle Cry auf reine Lebensraub-Sustain vertrauen, statt Rohschaden zu priorisieren. Den Q-Knockup unterschätzen und ohne Fluchtoption in offene Flächen ziehen.",
+      "wave": "Gegen Xin lohnt sich meist der eigene volle Clear mit Vision an Kreuzungen, da ein direkter Camp-Wettlauf wegen seines hohen frühen Invade-Tempos riskant ist.",
+      "trade": "Q zuerst für den Slow, dann E für Schaden, wobei die Heilungsreduktion aus Xins E einkalkuliert werden muss; R erst zünden, wenn Xins Q-Knockup-Kombo bereits verbraucht ist.",
+      "items": "Die Cleaver-Linie liefert Rüstungsschred und Rohschaden, um Xins Heilungsreduktion zu kompensieren, da reine Lebensraub-Sustain in diesem Fenster wirkungslos ist.",
+      "situ": "Ein früher defensiver Gegenstand mit Health gegen Xins Knockup-Combo kann das Überleben des ersten Kontakts deutlich verbessern.",
+      "side": "1 Item: Xin gewinnt die meisten offenen Duelle klar. 2 Items: Der Kampf wird ausgeglichener, sofern Olaf die Heilungsreduktion einkalkuliert. 3 Items: Olafs Rohschaden und R-Sustain gleichen Xins fehlende eigene Sustain zunehmend aus.",
+      "plan": "Frühe offene Kontakte defensiv spielen und eigene Camps sichern, statt Xins Invade-Tempo direkt zu kontern. Ab Level 6 Objective-Kämpfe suchen, in denen Xins Heilungsreduktion bereits abgelaufen ist.",
+      "override": "Bei viel gegnerischem Burst-Druck zusätzlich zu Xin auf conqueror_secondwind wechseln, um repetitive Chip-Schäden im Team abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Xin Zhaos überwiegend physischen Nahkampfschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/xinzhao/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "vi",
+      "name": "Vi",
+      "tier": "C",
+      "reason": "Vi ist über Vault-Breaker-Dash und Denting-Blows-Rüstungsschred eine der aggressivsten frühen Invade-Junglerinnen und gewinnt die meisten Level-2-3-Kontakte gegen Olaf. Da Vi selbst kaum eigene Sustain mitbringt, dreht sich der Sustain-Wettlauf im verlängerten Duell später eher zu Olafs Gunsten, sofern er den Ultimate-Einstieg übersteht.",
+      "runeReason": "Conqueror passt zum verlängerten Bruiser-Duell, da Olaf gegen Vis fehlende Eigen-Sustain über Zeit aufholt; Boneplating dämpft die Vault-Breaker-Öffnung und den Ultimate-Combo-Einstieg.",
+      "l1": "Level 1-2 gewinnt Vi über den Vault-Breaker-Dash und Denting Blows die meisten offenen Duelle; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit klarem Vorteil suchen.",
+      "l25": "Vi invadiert früh aktiv über den weitreichenden Q-Dash und sucht frühe Skirmishes; Olaf sollte eigene Camps absichern und Invasionsversuche nur mit gesicherter Vision starten.",
+      "l6": "Vis R kann Olaf über weite Distanz fixieren und kurz kontrollieren; reagiert Olaf rechtzeitig mit eigenem R, verhindert er die anschließende Kontrolle und kann den Sustain-Wettlauf im offenen Kampf für sich entscheiden.",
+      "threats": "Vault-Breaker-Gap-Close (Q), Denting-Blows-Rüstungsschred (W), Cease-and-Desist-Fernfixierung (R).",
+      "window": "Sobald Vis Q-Dash auf Cooldown liegt oder ihr R bereits für einen Pick anderswo verbraucht wurde, ist ein Konter-Invade gegen sie deutlich sicherer.",
+      "errors": "Den weitreichenden R-Dash unterschätzen und sich isoliert von der eigenen Vision bewegen. Nach dem ersten Vault-Breaker-Treffer den eigenen Positionsvorteil nicht nutzen, um den fehlenden Vi-Sustain auszunutzen.",
+      "wave": "Gegen Vi lohnt sich eher defensiveres Pathing mit Vision an Kreuzungen als ein direkter Camp-Wettlauf, da ihr Invade-Tempo über den Q-Dash hoch ist.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain und Schaden; R erst zünden, wenn Vis eigener Dash oder ihr Ultimate bereits verbraucht sind, da sie sonst den Einstieg diktiert.",
+      "items": "Die Hydra-Death's-Dance-Linie ist solide, da Vi selbst wenig eigene Sustain hat und der Sustain-Wettlauf im verlängerten Duell zugunsten von Olaf verläuft.",
+      "situ": "Ein früher defensiver Armor-Gegenstand gegen Vis physischen Rüstungsschred-Druck kann das Überleben in erzwungenen Kontakten verbessern.",
+      "side": "1 Item: Vi gewinnt die meisten offenen Duelle über ihren Dash-Einstieg. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf ihren Ultimate-Einstieg übersteht. 3 Items: Olafs Sustain-Vorteil gegenüber einer Vi ohne eigene Heilung wird deutlicher.",
+      "plan": "Frühe offene Kontakte defensiv spielen und Vis weitreichenden Dash respektieren. Ab Level 6 Objective-Kämpfe suchen, in denen Vis Ultimate bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+      "override": "Bei viel gegnerischem Magiedruck im Vi-Team zusätzlich auf hydra_maw wechseln, um Magieresistenz für den Rest des Teams einzuplanen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Vis überwiegend physischen Nahkampfschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/vi/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "jarvaniv",
+      "name": "Jarvan IV",
+      "tier": "C",
+      "reason": "Jarvan IV ist ein klassischer früher Skirmisher mit EQ-Knockup-Kombo und starkem Invade-Potenzial, was gegen Olaf ein enges, aber lesbares Bruiser-Duell ergibt. Cataclysm kann beide Seiten in einer geschlossenen Arena einsperren, was im Endeffekt den stärkeren reinen Duellanten begünstigt, und dort hat Olaf dank Sustain über die Spieldauer tendenziell die Oberhand.",
+      "runeReason": "Conqueror passt zum verlängerten Bruiser-gegen-Bruiser-Duell und liefert die Sustain, um Jarvans Kombo-Öffnung auszugleichen; Boneplating dämpft die EQ-Stun-Kombo direkt.",
+      "l1": "Level 1-2 ist die EQ-Kombo von Jarvan bei richtigem Timing sehr stark; ein Scuttle-Contest um 2:30-3:00 ist eng und hängt stark davon ab, wer zuerst committet.",
+      "l25": "Jarvan pathet aktiv für frühe Invades und Ganks über die Flagge-Speer-Kombo; Olaf sollte Kreuzungen mit Vision absichern und eigene Ganks synchron zu Jarvans Cooldowns timen.",
+      "l6": "Cataclysm kann beide in eine isolierte Arena sperren; sobald Olaf R zündet, überlebt er die anfängliche Knockup-Kombo besser und kann den eingeschlossenen Kampf über die Spieldauer für sich entscheiden.",
+      "threats": "Demacian-Standard-Flagge mit Pull (Q/E-Kombo), Golden-Aegis-Schild, Cataclysm-Arena-Isolation (R).",
+      "window": "Sobald Jarvans EQ-Kombo und Golden Aegis verbraucht sind, ist ein offener Gegenstoß oder Konter-Invade für Olaf deutlich sicherer.",
+      "errors": "Auf der Demacian-Standard-Flagge stehen bleiben und den Q-Pull unterschätzen. Nach Cataclysm panisch fliehen wollen, statt die Isolation für ein reines Duell zu nutzen, in dem Olaf über die Zeit im Vorteil ist.",
+      "wave": "Ein Drei-Camp-Gank-Rhythmus ist gegen Jarvan sinnvoll, da beide Seiten ähnliches Invade-Tempo haben; ein direkter Camp-Wettlauf ist meist ausgeglichen und hängt vom ersten Kontakt ab.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain; R erst zünden, wenn Jarvans EQ-Kombo bereits eingesetzt wurde, da Olaf danach den längeren Atem im Duell hat.",
+      "items": "Die Hydra-Death's-Dance-Linie ist der solide Standardweg für den Sustain-Wettlauf gegen einen anderen Bruiser ohne große Zugriffsprobleme.",
+      "situ": "Ein früher defensiver Gegenstand mit Health gegen die EQ-Stun-Kombo kann das Überleben des ersten großen Kontakts verbessern.",
+      "side": "1 Item: Der Kampf ist eng und hängt vom Kombo-Timing ab. 2 Items: Olafs Sustain beginnt den Unterschied zu machen. 3 Items: Olaf gewinnt verlängerte Duelle klarer, sofern er die anfängliche Kombo übersteht.",
+      "plan": "Frühe Kontakte nur mit gesicherter Vision und idealerweise Summoner-Spell-Vorteil suchen. Cataclysm nicht fürchten, sondern als Chance für ein isoliertes Duell nutzen, in dem Olafs Sustain über die Zeit trägt.",
+      "override": "Bei viel gegnerischem Magiedruck im Jarvan-Team auf conqueror_inspiration wechseln, um mehr Tempo für frühe Gegenstöße zu bekommen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Jarvan IVs überwiegend physischen Nahkampfschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/jarvaniv/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "warwick",
+      "name": "Warwick",
+      "tier": "D",
+      "reason": "Warwick ist der klassische Sustain-Spiegel-Gegner: seine Passive heilt ihn bei jedem Treffer, Blood Hunt gibt ihm gegen niedrige Ziele zusätzliches Tempo, und seine Suppression-Ultimate kann ein Duell einseitig beenden, bevor Olaf reagieren kann. Da beide Champions auf Lebensraub-Sustain setzen, entscheidet meist, wer den ersten großen CC-Treffer landet, was tendenziell Warwick begünstigt.",
+      "runeReason": "Conqueror ist im Sustain-Wettlauf gegen Warwick fast Pflicht, um mit seiner Eternal-Hunger-Heilung mitzuhalten; Boneplating dämpft die Suppression-Burst-Kombo aus R.",
+      "l1": "Level 1-2 ist eng, da beide über Lebensraub aus Grundfähigkeiten heilen; ein Scuttle-Contest um 2:30-3:00 kann leicht zugunsten von Warwick kippen, wenn er zuerst Q trifft.",
+      "l25": "Warwicks passive Blood-Hunt-Erkennung verrät ihm verwundete Ziele auf der Karte und gibt ihm zusätzliches Tempo für Ganks gegen geschwächte Lanes; Olaf sollte niedrige HP-Werte im eigenen Team gegen Warwick besonders im Blick behalten.",
+      "l6": "Infinite Duress kann ein Duell durch Suppression sofort entscheiden; reagiert Olaf rechtzeitig mit eigenem R, verhindert er die Suppression und kann den Sustain-Wettlauf offener gestalten.",
+      "threats": "Eternal-Hunger-Sustain (Passive), Blood-Hunt-Tempo gegen niedrige HP (W), Primal-Howl-Furcht (E), Infinite-Duress-Suppression (R).",
+      "window": "Sobald Warwicks R bereits gegen ein anderes Ziel verbraucht wurde oder sein Blood-Hunt-Tempo nicht aktiv ist, ist ein Konter-Invade gegen ihn spürbar sicherer.",
+      "errors": "Mit niedrigem eigenem HP-Wert in Sichtweite von Warwick bleiben, da Blood Hunt ihn dann gezielt anzieht. Den Suppression-Range von R unterschätzen und zu früh committen, bevor R überhaupt verfügbar ist.",
+      "wave": "Gegen Warwick lohnt sich eher ein vorsichtiger Drei-Camp-Rhythmus mit Vision als ein offener Camp-Wettlauf, da sein Blood-Hunt-Tempo ihn im Vorteil bei verwundeten Zielen hält.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain, wobei der eigene HP-Wert im Blick behalten werden muss, um Blood Hunt nicht zu triggern; R erst zünden, wenn Warwicks eigenes R bereits verbraucht ist.",
+      "items": "Die Hydra-Death's-Dance-Linie mit früher Grievous-Wounds-Option ist zentral, um Warwicks Eternal-Hunger-Heilung im Duell spürbar zu senken.",
+      "situ": "Ein Gegenstand mit Grievous-Wounds-Effekt ist gegen Warwicks Sustain-Kit fast Pflicht, sobald er im Spiel relevant wird.",
+      "side": "1 Item: Der Sustain-Wettlauf ist eng und tendiert zu Warwick. 2 Items: Mit Grievous Wounds im Build gleicht sich der Kampf spürbar aus. 3 Items: Olafs Rohschaden und Sustain-Kürzung gegen Warwick greifen deutlicher.",
+      "plan": "Den eigenen HP-Wert im Sichtfeld von Warwick im Blick behalten, um Blood Hunt nicht zu triggern, und Grievous Wounds so früh wie möglich einplanen. Direkte 1v1 erst suchen, wenn Warwicks R bereits verbraucht ist.",
+      "override": "Bei viel gegnerischem Poke- statt All-in-Druck auf conqueror_secondwind wechseln, um Chip-Schaden abseits von Warwicks direktem Duell abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Warwicks überwiegend physischen On-Hit- und True-Damage-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/warwick/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "nocturne",
+      "name": "Nocturne",
+      "tier": "C",
+      "reason": "Nocturne ist ein starker früher Skirmisher mit Furcht-Tether und Spellshield, der über den Q-Schattenpfad zusätzliches Tempo für Invades hat, während sein W einen der ersten Olaf-Casts komplett blocken kann. Da Nocturne selbst wenig eigene Sustain mitbringt, kann Olaf mit R den Furcht-Lock überstehen und den verlängerten Kampf für sich entscheiden, sofern er nicht in den Spellshield hineinläuft.",
+      "runeReason": "PTA passt zur kurzen, brutalen Duellöffnung, bevor Nocturnes W-Spellshield oder E-Fear-Tether das Momentum kippen; Boneplating dämpft den Ultimate-Einstieg über Paranoia.",
+      "l1": "Level 1-2 ist Nocturne dank Umbra-Blades-Tempo ein gefährlicher Skirmisher; ein Scuttle-Contest um 2:30-3:00 sollte Olaf mit Vorsicht angehen und den W-Spellshield mit einem Bait-Cast zuerst provozieren.",
+      "l25": "Nocturne nutzt Duskbringer-Wurflinien, um schnell zwischen Camps zu rotieren und früh zu invadieren; Olaf sollte den ersten Ability-Cast bewusst als Köder für den Spellshield einsetzen, bevor er den echten Trade sucht.",
+      "l6": "Paranoia erlaubt Nocturne globale Einstiege auf isolierte Ziele; im direkten Duell gegen Olaf hilft R, den Fear-Tether aus E zu überstehen, während Nocturnes fehlende eigene Sustain den verlängerten Kampf zugunsten von Olaf verschiebt.",
+      "threats": "Fear-Tether (E), Spellshield mit Attack-Speed-Bonus (W), Paranoia-Global-Einstieg (R), Umbra-Blades-Tempo-Stacks.",
+      "window": "Sobald Nocturnes W-Spellshield durch einen Köder-Cast verbraucht ist oder sein E-Tether bereits eingesetzt wurde, ist der offene Duell-Fight deutlich sicherer für Olaf.",
+      "errors": "Die erste eigene Fähigkeit ungeschützt in den Spellshield hineinwerfen, statt bewusst zu baiten. Nach einem gebrochenen Fear-Tether die eigene Positionierung vernachlässigen und in weitere Cooldowns hineinlaufen.",
+      "wave": "Gegen Nocturne lohnt sich defensiveres Pathing mit Vision an Kreuzungen, da sein Rotationstempo über Q-Schattenpfade hoch ist; ein direkter Camp-Wettlauf ist riskant, solange sein W-Spellshield aktiv ist.",
+      "trade": "Erst eine kleine Fähigkeit als Köder für den Spellshield einsetzen, dann Q für den Slow und E für Sustain; R erst zünden, wenn Nocturnes Fear-Tether bereits aktiv oder verbraucht ist.",
+      "items": "Stridebreaker hilft, Nocturne trotz seiner Schatten-Mobilität im Duell festzuhalten, da reine Hydra-Sustain gegen seine Zugriffsprobleme allein zu wenig bietet.",
+      "situ": "Ein früher defensiver Armor-Gegenstand gegen Nocturnes physischen Burst-Druck kann das Überleben des ersten Kontakts verbessern.",
+      "side": "1 Item: Nocturne gewinnt kurze, scharfe Duelle über sein Tempo. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf den Spellshield konsequent baitet. 3 Items: Olafs Sustain-Vorteil gegenüber einer sustainarmen Nocturne wird deutlicher.",
+      "plan": "Den Spellshield aktiv mit einer kleinen Fähigkeit provozieren, bevor der echte Trade beginnt. Frühe Rotationen über Kreuzungen mit Vision absichern und Objective-Kämpfe erst suchen, wenn Nocturnes Fear-Tether bereits verbraucht ist.",
+      "override": "Bei viel gegnerischem Magiedruck im Nocturne-Team auf pta_inspiration wechseln, um mehr Tempo für frühe Gegenstöße zu bekommen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Nocturnes überwiegend physischen Burstschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/nocturne/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "belveth",
+      "name": "Bel'Veth",
+      "tier": "D",
+      "reason": "Bel'Veth ist früh vergleichsweise schwach und auf ungestörtes Farmen angewiesen, was Olaf reale Invade- und Skirmish-Fenster in den ersten Leveln gibt. Sobald sie aber mehrere Items und ihre wachsende True-Damage-Passive aufgebaut hat, zählt sie zu den gefährlichsten Hypercarry-Duellanten im Spiel, gegen die ein reines 1v1 spät kaum noch zu gewinnen ist.",
+      "runeReason": "PTA passt zur frühen Phase, in der Bel'Veth am verwundbarsten ist und Olaf schnelle Kills statt langer Fights sucht; Boneplating dämpft ihre wachsende Burst-Kombo aus Q-Dashes und Autos.",
+      "l1": "Level 1-2 ist Bel'Veth ohne Items vergleichsweise schwach im direkten Duell; ein Scuttle-Contest um 2:30-3:00 steht meist zugunsten von Olaf, solange er den Kontakt aktiv sucht.",
+      "l25": "Bel'Veth priorisiert in dieser Phase fast ausschließlich ungestörtes Farmen, da ihr Powerspike stark itemabhängig ist; genau hier sollte Olaf über Invades und Counter-Jungling aktiv Tempo herausnehmen.",
+      "l6": "Mit ihrer Empowered-Form durch R wird Bel'Veth deutlich gefährlicher in Objective-Kämpfen und kann Voidling-Wellen erzeugen; Olafs R hilft im direkten Duell, doch bei mehreren Items wird ein reines 1v1 zunehmend unrealistisch.",
+      "threats": "Doppel-Dash mit Void-Surge (Q), wachsende True-Damage-Stacks pro einzigartigem Champion-Takedown (Passive), Empowered-Form mit Voidling-Wellen (R).",
+      "window": "Das größte Fenster liegt vor Bel'Veths erstem oder zweitem Item; danach sollte Olaf offene 1v1 gegen sie zunehmend meiden und stattdessen über Zahlenvorteile spielen.",
+      "errors": "Bel'Veth nach dem zweiten oder dritten Item noch als gleichwertigen Duellpartner behandeln. Ihren Doppel-Dash über Void Surge unterschätzen und den Fluchtabstand falsch einschätzen.",
+      "wave": "Früh lohnt sich aggressives Counter-Jungling und ein Drei-Camp-Gank-Rhythmus, um Bel'Veths Farmtempo zu stören; später sollte Olaf direkte Camp- oder Objective-Wettläufe gegen eine ausgebaute Bel'Veth meiden.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain; R früh und aggressiv einsetzen, solange Bel'Veth noch wenig Items hat, da spätere Duelle zunehmend ungünstiger werden.",
+      "items": "Stridebreaker hilft, Bel'Veths Doppel-Dash-Mobilität einzuholen, solange ein Duell überhaupt noch sinnvoll ist, da reine Sustain gegen ihre spätere Skalierung nicht ausreicht.",
+      "situ": "Ein defensiver Health-Gegenstand kann helfen, frühe erzwungene Kontakte zu überstehen, ändert aber wenig an der späten Skalierungsproblematik.",
+      "side": "1 Item: Olaf hat klare Vorteile im direkten Duell. 2 Items: Der Kampf wird bereits deutlich riskanter für Olaf. 3 Items: Bel'Veth ist im offenen 1v1 kaum noch zu schlagen und sollte gemieden werden.",
+      "plan": "Die frühe Schwäche von Bel'Veth konsequent über Invades und Counter-Jungling ausnutzen, um ihr Farmtempo zu brechen. Sobald sie mehrere Items hat, offene Duelle meiden und stattdessen über Objectives und Zahlenvorteile spielen.",
+      "override": "Bei starkem gegnerischen Magiedruck zusätzlich zu Bel'Veth auf pta_inspiration wechseln, um mehr Tempo für die entscheidende frühe Phase zu bekommen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Plated Steelcaps gegen Bel'Veths überwiegend physischen On-Hit- und Auto-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "F",
+      "rune": "PTA",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/belveth/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "diana",
+      "name": "Diana",
+      "tier": "C",
+      "reason": "Diana ist ein solider AP-Bruiser mit Crescent-Strike-Slow und Lunar-Rush-Gapclose, der frühe Duelle über Pale-Cascade-Schild absichern kann, aber ohne besondere Zugriffsprobleme gegen Olaf auskommt. Das Duell ist über weite Strecken ausgeglichen und hängt stark davon ab, wer den ersten Q-Treffer oder R-Pull sauber landet.",
+      "runeReason": "Conqueror passt zum verlängerten Duell gegen Dianas Pale-Cascade-Schild, da Olaf Sustain über die Zeit braucht, um den Schildschaden auszugleichen; Boneplating dämpft die Combo-Öffnung aus Q-Slow und Lunar-Rush-Dash.",
+      "l1": "Level 1-2 ist eng, da Dianas Q-Slow und Pale-Cascade-Schild frühe Trades absichern; ein Scuttle-Contest um 2:30-3:00 hängt stark davon ab, wer den ersten Crescent-Strike-Treffer landet.",
+      "l25": "Diana pathet über Lunar-Rush-Resets nach Monster- oder Champion-Treffern zügig zwischen Camps; Olaf sollte eigene Positionierung so wählen, dass ein Q-Treffer von Diana nicht automatisch einen Dash-Einstieg ermöglicht.",
+      "l6": "Mit R kann Diana mehrere Ziele in ihre Orbit-Reichweite ziehen, was in Objective-Kämpfen gefährlich wird; im reinen 1v1 hilft Olafs R, den Pull-Einstieg zu überstehen und den Sustain-Wettlauf für sich zu entscheiden.",
+      "threats": "Crescent-Strike-Slow (Q), Pale-Cascade-Schild (W), Lunar-Rush-Gapclose mit Reset (E), Moonfall-Pull (R).",
+      "window": "Sobald Dianas Pale-Cascade-Schild bereits verbraucht ist oder ihr Q-Slow danebenging, ist ein offener Gegenstoß oder Konter-Invade für Olaf spürbar sicherer.",
+      "errors": "Nach einem getroffenen Crescent Strike sofort in Lunar-Rush-Reichweite bleiben und den Dash-Einstieg ermöglichen. Den Moonfall-Pull-Radius im Objective-Kampf unterschätzen und zu weit vorne stehen.",
+      "wave": "Ein Drei-Camp-Gank-Rhythmus ist gegen Diana sinnvoll, da beide ähnliches frühes Invade-Tempo haben; ein direkter Camp-Wettlauf ist meist ausgeglichen und hängt vom ersten Q-Treffer ab.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain, wobei Dianas Pale-Cascade-Schild eingerechnet werden muss; R erst zünden, wenn ihr Schild bereits gebrochen oder Lunar Rush verbraucht ist.",
+      "items": "Die Maw-Linie liefert Magieresistenz gegen Dianas überwiegend magischen Schaden aus W-Sphären und der Moonsilver-Blade-Passive.",
+      "situ": "Ein früher defensiver Magieresistenz-Gegenstand kann gegen Dianas frühen Burst-Druck das Überleben des ersten Kontakts verbessern.",
+      "side": "1 Item: Der Kampf ist eng und hängt vom ersten Combo-Treffer ab. 2 Items: Olafs Sustain beginnt den Unterschied gegenüber Dianas Burst-Fenster zu machen. 3 Items: Olaf gewinnt verlängerte Duelle klarer, sofern er den Schild-Schaden übersteht.",
+      "plan": "Frühe Kontakte nur mit klarer Positionierung gegen den Lunar-Rush-Dash suchen. Objective-Kämpfe idealerweise erst beginnen, wenn Dianas Schild bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+      "override": "Bei viel gegnerischem physischem Druck im Diana-Team auf conqueror_secondwind wechseln, um zusätzlichen Chip-Schaden abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Dianas überwiegend magischen Schaden und den Moonfall-Pull.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/diana/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    },
+    {
+      "slug": "elise",
+      "name": "Elise",
+      "tier": "D",
+      "reason": "Elise zählt zu den stärksten frühen Invade-Junglerinnen im Spiel, da Cocoon aus großer Reichweite betäubt und die anschließende Spiderling-Kombo hohen Frühschaden gegen hohe aktuelle HP austeilt, was Olaf als gesunden Skirmisher besonders trifft. Im späteren Spiel verliert Elise relativ an reiner Duellkraft gegenüber einem skalierten Olaf mit R, bleibt aber als Pick-Bedrohung in Seitenlanen relevant.",
+      "runeReason": "Conqueror passt zum Sustain-Wettlauf, sobald Olaf die Cocoon-Öffnung übersteht; Boneplating ist zentral, um die frühe Burst-Kombo aus Cocoon und Spiderlings abzufedern.",
+      "l1": "Level 1-2 ist Elise durch die lange Cocoon-Reichweite und Bonusschaden gegen hohe aktuelle HP extrem gefährlich; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Vision auf Elises Position wagen.",
+      "l25": "Elise ist eine der aktivsten frühen Invaderinnen und sucht gezielt Kontakt an Scuttle und gegnerischen Camps; Olaf sollte in dieser Phase besonders auf Cocoon-Reichweite achten und offene Flächen meiden.",
+      "l6": "Ab Level 6 kann Olaf mit R den Cocoon-Stun überstehen, sofern er rechtzeitig reagiert, und den anschließenden Kampf über Sustain für sich entscheiden, da Elise selbst über wenig Eigenheilung im direkten Duell verfügt.",
+      "threats": "Cocoon-Fernbetäubung (E), Bonusschaden gegen hohe aktuelle HP (Q), Spiderling-Burst (W), Rappel-Fluchtsprung (Spinnenform-E).",
+      "window": "Sobald Elises Cocoon bereits verbraucht oder danebengegangen ist, ist ein offener Gegenstoß oder Konter-Invade für Olaf deutlich sicherer.",
+      "errors": "Die lange Cocoon-Reichweite unterschätzen und offene Flächen ohne Deckung durchqueren. Nach einem geblockten oder verpassten Cocoon trotzdem zögerlich bleiben, statt das Fenster aktiv zu nutzen.",
+      "wave": "Gegen Elise lohnt sich defensiveres Pathing mit Vision an Kreuzungen, da ihr frühes Invade-Tempo über Cocoon hoch ist; ein direkter Camp-Wettlauf ist riskant, solange Cocoon verfügbar ist.",
+      "trade": "Q zuerst für den Slow, dann E für Sustain, sobald der Cocoon-Stun übersteht ist; R einsetzen, sobald Elise ihre Cocoon-Betäubung bereits investiert hat, um den Gegenstoß zu maximieren.",
+      "items": "Die Maw-Linie liefert Magieresistenz gegen Elises überwiegend magischen Burst aus Cocoon-Kombo und Spiderlings.",
+      "situ": "Ein früher defensiver Magieresistenz-Gegenstand gegen Elises Burst-Kombo kann das Überleben des ersten Kontakts deutlich verbessern.",
+      "side": "1 Item: Elise gewinnt die meisten offenen Duelle über ihre Cocoon-Kombo klar. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf den Stun übersteht. 3 Items: Olafs Sustain-Vorteil gegenüber einer Elise ohne eigene Heilung wird deutlicher.",
+      "plan": "Frühe offene Flächen meiden und Cocoon-Reichweite konsequent respektieren, bis Item- und Levelvorteile aufgebaut sind. Ab Level 6 Objective-Kämpfe suchen, in denen Elises Cocoon bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+      "override": "Bei viel gegnerischem physischem Druck im Elise-Team auf conqueror_secondwind wechseln, um zusätzlichen Chip-Schaden abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+      "sums": "Flash + Smite",
+      "boots": "Mercury's Treads gegen Elises Cocoon-Betäubung und den überwiegend magischen Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "jungle",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/elise/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/jungle"
+        ]
+      ]
+    }
+  ]
 }

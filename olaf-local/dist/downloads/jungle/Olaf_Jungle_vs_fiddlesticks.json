@@ -1,0 +1,50 @@
+{
+  "slug": "fiddlesticks",
+  "name": "Fiddlesticks",
+  "tier": "C",
+  "reason": "Fiddlesticks ist ein gefährlicher Ambush- und Invade-Champion, dessen Furcht (Q) und Crowstorm (R) frühe Skirmishes gegen Olaf kippen können, bevor dieser überhaupt reagiert. Olafs R entfernt aber auch bereits aktive Furcht-Effekte, weshalb Olaf im direkten Duell ab Level 6 einen realen Gegenstoß hat, sobald er den ersten CC-Treffer übersteht.",
+  "runeReason": "Conqueror passt zum Sustain-Wettlauf gegen Bountiful Harvest, das Fiddle im Kampf heilt; Boneplating dämpft die Burst-Öffnung aus Q-Furcht und Reap, bevor Olaf zurückschlagen kann.",
+  "l1": "Level 1-2 ist Fiddlesticks ohne W-Kanal wenig bedrohlich, ein Scuttle-Contest um 2:30-3:00 ist meist ausgeglichen, solange er nicht aus einem Bush ambusht; Olaf gewinnt einen offenen Level-2-Duell in der Regel.",
+  "l25": "Fiddlesticks pathet gerne über Büsche und nutzt seine passive Tarnung nahe an Monstern, um Scuttle oder Camps zu stehlen; Olaf sollte Flusskreuzungen meiden, wenn Fiddle dort zuletzt nicht gesichtet wurde.",
+  "l6": "Ab Level 6 wird Crowstorm zur echten Dive- und Pick-Gefahr in Objective-Kämpfen; sobald Olaf R aktiviert, ist er gegen die abschließende Furcht immun und kann den Kampf gegen einen bereits verausgabten Fiddlesticks für sich entscheiden.",
+  "threats": "Terrify-Furcht (Q), Bountiful-Harvest-Drain (W), Crowstorm-Ambush (R), Dread-Bonusschaden aus dem Nebel.",
+  "window": "Wenn W oder R von Fiddlesticks bereits für einen Gank oder Farmversuch verbraucht wurden, ist er im offenen Duell deutlich schwächer – dann lohnt sich Konter-Invade oder Objective-Druck.",
+  "errors": "Blind in unbewachte Büsche laufen, ohne Wards oder Control Ward zu setzen. Gegen eine laufende Crowstorm-Kanalisierung stehen bleiben, statt sofort Distanz zu suchen oder R zu zünden.",
+  "wave": "Voller Clear ist meist sicherer als aggressives Counter-Jungling, da Fiddlesticks' Ambush-Potenzial einen unvorsichtigen Invade teuer macht; bei gesicherter Vision lohnt sich aber ein Drei-Camp-Rhythmus mit frühem Gank.",
+  "trade": "Erst Q für den Slow setzen, dann E für Sustain und Druck; R erst zünden, sobald Fiddlesticks Furcht oder Crowstorm bereits eingesetzt hat, um die CC-Immunität optimal zu nutzen.",
+  "items": "Die Maw-Linie liefert Magieresistenz gegen Fiddlesticks' überwiegend magischen Schaden aus W und R, was im verlängerten Duell den Unterschied macht.",
+  "situ": "Bei sehr aggressivem Ambush-Spiel kann ein früher defensiver Magieresistenz-Gegenstand die Invade-Fenster von Fiddlesticks deutlich entschärfen.",
+  "side": "1 Item: Fiddlesticks kann mit Furcht und Drain noch gefährlich picken. 2 Items: Olaf übersteht die Furcht dank R zuverlässiger und kontert. 3 Items: Olaf dominiert offene Duelle, Fiddlesticks bleibt aber als Pick-Bedrohung in Teamfights relevant.",
+  "plan": "Vision um eigene Camps und Flussübergänge priorisieren, um Ambush-Fenster zu neutralisieren. Ab Level 6 aktiv nach Objective-Kämpfen suchen, in denen Olaf die Furcht über R kontert und den Gegenstoß setzt.",
+  "override": "Bei viel gegnerischem physischem Poke- oder All-in-Druck auf conqueror_secondwind wechseln, um repetitive Chip-Schäden abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Furcht-CC und den überwiegend magischen Schaden von Fiddlesticks.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/fiddlesticks/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

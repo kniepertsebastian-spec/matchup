@@ -1,0 +1,50 @@
+{
+  "slug": "heimerdinger",
+  "name": "Heimerdinger",
+  "tier": "D",
+  "reason": "Türme zonen die Lane extrem effektiv und machen jeden direkten Anlauf vor Zerstörung der Türme teuer. Sobald Türme fallen und Olaf ihn im offenen Nahkampf erwischt, ist Heimerdinger eines der fragilsten Ziele im Matchup-Pool.",
+  "runeReason": "Second Wind gleicht den konstanten Turm- und Raketenschaden über die frühen Level aus, in denen Olaf primär Schaden absorbiert statt auszuteilen. PTA nutzt die seltenen, aber tödlichen Fenster nach Turmzerstörung.",
+  "l1": "Türme sind level 1 noch nicht verfügbar, direkter Kontakt in der Bush ist für Olaf meist gewinnbar, solange kein Grenade-Stun trifft.",
+  "l25": "Sobald Türme platziert sind, ist reines Anlaufen teuer – Farm unter Turmzonen priorisieren und Türme gezielt mit Q abbauen, wenn möglich. All-in nur, wenn mindestens ein Turm down oder außer Reichweite ist.",
+  "l6": "Sein Ultimate verstärkt Türme und Raketen temporär und erhöht den Flächenschaden deutlich, ändert aber nichts an seiner fehlenden Mobilität. Olafs R hilft primär gegen den Grenade-Stun, nicht gegen den reinen Zonenschaden.",
+  "threats": "Turmzonen-Schaden, Raketen-Flächenschaden, Grenade-Stun mit Slow-Zone, verstärkte Ultimate-Phase.",
+  "window": "Sobald mindestens ein Turm zerstört oder abgelaufen ist und der Grenade-Stun verbraucht wurde, ist ein sauberer All-in möglich.",
+  "errors": "Direkt durch aktive Turmreichweite laufen, um Farm zu holen. Den Grenade-Wurf ignorieren und weiter anlaufen, statt seitlich auszuweichen.",
+  "wave": "Slowpush unter dem eigenen Turm, um seine Türme nicht in Reichweite der eigenen CS zu bringen. Türme mit Q priorisiert abbauen, wenn sicher möglich, bevor CS-Fokus.",
+  "trade": "Turm mit Q anpoken, seitlich statt frontal an ihn heranlaufen, E nach Kontakt, R erst wenn Grenade verbraucht und kein aktiver Turm mehr in Reichweite ist.",
+  "items": "Ravenous Hydra in Maw-Linie, da sein Burst rein magisch ist und die Poke-Phase sonst zu viel HP kostet, bevor ein Duell überhaupt startet.",
+  "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn sein Grenade-Stun wiederholt entscheidende All-ins verhindert.",
+  "side": "1 Item: Türme dominieren weiter jede offene Konfrontation. 2 Items: mit Boots-Tempo und R realistische Kills nach Turmverlust seinerseits. 3 Items: klarer Vorteil im offenen Duell, sofern die Zonenkontrolle bereits gebrochen ist.",
+  "plan": "Akzeptiere frühe CS-Verluste unter Zonendruck, baue Türme gezielt ab und suche den All-in erst, wenn er offen im Nahkampf steht. Roame, wenn die Lane durch Turmdichte zu unwirtschaftlich wird.",
+  "override": "Conqueror statt PTA/Second-Wind, wenn das Spiel durch Siege/Split-Push in lange Standoffs statt kurze Kontaktfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Teleport",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/heimerdinger/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

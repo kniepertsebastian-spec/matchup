@@ -1,0 +1,50 @@
+{
+  "slug": "vex",
+  "name": "Vex",
+  "tier": "B",
+  "reason": "Vex' Passive belohnt sie zusätzlich gegen dashende oder springende Gegner, was gegen Olaf praktisch nie greift, da er kein Dash-basiertes Gap-Close-Tool besitzt. Ihre eigene Mobilität ist gering und ihr Fear über E ist an einen kurzen Dash gebunden, wodurch Olaf nach dessen Verbrauch verlässliche All-in-Fenster gegen eine fragile Gegnerin bekommt.",
+  "runeReason": "Press the Attack passt zum kurzen Burst-Fenster nach einem verbrauchten E-Fear, in dem Vex kaum Fluchtwerkzeug hat. Second Wind mildert den Q-Poke-Chip, dem Olaf beim Herankommen an eine grundsätzlich immobile Ranged-Mage ausgesetzt ist.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, da Vex' Passive gegen ihn nicht greift und sie ohne verbrauchtes E kaum Fluchtoptionen hat.",
+  "l25": "Vex poked mit Q-Slow aus Distanz und hält E-Fear für den Moment eines erzwungenen Engages bereit; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist, da Vex dann strukturell ungeschützt steht.",
+  "l6": "Vex' R ist ein weitreichendes Exekutions-Geschoss mit hohem Schaden gegen niedrige HP-Werte; Ragnarok entfernt den Fear-Effekt bei aktivem Cast, verhindert aber nicht den reinen Distanzschaden des R, weshalb frühzeitiges Schließen der Distanz vor dem Cast wichtig bleibt.",
+  "threats": "E-Fear mit kurzem Dash, Q-Slow-Poke, W-Schild und Movement-Speed-Buff, R-Exekutionsgeschoss über große Distanz gegen niedrige HP-Werte.",
+  "window": "Solange Vex' E-Fear sichtbar verbraucht oder auf Cooldown ist, ist ein direkter Reckless-Swing-Allin am sichersten, besonders da ihre Passive gegen Olafs Boden-gebundenes Kit nicht greift.",
+  "errors": "Blind in den E-Fear-Skillshot laufen, sobald er sichtbar aufgeladen ist. Gegen aktives W-Schild und Movement-Speed all-in gehen, ohne den Buff auslaufen zu lassen. Den weitreichenden R-Exekutionsschaden bei niedriger eigener HP unterschätzen.",
+  "wave": "Gegen Vex' Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Q-Reichweite zu minimieren; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und die Welle crashen, um zu roamen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Vex' eigenes E verbraucht ist, R als Antwort auf den Fear oder um im Duell gegen ihren Poke-Chip durchzuhalten.",
+  "items": "Gegen Vex' reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion gegen ihre Poke-in-Burst-Rotation.",
+  "situ": "Bei besonders CC-lastigem Vex-Spiel kann früh Quicksilver Sash sinnvoll sein, um sich aus dem E-Fear zu befreien, bevor er den All-in ihres Teams einleitet.",
+  "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn E fehlt. 2 Items: Vex' R-Exekutionsschaden beginnt spürbar zu drohen, Duelle nur bei ausreichend HP-Puffer suchen. 3 Items: Vex' Poke-Burst-Kombination kann gefährlich werden, aber ihre geringe Grundmobilität lässt Olaf mit Tempo-Vorteil weiterhin klare Fenster.",
+  "plan": "Früh auf E-Cooldown lauern und kompromisslos all-in gehen, solange Vex ohne Fear-Fluchtweg im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game die R-Exekutionsschwelle im Blick behalten.",
+  "override": "Bei besonders poke-fokussiertem Vex-Spiel ohne frühen All-in-Fokus auf pta_boneplating wechseln, um den Fear-Einstieg direkter zu dämpfen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen den E-Fear und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/vex/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

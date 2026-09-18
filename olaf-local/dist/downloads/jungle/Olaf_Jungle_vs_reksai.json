@@ -1,0 +1,50 @@
+{
+  "slug": "reksai",
+  "name": "Rek'Sai",
+  "tier": "D",
+  "reason": "Rek'Sais Unburrow-Knockup und ihr Tremor-Sense-Kartenüberblick machen sie zu einer der stärksten frühen Invade- und Skirmish-Junglerinnen, während ihre Tunnel Olaf keine verlässliche Fluchtroute zum Nachsetzen lassen. Im späteren Spiel verliert sie relativ an Sustain, sodass ein sauber getimter Olaf mit R einen ausgeglicheneren Gegenstoß hat.",
+  "runeReason": "PTA passt zur kurzen, brutalen Öffnung durch Rek'Sais Unburrow, in der Olaf schnell drei Autos landen muss; Boneplating dämpft genau diesen ersten großen Treffer.",
+  "l1": "Level 1-2 hat Rek'Sai durch den Unburrow-Knockup und höheren Frühschaden meist die Oberhand; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Summoner-Spell-Vorteil suchen.",
+  "l25": "Rek'Sai nutzt ihre Tunnel, um zwischen Camps und Lanes extrem schnell zu rotieren und früh zu ganken; Olaf sollte eigene Tunnelausgänge im Auge behalten und Invades nur mit gesicherter Fluchtroute wagen.",
+  "l6": "Mit R kann Rek'Sai aus dem Untergrund auf ein Ziel zuschlagen und knocken; sobald Olaf sein eigenes R zündet, übersteht er den Knockup-Einstieg und kann den anschließenden offenen Kampf über Sustain gewinnen.",
+  "threats": "Unburrow-Knockup (R), Furious-Bite-Sustain (E), Tremor Sense zur Gegnerortung, Burrow-Fluchtmobilität.",
+  "window": "Sobald Rek'Sais Unburrow-R auf Cooldown liegt oder sie zuletzt bereits eine Rotation über Tunnel verbraucht hat, ist ein Konter-Invade oder Objective-Zugriff deutlich sicherer.",
+  "errors": "Nach einem verpassten Unburrow-Knockup blind weiterverfolgen, obwohl Rek'Sai zurückgraben kann. Ohne Vision auf mögliche Tunnelausgänge in den eigenen Jungle vordringen.",
+  "wave": "Gegen Rek'Sai lohnt sich eher der volle Clear mit hoher Wachsamkeit an Kreuzungen als ein direkter Camp-Wettlauf, da ihr Rotation-Tempo über Tunnel schwer einzuholen ist.",
+  "trade": "Q zuerst für den Slow, um ihre Fluchtroute zu erschweren, dann E für Sustain; R erst zünden, wenn der Unburrow-Knockup bereits verbraucht wurde, sonst besteht Gefahr, in den Burst hineinzulaufen.",
+  "items": "Stridebreaker hilft, Rek'Sai vor dem Zurückgraben zu verlangsamen und im Duell festzuhalten, da reine Sustain gegen ihre Mobilität allein nicht ausreicht.",
+  "situ": "Bei starkem frühem Invade-Druck kann ein defensiver Health-Gegenstand das Überleben des ersten Unburrow-Treffers deutlich verbessern.",
+  "side": "1 Item: Rek'Sai gewinnt die meisten offenen Duelle klar. 2 Items: Der Kampf wird ausgeglichener, sofern Olaf den Knockup übersteht. 3 Items: Olafs Sustain und Rohschaden holen im verlängerten Duell auf, sofern er sie überhaupt festhalten kann.",
+  "plan": "Frühe direkte Kontakte meiden, Vision an Flussübergängen priorisieren und Invades nur mit gesicherter Fluchtroute wagen. Ab Level 6 auf Momente warten, in denen Rek'Sais R bereits verbraucht ist, bevor Olaf den Kampf sucht.",
+  "override": "Bei viel gegnerischer Magiepräsenz im Team auf stride_maw wechseln, um zusätzlich Magieresistenz für den Zugriff auf Rek'Sai einzubauen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Rek'Sais überwiegend physischen Nahkampfschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/reksai/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

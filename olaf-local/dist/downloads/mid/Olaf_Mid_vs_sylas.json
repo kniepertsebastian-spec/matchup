@@ -1,0 +1,50 @@
+{
+  "slug": "sylas",
+  "name": "Sylas",
+  "tier": "D",
+  "reason": "Sylas spiegelt Olafs eigenes Konzept aus Nahkampf-Sustain und verlängerten Trades, hat aber zusätzlich einen Hard-CC-Hook über Q und Selbstheilung über Spells, was das direkte Duell strukturell zu seinen Gunsten verschiebt. Gegen sauberes Q-Spacing hat Olaf reduzierte All-in-Fenster, da Sylas jeden Fehlwurf sofort mit einem eigenen All-in bestraft.",
+  "runeReason": "Conqueror passt zum unvermeidlich verlängerten Nahkampf-Duell gegen einen ebenfalls sustain-orientierten Gegner, auch wenn Sylas durch seine eigene Heilung oft im Vorteil bleibt. Bone Plating dämpft speziell die Q-Hook-Einstiegskombo und den frühen All-in-Burst.",
+  "l1": "Im direkten Kontakt ist der Trade eng, da Sylas' Q-Kette sowohl Poke als auch potenzielle Verlangsamung liefert; wer den ersten sauberen Q landet, kontrolliert meist den restlichen Level-1-Austausch.",
+  "l25": "Sylas poked mit Q-Kette und heilt sich über Spelltreffer zurück; Olaf muss All-ins auf Momente konzentrieren, in denen Sylas' Q bereits verbraucht ist, da sonst der Heilungsvorteil den Trade neutralisiert.",
+  "l6": "Sylas' R stiehlt das gegnerische Mid-Ultimate und kann so unerwartete Zusatz-CC oder Mobilität liefern, abhängig vom Matchup im restlichen Spiel; Ragnarok entfernt Sylas' eigenen Q-Stun bei aktivem Cast, schützt aber nicht vor dem gestohlenen Ultimate-Effekt.",
+  "threats": "Q-Kettenhook mit Stun/Slow, Selbstheilung über W bei Spelltreffern, E-Dash für Gap-Close/Flucht, gestohlenes gegnerisches Ultimate als Wildcard.",
+  "window": "Solange Sylas' Q sichtbar auf Cooldown liegt und er kein gestohlenes Fluchtultimate zur Verfügung hat, ist ein Reckless-Swing-Allin am sichersten, besonders wenn seine Heilung bereits durch Grievous Wounds reduziert ist.",
+  "errors": "Gegen einen aufgeladenen Q-Wurf blind vorlaufen. Den Heilungs-Vorteil von Sylas' W unterschätzen und ohne Antiheal committen. Nach einem verfehlten eigenen Q trotzdem all-in gehen, obwohl Sylas' Hook noch verfügbar ist.",
+  "wave": "Gegen Sylas' Poke-Ketten lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei Wellen-Crash sollte Olaf vorsichtig roamen, da Sylas über E-Dash schnell nachsetzen kann.",
+  "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Sylas' Q-Kette bereits verbraucht ist, R als Antwort auf seinen Stun oder um die Heilung im verlängerten Austausch gegen seine eigene Sustain durchzusetzen.",
+  "items": "Gegen Sylas' magische Selbstheilung ist Hydra mit Maw-Linie zentral, da die Grievous-Wounds-Komponente seine wichtigste Ressource in Duellen direkt schwächt.",
+  "situ": "Bei besonders CC-lastigem gestohlenem Ultimate im Lauf des Spiels kann eine frühe Quicksilver-Priorisierung sinnvoll sein, um sich aus der Kombination zu befreien.",
+  "side": "1 Item: Das Duell bleibt eng, meist entscheidet wer zuerst Q trifft. 2 Items: Sylas' Selbstheilung beginnt spürbar zu tragen, Antiheal wird entscheidend. 3 Items: Sylas' Kombination aus Heilung und potenziell starkem gestohlenem Ultimate macht offene Duelle riskant, nur mit Antiheal-Vorteil suchen.",
+  "plan": "Früh auf Sylas' Q-Cooldown lauern und die eigene Grievous-Wounds-Komponente so schnell wie möglich online bringen. In der mittleren Phase Wellenkontrolle nutzen, um Sylas' Poke-Vorteil zu begrenzen, im Late Game das gestohlene Ultimate vor jedem Engage einkalkulieren.",
+  "override": "Bei sehr aggressivem frühem Sylas-Spiel ohne Poke-Fokus auf conqueror_secondwind wechseln, um den chronischen Q-Chip über die Lanephase abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen Sylas' Stun-Kette und den Magieschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/sylas/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

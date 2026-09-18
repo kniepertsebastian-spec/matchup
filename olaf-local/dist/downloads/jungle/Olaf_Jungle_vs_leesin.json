@@ -1,0 +1,50 @@
+{
+  "slug": "leesin",
+  "name": "Lee Sin",
+  "tier": "C",
+  "reason": "Lee Sin ist der klassische frühe Tempo-Jungler mit Kick-Kombo, Q-Poke und Insec-Potential, der Olafs Skirmish-Plan direkt in der eigenen Kategorie herausfordert und dabei meist zuerst zuschlägt. Sobald Lee seine frühe Stärke nicht in einen Vorsprung umsetzt, fällt er relativ ab, während Olaf über R jede Lee-CC-Kette ignorieren kann. Insgesamt ein Matchup, das stark davon abhängt, wer das erste Duell gewinnt.",
+  "runeReason": "Conqueror mit Boneplating trägt Olaf durch Lees Burst-Combo aus Q-Sweetspot, Kick und Empowered-Strikes und liefert im späteren, längeren Duell die nötige Sustain gegen Lees Shield-Spam. Boneplating dämpft speziell die ersten drei Treffer des Kick-Combos beim Invade.",
+  "l1": "Lee gewinnt den reinen Level-2-Duell häufiger, weil Q-Sweetspot plus Kick massiven Burst-Schaden auf Distanz liefert, den Olaf ohne Gap-Closer schwer kontern kann, ein Invade ohne Support-Hilfe ist riskant.",
+  "l25": "Lee will extrem schnell drei Camps clearen und ab Level 3 ganken, Olaf sollte eigene Krabben und Scuttle-Kontrolle defensiv spielen und Wards für die gegnerischen Buff-Camps setzen, statt blind zu kontestieren.",
+  "l6": "Sobald Olaf R hat, wird der Insec-Kick deutlich weniger gefährlich, weil die Slow- und Knockup-Komponenten sofort entfernt werden, Lee bleibt aber durch Ward-Hop weiterhin schwer zu fangen und kann Gegen-Gank-Fenster über die Karte kreieren.",
+  "threats": "Q-Sweetspot-Poke, W-Shield und Ward-Insec-Kick, R-Knockup mit Dash, hohes frühes Gank-Tempo über die ganze Karte.",
+  "window": "Sobald Lee W und Q auf Cooldown verbraucht hat, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+  "errors": "Nicht ohne Vision in Lees übliche Kick-Winkel laufen, R nicht vor dem eigentlichen Kick-Impact zünden, sonst verpufft die CC-Entfernung wirkungslos.",
+  "wave": "Gegen Lee lohnt sich meist ein defensiverer Drei-Camp-dann-Gank-Pfad statt vollem Clear, weil Lee sonst über sein Tempo Krabbe und Scuttle allein wegnimmt, direkte Konter-Jungle-Versuche sind riskant ohne Vision auf seine Startposition.",
+  "trade": "Q werfen sobald Lee committed, dann sofort Autos, R erst zünden wenn der Kick tatsächlich unterwegs ist, ein früher R-Einsatz verschwendet die einmalige CC-Entfernung.",
+  "items": "Hydra-DD bleibt Standard für Clear-Tempo und etwas Sustain gegen Lees Poke-lastiges Frühspiel, echte Antiheal-Relevanz ist gering, da Lee kaum heilt.",
+  "situ": "Gegen ein Team mit viel zusätzlichem CC um Lees Insec herum kann ein früherer Health-lastiger Defensivgegenstand die Diveüberlebenschance deutlich erhöhen.",
+  "side": "1 Item: Lee bleibt durch Tempo und Burst leicht im Vorteil. 2 Items: das Duell wird ausgeglichener, sobald Olaf W konstant hält. 3 Items: Olaf gewinnt geplante 1v1 dank R-Sustain klar, Lee bleibt aber gefährlich in Gank-Situationen mit Hilfe.",
+  "plan": "Frühe Invades nur mit Vision und im Team spielen, da Lee im Solo-Duell auf Level 2 vorne liegt. Sobald R verfügbar ist, aktiv Gegen-Ganks und Objective-Fights suchen, weil Lees CC dort neutralisiert wird und sein reiner Schaden abfällt.",
+  "override": "Gegen ein Team mit wenig zusätzlichem Peel um Lee herum kann pta_boneplating für schnellere, definierte Kill-Fenster sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Lees physischen Kick- und Auto-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "E",
+  "late": "B",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/leesin/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

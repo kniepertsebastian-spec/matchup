@@ -1,0 +1,50 @@
+{
+  "slug": "talon",
+  "name": "Talon",
+  "tier": "C",
+  "reason": "Talon kombiniert hohen frühen Burst über seine Q-W-E-Kombo mit einem Sprung über Terrain, der ihm sowohl Ganks als auch Fluchtwege ermöglicht, die Olaf ohne eigenes R kaum kontern kann. Sobald Talon jedoch fixiert und gefangen wird, ist er sehr verwundbar, da er kaum Peel oder Sustain gegen einen R-empowerten Duellanten hat. Insgesamt ein Matchup, das stark davon abhängt, ob Olaf den Zugriff auf einen mobilen Gegner herstellen kann.",
+  "runeReason": "Präzision-Übernahme mit Boneplating passt zu einem kurzen Burst-Duell, in dem Olaf drei saubere Autos landen muss, bevor Talon über W-Terrain-Sprung oder R-Stealth entkommt, Boneplating dämpft gleichzeitig seinen frühen Q-W-E-Alphaschlag.",
+  "l1": "Talon kann über die W-Sprung-Mechanik Terrain überwinden und Olaf so bei einem Invade überraschen, im direkten Level-2-Duell ohne Fluchtoption ist Olaf aber durch höheren Sustain meist im Vorteil.",
+  "l25": "Talon will früh isoliert Ziele mit voller Kombo bursten und danach über W schnell die Position wechseln, Olaf sollte eigene Krabben nur mit Vision auf Talons Cooldowns kontestieren.",
+  "l6": "Ab 6 macht R-Stealth Talon noch schwerer zu fixieren, Olafs eigenes R hilft primär dabei, den ersten Burst zu überleben, ein Kill gelingt meist nur, wenn Talon bereits committed und keinen Fluchtweg mehr hat.",
+  "threats": "Q-W-E-Burst-Kombo, W-Terrain-Sprung als Flucht- und Ganktool, R-Stealth mit Bereichsschnitt, hohe frühe Ein-Ziel-Bedrohung.",
+  "window": "Sobald Talons W-Sprung auf Cooldown verbraucht wurde, meist direkt nach einem Gank- oder Invade-Versuch, ist ein Gegen-Invade deutlich sicherer, da ihm dann die Fluchtoption fehlt.",
+  "errors": "Nicht versuchen, einen Talon ohne Zugriffstool über offenes Terrain zu verfolgen, R nicht verschwenden, um seinen ersten Burst zu überleben, wenn Talon danach ohnehin fliehen kann.",
+  "wave": "Ein normaler Clear mit Vision an den eigenen Krabben- und Scuttle-Zugängen ist gegen Talon sinnvoller als aggressives Konter-Jungle, da er isolierte Ziele gezielt sucht, ein 1-für-1-Camp-Tausch bleibt meist ausgeglichen.",
+  "trade": "Q werfen sobald Talon committed, dann Autos solange er im Nahkampf gebunden ist, R erst zünden wenn Talon tatsächlich all-in geht und keinen sofortigen W-Fluchtweg mehr hat.",
+  "items": "Stridebreaker als Kernzugriffsitem hilft, Talons W-Sprung-Mobilität über den Slow-Effekt auszugleichen, da das eigentliche Problem nicht fehlende Heilung, sondern fehlender Zugriff auf einen mobilen Gegner ist.",
+  "situ": "Gegen einen sehr fed Talon mit hohem frühen Burst kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ganks verbessern.",
+  "side": "1 Item: Talon bleibt durch Burst und Mobilität im Vorteil. 2 Items: mit Stridebreaker-Zugriff wird das Duell ausgeglichener. 3 Items: Olaf gewinnt einen geplanten, fixierten Fight meist klar, sofern Talon keinen sofortigen Fluchtweg mehr hat.",
+  "plan": "Frühe Solo-Kontests ohne Vision auf Talons Cooldowns vermeiden und Stridebreaker-Tempo nutzen, um ihn überhaupt zu fixieren. Fights gezielt nach verbrauchtem W-Sprung suchen, da Talon dann seine wichtigste Fluchtoption verliert.",
+  "override": "Gegen ein Team mit zusätzlichem harten Engage um Talon herum kann conqueror_boneplating sinnvoller sein, um Fights auch ohne perfektes Fixier-Fenster zu überstehen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Talons Schaden fast vollständig physisch ist.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/talon/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

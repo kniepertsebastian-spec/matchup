@@ -1,0 +1,50 @@
+{
+  "slug": "orianna",
+  "name": "Orianna",
+  "tier": "C",
+  "reason": "Orianna ist komplett auf ihre Kugel-Positionierung angewiesen und hat abseits davon so gut wie keine eigene Mobilität, was Olaf im späteren Spiel nach überstandener Poke-Phase begünstigt. Ihr Flächen-Ultimate kann Olaf allerdings genau in eine schlechte Position ziehen und dort festhalten, was in der Frühphase besonders gefährlich ist.",
+  "runeReason": "Second Wind federt die konstante Q/E-Poke-Serie ihrer Kugel über die gesamte Laning-Phase ab. PTA nutzt die seltenen Fenster, in denen sie ohne Kugel-Vorsprung oder mit verbrauchtem Ultimate im Nahkampf steht.",
+  "l1": "Ohne vorgelagerte Kugel-Positionierung ist direkter Kontakt für Olaf gewinnbar, sobald die Kugel zwischen ihr und Olaf liegt, wird jeder Anlauf durch ihren Slow-Bereich erschwert.",
+  "l25": "Reine Poke-Phase mit Kugel-Slow und Verzögerungsschaden, CS unter Turm priorisieren, solange die Kugel konstant zwischen beiden liegt. All-in, wenn sie die Kugel weit von sich entfernt positioniert.",
+  "l6": "Ihr Ultimate zieht alle nahen Gegner zur Kugel und deckt damit eine große Fläche ab, was besonders vor eigenen Items gefährlich ist. Olafs R hält den Damage-Output während des Zugs aufrecht, kann die Positionsverschiebung selbst aber nicht verhindern.",
+  "threats": "Kugel-Slow und Verzögerungsschaden, Schild-Unterstützung für Verbündete, großflächiges Zieh-Ultimate.",
+  "window": "Wenn die Kugel weit von ihr entfernt liegt oder ihr Ultimate bereits verbraucht ist, ist der direkte Kontakt am sichersten.",
+  "errors": "Direkt auf die Kugel-Position zulaufen, ohne ihren Slow-Bereich zu beachten. In Ultimate-Reichweite verweilen, obwohl die Kugel bereits in Zugposition steht.",
+  "wave": "Kontrolliertes Freezing, um ihre Kugel-Reichweite zur eigenen Wave zu begrenzen. Nach weit entfernter Kugel-Positionierung kurze Aggressionsfenster für Trade oder Farm nutzen.",
+  "trade": "Q zum Slow, seitlich um die Kugel-Position herumlaufen, E nach sicherem Kontakt, R erst wenn ihr Ultimate bereits verbraucht oder die Kugel weit entfernt ist.",
+  "items": "Ravenous Hydra in Maw-Linie, da ihr gesamter Schaden magisch ist und die Poke-Phase sonst zu viel HP vor dem eigentlichen Duell kostet.",
+  "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn ihr Zieh-Ultimate wiederholt entscheidende Fights kippt.",
+  "side": "1 Item: Kugel-Poke dominiert weiterhin die Lane. 2 Items: mit Maw und R realistische Kill-Fenster, wenn die Kugel ungünstig für sie steht. 3 Items: klarer Vorteil, da sie im reinen Nahkampf ohne Kugel-Unterstützung praktisch wehrlos ist.",
+  "plan": "Spiele die Poke-Phase defensiv unter Turm aus und suche Kontakt gezielt, wenn ihre Kugel weit von ihr entfernt liegt. Vermeide es, in Reichweite ihres Zieh-Ultimates zu verweilen, solange kein sicherer Kill absehbar ist.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/orianna/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

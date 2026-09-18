@@ -1,0 +1,50 @@
+{
+  "slug": "ahri",
+  "name": "Ahri",
+  "tier": "C",
+  "reason": "Ahris Charm ist die einzige verlässliche Hard-CC in der Lane und macht jeden verpassten Gegen-Poke gefährlich, während ihre niedrige Basis-HP sie vor Level 6 anfällig für kurze All-in-Fenster macht. Mit R-Mobilität und späterem Reset-Potenzial über Kills wird Ahri im Sidelane-Duell aber zunehmend schwer zu fangen.",
+  "runeReason": "Press the Attack passt zum kurzen Burst-Fenster, das Olaf braucht, bevor Ahri per Charm oder R-Dash Distanz herstellt. Der Inspiration-Zweig gibt zusätzliches Tempo, um die Distanz zu einer Gegnerin zu schließen, deren größter Vorteil genau diese Distanz ist.",
+  "l1": "Im direkten Kontakt gewinnt Olaf klar, solange Charm nicht getroffen wird; Ahri sollte Level 1 selten den ersten Kontakt suchen, daher entscheidet primär, wer den Bush zuerst kontrolliert.",
+  "l25": "Ahri poked mit Q-Orb aus sicherer Distanz und hält Charm für einen erzwungenen All-in bereit; Olaf sollte nur committen, wenn Charm sichtbar verbraucht ist oder er den Orb-Rückflug outrunnen kann.",
+  "l6": "Ahris R erlaubt drei kurze Sprung-Dashes mit Schaden und ab Mitte des Spiels zusätzliche Ausrichtung/Verlangsamung; Ragnarok entfernt Charm bei aktivem Cast, hilft aber wenig gegen die reine Distanzgewinnung durch R, wenn Olaf schon zurückliegt.",
+  "threats": "Charm als Hard-CC, Q-Orb-Poke mit Rückflug, R-Dash-Mobilität dreifach, spätes Nuke-Potenzial durch Essence-Theft-Heilung bei Kills.",
+  "window": "Nach einem verfehlten oder verbrauchten Charm und während Ahris Q auf Cooldown liegt, ist das All-in-Fenster für Reckless Swing am sichersten, besonders im Bush oder gegen die Wand.",
+  "errors": "Blind in Sichtlinie des Charm-Skillshots laufen. Nach einem getroffenen Q-Orb sofort committen, ohne den Rückflug-Schaden einzukalkulieren. R zu früh zünden, bevor Charm überhaupt geworfen wurde.",
+  "wave": "Gegen Ahris Poke lohnt sich, die Welle nah an der eigenen Kante zu halten, um Charm-Reichweite und Fluchtwinkel zu minimieren; bei Wellen-Push kann Olaf kurze Roams nutzen, da Ahri ohne Wave selten aggressiv folgt.",
+  "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Charm bereits verbraucht ist, R als Antwort auf einen verpassten Charm oder um im Duell nach Ahris Q-Rückflug durchzuhalten.",
+  "items": "Gegen Ahris reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion nach ihrem größten Combo-Fenster.",
+  "situ": "Bei starkem CC-Chaining im Team kann früh Quicksilver Sash oder Mercury's-Treads-Priorisierung sinnvoll sein, um Charm-Ketten zu brechen.",
+  "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn Charm fehlt. 2 Items: Ahris Burst reicht oft für eine schnelle Trade-Rückgewinnung, Duelle werden riskanter. 3 Items: Ahris Ein-Rotation-Burst kann Olaf ohne Ragnarok-Heilung stark verkürzen, nur mit vollem R committen.",
+  "plan": "Früh auf Bush-Kontrolle und Charm-Cooldown lauern, dann kompromisslos all-in gehen, solange Ahri im Nahbereich fixiert ist. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+  "override": "Bei besonders poke-lastigem Ahri-Spiel auf pta_secondwind wechseln, um den Q-Orb-Chip über die Lanephase zu reduzieren.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen Charm und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/ahri/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

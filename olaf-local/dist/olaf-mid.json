@@ -6,9 +6,1466 @@
   "statsPatch": "Keine belastbaren Olaf-Mid-Paarungsdaten",
   "method": [
     [
-      "Platzhalter",
-      "Wird durch das Build-Skript ersetzt."
+      "Geltungsbereich",
+      "Olaf als Mid-Laner in Ranked Solo Queue, ein off-meta aber spielbarer AD-Skirmisher-Pick. Eigenständige Mid-Liste. Gleicher Z–F-Maßstab, aber eigene qualitative Kit-Einschätzung ohne verifizierte Mid-Paarungsstatistik für diesen Patch."
+    ],
+    [
+      "Bewertungsannahme",
+      "Ähnlicher Gold-/Erfahrungsstand und kein bestimmter Jungler als Standardpartner vorausgesetzt. Tier beschreibt die grundsätzliche 1v1-Spielbarkeit der Lane; Ganks und Roams können sie in beide Richtungen verschieben."
+    ],
+    [
+      "Championpool",
+      "28 aktuell verbreitete Mid-Champions entlang der METAsrc-Mid-Tierliste 26.18 (u. a. Yasuo, Yone, Ahri, Zed, Sylas, Akali, Viktor als S/S+-Tier) plus etablierte Flex- und Duell-relevante Mid-Picks. Für seltenere Picks keine einheitlich verifizierte aktuelle Pickrate; ihre Aufnahme ist redaktionell."
+    ],
+    [
+      "Statistik",
+      "Keine belastbaren Olaf-Mid-Paarungswinrates extrahiert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Toplane-Winrates werden nicht übertragen. Fehlend heißt nicht 0 %."
+    ],
+    [
+      "Quellen und Tiers",
+      "Riot-Kits und Summoner's-Rift-Änderungen 26.18 sind die mechanische Grundlage. Poolseiten dienen nur der Rollenauswahl. Sämtliche Tiers, Runenentscheidungen und Spielpläne sind eigene qualitative Ableitungen; keine Quelle bestätigt diese Liste als fertige Empfehlung."
+    ],
+    [
+      "Erste Waves",
+      "Olaf hat auf Level 1-2 durch Autoreichweite und Q-Slow reales Trade-Potenzial gegen viele Mage-Matchups, verliert aber gegen reinen Range-Poke ohne Deckung schnell HP. CS-Verlust gegen überlegene Reichweite ist manchmal die richtige Entscheidung."
+    ],
+    [
+      "Wave und Roam",
+      "Freeze nur, wenn der eigene Jungler den Bereich absichern kann. Slowpush/Crash vor Recall abwägen; Olafs fehlende Mobilität macht ihn als Roamer schwächer als viele Mid-Meta-Picks – Teleport statt Ghost erwägen, wenn Side-Präsenz wichtiger ist als der zweite Summonerzauber für den Chase."
+    ],
+    [
+      "R und Zugang",
+      "Ragnarok hebt gegnerisches CC auf und heilt über Schaden, hilft aber nicht gegen reine Distanz, Dashes oder Unsichtbarkeit. Erst aktivieren, wenn danach zeitnah Autos/E auf einen Champion möglich sind."
+    ],
+    [
+      "Rune",
+      "PTA für ein durch Kontakt gesichertes Fenster mit mindestens drei Autos gegen fragile Gegner. Conqueror bei langen Duellen gegen Sustain/Scaling wie Nasus oder Kayle. Der Nebenbaum folgt dem Bedrohungstyp (Poke vs. Burst vs. Zugang)."
+    ],
+    [
+      "Hydra/Stridebreaker als Core",
+      "Ravenous Hydra für Sustain und Waveclear gegen die meisten Gegner. Stridebreaker/Hexplate, wenn Zugang zu einem hochmobilen oder Reset-starken Gegner (Yasuo, Zed, Akali, Ekko, Fizz) das Hauptproblem ist, nicht Sustain."
+    ],
+    [
+      "Sidelane und Team",
+      "Bei 1/2/3 Items sind gleiche Itemzahlen nur eine grobe Annahme: Level, Gold, Summoners und Teamcomp zählen. Als Mid-Laner fehlt Olaf oft die reine Range-Poke- oder Waveclear-Stärke der Mage-Meta; sein Wert liegt stärker in erzwungenen All-ins und späten Duellen."
+    ],
+    [
+      "Patchprüfung",
+      "18.09.2026: 26.18. Nur Summoner's Rift, keine League-Classic-/ARAM-Änderungen. Die Matchup-Tiers sind keine vollständige numerische Itemsimulation."
+    ],
+    [
+      "Quelle: Live-Patch",
+      "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-18-notes/"
+    ],
+    [
+      "Quelle: Pool",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ],
+    [
+      "Quelle: Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
     ]
   ],
-  "matchups": []
+  "matchups": [
+    {
+      "slug": "yasuo",
+      "name": "Yasuo",
+      "tier": "C",
+      "reason": "Yasuos Windwall blockiert Undertow und jeden Q-basierten Poke-Versuch, während sein Schild frühe All-in-Trades abfedert. Gleichzeitig ist Yasuo vor Level 6 fragil und ohne Combo-Partner ohne echte Hard-CC, sodass Olaf saubere Kontaktfenster bekommt, wenn der Schild bereits verbraucht ist.",
+      "runeReason": "Conqueror passt zum Ziel eines verlängerten Nahkampf-Duells, in dem Yasuos Schild nach den ersten Treffern fällt und die Heilung den Ressourcen-Austausch von Reckless Swing ausgleicht. Bone Plating dämpft die Burst-Fenster aus Q3-Tornado und kritischer Auto-Attacke-Serie in den ersten Sekunden eines Engages.",
+      "l1": "Im direkten Kontakt gewinnt Olaf, solange Yasuos Schild aktiv ist, meist keinen sauberen All-in; wartet er den Schild-Verbrauch durch eine Minion-Q oder einen eigenen Poke-Versuch ab, kippt der Trade klar zu Olafs Gunsten.",
+      "l25": "Yasuo farmt Wellen mit Q-Poke aus Distanz und weicht direktem Kontakt aus; Olaf muss unter Druck laufend Undertow zum Farmen nutzen und darf nur all-in gehen, wenn Yasuos Schild sichtbar down ist.",
+      "l6": "Yasuos R funktioniert nur mit einem eigenen oder fremden Knockup, den er solo selten hat, daher ändert sein Ultimate das Duell weniger als erwartet; Ragnarok ist hier primär für Tempo und Heilung im verlängerten Austausch relevant, nicht zum CC-Cleanse.",
+      "threats": "Windwall gegen Projektile, Schild-Passive gegen Burst, Q3-Tornado bei Airborne-Kombo, kritische Auto-Attacken, Mobilität über Minions/Wards.",
+      "window": "Sobald der Schild sichtbar verbraucht ist (nach einem getankten Auto oder Spell) und Windwall auf Cooldown liegt, ist ein Reckless-Swing-Allin ohne Gegenwehr am stärksten.",
+      "errors": "Q direkt in die Windwall werfen, wenn sie sichtbar aktivierbar ist. Gegen aktiven Schild all-in gehen, bevor er fällt. Nach einem verfehlten Q3-Tornado ungedeckt weiterverfolgen, wenn Yasuo Richtung eigener Wave dashen kann.",
+      "wave": "Gegen Yasuos Fernpoke lohnt sich eine leichte Freeze nahe der eigenen Turmkante, um Windwall-Reichweite zu minimieren; bei Wellen-Crash kann Olaf kurz roamen, da Yasuo ohne Wave selten aggressiv folgt.",
+      "trade": "Q auf die Wave oder Yasuo, dann Kontakt suchen, E erst zünden, wenn der Schild bereits weg ist, R erst nach dem ersten sauberen Trefferpaket für die Sustain im verlängerten Austausch.",
+      "items": "Der Zugriffsdruck durch Yasuos Mobilität und Windwall macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen und Trades zu verlängern.",
+      "situ": "Gegen kritischen Schaden ist eine frühe defensive Option wie Randuin's sinnvoll, sobald Yasuo Infinity Edge/Kraken online hat.",
+      "side": "1 Item: Olaf gewinnt geraden Kontakt klar, sobald der Schild fällt. 2 Items: Yasuo holt über Krit-Spikes auf, Trades werden even. 3 Items: Yasuos Schadensoutput pro Auto übersteigt Olafs Sustain oft, Duelle nur mit Tempo-Vorteil (frischer Cooldowns) suchen.",
+      "plan": "Früh auf verbrauchten Schild und Windwall-Cooldown lauern, dann kompromisslos all-in gehen; in der mittleren Phase Wellen kontrollieren statt Fernduelle mit Windwall zu erzwingen. Late Game nur mit Tempovorteil (Items, Cooldowns) in Duelle gehen, nicht blind reinlaufen.",
+      "override": "Bei viel Magieschaden im gegnerischen Team (z. B. AP-Jungler) auf conqueror_secondwind wechseln, um Poke-Chip in der Lane abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Plated Steelcaps gegen physischen Auto-/Krit-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/yasuo/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "yone",
+      "name": "Yone",
+      "tier": "C",
+      "reason": "Yone ist im Nahkampf gebunden und hat vor Level 6 keinen Fluchtmechanismus außer der Q3-Vorwärtsbewegung, was Olafs frühe All-ins begünstigt. Sein Ultimate liefert aber einen soliden Hard-Knockup und starken Schaden über gemischte Skalierung, was das späte Sidelane-Duell klar zu seinen Gunsten verschiebt.",
+      "runeReason": "Conqueror passt zum verlängerten Nahkampf-Duell, das Olaf gegen einen Champion ohne verlässlichen Fluchtweg vor Level 6 erzwingen kann. Bone Plating dämpft die Serie aus Q-Auto-Reset und dem R-Knockup-Burst, mit dem Yone ab Level 6 Duelle eröffnet.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Yone ohne E-Soul-Swap keinen sicheren Fluchtweg hat und sein Q-Auto-Reset gegen Reckless Swing wenig Gegengewicht bietet.",
+      "l25": "Yone poked mit Q aus sicherer Distanz und weicht mit E zurück in seine eigene Seelenform; Olaf sollte all-in gehen, sobald E auf Cooldown liegt, da Yone dann faktisch ohne Rückzug im Nahkampf steht.",
+      "l6": "Yones R ist ein zuverlässiger Hard-Knockup mit Nachlauf-Schaden für ihn und alle getroffenen Verbündeten in der Linie; Ragnarok entfernt den Knockup-Effekt bei aktivem Cast, daher lohnt sich rechtzeitiges Timing vor dem R-Impact.",
+      "threats": "Q3-Vorwärtsdash mit Reset, E-Soul-Swap als Teleport/Fluchtweg, R-Hard-Knockup mit Flächenschaden, gemischter Schaden gegen Rüstung und MR gleichzeitig.",
+      "window": "Solange E auf Cooldown ist und Yone sich bereits in Körperform befindet, ist ein Reckless-Swing-Allin am sichersten, da kein Fluchtweg existiert.",
+      "errors": "Gegen aktive Geistform (E) all-in gehen und hoffen, den Rückweg abzuschneiden. Q blind auf Yones vermutete Position werfen, wenn er in Seelenform unsichtbar für Skillshots wird. Nach R-Knockup ungedeckt weiterlaufen, wenn Yone bereits Flash/Item-Fluchtweg hat.",
+      "wave": "Da Yone in Geistform keinen Schaden am Turm/Minions nimmt, lohnt sich kein aggressiver Freeze gegen ihn; besser leicht slow-pushen, um Yones Rückkehrfenster in Körperform für den All-in zu erzwingen.",
+      "trade": "Q auf die Wave zum Farmen, bei Kontakt sofort E zünden, sobald Yones eigenes E verbraucht ist, R erst beim Gegenschlag oder wenn Yones R-Knockup droht, um die Heilung im verlängerten Trade zu sichern.",
+      "items": "Der Zugriffsdruck durch Yones Q3-Dash und Soul-Swap macht Tempo entscheidender als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu halten und Duelle zu verlängern.",
+      "situ": "Gegen den gemischten Schaden ist ein früher Randuin's Omen sinnvoll, sobald Yones R-Knockup-Combo zuverlässig droht.",
+      "side": "1 Item: Olaf dominiert direkten Kontakt klar. 2 Items: Yones R-Knockup-Combo macht Duelle riskanter, aber noch gewinnbar mit Tempo-Vorteil. 3 Items: Yones gemischter Schaden und Krit-Spikes machen offene Duelle even bis leicht ungünstig, gezielt auf Cooldown-Vorteile warten.",
+      "plan": "Früh auf Yones E-Cooldown lauern und kompromisslos all-in gehen, solange er in Körperform gebunden ist. Ab Level 6 den R-Knockup respektieren und nur mit Vorsprung (HP, Cooldowns) committen, im Late Game Tempo-Vorteile statt offener Duelle suchen.",
+      "override": "Bei starkem Magieschaden im gegnerischen Team auf conqueror_secondwind wechseln, um den gemischten Schaden über die Lane hinweg abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen den R-Knockup und den gemischten Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/yone/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "ahri",
+      "name": "Ahri",
+      "tier": "C",
+      "reason": "Ahris Charm ist die einzige verlässliche Hard-CC in der Lane und macht jeden verpassten Gegen-Poke gefährlich, während ihre niedrige Basis-HP sie vor Level 6 anfällig für kurze All-in-Fenster macht. Mit R-Mobilität und späterem Reset-Potenzial über Kills wird Ahri im Sidelane-Duell aber zunehmend schwer zu fangen.",
+      "runeReason": "Press the Attack passt zum kurzen Burst-Fenster, das Olaf braucht, bevor Ahri per Charm oder R-Dash Distanz herstellt. Der Inspiration-Zweig gibt zusätzliches Tempo, um die Distanz zu einer Gegnerin zu schließen, deren größter Vorteil genau diese Distanz ist.",
+      "l1": "Im direkten Kontakt gewinnt Olaf klar, solange Charm nicht getroffen wird; Ahri sollte Level 1 selten den ersten Kontakt suchen, daher entscheidet primär, wer den Bush zuerst kontrolliert.",
+      "l25": "Ahri poked mit Q-Orb aus sicherer Distanz und hält Charm für einen erzwungenen All-in bereit; Olaf sollte nur committen, wenn Charm sichtbar verbraucht ist oder er den Orb-Rückflug outrunnen kann.",
+      "l6": "Ahris R erlaubt drei kurze Sprung-Dashes mit Schaden und ab Mitte des Spiels zusätzliche Ausrichtung/Verlangsamung; Ragnarok entfernt Charm bei aktivem Cast, hilft aber wenig gegen die reine Distanzgewinnung durch R, wenn Olaf schon zurückliegt.",
+      "threats": "Charm als Hard-CC, Q-Orb-Poke mit Rückflug, R-Dash-Mobilität dreifach, spätes Nuke-Potenzial durch Essence-Theft-Heilung bei Kills.",
+      "window": "Nach einem verfehlten oder verbrauchten Charm und während Ahris Q auf Cooldown liegt, ist das All-in-Fenster für Reckless Swing am sichersten, besonders im Bush oder gegen die Wand.",
+      "errors": "Blind in Sichtlinie des Charm-Skillshots laufen. Nach einem getroffenen Q-Orb sofort committen, ohne den Rückflug-Schaden einzukalkulieren. R zu früh zünden, bevor Charm überhaupt geworfen wurde.",
+      "wave": "Gegen Ahris Poke lohnt sich, die Welle nah an der eigenen Kante zu halten, um Charm-Reichweite und Fluchtwinkel zu minimieren; bei Wellen-Push kann Olaf kurze Roams nutzen, da Ahri ohne Wave selten aggressiv folgt.",
+      "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Charm bereits verbraucht ist, R als Antwort auf einen verpassten Charm oder um im Duell nach Ahris Q-Rückflug durchzuhalten.",
+      "items": "Gegen Ahris reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion nach ihrem größten Combo-Fenster.",
+      "situ": "Bei starkem CC-Chaining im Team kann früh Quicksilver Sash oder Mercury's-Treads-Priorisierung sinnvoll sein, um Charm-Ketten zu brechen.",
+      "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn Charm fehlt. 2 Items: Ahris Burst reicht oft für eine schnelle Trade-Rückgewinnung, Duelle werden riskanter. 3 Items: Ahris Ein-Rotation-Burst kann Olaf ohne Ragnarok-Heilung stark verkürzen, nur mit vollem R committen.",
+      "plan": "Früh auf Bush-Kontrolle und Charm-Cooldown lauern, dann kompromisslos all-in gehen, solange Ahri im Nahbereich fixiert ist. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+      "override": "Bei besonders poke-lastigem Ahri-Spiel auf pta_secondwind wechseln, um den Q-Orb-Chip über die Lanephase zu reduzieren.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen Charm und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ahri/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "zed",
+      "name": "Zed",
+      "tier": "B",
+      "reason": "Zed hat vor Level 6 kaum Werkzeuge gegen einen direkten All-in, da sein Shuriken-Poke allein Olafs Reckless-Swing-Trades nicht aufwiegt und er keine Fluchtmöglichkeit vor der ersten Shadow-Investition hat. Ab Level 6 kippt das Bild aber deutlich, da sein Ultimate Burst mit garantiertem Reset-Fluchtweg über den Schatten kombiniert.",
+      "runeReason": "Press the Attack passt zum kurzen, sauberen Trade-Fenster in der frühen Lanephase, in der Zed noch keine verlässliche Verteidigung gegen drei Treffer hat. Bone Plating dämpft speziell die Shuriken-Poke-Serie und den Einstiegsschaden seiner Todesmarke-Combo.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, da Zed ohne Shadow keinen Fluchtweg hat und sein Q-Schaden allein gegen Reckless Swing nicht ausreicht.",
+      "l25": "Zed hält Distanz mit Shuriken-Poke und wartet auf Level 6; Olaf sollte in diesem Fenster aggressiv all-in gehen, sobald Zeds W-Shadow auf Cooldown liegt oder bereits als Fluchtanker platziert und somit gebunden ist.",
+      "l6": "Zeds R markiert das Ziel und lässt ihn nach Verzögerung mit garantiertem Schaden zur Markierung zurückschwappen; Ragnarok entfernt keine harte CC, da Zed kaum welche hat, liefert aber die Heilung, um die Burst-Rotation zu überleben und danach selbst zu punishen.",
+      "threats": "W-Shadow als Dash/Fluchtanker, R-Markierungsburst mit garantiertem Rückwarp, Energie-Reset über Q-Auto-Kombos, Ultimate-Vision-Reveal auf CC-immune Ziele.",
+      "window": "Solange Zeds W-Shadow bereits als Fluchtanker verbraucht oder auf Cooldown ist, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+      "errors": "Nach einem sichtbaren R-Cast sofort weglaufen, statt den garantierten Rückwarp-Schaden einzukalkulieren. Gegen frische Shadow-Platzierung all-in gehen und den Swap-Fluchtweg unterschätzen. Vor Level 6 zu passiv farmen und das größte Kill-Fenster der Lane verpassen.",
+      "wave": "Gegen Zeds Poke lohnt sich eine leichte Freeze nahe der eigenen Kante, um seine Shadow-Reichweite für Ganks zu limitieren; bei sichtbarem Shadow-Verbrauch kann Olaf kurz aggressiv pushen, um Zeds Rückkehr zur Wave zu erzwingen.",
+      "trade": "Q auf die Wave, bei Kontakt sofort E zünden, solange Zeds Shadow gebunden oder down ist, R als Antwort auf die R-Rotation oder um die Heilung im verlängerten Trade zu sichern.",
+      "items": "Der Zugriffsdruck durch Zeds Shadow-Mobilität macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um vor Level 6 Kontakt zu erzwingen.",
+      "situ": "Gegen sein spätes Burst-Fenster lohnt sich stattdessen ein defensiver Zusatzitem wie Randuin's, sobald Zed kritisches Schadenspotenzial aufbaut.",
+      "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Zed unter Level 6 bleibt. 2 Items: Zeds R-Rotation macht offene Duelle riskant, nur mit Cooldown-Vorteil committen. 3 Items: Zeds Burst-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok und Zahlenvorteil suchen.",
+      "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes Shadow-Cooldown-Fenster für All-ins nutzen. Ab Level 6 die R-Rotation respektieren und Duelle nur mit vollem Ragnarok oder klarem Vorsprung suchen, im Late Game auf Cooldown-Vorteile statt offene Konfrontation setzen.",
+      "override": "Bei sehr aggressivem, frühem Zed-Spiel auf conqueror_boneplating wechseln, um die verlängerten Q-Auto-Trades vor Level 6 noch stärker zu gewinnen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Plated Steelcaps gegen Zeds auto-/schuriken-basierten Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/zed/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "sylas",
+      "name": "Sylas",
+      "tier": "D",
+      "reason": "Sylas spiegelt Olafs eigenes Konzept aus Nahkampf-Sustain und verlängerten Trades, hat aber zusätzlich einen Hard-CC-Hook über Q und Selbstheilung über Spells, was das direkte Duell strukturell zu seinen Gunsten verschiebt. Gegen sauberes Q-Spacing hat Olaf reduzierte All-in-Fenster, da Sylas jeden Fehlwurf sofort mit einem eigenen All-in bestraft.",
+      "runeReason": "Conqueror passt zum unvermeidlich verlängerten Nahkampf-Duell gegen einen ebenfalls sustain-orientierten Gegner, auch wenn Sylas durch seine eigene Heilung oft im Vorteil bleibt. Bone Plating dämpft speziell die Q-Hook-Einstiegskombo und den frühen All-in-Burst.",
+      "l1": "Im direkten Kontakt ist der Trade eng, da Sylas' Q-Kette sowohl Poke als auch potenzielle Verlangsamung liefert; wer den ersten sauberen Q landet, kontrolliert meist den restlichen Level-1-Austausch.",
+      "l25": "Sylas poked mit Q-Kette und heilt sich über Spelltreffer zurück; Olaf muss All-ins auf Momente konzentrieren, in denen Sylas' Q bereits verbraucht ist, da sonst der Heilungsvorteil den Trade neutralisiert.",
+      "l6": "Sylas' R stiehlt das gegnerische Mid-Ultimate und kann so unerwartete Zusatz-CC oder Mobilität liefern, abhängig vom Matchup im restlichen Spiel; Ragnarok entfernt Sylas' eigenen Q-Stun bei aktivem Cast, schützt aber nicht vor dem gestohlenen Ultimate-Effekt.",
+      "threats": "Q-Kettenhook mit Stun/Slow, Selbstheilung über W bei Spelltreffern, E-Dash für Gap-Close/Flucht, gestohlenes gegnerisches Ultimate als Wildcard.",
+      "window": "Solange Sylas' Q sichtbar auf Cooldown liegt und er kein gestohlenes Fluchtultimate zur Verfügung hat, ist ein Reckless-Swing-Allin am sichersten, besonders wenn seine Heilung bereits durch Grievous Wounds reduziert ist.",
+      "errors": "Gegen einen aufgeladenen Q-Wurf blind vorlaufen. Den Heilungs-Vorteil von Sylas' W unterschätzen und ohne Antiheal committen. Nach einem verfehlten eigenen Q trotzdem all-in gehen, obwohl Sylas' Hook noch verfügbar ist.",
+      "wave": "Gegen Sylas' Poke-Ketten lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei Wellen-Crash sollte Olaf vorsichtig roamen, da Sylas über E-Dash schnell nachsetzen kann.",
+      "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Sylas' Q-Kette bereits verbraucht ist, R als Antwort auf seinen Stun oder um die Heilung im verlängerten Austausch gegen seine eigene Sustain durchzusetzen.",
+      "items": "Gegen Sylas' magische Selbstheilung ist Hydra mit Maw-Linie zentral, da die Grievous-Wounds-Komponente seine wichtigste Ressource in Duellen direkt schwächt.",
+      "situ": "Bei besonders CC-lastigem gestohlenem Ultimate im Lauf des Spiels kann eine frühe Quicksilver-Priorisierung sinnvoll sein, um sich aus der Kombination zu befreien.",
+      "side": "1 Item: Das Duell bleibt eng, meist entscheidet wer zuerst Q trifft. 2 Items: Sylas' Selbstheilung beginnt spürbar zu tragen, Antiheal wird entscheidend. 3 Items: Sylas' Kombination aus Heilung und potenziell starkem gestohlenem Ultimate macht offene Duelle riskant, nur mit Antiheal-Vorteil suchen.",
+      "plan": "Früh auf Sylas' Q-Cooldown lauern und die eigene Grievous-Wounds-Komponente so schnell wie möglich online bringen. In der mittleren Phase Wellenkontrolle nutzen, um Sylas' Poke-Vorteil zu begrenzen, im Late Game das gestohlene Ultimate vor jedem Engage einkalkulieren.",
+      "override": "Bei sehr aggressivem frühem Sylas-Spiel ohne Poke-Fokus auf conqueror_secondwind wechseln, um den chronischen Q-Chip über die Lanephase abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen Sylas' Stun-Kette und den Magieschaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/sylas/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "akali",
+      "name": "Akali",
+      "tier": "C",
+      "reason": "Akali ist vor Level 6 durch begrenzte Ressourcen und den langen W-Cooldown fragil gegen direkte All-ins, was Olaf frühe Kill-Fenster verschafft. Ab Level 6 kombiniert sie Shroud-Stealth mit einem R-Doppeldash, der Burst und Fluchtweg in einem liefert, wodurch das späte Duell strukturell riskanter wird.",
+      "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, in dem Olaf drei saubere Treffer landen kann, bevor Akali über Shroud aus der Sichtlinie verschwindet. Bone Plating dämpft ihren Energie-limitierten Q-Poke-Einstieg in der frühen Lanephase.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist klar, da Akalis Energie-Pool frühe Trades stark limitiert und Shroud noch nicht verfügbar ist.",
+      "l25": "Akali poked vorsichtig mit Q und hält sich außerhalb sicherer All-in-Reichweite; Olaf sollte aggressiv committen, sobald ihr W-Shroud sichtbar auf Cooldown liegt, da sie dann ohne Fluchtwerkzeug im Nahbereich steht.",
+      "l6": "Akalis R ist ein Doppeldash, der Burst-Schaden mit garantiertem Rückweg kombiniert; Ragnarok entfernt keine Hard-CC aus ihrem Kit, liefert aber die Heilung, um die Burst-Rotation zu überleben und danach selbst nachzusetzen, bevor der zweite R-Dash verfügbar ist.",
+      "threats": "W-Shroud als Stealth/Heilungs-Reset, Q-Poke mit Doppeltreffer bei Rückkehr, R-Doppeldash mit Burst und Fluchtweg, E-Twin-Disciplines-Markierungsschaden.",
+      "window": "Solange Akalis W-Shroud auf Cooldown liegt oder bereits verbraucht ist, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+      "errors": "Nach dem Verschwinden in Shroud blind in die vermutete Position schlagen. Vor Level 6 zu passiv bleiben und das größte Energie-limitierte Kill-Fenster verpassen. Gegen einen frischen zweiten R-Dash committen, statt die Fluchtdistanz einzukalkulieren.",
+      "wave": "Gegen Akalis vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Energie-limitierten Trades zu erzwingen; bei sichtbarem Shroud-Verbrauch kann Olaf aggressiv pushen und roamen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, solange Shroud down ist, R als Antwort auf die R-Rotation oder um die Heilung im verlängerten Trade gegen ihren Burst zu sichern.",
+      "items": "Der Zugriffsdruck durch Akalis Shroud-Stealth und R-Doppeldash macht Tempo entscheidender als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen, bevor sie verschwindet.",
+      "situ": "Gegen ihren Burst ist ein früher Zusatzitem wie Wits' End oder Randuin's sinnvoll, sobald Akali kritisches Schadenspotenzial über Q-Marken aufbaut.",
+      "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Akali unter Level 6 bleibt. 2 Items: Akalis R-Rotation macht offene Duelle riskanter, nur mit Cooldown-Vorteil committen. 3 Items: Akalis Burst-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok suchen.",
+      "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes Energie- und Shroud-Cooldown-Fenster nutzen. Ab Level 6 die R-Rotation respektieren und nur mit vollem Ragnarok oder klarem Vorsprung committen, im Late Game auf Vision gegen Shroud-Stealth achten.",
+      "override": "Bei sehr aggressivem frühem Akali-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor Level 6 noch konsequenter zu gewinnen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen Akalis Magieburst und Twin-Disciplines-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/akali/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "viktor",
+      "name": "Viktor",
+      "tier": "C",
+      "reason": "Viktor hat vor dem ersten großen Powerspike wenig, um einen direkten Nahkampf-All-in abzuwehren, außer seiner E-Gravitationszone, die Olaf nur bei sauberem Timing verlangsamt und stumm schaltet. Sobald sein Ultimate und die Itemization online sind, verwandelt sich die Lane aber in ein Zonen-Kontroll-Duell, in dem Olaf ohne verlässlichen Gap-Close klar benachteiligt ist.",
+      "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, bevor Viktors E-Zone Olaf verlangsamt und stumm schaltet. Second Wind mildert den chronischen Q-Poke-Chip, dem Olaf über die gesamte Lanephase ausgesetzt ist, während er versucht, Kontakt herzustellen.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, solange er außerhalb von Viktors E-Zonenradius bleibt; sobald die Zone getroffen ist, verliert Olaf durch Verlangsamung und Silence wertvolle Trade-Zeit.",
+      "l25": "Viktor poked mit Q-Missile aus sicherer Distanz und hält E für den Moment eines erzwungenen All-ins bereit; Olaf sollte nur committen, wenn E sichtbar auf Cooldown liegt oder er die Zone zuverlässig umgehen kann.",
+      "l6": "Viktors R ist ein kanalisierter Laserstrahl mit hohem Flächenschaden über Zeit, der Olaf während des Engage-Versuchs stark schwächen kann; Ragnarok entfernt den Silence-Effekt der E-Zone bei aktivem Cast, hilft aber nicht gegen den reinen Distanzschaden des R-Lasers.",
+      "threats": "E-Gravitationszone mit Slow und Silence, Q-Missile-Poke, W-Schild gegen Burst, R-Kanal-Laser mit hohem Flächenschaden über Zeit.",
+      "window": "Solange Viktors E-Zone bereits verbraucht ist oder sichtbar auf Cooldown liegt, ist ein direkter Reckless-Swing-Allin am sichersten, besonders im Nahbereich ohne Fluchtweg.",
+      "errors": "Blind in die sichtbare E-Zone laufen und die Silence-Komponente unterschätzen. Gegen aktives W-Schild all-in gehen, bevor es sichtbar verbraucht ist. Den R-Laser während eines längeren Engage-Versuchs ignorieren.",
+      "wave": "Gegen Viktors Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei Wellen-Crash kann Olaf kurz roamen, da Viktor ohne Zonenkontrolle selten aggressiv folgt.",
+      "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Viktors E-Zone bereits verbraucht ist, R als Antwort auf die Silence-Komponente oder um im Duell gegen den R-Laser durchzuhalten.",
+      "items": "Gegen Viktors reinen Magieburst und Zonenschaden ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in seinem größten Schadensfenster.",
+      "situ": "Bei besonders starker Zonenkontrolle im Team kann früh Quicksilver Sash sinnvoll sein, um sich aus der Silence-Komponente der E-Zone zu befreien.",
+      "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn E fehlt. 2 Items: Viktors Zonenkontrolle und Q-Poke machen offene Duelle riskanter. 3 Items: Viktors R-Laser und Itemization-Powerspike übersteigen Olafs Sustain oft, nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+      "plan": "Früh auf E-Cooldown lauern und kompromisslos all-in gehen, solange Viktor ohne Zonenkontrolle im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game den R-Laser vor jedem Engage einkalkulieren.",
+      "override": "Bei besonders CC-lastigem Viktor-Spiel mit früher Zonen-Priorisierung auf pta_boneplating wechseln, um den Silence-Einstieg direkter zu dämpfen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen die E-Silence und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/viktor/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "fizz",
+      "name": "Fizz",
+      "tier": "C",
+      "reason": "Fizz ist ein weiterer früher Skirmisher mit eigenem All-in-Fokus, dessen E ihn kurzzeitig unangreifbar für gezielte Effekte macht, was Olafs Reckless-Swing-Timing erschwert. Gegen sauberes Spacing bleibt das Duell eng, aber Fizz' R-Fisch-Stun und späterer Magie-Burst verschieben das Bild im Sidelane-Duell zu seinen Gunsten.",
+      "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, in dem Olaf Fizz vor der E-Ausweichphase oder dem R-Stun-Fenster punishen kann. Bone Plating dämpft speziell die Q-Poke-in-Auto-Serie und den Burst-Einstieg über R.",
+      "l1": "Im direkten Kontakt ist der Trade eng, da beide auf frühe All-ins ausgelegt sind; wer den ersten Kontakt im Bush kontrolliert und Fizz' Q-Poke vermeidet, gewinnt meist den Level-1-Austausch.",
+      "l25": "Fizz poked mit Q-Trident aus mittlerer Distanz und nutzt E, um direkten Skillshots wie Undertow auszuweichen; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist.",
+      "l6": "Fizz' R ist ein Fisch-Wurf mit Verzögerung, der bei Treffer stunned und massiven Flächenschaden verursacht; Ragnarok entfernt den Stun-Effekt bei aktivem Cast und ist hier direkt matchup-relevant, sollte aber möglichst vor dem sichtbaren R-Wurf aktiviert werden.",
+      "threats": "E-Ausweichsprung gegen gezielte Effekte, Q-Trident-Poke, R-verzögerter Flächenstun mit hohem Schaden, spätes Magie-Burst-Itemization-Potenzial.",
+      "window": "Solange Fizz' E sichtbar auf Cooldown liegt oder bereits zum Ausweichen verbraucht wurde, ist ein Reckless-Swing-Allin am sichersten, besonders wenn sein R noch nicht verfügbar ist.",
+      "errors": "Direkt nach einem sichtbaren E-Sprung committen und den Ausweich-Effekt unterschätzen. Den verzögerten R-Fisch-Wurf ignorieren und im Wurfradius stehen bleiben. Vor Level 6 zu passiv spielen und das dichteste All-in-Fenster verpassen.",
+      "wave": "Gegen Fizz' Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Fizz' eigenes E verbraucht ist, R rechtzeitig vor einem sichtbaren R-Wurf aktivieren, um den Stun zu entfernen und die Heilung im Austausch zu sichern.",
+      "items": "Der Zugriffsdruck durch Fizz' E-Ausweichsprung und generelle Mobilität macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen.",
+      "situ": "Gegen seinen Magieburst ist ein früher Zusatzitem wie Wits' End oder ein Maw-Fokus sinnvoll, sobald Fizz kritisches AP-Schadenspotenzial aufbaut.",
+      "side": "1 Item: Das Duell bleibt eng, meist entscheidet wer zuerst E oder Q verbraucht. 2 Items: Fizz' Burst-Fenster über R macht offene Duelle riskanter. 3 Items: Fizz' Magieschaden kann Olafs Sustain klar übersteigen, Fights nur mit vollem Ragnarok und Timing gegen R suchen.",
+      "plan": "Früh auf E-Cooldown lauern und im Bush aggressiv um Kontrolle kämpfen. Ab Level 6 den verzögerten R-Fisch-Wurf respektieren und rechtzeitig Ragnarok für den Stun-Cleanse einplanen, im Late Game Magieresistenz priorisieren.",
+      "override": "Bei sehr aggressivem frühem Fizz-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor dem ersten großen R-Fenster zu gewinnen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen den R-Stun und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/fizz/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "vex",
+      "name": "Vex",
+      "tier": "B",
+      "reason": "Vex' Passive belohnt sie zusätzlich gegen dashende oder springende Gegner, was gegen Olaf praktisch nie greift, da er kein Dash-basiertes Gap-Close-Tool besitzt. Ihre eigene Mobilität ist gering und ihr Fear über E ist an einen kurzen Dash gebunden, wodurch Olaf nach dessen Verbrauch verlässliche All-in-Fenster gegen eine fragile Gegnerin bekommt.",
+      "runeReason": "Press the Attack passt zum kurzen Burst-Fenster nach einem verbrauchten E-Fear, in dem Vex kaum Fluchtwerkzeug hat. Second Wind mildert den Q-Poke-Chip, dem Olaf beim Herankommen an eine grundsätzlich immobile Ranged-Mage ausgesetzt ist.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, da Vex' Passive gegen ihn nicht greift und sie ohne verbrauchtes E kaum Fluchtoptionen hat.",
+      "l25": "Vex poked mit Q-Slow aus Distanz und hält E-Fear für den Moment eines erzwungenen Engages bereit; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist, da Vex dann strukturell ungeschützt steht.",
+      "l6": "Vex' R ist ein weitreichendes Exekutions-Geschoss mit hohem Schaden gegen niedrige HP-Werte; Ragnarok entfernt den Fear-Effekt bei aktivem Cast, verhindert aber nicht den reinen Distanzschaden des R, weshalb frühzeitiges Schließen der Distanz vor dem Cast wichtig bleibt.",
+      "threats": "E-Fear mit kurzem Dash, Q-Slow-Poke, W-Schild und Movement-Speed-Buff, R-Exekutionsgeschoss über große Distanz gegen niedrige HP-Werte.",
+      "window": "Solange Vex' E-Fear sichtbar verbraucht oder auf Cooldown ist, ist ein direkter Reckless-Swing-Allin am sichersten, besonders da ihre Passive gegen Olafs Boden-gebundenes Kit nicht greift.",
+      "errors": "Blind in den E-Fear-Skillshot laufen, sobald er sichtbar aufgeladen ist. Gegen aktives W-Schild und Movement-Speed all-in gehen, ohne den Buff auslaufen zu lassen. Den weitreichenden R-Exekutionsschaden bei niedriger eigener HP unterschätzen.",
+      "wave": "Gegen Vex' Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Q-Reichweite zu minimieren; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und die Welle crashen, um zu roamen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Vex' eigenes E verbraucht ist, R als Antwort auf den Fear oder um im Duell gegen ihren Poke-Chip durchzuhalten.",
+      "items": "Gegen Vex' reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion gegen ihre Poke-in-Burst-Rotation.",
+      "situ": "Bei besonders CC-lastigem Vex-Spiel kann früh Quicksilver Sash sinnvoll sein, um sich aus dem E-Fear zu befreien, bevor er den All-in ihres Teams einleitet.",
+      "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn E fehlt. 2 Items: Vex' R-Exekutionsschaden beginnt spürbar zu drohen, Duelle nur bei ausreichend HP-Puffer suchen. 3 Items: Vex' Poke-Burst-Kombination kann gefährlich werden, aber ihre geringe Grundmobilität lässt Olaf mit Tempo-Vorteil weiterhin klare Fenster.",
+      "plan": "Früh auf E-Cooldown lauern und kompromisslos all-in gehen, solange Vex ohne Fear-Fluchtweg im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game die R-Exekutionsschwelle im Blick behalten.",
+      "override": "Bei besonders poke-fokussiertem Vex-Spiel ohne frühen All-in-Fokus auf pta_boneplating wechseln, um den Fear-Einstieg direkter zu dämpfen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen den E-Fear und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/vex/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "xerath",
+      "name": "Xerath",
+      "tier": "C",
+      "reason": "Xerath hat keinerlei Mobilität und ist im Nahkampf praktisch chancenlos, sobald Olaf die Distanz überbrückt, was das späte Duell klar zu Olafs Gunsten verschiebt. Die frühe Lanephase ist jedoch brutal, da Xerath über Q und W aus großer Reichweite pokt und jeden Annäherungsversuch teuer macht, bevor Olaf überhaupt Kontakt herstellen kann.",
+      "runeReason": "Conqueror liefert die Sustain über Omnivamp, um den Poke-Schaden beim Heranlaufen abzufedern und in einen verlängerten Nahkampf-Vorteil umzumünzen, sobald Kontakt steht. Second Wind mildert den chronischen Fernschaden, dem Olaf über weite Teile der Lanephase ausgesetzt ist, bevor er überhaupt die erste Reckless Swing landen kann.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, falls er ihn erzwingen kann, aber Xerath wird selten freiwillig in Reichweite kommen; Bush-Kontrolle und First-Blood-Potenzial hängen fast vollständig davon ab, ob Olaf ihn aus der Deckung erwischt.",
+      "l25": "Xerath poked konstant mit Q und W aus sehr großer Distanz und farmt praktisch risikofrei; Olaf muss unter Druck vor allem farmen und darf nur all-in gehen, wenn er über Minions oder Terrain gedeckt heranlaufen und Xeraths Q-Cooldown ausnutzen kann.",
+      "l6": "Xeraths R ist ein globaler Snipe-Stun mit hohem Schaden, der primär im Sidelane- oder Teamfight-Kontext relevant wird und weniger im direkten 1v1; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig, was das Matchup im direkten Duell stark zu Olafs Gunsten kippt, sobald er tatsächlich in Reichweite steht.",
+      "threats": "Q-Arcanopulse-Poke mit hoher Reichweite, W-Eye-of-Destruction-AoE-Poke, E-Root, R-Globalstun mit hohem Einzelschaden.",
+      "window": "Sobald Olaf über Minion-Deckung oder Terrain in unmittelbare Nahkampfreichweite kommt und Xeraths Q-Cooldown sichtbar down ist, ist der All-in praktisch immer gewinnbar, da Xerath keine Fluchtmöglichkeit hat.",
+      "errors": "Offen und ungedeckt auf Xerath zulaufen, ohne Minion-Wellen als Deckung zu nutzen. Gegen sein E-Root committen, ohne den Wurzel-Radius einzukalkulieren. Die Lanephase durch ständiges Pushen gegen den Turm unnötig verlängern, statt Roams des Junglers zu nutzen.",
+      "wave": "Gegen Xeraths Dauerpoke ist eine enge Freeze oder sogar bewusstes Slow-Pushen zur eigenen Turmkante sinnvoll, um seine Sichtlinien-Reichweite zu minimieren; bei jeder Gelegenheit sollte Olaf die Wave crashen und roamen, da Xerath ohne Wave kaum Pressure ausüben kann.",
+      "trade": "Wave-Clear priorisieren, bei sichtbarem Q-Cooldown und Minion-Deckung schnell heranlaufen, E erst im Nahkampf zünden, R für den finalen Burst oder um das E-Root/R-Snipe zu entfernen.",
+      "items": "Gegen Xeraths reinen Magieburst aus der Distanz ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion, sobald der Nahkampf steht.",
+      "situ": "Bei besonders hohem Poke-Druck im gegnerischen Team kann ein früherer Defensiv-Fokus wie Force of Nature oder ein Health-heavy Item sinnvoll sein, um die Annäherung zu überstehen.",
+      "side": "1 Item: Sobald Olaf in Reichweite kommt, gewinnt er das Duell praktisch immer. 2 Items: Xeraths Poke-Schaden bleibt gefährlich, aber der direkte Nahkampf bleibt klar zu Olafs Gunsten. 3 Items: Xerath kann durch reine Item-Reichweite kaum aufholen, das Problem bleibt strukturell die Annäherung, nicht das Duell selbst.",
+      "plan": "Die frühe Lanephase primär überleben und farmen, Poke über Minion-Deckung minimieren und auf Jungler-Ganks für Level-1-3-Kills setzen. Sobald Items und Level Zugang zum Nahkampf erlauben, konsequent all-in gehen, da Xerath strukturell keine Antwort auf direkten Kontakt hat.",
+      "override": "Bei besonders defensivem, poke-fokussiertem Xerath-Spiel auf pta_secondwind wechseln, um im seltenen Kontaktfenster maximalen Burst statt Sustain zu priorisieren.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen den Magieburst und die Root/Stun-Kombination.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "B",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/xerath/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "lissandra",
+      "name": "Lissandra",
+      "tier": "D",
+      "reason": "Lissandra kombiniert Dauer-CC über Q-Slow und W-Zone mit doppelter E-Blink-Mobilität, was ihr erlaubt, Olafs Annäherung ständig zu unterbrechen und selbst kontrolliert zu engagieren. Ihr R-Hardstun ist speziell gegen einen rein melee-basierten All-in-Champion wie Olaf ein starkes Werkzeug, das seinen größten Trumpf, den direkten Kontakt, neutralisiert.",
+      "runeReason": "Conqueror liefert die Sustain, um den chronischen Q-Slow-Poke beim Heranlaufen über Omnivamp abzufedern und in einen verlängerten Vorteil umzumünzen, sobald Kontakt tatsächlich steht. Second Wind mildert den Dauerschaden aus wiederholten Q-Treffern, bevor überhaupt ein sauberer All-in möglich ist.",
+      "l1": "Im direkten Kontakt ist der Level-1-Trade eng, da Lissandras W-Ring-of-Frost-Zone bei Treffer selbst CC liefert; wer den ersten Ring-Treffer vermeidet, kontrolliert meist den Austausch.",
+      "l25": "Lissandra poked mit Q-Slow und weicht mit E-Blink jedem direkten Kontakt aus; Olaf muss all-in gehen, wenn beide E-Ladungen bereits verbraucht sind, da sie sonst zweimal aus der Reichweite blinken kann.",
+      "l6": "Lissandras R macht sie entweder selbst kurzzeitig unangreifbar oder betäubt ein Ziel hart über die volle Dauer, was speziell Olafs All-in-Fenster zunichtemacht; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig und ist hier eines der wichtigsten Werkzeuge im gesamten Matchup.",
+      "threats": "Q-Slow-Poke, W-Ring-of-Frost-Zonen-CC, doppelte E-Blink-Mobilität, R-Hardstun oder Selbstschutz mit Nachlaufschaden.",
+      "window": "Solange beide E-Blink-Ladungen von Lissandra verbraucht sind und ihr R noch nicht verfügbar ist, ist ein Reckless-Swing-Allin am sichersten, da sie dann strukturell ohne Fluchtweg im Nahbereich steht.",
+      "errors": "In die sichtbare W-Ring-of-Frost-Zone laufen und die CC-Komponente unterschätzen. All-in gehen, während noch eine E-Ladung verfügbar ist. Ragnarok erst nach dem R-Stun statt rechtzeitig davor aktivieren.",
+      "wave": "Gegen Lissandras Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Q-Reichweite zu minimieren; bei sichtbarem Verbrauch beider E-Ladungen kann Olaf aggressiv nachsetzen und pushen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, sobald beide E-Blinks von Lissandra verbraucht sind, R proaktiv vor einem sichtbaren R-Stun-Versuch aktivieren, um die CC zu entfernen und die Heilung im Austausch zu sichern.",
+      "items": "Gegen Lissandras reinen Magieburst und CC-Zonenschaden ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in ihrem größten Schadensfenster.",
+      "situ": "Bei besonders CC-lastigem Lissandra-Spiel kann früh Quicksilver Sash sinnvoll sein, um sich gezielt aus dem R-Hardstun zu befreien, falls Ragnarok gerade nicht verfügbar ist.",
+      "side": "1 Item: Das Duell bleibt eng und stark timing-abhängig vom R-Stun. 2 Items: Lissandras CC-Zonenkontrolle macht offene Duelle riskanter, insbesondere ohne verfügbares Ragnarok. 3 Items: Lissandras Kombination aus Blink-Mobilität und Hardstun übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok-Timing suchen.",
+      "plan": "Früh auf E-Cooldown lauern und nur bei verbrauchten Blinks committen. Ab Level 6 den R-Stun konsequent respektieren und Ragnarok proaktiv vor dem Engage aktivieren, im Late Game CC-Reduktion und Cleanse-Optionen priorisieren.",
+      "override": "Bei besonders passivem, poke-fokussiertem Lissandra-Spiel auf pta_secondwind wechseln, um im seltenen Kontaktfenster maximalen Burst statt reiner Sustain zu priorisieren.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen den R-Hardstun und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/lissandra/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "ekko",
+      "name": "Ekko",
+      "tier": "C",
+      "reason": "Ekko ist vor dem Aufbau seiner W-Stacks und vor Level 6 relativ schwach im direkten Trade, was Olaf frühe All-in-Fenster gegen einen Champion ohne verlässliche Flucht verschafft. Ab Level 6 kombiniert sein Ultimate jedoch Flächenstun, Heilung und Movement-Speed in einem Paket, das speziell gegen melee-basierte All-in-Champions wie Olaf sehr stark ist.",
+      "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, das Olaf vor Level 6 nutzen kann, solange Ekkos W-Stacks noch nicht aufgebaut sind. Bone Plating dämpft speziell den E-Stun-Einstieg und den R-Flächenstun-Burst, mit dem Ekko ab Level 6 Duelle eröffnet.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Ekkos frühe Schadenswerte ohne W-Stacks gering sind und sein E-Stun-Reset erst nach Rückkehr zur ursprünglichen Position greift.",
+      "l25": "Ekko poked vorsichtig mit W-Zone und E und baut W-Stacks über Auto-Attacken auf; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist, da Ekko dann ohne seinen Haupt-Stun-Reset im Nahbereich steht.",
+      "l6": "Ekkos R ist ein Zeitrücksprung mit garantiertem Flächenstun, hohem Schaden und Selbstheilung basierend auf fehlender gegnerischer HP; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig, was für das direkte Duell entscheidend ist, sollte aber möglichst vor dem sichtbaren R-Cast aktiviert werden.",
+      "threats": "E-Stun bei Rückkehr zur Ausgangsposition, W-Zonenverlangsamung mit Stack-Aufbau, R-Flächenstun mit Schaden und Selbstheilung, hohe spätgame Duell- und Reset-Stärke.",
+      "window": "Solange Ekkos E-Stun-Reset bereits verbraucht ist oder sichtbar auf Cooldown liegt, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+      "errors": "Nach einem sichtbaren E-Wurf sofort committen, ohne die Rückkehr-Stun-Komponente einzukalkulieren. Vor Level 6 zu passiv spielen und das dichteste All-in-Fenster verpassen. Ragnarok erst nach dem sichtbaren R-Stun aktivieren statt proaktiv davor.",
+      "wave": "Gegen Ekkos vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um sein W-Stack-Aufbau-Tempo zu verlangsamen; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Ekkos eigenes E verbraucht ist, R proaktiv vor einem sichtbaren R-Cast aktivieren, um den Flächenstun zu entfernen und die Heilung im Austausch zu sichern.",
+      "items": "Der Zugriffsdruck durch Ekkos E-Reset und R-Zeitrücksprung macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen, bevor er verschwindet.",
+      "situ": "Gegen seinen Burst-Heal-Kombo ist ein früher Zusatzitem mit Grievous-Wounds-Fokus sinnvoll, sobald Ekko über R-Selbstheilung Duelle verlängert.",
+      "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Ekko unter Level 6 bleibt. 2 Items: Ekkos R-Kombo macht offene Duelle riskanter, nur mit Cooldown-Vorteil committen. 3 Items: Ekkos Burst-Heal-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok-Timing suchen.",
+      "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes E-Cooldown-Fenster nutzen. Ab Level 6 den R-Flächenstun respektieren und Ragnarok proaktiv vor dem Engage aktivieren, im Late Game Grievous Wounds gegen seine Selbstheilung priorisieren.",
+      "override": "Bei sehr aggressivem frühem Ekko-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor Level 6 noch konsequenter zu gewinnen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen den R-Flächenstun und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ekko/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "nasus",
+      "name": "Nasus",
+      "tier": "A",
+      "reason": "Nasus ist vor dem Aufbau seiner Q-Stacks strukturell schwach und hat außer Wither kein Werkzeug, um einen frühen All-in zu verhindern, was Olaf in den ersten Levels eine der klarsten Dominanzoptionen im gesamten Mid-Matchup-Pool verschafft. Erreicht Nasus jedoch kritische Farmwerte und sein Ultimate, kippt das spätere Sidelane-Duell deutlich, da seine Fury-Reichweite und sein Schadensoutput dann außergewöhnlich hoch werden.",
+      "runeReason": "Conqueror passt exakt zum Ziel eines verlängerten Nahkampf-Duells gegen einen Gegner ohne echten Fluchtweg vor Level 6, in dem die Heilung den Ressourcen-Austausch von Reckless Swing gegen Nasus' Q-Stack-Verlust zusätzlich verstärkt. Bone Plating dämpft den Wither-Slow-Einstieg und den frühen Q-Poke, mit dem Nasus versucht, All-ins zu vermeiden.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 fast immer klar, da Nasus' Q-Cooldown früh sehr lang ist und Wither ohne vorherigen Stack-Aufbau kaum Verteidigungswert hat.",
+      "l25": "Nasus versucht primär, sicher Q-Stacks zu farmen und Wither für den Notfall zu sparen; Olaf sollte kontinuierlich all-in gehen, solange Wither noch nicht verfügbar oder bereits verbraucht ist, da jeder verpasste Stack Nasus langfristig schwächt.",
+      "l6": "Nasus' R erhöht Reichweite, Größe und Schaden seiner Fähigkeiten deutlich und macht ihn im späten Spiel zu einem gefährlichen Duellanten; Ragnarok entfernt Withers Verlangsamung bei aktivem Cast vollständig, was speziell gegen Nasus' wichtigstes Defensivwerkzeug matchup-relevant bleibt, auch wenn der reine Fury-Schaden davon unberührt bleibt.",
+      "threats": "W-Wither als starker Attackspeed-/Movement-Slow, Q-Siphoning-Strike-Stackaufbau, E-Spirit-Fire als Rüstungsreduktion-Zone, R-Fury mit deutlich erhöhter Reichweite und Schaden im späten Spiel.",
+      "window": "Solange Wither noch nicht verfügbar oder sichtbar auf Cooldown ist, ist praktisch jedes frühe Level ein verlässliches All-in-Fenster für Reckless Swing, da Nasus strukturell wenig Gegenwehr hat.",
+      "errors": "Nasus ungestört über viele Wellen Q-Stacks farmen lassen, ohne Pressure aufzubauen. Gegen aktives Wither weiter all-in gehen und den Attackspeed-Verlust unterschätzen. Die Lanephase unnötig in die Länge ziehen, statt den frühen Vorteil in Plates oder einen Kill umzumünzen.",
+      "wave": "Gegen Nasus lohnt sich aggressives Pushen und wiederholtes Kontaktsuchen, um seinen Q-Stack-Aufbau kontinuierlich zu stören; ein Freeze ist selten nötig, da Nasus ohnehin defensiv spielt und selten Ganks einleitet.",
+      "trade": "Q auf die Wave oder direkt auf Nasus, bei Kontakt sofort E zünden, solange Wither down ist, R als Antwort auf einen späten Wither-Einsatz oder um die Heilung im verlängerten Austausch weiter zu maximieren.",
+      "items": "Gegen Nasus' natürlichen Rüstungsaufbau über Stacks und Itemization ist Hydra mit Cleaver-Linie zentral, um seine wachsende physische Tankiness direkt zu durchbrechen.",
+      "situ": "Gegen seinen späten Fury-Schaden ist ein defensiver Zusatzitem wie Randuin's Omen sinnvoll, sobald Nasus' R-Reichweite und -Schaden kritisch werden.",
+      "side": "1 Item: Olaf dominiert jeden direkten Kontakt fast ausnahmslos. 2 Items: Nasus beginnt durch Q-Stacks und Rüstung aufzuholen, Duelle bleiben aber meist zugunsten von Olaf. 3 Items: Ist Nasus stark gefarmt und hat R online, wird das Duell deutlich ausgeglichener bis riskant, insbesondere im Sidelane-Kontext mit Fury-Reichweite.",
+      "plan": "Die frühen Level konsequent für Pressure und All-ins nutzen, um Nasus' Q-Stack-Wachstum aktiv zu stören und einen Lead in Plates oder Kills umzumünzen. Wird Nasus dennoch stark, im mittleren bis späten Spiel Sidelane-Duelle gegen ihn meiden und stattdessen über Teamfight-Präsenz kompensieren.",
+      "override": "Bei besonders defensivem, farmfokussiertem Nasus-Spiel ohne Wither-Aggression auf pta_boneplating wechseln, um kurze Burst-Fenster gegen seine Stack-Anfälligkeit noch direkter auszunutzen.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Teleport",
+      "boots": "Plated Steelcaps gegen Nasus' physischen Q-/Fury-Schaden.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "A",
+      "late": "C",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/nasus/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "aurelionsol",
+      "name": "Aurelion Sol",
+      "tier": "C",
+      "reason": "Aurelion Sol ist vor dem Aufbau von Stardust-Stacks relativ schadensschwach und riskiert bei jedem Q-Einsatz, Sterne in Reichweite zu haben, was ihn früh anfällig für direkte All-ins macht. Sein W-Stun aus großer Distanz und die E-Mobilität geben ihm jedoch ein starkes Werkzeug gegen Nahkampf-Engages, sobald er genug Ressourcen investiert hat, um Duelle aus der Distanz zu kontrollieren.",
+      "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, das Olaf nutzen kann, bevor Aurelion Sols W-Stun-Skillshot den Engage unterbricht. Bone Plating dämpft speziell den Q-Sternenexplosion-Burst, den Aurelion Sol bei erzwungenem Nahkampfkontakt einsetzt.",
+      "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Aurelion Sols Q ohne aufgebaute Stardust-Stacks wenig Schaden macht und er sich für die Sternenreichweite riskant nah heranwagen muss.",
+      "l25": "Aurelion Sol poked vorsichtig mit W-Stun aus großer Distanz und hält E für den Rückzug bereit; Olaf sollte all-in gehen, sobald W sichtbar verfehlt wurde oder auf Cooldown liegt, da Aurelion Sol dann kaum Verteidigung gegen Nahkampf hat.",
+      "l6": "Aurelion Sols R ist ein globaler Effekt, der Gegner über die Karte hinweg zieht und verlangsamt, primär relevant für Roaming und Objectives statt das direkte 1v1; Ragnarok bleibt im Lane-Duell wichtiger für die Heilung als für den Cleanse, da R selten direkt CC im Nahkampf appliziert.",
+      "threats": "W-Shooting-Star als Stun-Skillshot aus großer Distanz, Q-Sternenexplosion im Nahbereich, E als Fluchtwerkzeug mit Movement-Speed, globales R-Zuggeschoss mit Verlangsamung.",
+      "window": "Solange Aurelion Sols W sichtbar verfehlt wurde oder auf Cooldown liegt, ist ein direkter Reckless-Swing-Allin am sichersten, besonders wenn er sich für Q-Reichweite bereits nah herangewagt hat.",
+      "errors": "Blind in die Sichtlinie des W-Stun-Skillshots laufen. Gegen einen frisch aufgebauten Stardust-Stack-Vorteil all-in gehen und den Q-Schaden unterschätzen. Nach einem verpassten eigenen Engage die E-Mobilität von Aurelion Sol als Fluchtweg unterschätzen.",
+      "wave": "Gegen Aurelion Sols vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine W-Reichweite zu minimieren; bei sichtbarem W-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+      "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Aurelion Sols W verbraucht oder verfehlt ist, R als Antwort auf seinen Q-Nahkampf-Burst oder um im Duell gegen seine Stardust-Skalierung durchzuhalten.",
+      "items": "Gegen Aurelion Sols reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in seinem größten Schadensfenster.",
+      "situ": "Bei besonders starkem Poke-Fokus im gegnerischen Team kann früh eine defensive Priorisierung wie Force of Nature sinnvoll sein, um W-Treffer über die Lanephase abzufedern.",
+      "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn W fehlt. 2 Items: Aurelion Sols Stardust-Skalierung beginnt spürbar zu tragen, Duelle werden riskanter. 3 Items: Aurelion Sols Distanzschaden und Burst-Fenster übersteigen Olafs Sustain oft, nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+      "plan": "Früh auf W-Cooldown lauern und kompromisslos all-in gehen, solange Aurelion Sol ohne Stun-Deckung im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game seine globale Ultimate für Roaming/Objectives einkalkulieren statt nur das direkte Duell.",
+      "override": "Bei besonders poke-fokussiertem Aurelion-Sol-Spiel auf pta_secondwind wechseln, um den W-Chip über die Lanephase abzufedern.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen den W-Stun und den Magieburst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/aurelionsol/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "qiyana",
+      "name": "Qiyana",
+      "tier": "B",
+      "reason": "Qiyana ist bis Level 6 sehr fragil und auf Terrainelemente angewiesen, um ihren Nahkampf-Vorteil zu holen – ohne Fels/Fluss/Gras in Reichweite verliert sie viel von ihrem Kit. Olaf kann sie vor dem ersten großen Kombo-Level bestrafen, muss aber ab 6 ihr empowertes Q und den R-Knockback am Terrainrand respektieren.",
+      "runeReason": "Precision (Presence of Mind/Inspiration) gibt Tempo, um sie vor einem Terrain-Reset zu erreichen, statt nach dem ersten verpassten Kontakt hinterherzulaufen. Reiner Boneplating-Ansatz bringt wenig, wenn sie den Kampf über Distanz zum nächsten Element eröffnet.",
+      "l1": "Im Nahkampf ohne Terrain in der Bush verliert Qiyana die meisten offenen Trades gegen Olafs W-Sustain und E-Wahrscheinschaden. Bei Fels- oder Flusselementen in Reichweite wird sie durch Knockup/Slow deutlich gefährlicher.",
+      "l25": "Solange sie kein Terrainelement erreichen kann, ist Q-Poke von Olaf und kontrolliertes Freezing im Vorteil. All-in erst nach ihrem verbrauchten E-Dash oder wenn kein Element in ihrer Reichweite liegt.",
+      "l6": "R zieht Gegner zum Kartenrand und schneidet mit Rüstungsdurchdringung – bei Kontakt am Terrainrand ein echter Killwinkel für sie. Olafs R entfernt den Slow/Knockup-Wert eines vorherigen E-Empower, verhindert aber nicht den reinen Damage-Burst danach.",
+      "threats": "Terrain-empowertes Q (Knockup/Slow/Unsichtbarkeit), E-Dash über Terrain, R-Knockback mit Rüstungsschred.",
+      "window": "Nach verbrauchtem E-Dash ohne erreichbares Terrainelement in der Nähe und vor ihrem nächsten Backrecall ist das beste Fenster für Kontakt.",
+      "errors": "Trades in Fels- oder Flussnähe suchen, wenn sie Mana/Cooldowns dafür frei hat. Blind in ihre R-Reichweite am Kartenrand laufen.",
+      "wave": "Slowpush ohne Terrain in der Lane bevorzugen, damit sie ihre Empower-Mechanik nicht nutzen kann. Bei freiem Crash kurze Recall-Fenster für Tränke/Komponenten nutzen.",
+      "trade": "Q treffen, an sie heranlaufen, E zwischen zwei Autos setzen, erst committen wenn kein Terrain in ihrer unmittelbaren Nähe liegt. R erst bei sicherem Auto-Kontakt, nicht auf Verdacht.",
+      "items": "Stridebreaker plus Death's Dance für Zugriff auf ihre Dash-Reset-Fenster und Sustain im verlängerten Duell, da reine Hydra-Wellenkontrolle ihre Mobilität nicht löst.",
+      "situ": "Maw of Malmortius bei starkem Burst-Ausbau ihrerseits, Executioner's Calling wenn ihr Team zusätzliche Heilquellen stellt.",
+      "side": "1 Item: frühe Stridebreaker-Slows ermöglichen erste All-ins gegen ihr fehlendes Escape. 2 Items: mit R meist gewinnbares Duell abseits von Terrain. 3 Items: hängt stark davon ab, ob sie zu reinem Burst-Build oder Crit/Onhit geht.",
+      "plan": "Zwinge Trades abseits von Fels und Fluss und nutze ihre fehlende Fluchtoption vor Level 6 konsequent aus. Nach 6 nur an Kartenkanten committen, wenn ihr E-Dash sichtbar verbraucht ist.",
+      "override": "Conqueror statt PTA, wenn das Spiel in eine lange Sidelane-Pattsituation nach mehreren Items kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads wegen Knockup/Slow-Potenzial aus ihrem Terrain-Kit und dem R-Rüstungsschred.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/qiyana/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "tier": "D",
+      "reason": "Aurora hat mit ihrem Dash sowohl Reichweite als auch eine Möglichkeit, Slows von sich selbst zu entfernen, was Olafs Q-Setup direkt entwertet. Ihr Kit erlaubt sowohl Poke auf Distanz als auch ein eigenständiges All-in, wenn sie den Dash offensiv statt defensiv einsetzt.",
+      "runeReason": "First Strike wäre defensiv reizvoll, aber gegen ihre kurzen Aggressionsfenster liefert Precision-Damage über PTA mehr Gegenwert bei den seltenen sauberen drei Auto-Treffern. Boneplating federt die Q-Poke-Serie vor dem eigentlichen All-in ab.",
+      "l1": "Im direkten Kontakt ohne ihren Dash gewinnt Olaf die reine Schlagabtausch-Situation. Sobald sie den Dash zum Cleanse eines Slows nutzen kann, entkommt sie jedem frühen Punktkontakt.",
+      "l25": "Poke-Phase ist unangenehm, da ihr Q Reichweite und ihr Dash Sicherheit gibt. All-in nur direkt nach sichtbar verbrauchtem Dash, sonst lieber unter Turm farmen und CS-Verluste akzeptieren.",
+      "l6": "Ihr Portal-Ultimate erlaubt Repositionierung oder plötzlichen zweiten Kontaktpunkt und kann Verfolgung komplett umgehen. Olafs R hilft gegen Slows aus ihrem Kit, aber nicht gegen die reine Distanzverschiebung durch das Portal.",
+      "threats": "Dash mit Debuff-Cleanse, Portal-Ultimate zur Repositionierung, Q-Poke auf Distanz, Zonen-Slow.",
+      "window": "Direkt nach ihrem Dash, solange er auf Cooldown ist und kein Portal in Reichweite liegt, ist das verlässlichste Kontaktfenster.",
+      "errors": "Q in ihre offene Dash-Reichweite werfen und dann selbst nachlaufen. Ihr Portal ignorieren und blind weiterverfolgen, wenn sie hindurchgeht.",
+      "wave": "Kontrolliertes Freezing nahe der eigenen Seite, damit ihr Poke-Vorteil nicht die ganze Wave erreicht. Bei sichtbarem Dash-Verbrauch kurze Aggressionsfenster für CS-Druck nutzen.",
+      "trade": "Q zum Slow-Versuch, sofort nachsetzen falls Dash weg ist, E zwischen Autos, R erst bei tatsächlichem Auto-Kontakt und nicht auf reine Verdachtsdistanz.",
+      "items": "Ravenous Hydra in Maw-Linie gegen ihren AP-Burst und die Notwendigkeit, ihre Poke-Serie zu überleben, bevor ein Duell überhaupt möglich wird.",
+      "situ": "Maw of Malmortius als Standard gegen ihren Magieschaden, Sterak's Gage wenn sie zusätzlich als Frontline-Bedrohung im Teamfight auftritt.",
+      "side": "1 Item: kaum verlässliche Kill-Fenster, Poke dominiert. 2 Items: mit Maw und R spielbare Duelle bei verbrauchtem Dash. 3 Items: bleibt wegen ihrer Repositionierung ein enges, lesbares Matchup statt eines klaren Vorteils.",
+      "plan": "Fahre die Lane defensiv, spare Trades für sichtbare Dash-Cooldowns auf und priorisiere frühe Roams, wenn die Poke-Phase zu verlustreich wird. Kein Commitment ohne Blick auf ihren Dash- und Portal-Status.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Splitpush-Duelle nach vielen Items kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/aurora/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "velkoz",
+      "name": "Vel'Koz",
+      "tier": "C",
+      "reason": "Vel'Koz hat keinerlei Mobilität und ist bei erfolgreichem Kontakt eines der leichtesten Ziele im Feld, was Olafs späten Sidelane-Impact stark begünstigt. Die frühe Laning-Phase ist trotzdem hart, weil seine Reichweite und sein Knockup jeden unvorsichtigen Anlauf bestrafen.",
+      "runeReason": "Second Wind mildert die konstante Q/W-Poke-Serie über die gesamte Laning-Phase, in der Olaf sonst nur passiv HP verliert. PTA belohnt die wenigen sauberen Kontaktfenster stärker als ein auf viele Autos ausgelegtes Setup.",
+      "l1": "Ohne Bush-Vision ist Vel'Koz' Q auf kurze Distanz vermeidbar, sein E-Knockup bei Kontakt aber ein zuverlässiger Anti-All-in. Olaf sollte den ersten Kontakt nicht erzwingen, sondern auf einen Fehlwurf warten.",
+      "l25": "Reine Poke-Phase, in der Olaf CS-Verluste unter Turm akzeptieren muss, solange E-Knockup verfügbar ist. All-in nach verbrauchtem E oder wenn er zu nah an der Wave steht, um auszuweichen.",
+      "l6": "Sein R-Laser ist auf Distanz verheerend, bricht aber ab, sobald er hart kontrolliert oder gezwungen wird, den Kanal zu unterbrechen. Olafs R hält den Kontakt während R und neutralisiert seine Fluchtoptionen, da er selbst keine hat.",
+      "threats": "Q-Split-Poke, W-Flächenschaden, E-Knockup als Anti-Engage, R-Kanal mit True-Damage-Stapel.",
+      "window": "Nach verbrauchtem E-Knockup oder mitten im R-Kanal, wenn er den Kanal nicht rechtzeitig abbrechen kann, ist der Kill realistisch.",
+      "errors": "Frontal durch offene Sichtlinien anlaufen, wo E ihn trifft. Den R-Kanal aus zu großer Distanz unterbrechen wollen, statt direkt durchzugehen.",
+      "wave": "Kontrollierter Slowpush, um seine Poke-Reichweite zur eigenen Wave zu minimieren. Nach jedem verbrauchten E kurze Aggressionsfenster für Farm oder Trade nutzen.",
+      "trade": "Q zum Slow, im Bogen an ihn heranlaufen statt geradlinig, E sofort nach Kontakt, R erst wenn Auto-Reichweite gesichert ist und sein E-Knockup verbraucht ist.",
+      "items": "Ravenous Hydra in Maw-Linie, da sein reiner AP-Burst über die Poke-Phase sonst zu viel HP kostet, bevor überhaupt ein Duell zustande kommt.",
+      "situ": "Maw of Malmortius als Standard, Quicksilver Sash bei zusätzlicher harter Hard-CC aus der gegnerischen Comp gegen sein E.",
+      "side": "1 Item: Poke dominiert weiterhin, Kills selten. 2 Items: mit R und Tenacity aus Merc-Boots realistische Kill-Fenster bei jedem Fehlwurf seinerseits. 3 Items: klarer Vorteil, da er im Nahkampf praktisch keine Antwort hat.",
+      "plan": "Farme die frühe Poke-Phase defensiv aus, spare Ressourcen für Roams und suche den ersten echten Kontakt erst mit Boots und R verfügbar. Ab dem Moment, in dem Olaf ihn im Nahkampf erwischt, ist das Duell fast immer für ihn gewonnen.",
+      "override": "Conqueror statt PTA/Second-Wind, wenn die Lane durch Ganks früh entschieden wird und lange Sidelane-Duelle wahrscheinlicher sind als reine Poke-Fenster.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "B",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/velkoz/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "heimerdinger",
+      "name": "Heimerdinger",
+      "tier": "D",
+      "reason": "Türme zonen die Lane extrem effektiv und machen jeden direkten Anlauf vor Zerstörung der Türme teuer. Sobald Türme fallen und Olaf ihn im offenen Nahkampf erwischt, ist Heimerdinger eines der fragilsten Ziele im Matchup-Pool.",
+      "runeReason": "Second Wind gleicht den konstanten Turm- und Raketenschaden über die frühen Level aus, in denen Olaf primär Schaden absorbiert statt auszuteilen. PTA nutzt die seltenen, aber tödlichen Fenster nach Turmzerstörung.",
+      "l1": "Türme sind level 1 noch nicht verfügbar, direkter Kontakt in der Bush ist für Olaf meist gewinnbar, solange kein Grenade-Stun trifft.",
+      "l25": "Sobald Türme platziert sind, ist reines Anlaufen teuer – Farm unter Turmzonen priorisieren und Türme gezielt mit Q abbauen, wenn möglich. All-in nur, wenn mindestens ein Turm down oder außer Reichweite ist.",
+      "l6": "Sein Ultimate verstärkt Türme und Raketen temporär und erhöht den Flächenschaden deutlich, ändert aber nichts an seiner fehlenden Mobilität. Olafs R hilft primär gegen den Grenade-Stun, nicht gegen den reinen Zonenschaden.",
+      "threats": "Turmzonen-Schaden, Raketen-Flächenschaden, Grenade-Stun mit Slow-Zone, verstärkte Ultimate-Phase.",
+      "window": "Sobald mindestens ein Turm zerstört oder abgelaufen ist und der Grenade-Stun verbraucht wurde, ist ein sauberer All-in möglich.",
+      "errors": "Direkt durch aktive Turmreichweite laufen, um Farm zu holen. Den Grenade-Wurf ignorieren und weiter anlaufen, statt seitlich auszuweichen.",
+      "wave": "Slowpush unter dem eigenen Turm, um seine Türme nicht in Reichweite der eigenen CS zu bringen. Türme mit Q priorisiert abbauen, wenn sicher möglich, bevor CS-Fokus.",
+      "trade": "Turm mit Q anpoken, seitlich statt frontal an ihn heranlaufen, E nach Kontakt, R erst wenn Grenade verbraucht und kein aktiver Turm mehr in Reichweite ist.",
+      "items": "Ravenous Hydra in Maw-Linie, da sein Burst rein magisch ist und die Poke-Phase sonst zu viel HP kostet, bevor ein Duell überhaupt startet.",
+      "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn sein Grenade-Stun wiederholt entscheidende All-ins verhindert.",
+      "side": "1 Item: Türme dominieren weiter jede offene Konfrontation. 2 Items: mit Boots-Tempo und R realistische Kills nach Turmverlust seinerseits. 3 Items: klarer Vorteil im offenen Duell, sofern die Zonenkontrolle bereits gebrochen ist.",
+      "plan": "Akzeptiere frühe CS-Verluste unter Zonendruck, baue Türme gezielt ab und suche den All-in erst, wenn er offen im Nahkampf steht. Roame, wenn die Lane durch Turmdichte zu unwirtschaftlich wird.",
+      "override": "Conqueror statt PTA/Second-Wind, wenn das Spiel durch Siege/Split-Push in lange Standoffs statt kurze Kontaktfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Teleport",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/heimerdinger/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "swain",
+      "name": "Swain",
+      "tier": "D",
+      "reason": "Swain ist früh noch verwundbar, baut sich mit Levels und Items aber zu einem zäh sustainenden Halb-Tank aus, gegen den Olafs True-Damage-Trades relativ an Wirkung verlieren. Sein Drain-Ultimate heilt ihn in ausgedehnten Kämpfen massiv zurück, was genau die Fights begünstigt, die Olaf eigentlich sucht.",
+      "runeReason": "Conqueror passt zum längeren, sustain-lastigen Charakter dieses Matchups besser als ein kurzes Burstfenster, da Swain selbst auf ausgedehnte Kämpfe abzielt. Second Wind federt seine Q/W-Poke-Serie vor dem eigentlichen Duell ab.",
+      "l1": "Direkter Kontakt ohne seinen Root ist für Olaf gewinnbar, sein Root-Skillshot aus E ist aber langsam genug, um bei Aufmerksamkeit ausgewichen zu werden.",
+      "l25": "Poke-Phase mit Q und W-Vision-Schaden ist unangenehm, All-in vor allem nach verfehltem oder verbrauchtem Root sinnvoll. Farm unter Turm akzeptieren, wenn der Root-Cooldown unklar ist.",
+      "l6": "Sein Ultimate zieht Lebensenergie aus der Umgebung und heilt ihn erheblich, was lange Fights zu seinen Gunsten verschiebt. Olafs R hält Damage-Output während seines Drains aufrecht, kann die Heilung selbst aber nicht verhindern.",
+      "threats": "Root-Skillshot aus E, globale Vision plus Verzögerungsschaden aus W, Drain-Ultimate mit Selbstheilung.",
+      "window": "Direkt nach einem verfehlten oder auf Cooldown liegenden Root und vor seinem Ultimate ist das verlässlichste Kontaktfenster.",
+      "errors": "Geradlinig auf ihn zulaufen, wenn der Root-Cooldown unklar ist. In seinen Drain-Ultimate hineinlaufen, ohne den Kampf sofort entscheiden zu können.",
+      "wave": "Kontrolliertes Freezing, um seine W-Vision und Q-Reichweite zur eigenen Wave zu begrenzen. Roams nutzen, solange sein Root auf Cooldown liegt.",
+      "trade": "Q zum Slow, seitlich um den Root-Vektor herumlaufen, E nach Kontakt, R erst wenn absehbar ist, dass der Kampf vor seinem Ultimate-Drain entschieden werden kann.",
+      "items": "Ravenous Hydra in Cleaver-Linie, da er sich mit Levels zäher ausbaut und Olaf die Rüstung reduzieren muss, um seinen True-Damage-Vorteil zu erhalten.",
+      "situ": "Sterak's Gage gegen sein Poke-plus-Drain-Burst-Gesamtpaket, Quicksilver Sash bei zusätzlicher harter Kontrolle aus der Comp.",
+      "side": "1 Item: Poke und Root dominieren weiter die Lane. 2 Items: enges, lesbares Duell, wenn der Kampf vor seinem Ultimate entschieden wird. 3 Items: sein Sustain und seine Tankiness kippen längere Fights zu seinen Gunsten.",
+      "plan": "Suche frühe, kurze Fenster vor Level 6 und vermeide ausgedehnte Fights, sobald sein Ultimate verfügbar ist. Priorisiere Roams über seine Lane, statt gegen seine Poke-plus-Root-Kombination anzurennen.",
+      "override": "PTA statt Conqueror, wenn das Spiel schnelle Picks statt langer Sidelane-Standoffs verlangt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Teleport",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "E",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/swain/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "gwen",
+      "name": "Gwen",
+      "tier": "D",
+      "reason": "Gwen ist eine echte Skirmisher-Antwort mit eigenem True-Damage-Stapel-Passiv und einer Nebel-Fähigkeit, die Schaden von außerhalb massiv reduziert – Olaf muss sich physisch in ihren Nebel hineinbewegen, um vollen Schaden zu verursachen. Ihr Dash mit Reset bei Treffer macht sie zusätzlich schwerer endgültig zu töten als ihre HP-Werte vermuten lassen.",
+      "runeReason": "Conqueror passt zu einem Matchup, das auf ausgedehnte, mehrfache Auto-Austausche statt einen einzelnen Burst-Moment hinausläuft. Boneplating federt ihre Q-Flächenschaden-Ausbrüche und den anfänglichen R-Volley ab.",
+      "l1": "Im offenen Nahkampf ohne ihre Nebelzone ist der Trade relativ ausgeglichen, sobald sie W aktiv hat, verschiebt sich der Vorteil klar zu ihr, solange Olaf von außerhalb angreift.",
+      "l25": "Poke von außerhalb ihres Nebels verpufft größtenteils, All-in daher nur, wenn Olaf bereit ist, direkt in ihre Nebelzone hineinzugehen und den vollen Schaden zu tauschen. Farm-Fokus, solange ihr E-Dash für einen Fluchtreset verfügbar ist.",
+      "l6": "Ihr Ultimate ist ein verzögerter Flächen-Volley, der bei Zielverlust Verfolgung erschwert und aus der Distanz zusätzlichen Schaden liefert. Olafs R hilft primär gegen den Slow-Effekt des Volleys, nicht gegen die reine Distanz, die sie durch E gewinnt.",
+      "threats": "Nebelzone mit Schadensreduktion von außerhalb, True-Damage-Stapel-Passiv, Dash mit Reset bei Treffer, verzögerter Flächen-Volley als Ultimate.",
+      "window": "Sobald ihr E-Dash verbraucht ist und Olaf bereits innerhalb ihrer Nebelzone steht, ist der Trade am direktesten zu gewinnen.",
+      "errors": "Von außerhalb ihrer Nebelzone pokend anlaufen und sich über reduzierten Schaden wundern. Ihren E-Reset unterschätzen und einen vermeintlich sicheren Kill zu früh feiern.",
+      "wave": "Kontrolliertes Freezing, damit sie ihre Nebelzone nicht risikofrei über die Wave legen kann. Nach verbrauchtem E kurze Aggressionsfenster für Farm oder Trade nutzen.",
+      "trade": "Direkt in ihre Nebelzone hineingehen statt von außen zu pushen, Q zum Slow, E zwischen Autos, R erst wenn ihr E-Dash sichtbar verbraucht ist.",
+      "items": "Ravenous Hydra für Sustain im verlängerten Auto-Austausch und Antiheal-Ansatz gegen ihren stapelnden True-Damage-Vorteil bei langen Fights.",
+      "situ": "Executioner's Calling, wenn ihr Passiv-Stapel-Damage das Duell wiederholt kippt, Maw of Malmortius bei zusätzlichem AP-Burst aus ihrem Build.",
+      "side": "1 Item: enges Duell, ihre Nebelzone gleicht viel Vorteil aus. 2 Items: mit R und Sustain aus Hydra meist gewinnbar, wenn direkt im Nebel gekämpft wird. 3 Items: hängt stark davon ab, ob sie auf reinen AP-Burst oder On-Hit-Build geht.",
+      "plan": "Zwinge den Kampf konsequent in ihre eigene Nebelzone hinein, statt von außen zu pushen, und nutze ihren E-Cooldown als Killfenster. Akzeptiere, dass reiner Distanz-Poke gegen sie kaum Wirkung zeigt.",
+      "override": "PTA statt Conqueror, wenn ein schneller Pick vor Level 6 wichtiger ist als der ausgedehnte Sidelane-Fight.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "C",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/gwen/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "kayle",
+      "name": "Kayle",
+      "tier": "B",
+      "reason": "Kayle ist in den ersten Levels eine der schwächsten Nahkampf-Matchups im Spiel und praktisch ohne echte Antwort auf einen konsequenten Olaf-All-in. Das Problem ist die Skalierung: sobald sie ihre späten Power-Spikes erreicht, wird sie zunehmend unantastbar und irgendwann für Olaf schlicht nicht mehr duellierbar.",
+      "runeReason": "PTA maximiert genau das frühe, kurze Aggressionsfenster, in dem Kayle am verwundbarsten ist, bevor sie überhaupt ihre volle Reichweite und späteren Skalierungs-Boni hat. Boneplating sichert gegen ihre wachsende Poke-Reichweite ab 6 ab.",
+      "l1": "Kayle ist level 1 nahezu ohne Verteidigung gegen konsequenten Nahkampfdruck, Olaf gewinnt praktisch jeden offenen Kontakt in dieser Phase.",
+      "l25": "Solange sie noch reduzierte Reichweite hat, ist konstanter Druck richtig – jeder verpasste Trade ihrerseits ist ein Einladung zum All-in. Erst mit voller Reichweite ab 6 vorsichtiger werden.",
+      "l6": "Ab 6 erhält sie volle Reichweite plus Bewegungstempo, was den direkten Nahkampfkontakt erschwert, ihre Selbst-Unverwundbarkeit kommt aber erst auf späteren Levels. Olafs R hilft gegen ihren Slow, kann die spätere Skalierungsphase aber nicht ausgleichen.",
+      "threats": "Reichweiten- und Skalierungssprünge über Level, Slow-Effekt, spätere Selbst-Unverwundbarkeit, True-Damage-Brand auf hohem Level.",
+      "window": "Vor Level 6 ist praktisch jeder direkte Kontakt ein Killfenster. Nach ihrem letzten großen Skalierungs-Level ist ein echtes Duell realistisch nicht mehr gewinnbar.",
+      "errors": "Die Lane passiv spielen und ihr erlauben, ungestört zu skalieren. Nach ihrem späten Power-Spike noch versuchen, sie in ein offenes Duell zu zwingen.",
+      "wave": "Aggressiver Slowpush und Crash so früh wie möglich, um Kills vor Level 6 zu erzwingen. Nach ihrem Spike-Level eigene Vorteile über Roams statt Lane-Duelle suchen.",
+      "trade": "Q zum Slow, direkt anlaufen, E mehrfach zwischen Autos in den frühen Levels, R nur vor ihrer Unverwundbarkeits-Skalierung als Absicherung gegen ihren Slow einsetzen.",
+      "items": "Ravenous Hydra in Cleaver-Linie, da sie sich mit Rüstung und Skalierung zunehmend zäh ausbaut und der Vorteil nur früh realisierbar ist.",
+      "situ": "Sterak's Gage gegen ihren späteren True-Damage-Brand, Quicksilver Sash situativ gegen zusätzliche Hard-CC aus der Comp.",
+      "side": "1 Item: klarer Vorteil, Kills vor 6 realistisch. 2 Items: noch spielbar, wenn der Vorsprung aus der Lane bereits mitgenommen wurde. 3 Items: praktisch kein Duell mehr, ihr Skalierungs-Power-Spike übersteigt Olafs Item-Fenster vollständig.",
+      "plan": "Erzwinge so viele Kontakte wie möglich vor Level 6 und konvertiere den Vorsprung sofort in Item- oder Objective-Vorteil. Nach ihrer vollen Skalierung das Duell komplett meiden und stattdessen über den Rest der Karte spielen.",
+      "override": "Conqueror statt PTA, falls die Lane absehbar nicht früh entschieden wird und in eine längere Skalierungsphase gegen sie kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "A",
+      "late": "F",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kayle/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "neeko",
+      "name": "Neeko",
+      "tier": "B",
+      "reason": "Neeko ist fragil und ihr gesamter Kombo-Schaden hängt an einem kurzen Dash und einem stark telegrafierten Flächen-Ultimate, das leicht vorhersehbar ist. Solange Olaf ihren Engage-Dash überlebt, ist der Rest des Trades meist zu seinen Gunsten.",
+      "runeReason": "PTA passt zu ihrer Rolle als burst-lastiges, aber fragiles Ziel mit begrenztem Fluchtwerkzeug. Boneplating dämpft ihre Q-Doppelschaden-Serie im Vorfeld eines echten All-ins.",
+      "l1": "Direkter Kontakt ohne ihren Dash ist meist gewinnbar für Olaf, ihre Verkleidungs-Fähigkeit außerhalb des Kampfes kann Bush-Kontrolle aber unklar machen.",
+      "l25": "Ihr Q-Poke aus der Distanz ist unangenehm, aber verkraftbar. All-in direkt nach verbrauchtem Dash oder wenn sie sich zu weit aus sicherer Distanz vorwagt.",
+      "l6": "Ihr Ultimate ist ein verzögertes, großflächiges Betäubungs-Ultimate, das bei Treffer den Kampf sofort entscheiden kann, aber durch seine Vorlaufzeit oft vermeidbar ist. Olafs R entfernt die Betäubung, falls sie doch trifft, und stellt den Damage-Output sofort wieder her.",
+      "threats": "Kurzer Dash mit Doppelbild, Q-Doppelschaden-Poke, Slow-Kette aus E, verzögertes Flächen-Betäubungs-Ultimate.",
+      "window": "Nach verbrauchtem Dash und außerhalb der Reichweite ihres Ultimates ist der All-in am zuverlässigsten.",
+      "errors": "In der Bush ihre Verkleidung ignorieren und blind auf vermeintliche Minions zulaufen. Direkt im Zentrum ihres verzögerten Ultimates stehen bleiben, statt seitlich auszuweichen.",
+      "wave": "Kontrolliertes Freezing, um ihre Q-Poke-Reichweite zu begrenzen. Nach verbrauchtem Dash kurze Aggressionsfenster für Trade oder Farm nutzen.",
+      "trade": "Q zum Slow, nach ihrem Dash sofort nachsetzen, E zwischen Autos, R erst bei echtem Auto-Kontakt und außerhalb ihres Ultimate-Radius einsetzen.",
+      "items": "Ravenous Hydra in Maw-Linie, da ihr Schaden rein magisch ist und die Poke-Phase sonst unnötig viel HP kostet.",
+      "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn ihr Ultimate wiederholt entscheidende Fights kippt.",
+      "side": "1 Item: solide Trades, wenn ihr Dash sichtbar verbraucht ist. 2 Items: mit Maw und R meist gewinnbares Duell. 3 Items: klarer Vorteil, sofern ihr Ultimate nicht überraschend trifft.",
+      "plan": "Halte Abstand von ihrem Ultimate-Radius, suche Kontakt direkt nach ihrem Dash und nutze ihre fehlende echte Fluchtoption im offenen Duell konsequent aus. Bush-Kontrolle gegen ihre Verkleidung ernst nehmen.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "B",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/neeko/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "riven",
+      "name": "Riven",
+      "tier": "D",
+      "reason": "Riven ist selbst ein aggressiver früher All-in-Skirmisher mit eigenem AOE-Stun und mehreren Dashes, was ihre Trades gegen Olaf sehr symmetrisch und riskant macht. Wenn ihre Q-E-Kombo mit Betäubung sauber sitzt, kann sie den Fight vor Olafs eigenem Kill-Zeitpunkt entscheiden, während sie gleichzeitig über Dashes aus schlecht laufenden Kämpfen entkommt.",
+      "runeReason": "Conqueror passt zu einem echten Sustain-Duell zwischen zwei Nahkampf-Bruisern besser als ein kurzes Burstfenster. Boneplating federt ihre eigene All-in-Kombo mit Betäubung und Folgeschaden ab.",
+      "l1": "Beide gewinnen offene Trades primär über den ersten sauberen Kontakt – ihr Betäubungsradius ist kurz, aber bei Treffer folgt sofort massiver Schaden. Olaf sollte nicht blind in ihre Betäubungsreichweite laufen.",
+      "l25": "Ausgeglichene Poke-Phase, All-in nur nach verbrauchter Betäubung oder wenn sie ihre Dashes bereits offensiv statt defensiv nutzt. Farm-Fokus, wenn ihre volle Kombo verfügbar bleibt.",
+      "l6": "Ihr Ultimate ist ein fächerförmiger Distanzschaden, der gegen geschildete Ziele verstärkt wirkt, aber keine zusätzliche Mobilität bringt. Olafs R entfernt eine vorherige Betäubung sofort und hält den Damage-Output während ihres Fluchtversuchs über Dashes aufrecht.",
+      "threats": "AOE-Betäubung aus W, mehrfache Dashes zur Repositionierung, Distanzschaden-Ultimate gegen Schilde, hohe Burst-Kombo-Dichte.",
+      "window": "Direkt nach ihrer verbrauchten Betäubung und wenn mindestens ein Dash bereits für Positionierung statt Flucht genutzt wurde, ist der Kill realistisch.",
+      "errors": "Blind in ihre W-Betäubungsreichweite laufen. Nach einem gewonnenen Trade ohne verbleibende Dash-Reserve ihrerseits trotzdem weiterverfolgen, wenn sie noch einen Dash übrig hat.",
+      "wave": "Kontrolliertes Freezing, um ihre Kombo-Reichweite zur eigenen Wave zu begrenzen. Nach verbrauchter Betäubung kurze Aggressionsfenster für Trade nutzen.",
+      "trade": "Q zum Slow, seitlich um ihre Betäubungsreichweite herumlaufen, E nach sicherem Kontakt, R erst wenn ihre Betäubung bereits verbraucht ist.",
+      "items": "Stridebreaker plus Death's Dance, da der Kern des Duells ihr Dash-Zugriff ist und Sustain gegen ihre physische Burst-Kombo entscheidend bleibt.",
+      "situ": "Sterak's Gage gegen ihre Kombo-Burst-Dichte, Quicksilver Sash bei zusätzlicher harter Kontrolle aus der Comp.",
+      "side": "1 Item: sehr enges, riskantes Duell für beide Seiten. 2 Items: mit Stridebreaker-Zugriff und R meist spielbar. 3 Items: hängt stark davon ab, wer den ersten Fehler im Trade macht, kein klarer Vorteil.",
+      "plan": "Behandle diese Lane wie ein echtes Duell zwischen zwei All-in-Bruisern und vermeide reine Verdachts-Commits gegen ihre Betäubungsreichweite. Nutze Stridebreaker-Slow, um ihre Dash-Fluchtoptionen zu verkürzen.",
+      "override": "PTA statt Conqueror, wenn ein sehr kurzes Kill-Fenster vor Level 3 wichtiger ist als das ausgedehnte Sidelane-Duell.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "Conqueror",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/riven/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "kennen",
+      "name": "Kennen",
+      "tier": "D",
+      "reason": "Kennen kombiniert Distanz-Poke mit einem stapelnden Markierungssystem, das bei drei Treffern betäubt, und seine Mobilität über den Blitz-Dash macht ihn schwer festzunageln. Sein Flächen-Ultimate verwandelt jedes Duell in seiner Nähe zusätzlich in ein wiederholtes Betäubungsrisiko.",
+      "runeReason": "PTA maximiert das kurze Fenster vor drei aufgebauten Markierungsstapeln, in dem Kennen noch fragil und ohne Betäubung ist. Boneplating federt seine Q-Poke-Serie und den Einstieg in R ab.",
+      "l1": "Direkter Kontakt ohne aufgebaute Markierungsstapel ist meist gewinnbar, sein Dash erlaubt ihm aber jederzeit schnellen Rückzug oder überraschenden Reposition.",
+      "l25": "Q-Poke aus Distanz baut kontinuierlich Markierungsstapel auf – All-in vor dem dritten Stapel suchen, sonst droht eine Betäubung mitten im Trade. Farm-Fokus, wenn Stapel bereits bei zwei liegen.",
+      "l6": "Sein Ultimate erzeugt eine Zone, die anhaltend Markierungsstapel und damit wiederholte Betäubungen ermöglicht, solange man darin verweilt. Olafs R entfernt eine laufende Betäubung und hält den Damage-Output aufrecht, verhindert aber nicht die nächste Betäubung innerhalb der Zone.",
+      "threats": "Stapelnde Markierung mit Betäubung bei drittem Treffer, Blitz-Dash zur Repositionierung, Flächen-Ultimate mit wiederholter Betäubungsgefahr.",
+      "window": "Bei null oder einem Markierungsstapel und außerhalb seiner Ultimate-Zone ist der Kontakt am sichersten.",
+      "errors": "In seine Ultimate-Zone hineinlaufen, ohne den Kampf sofort entscheiden zu können. Trades bei bereits zwei Markierungsstapeln fortsetzen und die dritte Betäubung mitten im Fight kassieren.",
+      "wave": "Kontrolliertes Freezing, um seine Q-Reichweite zur eigenen Wave zu begrenzen. Nach seinem Dash-Verbrauch kurze Aggressionsfenster nutzen, solange kein Ultimate verfügbar ist.",
+      "trade": "Q zum Slow, an ihn heranlaufen solange Stapel niedrig sind, E zwischen Autos, R erst wenn eine Betäubung bereits läuft oder unmittelbar bevorsteht.",
+      "items": "Ravenous Hydra in Maw-Linie, da sein Schaden überwiegend magisch ist und die Poke-Phase sonst zu viel HP vor dem eigentlichen Duell kostet.",
+      "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn seine Betäubungs-Zone wiederholt entscheidende Fights kippt.",
+      "side": "1 Item: Poke und Stapel-Betäubung dominieren die Lane. 2 Items: mit Maw, Tenacity und R meist spielbare Duelle außerhalb seiner Zone. 3 Items: klarer Vorteil, sofern das Duell nicht in seiner Ultimate-Zone stattfindet.",
+      "plan": "Halte Markierungsstapel im Blick und breche Trades vor dem dritten Treffer ab, statt eine Betäubung mitten im All-in zu riskieren. Meide seine Ultimate-Zone bei längeren Fights konsequent.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Kontaktfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kennen/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "zoe",
+      "name": "Zoe",
+      "tier": "D",
+      "reason": "Zoe kann während des Castens ihrer Fähigkeiten weiter laufen und aus voller Distanz eine Schlaf-Betäubung aufbauen, die den kompletten Combo-Schaden ohne Gegenwehr durchsetzt. Ihr Kurzteleport erlaubt ihr zusätzlich, Kontakt jederzeit zu erzwingen oder zu vermeiden, was Olaf im Zugriff massiv einschränkt.",
+      "runeReason": "PTA passt zum kurzen, tödlichen Burstfenster nach ihrer Schlaf-Kombo besser als ein auf lange Fights ausgelegtes Setup. Boneplating dämpft speziell den Schaden direkt nach dem Aufwachen aus dem Schlaf.",
+      "l1": "Im direkten Kontakt ohne ihre Schlafblase ist der Trade für Olaf gewinnbar, ihre Bewegung-während-Cast-Mechanik erschwert aber jeden sauberen Auto-Kontakt.",
+      "l25": "Reine Poke-Phase mit hohem Risiko, in eine Schlaf-Kombo zu laufen – CS unter Turm priorisieren, solange ihre Schlafblase verfügbar ist. All-in nur nach sichtbar verbrauchter Schlafblase.",
+      "l6": "Ihr Kurzteleport erlaubt plötzlichen Kontakt oder sofortigen Rückzug und macht Verfolgung unzuverlässig. Olafs R hilft, den Schlaf-Effekt selbst zu neutralisieren, verhindert aber nicht, dass sie über den Teleport aus dem Duell verschwindet.",
+      "threats": "Schlaf-Betäubung mit Combo-Setup, Bewegung während des Castens, Kurzteleport zur Repositionierung, hohe Distanz-Poke-Frequenz.",
+      "window": "Direkt nach verbrauchter Schlafblase und ohne verfügbaren Teleport ist der einzige verlässliche All-in-Moment.",
+      "errors": "Bei sichtbarer Schlafblase weiter offen im Poke-Radius stehen bleiben. Nach einem Kill-Versuch ihren Teleport ignorieren und blind weiterverfolgen.",
+      "wave": "Enges Freezing unter dem eigenen Turm, um ihre Poke- und Schlaf-Reichweite zu minimieren. Nach verbrauchter Schlafblase kurze Aggressionsfenster für CS oder Trade nutzen.",
+      "trade": "Nur nach verbrauchter Schlafblase anlaufen, Q zum Slow, E zwischen Autos, R einsetzen sobald ein Schlaf-Effekt tatsächlich greift.",
+      "items": "Stridebreaker plus Maw of Malmortius, da der Kern des Problems ihr Teleport-Zugriff und ihr reiner AP-Burst sind, nicht fehlender Sustain.",
+      "situ": "Quicksilver Sash bei wiederholt entscheidender Schlaf-Kombo, Mercury's Treads als Basis gegen ihren Magieschaden.",
+      "side": "1 Item: Poke und Schlaf-Risiko dominieren die Lane. 2 Items: mit Stridebreaker-Zugriff realistische Kill-Fenster nach verbrauchter Schlafblase. 3 Items: spielbar, aber ihr Teleport bleibt ein dauerhaftes Fluchtproblem.",
+      "plan": "Spiele defensiv unter Turm, bis ihre Schlafblase sichtbar verbraucht ist, und vermeide offene Poke-Distanz ohne echten Grund. Priorisiere Roams, wenn ihr Poke-Vorteil die Lane unwirtschaftlich macht.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "E",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/zoe/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "talon",
+      "name": "Talon",
+      "tier": "D",
+      "reason": "Talon ist ein früher Lane-Bully mit hoher Burst-Dichte und Terrain-Mobilität, die ihm sowohl Engage als auch Flucht über Wände erlaubt, was Olafs Zugriff massiv einschränkt. Anders als reine CC-Champions hat er aber selbst keine harte Kontrolle, wodurch Olafs R primär als Damage- statt Cleanse-Tool relevant wird.",
+      "runeReason": "PTA passt zu seiner Rolle als fragiler, burst-lastiger Assassine mit begrenzter Sustain-Verteidigung. Boneplating federt speziell seine Q-Stich-Kombo und den anfänglichen W-Wurf ab, bevor Olaf selbst zuschlägt.",
+      "l1": "Im offenen Kontakt ohne Terrain in der Nähe ist der Trade meist zugunsten von Olaf, sobald eine Wand für seinen E-Sprung erreichbar ist, wird der Kontakt deutlich riskanter.",
+      "l25": "Sein W-Wurf poked effektiv über Distanz und lädt beim Aufsammeln zusätzlichen Schaden auf – All-in vor allem, wenn er sich ohne Fluchtwand vorwagt. Farm-Fokus, solange Terrain seine Flucht sichert.",
+      "l6": "Sein Ultimate erzeugt eine Unsichtbarkeitszone mit verstärkter Mobilität, die ihn kurzzeitig praktisch unauffindbar macht, bringt aber keine eigene harte Kontrolle. Olafs R hilft weniger gegen CC als gegen seinen reinen Burst-Vorteil in diesem Fenster.",
+      "threats": "Stich-Kombo mit Nahkampf-Exekution, W-Wurf mit Aufsammel-Bonus, Terrain-Sprung zur Mobilität, Unsichtbarkeits-Ultimate.",
+      "window": "Ohne erreichbare Wand in seiner Nähe und nach verbrauchtem W-Wurf ist der All-in am zuverlässigsten.",
+      "errors": "Trades in Wandnähe suchen, wo sein E-Sprung sowohl Engage als auch Flucht erlaubt. Nach seinem Ultimate blind in die Unsichtbarkeitszone hineinlaufen, statt auf Positionsindikatoren zu achten.",
+      "wave": "Slowpush abseits von Terrain-Elementen, um seine Sprung-Mobilität zu neutralisieren. Nach verbrauchtem W kurze Aggressionsfenster nutzen.",
+      "trade": "Q zum Slow, abseits von Wänden an ihn heranlaufen, E nach sicherem Kontakt, R erst wenn kein Fluchtterrain in seiner unmittelbaren Nähe liegt.",
+      "items": "Stridebreaker plus Death's Dance, da der Kern des Problems sein Terrain-Zugriff ist und Sustain gegen seine physische Burst-Kombo zusätzlich hilft.",
+      "situ": "Sterak's Gage gegen seine hohe Burst-Dichte, Executioner's Calling wenn zusätzliche Heilquellen aus seinem Build das Duell verlängern.",
+      "side": "1 Item: sehr riskantes Duell, sein Burst kann früh entscheiden. 2 Items: mit Stridebreaker-Zugriff und R meist spielbar, wenn kein Terrain in Reichweite liegt. 3 Items: leicht positiv, sofern er nicht wiederholt über Wände entkommen kann.",
+      "plan": "Zwinge Trades abseits von Wänden und Terrain-Elementen und nutze sein Fehlen an harter Kontrolle für konsequente R-Commits. Vermeide Verfolgung durch unbekanntes Terrain, in dem sein Sprung ihn absetzen kann.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Blade + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/talon/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "leblanc",
+      "name": "LeBlanc",
+      "tier": "D",
+      "reason": "LeBlanc kombiniert eine markierungsbasierte Burst-Kombo mit einem doppelten Blink, der sie sowohl engagieren als auch sofort wieder aus der Reichweite bringen lässt. Ihr Ultimate erlaubt zusätzlich, eine Fähigkeit doppelt einzusetzen, was ihre Burst-Spitze oder ihre Fluchtdistanz je nach Situation erheblich erhöht.",
+      "runeReason": "PTA passt zu ihrer extrem fragilen, burst-lastigen Statur mit sehr begrenztem Nahkampf-Standvermögen. Boneplating dämpft speziell ihre Markierungs-Detonation und den Folgeschaden ihrer Kette.",
+      "l1": "Im offenen Nahkampf ohne ihren Doppel-Blink ist der Trade klar für Olaf, sobald sie den ersten Blink offensiv statt defensiv nutzt, wird der Kontakt riskant.",
+      "l25": "Ihre Markierungs-Kombo poked effektiv aus sicherer Distanz, All-in nur wenn ein Blink bereits verbraucht und nicht mehr zum sofortigen Rückzug verfügbar ist. Farm-Fokus, solange beide Blinks bereitstehen.",
+      "l6": "Ihr Ultimate erlaubt den doppelten Einsatz einer Fähigkeit, wodurch entweder ihr Burst oder ihre Fluchtdistanz effektiv verdoppelt wird. Olafs R entfernt eine greifende Kettenfessel sofort und hält den Damage-Output während ihres Fluchtversuchs aufrecht.",
+      "threats": "Markierungs-Detonation mit Burst-Setup, Doppel-Blink zur Repositionierung, Kettenfessel bei anhaltendem Kontakt, Ultimate-Recast für doppelte Kombo-Wirkung.",
+      "window": "Nach verbrauchtem Doppel-Blink und ohne aktives Ultimate-Recast ist der All-in am verlässlichsten.",
+      "errors": "Ihre Kettenfessel durch Stillstehen voll auslaufen lassen, statt aus der Reichweite zu ziehen. Nach dem ersten Blink weiterverfolgen, ohne den zweiten Rückblink einzukalkulieren.",
+      "wave": "Enges Freezing unter dem eigenen Turm, um ihre Poke-Reichweite und Markierungs-Setups zu minimieren. Nach verbrauchtem Doppel-Blink kurze Aggressionsfenster nutzen.",
+      "trade": "Nur nach verbrauchtem Blink-Paar anlaufen, Q zum Slow, E zwischen Autos, R sofort bei einer greifenden Kettenfessel oder bei sicherem Auto-Kontakt.",
+      "items": "Stridebreaker plus Maw of Malmortius, da der Kern des Problems ihr Blink-Zugriff und ihr reiner AP-Burst sind, nicht fehlender Sustain.",
+      "situ": "Quicksilver Sash bei wiederholt entscheidender Kettenfessel, Mercury's Treads als Basis gegen ihren Magieschaden.",
+      "side": "1 Item: Poke und Burst-Risiko dominieren die Lane. 2 Items: mit Stridebreaker-Zugriff realistische Kill-Fenster nach verbrauchtem Blink-Paar. 3 Items: spielbar, aber ihr Recast-Ultimate bleibt ein dauerhaftes Fluchtproblem.",
+      "plan": "Spiele defensiv, bis beide Blinks sichtbar verbraucht sind, und vermeide offene Poke-Distanz ohne Grund. Priorisiere Roams, wenn ihr Poke- und Burst-Vorteil die Lane unwirtschaftlich macht.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ignite",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "D",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/leblanc/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    },
+    {
+      "slug": "orianna",
+      "name": "Orianna",
+      "tier": "C",
+      "reason": "Orianna ist komplett auf ihre Kugel-Positionierung angewiesen und hat abseits davon so gut wie keine eigene Mobilität, was Olaf im späteren Spiel nach überstandener Poke-Phase begünstigt. Ihr Flächen-Ultimate kann Olaf allerdings genau in eine schlechte Position ziehen und dort festhalten, was in der Frühphase besonders gefährlich ist.",
+      "runeReason": "Second Wind federt die konstante Q/E-Poke-Serie ihrer Kugel über die gesamte Laning-Phase ab. PTA nutzt die seltenen Fenster, in denen sie ohne Kugel-Vorsprung oder mit verbrauchtem Ultimate im Nahkampf steht.",
+      "l1": "Ohne vorgelagerte Kugel-Positionierung ist direkter Kontakt für Olaf gewinnbar, sobald die Kugel zwischen ihr und Olaf liegt, wird jeder Anlauf durch ihren Slow-Bereich erschwert.",
+      "l25": "Reine Poke-Phase mit Kugel-Slow und Verzögerungsschaden, CS unter Turm priorisieren, solange die Kugel konstant zwischen beiden liegt. All-in, wenn sie die Kugel weit von sich entfernt positioniert.",
+      "l6": "Ihr Ultimate zieht alle nahen Gegner zur Kugel und deckt damit eine große Fläche ab, was besonders vor eigenen Items gefährlich ist. Olafs R hält den Damage-Output während des Zugs aufrecht, kann die Positionsverschiebung selbst aber nicht verhindern.",
+      "threats": "Kugel-Slow und Verzögerungsschaden, Schild-Unterstützung für Verbündete, großflächiges Zieh-Ultimate.",
+      "window": "Wenn die Kugel weit von ihr entfernt liegt oder ihr Ultimate bereits verbraucht ist, ist der direkte Kontakt am sichersten.",
+      "errors": "Direkt auf die Kugel-Position zulaufen, ohne ihren Slow-Bereich zu beachten. In Ultimate-Reichweite verweilen, obwohl die Kugel bereits in Zugposition steht.",
+      "wave": "Kontrolliertes Freezing, um ihre Kugel-Reichweite zur eigenen Wave zu begrenzen. Nach weit entfernter Kugel-Positionierung kurze Aggressionsfenster für Trade oder Farm nutzen.",
+      "trade": "Q zum Slow, seitlich um die Kugel-Position herumlaufen, E nach sicherem Kontakt, R erst wenn ihr Ultimate bereits verbraucht oder die Kugel weit entfernt ist.",
+      "items": "Ravenous Hydra in Maw-Linie, da ihr gesamter Schaden magisch ist und die Poke-Phase sonst zu viel HP vor dem eigentlichen Duell kostet.",
+      "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn ihr Zieh-Ultimate wiederholt entscheidende Fights kippt.",
+      "side": "1 Item: Kugel-Poke dominiert weiterhin die Lane. 2 Items: mit Maw und R realistische Kill-Fenster, wenn die Kugel ungünstig für sie steht. 3 Items: klarer Vorteil, da sie im reinen Nahkampf ohne Kugel-Unterstützung praktisch wehrlos ist.",
+      "plan": "Spiele die Poke-Phase defensiv unter Turm aus und suche Kontakt gezielt, wenn ihre Kugel weit von ihr entfernt liegt. Vermeide es, in Reichweite ihres Zieh-Ultimates zu verweilen, solange kein sicherer Kill absehbar ist.",
+      "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+      "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+      "start": "Doran's Shield + Health Potion",
+      "sums": "Flash + Ghost",
+      "boots": "Mercury's Treads gegen CC/AP-Burst.",
+      "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+      "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+      "lane": "D",
+      "late": "C",
+      "rune": "PTA",
+      "role": "mid",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/orianna/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/mid"
+        ]
+      ]
+    }
+  ]
 }

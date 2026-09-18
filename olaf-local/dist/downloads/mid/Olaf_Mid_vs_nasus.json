@@ -1,0 +1,50 @@
+{
+  "slug": "nasus",
+  "name": "Nasus",
+  "tier": "A",
+  "reason": "Nasus ist vor dem Aufbau seiner Q-Stacks strukturell schwach und hat außer Wither kein Werkzeug, um einen frühen All-in zu verhindern, was Olaf in den ersten Levels eine der klarsten Dominanzoptionen im gesamten Mid-Matchup-Pool verschafft. Erreicht Nasus jedoch kritische Farmwerte und sein Ultimate, kippt das spätere Sidelane-Duell deutlich, da seine Fury-Reichweite und sein Schadensoutput dann außergewöhnlich hoch werden.",
+  "runeReason": "Conqueror passt exakt zum Ziel eines verlängerten Nahkampf-Duells gegen einen Gegner ohne echten Fluchtweg vor Level 6, in dem die Heilung den Ressourcen-Austausch von Reckless Swing gegen Nasus' Q-Stack-Verlust zusätzlich verstärkt. Bone Plating dämpft den Wither-Slow-Einstieg und den frühen Q-Poke, mit dem Nasus versucht, All-ins zu vermeiden.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 fast immer klar, da Nasus' Q-Cooldown früh sehr lang ist und Wither ohne vorherigen Stack-Aufbau kaum Verteidigungswert hat.",
+  "l25": "Nasus versucht primär, sicher Q-Stacks zu farmen und Wither für den Notfall zu sparen; Olaf sollte kontinuierlich all-in gehen, solange Wither noch nicht verfügbar oder bereits verbraucht ist, da jeder verpasste Stack Nasus langfristig schwächt.",
+  "l6": "Nasus' R erhöht Reichweite, Größe und Schaden seiner Fähigkeiten deutlich und macht ihn im späten Spiel zu einem gefährlichen Duellanten; Ragnarok entfernt Withers Verlangsamung bei aktivem Cast vollständig, was speziell gegen Nasus' wichtigstes Defensivwerkzeug matchup-relevant bleibt, auch wenn der reine Fury-Schaden davon unberührt bleibt.",
+  "threats": "W-Wither als starker Attackspeed-/Movement-Slow, Q-Siphoning-Strike-Stackaufbau, E-Spirit-Fire als Rüstungsreduktion-Zone, R-Fury mit deutlich erhöhter Reichweite und Schaden im späten Spiel.",
+  "window": "Solange Wither noch nicht verfügbar oder sichtbar auf Cooldown ist, ist praktisch jedes frühe Level ein verlässliches All-in-Fenster für Reckless Swing, da Nasus strukturell wenig Gegenwehr hat.",
+  "errors": "Nasus ungestört über viele Wellen Q-Stacks farmen lassen, ohne Pressure aufzubauen. Gegen aktives Wither weiter all-in gehen und den Attackspeed-Verlust unterschätzen. Die Lanephase unnötig in die Länge ziehen, statt den frühen Vorteil in Plates oder einen Kill umzumünzen.",
+  "wave": "Gegen Nasus lohnt sich aggressives Pushen und wiederholtes Kontaktsuchen, um seinen Q-Stack-Aufbau kontinuierlich zu stören; ein Freeze ist selten nötig, da Nasus ohnehin defensiv spielt und selten Ganks einleitet.",
+  "trade": "Q auf die Wave oder direkt auf Nasus, bei Kontakt sofort E zünden, solange Wither down ist, R als Antwort auf einen späten Wither-Einsatz oder um die Heilung im verlängerten Austausch weiter zu maximieren.",
+  "items": "Gegen Nasus' natürlichen Rüstungsaufbau über Stacks und Itemization ist Hydra mit Cleaver-Linie zentral, um seine wachsende physische Tankiness direkt zu durchbrechen.",
+  "situ": "Gegen seinen späten Fury-Schaden ist ein defensiver Zusatzitem wie Randuin's Omen sinnvoll, sobald Nasus' R-Reichweite und -Schaden kritisch werden.",
+  "side": "1 Item: Olaf dominiert jeden direkten Kontakt fast ausnahmslos. 2 Items: Nasus beginnt durch Q-Stacks und Rüstung aufzuholen, Duelle bleiben aber meist zugunsten von Olaf. 3 Items: Ist Nasus stark gefarmt und hat R online, wird das Duell deutlich ausgeglichener bis riskant, insbesondere im Sidelane-Kontext mit Fury-Reichweite.",
+  "plan": "Die frühen Level konsequent für Pressure und All-ins nutzen, um Nasus' Q-Stack-Wachstum aktiv zu stören und einen Lead in Plates oder Kills umzumünzen. Wird Nasus dennoch stark, im mittleren bis späten Spiel Sidelane-Duelle gegen ihn meiden und stattdessen über Teamfight-Präsenz kompensieren.",
+  "override": "Bei besonders defensivem, farmfokussiertem Nasus-Spiel ohne Wither-Aggression auf pta_boneplating wechseln, um kurze Burst-Fenster gegen seine Stack-Anfälligkeit noch direkter auszunutzen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Teleport",
+  "boots": "Plated Steelcaps gegen Nasus' physischen Q-/Fury-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "A",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/nasus/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

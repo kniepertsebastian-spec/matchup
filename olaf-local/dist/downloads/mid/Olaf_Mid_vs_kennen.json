@@ -1,0 +1,50 @@
+{
+  "slug": "kennen",
+  "name": "Kennen",
+  "tier": "D",
+  "reason": "Kennen kombiniert Distanz-Poke mit einem stapelnden Markierungssystem, das bei drei Treffern betäubt, und seine Mobilität über den Blitz-Dash macht ihn schwer festzunageln. Sein Flächen-Ultimate verwandelt jedes Duell in seiner Nähe zusätzlich in ein wiederholtes Betäubungsrisiko.",
+  "runeReason": "PTA maximiert das kurze Fenster vor drei aufgebauten Markierungsstapeln, in dem Kennen noch fragil und ohne Betäubung ist. Boneplating federt seine Q-Poke-Serie und den Einstieg in R ab.",
+  "l1": "Direkter Kontakt ohne aufgebaute Markierungsstapel ist meist gewinnbar, sein Dash erlaubt ihm aber jederzeit schnellen Rückzug oder überraschenden Reposition.",
+  "l25": "Q-Poke aus Distanz baut kontinuierlich Markierungsstapel auf – All-in vor dem dritten Stapel suchen, sonst droht eine Betäubung mitten im Trade. Farm-Fokus, wenn Stapel bereits bei zwei liegen.",
+  "l6": "Sein Ultimate erzeugt eine Zone, die anhaltend Markierungsstapel und damit wiederholte Betäubungen ermöglicht, solange man darin verweilt. Olafs R entfernt eine laufende Betäubung und hält den Damage-Output aufrecht, verhindert aber nicht die nächste Betäubung innerhalb der Zone.",
+  "threats": "Stapelnde Markierung mit Betäubung bei drittem Treffer, Blitz-Dash zur Repositionierung, Flächen-Ultimate mit wiederholter Betäubungsgefahr.",
+  "window": "Bei null oder einem Markierungsstapel und außerhalb seiner Ultimate-Zone ist der Kontakt am sichersten.",
+  "errors": "In seine Ultimate-Zone hineinlaufen, ohne den Kampf sofort entscheiden zu können. Trades bei bereits zwei Markierungsstapeln fortsetzen und die dritte Betäubung mitten im Fight kassieren.",
+  "wave": "Kontrolliertes Freezing, um seine Q-Reichweite zur eigenen Wave zu begrenzen. Nach seinem Dash-Verbrauch kurze Aggressionsfenster nutzen, solange kein Ultimate verfügbar ist.",
+  "trade": "Q zum Slow, an ihn heranlaufen solange Stapel niedrig sind, E zwischen Autos, R erst wenn eine Betäubung bereits läuft oder unmittelbar bevorsteht.",
+  "items": "Ravenous Hydra in Maw-Linie, da sein Schaden überwiegend magisch ist und die Poke-Phase sonst zu viel HP vor dem eigentlichen Duell kostet.",
+  "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn seine Betäubungs-Zone wiederholt entscheidende Fights kippt.",
+  "side": "1 Item: Poke und Stapel-Betäubung dominieren die Lane. 2 Items: mit Maw, Tenacity und R meist spielbare Duelle außerhalb seiner Zone. 3 Items: klarer Vorteil, sofern das Duell nicht in seiner Ultimate-Zone stattfindet.",
+  "plan": "Halte Markierungsstapel im Blick und breche Trades vor dem dritten Treffer ab, statt eine Betäubung mitten im All-in zu riskieren. Meide seine Ultimate-Zone bei längeren Fights konsequent.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Kontaktfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/kennen/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

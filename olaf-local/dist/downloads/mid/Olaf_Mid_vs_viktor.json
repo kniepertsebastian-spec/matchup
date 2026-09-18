@@ -1,0 +1,50 @@
+{
+  "slug": "viktor",
+  "name": "Viktor",
+  "tier": "C",
+  "reason": "Viktor hat vor dem ersten großen Powerspike wenig, um einen direkten Nahkampf-All-in abzuwehren, außer seiner E-Gravitationszone, die Olaf nur bei sauberem Timing verlangsamt und stumm schaltet. Sobald sein Ultimate und die Itemization online sind, verwandelt sich die Lane aber in ein Zonen-Kontroll-Duell, in dem Olaf ohne verlässlichen Gap-Close klar benachteiligt ist.",
+  "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, bevor Viktors E-Zone Olaf verlangsamt und stumm schaltet. Second Wind mildert den chronischen Q-Poke-Chip, dem Olaf über die gesamte Lanephase ausgesetzt ist, während er versucht, Kontakt herzustellen.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, solange er außerhalb von Viktors E-Zonenradius bleibt; sobald die Zone getroffen ist, verliert Olaf durch Verlangsamung und Silence wertvolle Trade-Zeit.",
+  "l25": "Viktor poked mit Q-Missile aus sicherer Distanz und hält E für den Moment eines erzwungenen All-ins bereit; Olaf sollte nur committen, wenn E sichtbar auf Cooldown liegt oder er die Zone zuverlässig umgehen kann.",
+  "l6": "Viktors R ist ein kanalisierter Laserstrahl mit hohem Flächenschaden über Zeit, der Olaf während des Engage-Versuchs stark schwächen kann; Ragnarok entfernt den Silence-Effekt der E-Zone bei aktivem Cast, hilft aber nicht gegen den reinen Distanzschaden des R-Lasers.",
+  "threats": "E-Gravitationszone mit Slow und Silence, Q-Missile-Poke, W-Schild gegen Burst, R-Kanal-Laser mit hohem Flächenschaden über Zeit.",
+  "window": "Solange Viktors E-Zone bereits verbraucht ist oder sichtbar auf Cooldown liegt, ist ein direkter Reckless-Swing-Allin am sichersten, besonders im Nahbereich ohne Fluchtweg.",
+  "errors": "Blind in die sichtbare E-Zone laufen und die Silence-Komponente unterschätzen. Gegen aktives W-Schild all-in gehen, bevor es sichtbar verbraucht ist. Den R-Laser während eines längeren Engage-Versuchs ignorieren.",
+  "wave": "Gegen Viktors Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei Wellen-Crash kann Olaf kurz roamen, da Viktor ohne Zonenkontrolle selten aggressiv folgt.",
+  "trade": "Q auf die Wave, bei Kontakt E erst zünden, wenn Viktors E-Zone bereits verbraucht ist, R als Antwort auf die Silence-Komponente oder um im Duell gegen den R-Laser durchzuhalten.",
+  "items": "Gegen Viktors reinen Magieburst und Zonenschaden ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in seinem größten Schadensfenster.",
+  "situ": "Bei besonders starker Zonenkontrolle im Team kann früh Quicksilver Sash sinnvoll sein, um sich aus der Silence-Komponente der E-Zone zu befreien.",
+  "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn E fehlt. 2 Items: Viktors Zonenkontrolle und Q-Poke machen offene Duelle riskanter. 3 Items: Viktors R-Laser und Itemization-Powerspike übersteigen Olafs Sustain oft, nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+  "plan": "Früh auf E-Cooldown lauern und kompromisslos all-in gehen, solange Viktor ohne Zonenkontrolle im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game den R-Laser vor jedem Engage einkalkulieren.",
+  "override": "Bei besonders CC-lastigem Viktor-Spiel mit früher Zonen-Priorisierung auf pta_boneplating wechseln, um den Silence-Einstieg direkter zu dämpfen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen die E-Silence und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/viktor/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

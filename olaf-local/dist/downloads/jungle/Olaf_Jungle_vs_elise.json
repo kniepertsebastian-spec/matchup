@@ -1,0 +1,50 @@
+{
+  "slug": "elise",
+  "name": "Elise",
+  "tier": "D",
+  "reason": "Elise zählt zu den stärksten frühen Invade-Junglerinnen im Spiel, da Cocoon aus großer Reichweite betäubt und die anschließende Spiderling-Kombo hohen Frühschaden gegen hohe aktuelle HP austeilt, was Olaf als gesunden Skirmisher besonders trifft. Im späteren Spiel verliert Elise relativ an reiner Duellkraft gegenüber einem skalierten Olaf mit R, bleibt aber als Pick-Bedrohung in Seitenlanen relevant.",
+  "runeReason": "Conqueror passt zum Sustain-Wettlauf, sobald Olaf die Cocoon-Öffnung übersteht; Boneplating ist zentral, um die frühe Burst-Kombo aus Cocoon und Spiderlings abzufedern.",
+  "l1": "Level 1-2 ist Elise durch die lange Cocoon-Reichweite und Bonusschaden gegen hohe aktuelle HP extrem gefährlich; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Vision auf Elises Position wagen.",
+  "l25": "Elise ist eine der aktivsten frühen Invaderinnen und sucht gezielt Kontakt an Scuttle und gegnerischen Camps; Olaf sollte in dieser Phase besonders auf Cocoon-Reichweite achten und offene Flächen meiden.",
+  "l6": "Ab Level 6 kann Olaf mit R den Cocoon-Stun überstehen, sofern er rechtzeitig reagiert, und den anschließenden Kampf über Sustain für sich entscheiden, da Elise selbst über wenig Eigenheilung im direkten Duell verfügt.",
+  "threats": "Cocoon-Fernbetäubung (E), Bonusschaden gegen hohe aktuelle HP (Q), Spiderling-Burst (W), Rappel-Fluchtsprung (Spinnenform-E).",
+  "window": "Sobald Elises Cocoon bereits verbraucht oder danebengegangen ist, ist ein offener Gegenstoß oder Konter-Invade für Olaf deutlich sicherer.",
+  "errors": "Die lange Cocoon-Reichweite unterschätzen und offene Flächen ohne Deckung durchqueren. Nach einem geblockten oder verpassten Cocoon trotzdem zögerlich bleiben, statt das Fenster aktiv zu nutzen.",
+  "wave": "Gegen Elise lohnt sich defensiveres Pathing mit Vision an Kreuzungen, da ihr frühes Invade-Tempo über Cocoon hoch ist; ein direkter Camp-Wettlauf ist riskant, solange Cocoon verfügbar ist.",
+  "trade": "Q zuerst für den Slow, dann E für Sustain, sobald der Cocoon-Stun übersteht ist; R einsetzen, sobald Elise ihre Cocoon-Betäubung bereits investiert hat, um den Gegenstoß zu maximieren.",
+  "items": "Die Maw-Linie liefert Magieresistenz gegen Elises überwiegend magischen Burst aus Cocoon-Kombo und Spiderlings.",
+  "situ": "Ein früher defensiver Magieresistenz-Gegenstand gegen Elises Burst-Kombo kann das Überleben des ersten Kontakts deutlich verbessern.",
+  "side": "1 Item: Elise gewinnt die meisten offenen Duelle über ihre Cocoon-Kombo klar. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf den Stun übersteht. 3 Items: Olafs Sustain-Vorteil gegenüber einer Elise ohne eigene Heilung wird deutlicher.",
+  "plan": "Frühe offene Flächen meiden und Cocoon-Reichweite konsequent respektieren, bis Item- und Levelvorteile aufgebaut sind. Ab Level 6 Objective-Kämpfe suchen, in denen Elises Cocoon bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+  "override": "Bei viel gegnerischem physischem Druck im Elise-Team auf conqueror_secondwind wechseln, um zusätzlichen Chip-Schaden abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Elises Cocoon-Betäubung und den überwiegend magischen Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/elise/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ekko",
+  "name": "Ekko",
+  "tier": "D",
+  "reason": "Ekkos frühe Jungle-Präsenz ist solide, aber nicht überragend, was Olaf ein reales Zeitfenster vor Level 6 gibt, solange Ekkos W-Betäubungszone noch nicht als Setup für einen Gank genutzt wurde. Das eigentliche Problem ist seine Ultimate, die ihm erlaubt, aus einem verlorenen Duell zurückzuspulen, sich zu heilen und den Gegner gleichzeitig zu verlangsamen, was Olafs Finish-Fenster in einem geplanten Duell praktisch neutralisiert. Insgesamt spricht das Matchup früh leicht für Olaf, spät klar für Ekko.",
+  "runeReason": "Präzision-Übernahme mit Boneplating zielt darauf ab, Ekko zu bursten, bevor seine Rückspul-Ultimate als Sicherheitsnetz zur Verfügung steht, da ein längerer Conqueror-Fight ihm nur mehr Zeit gibt, bis zur R-Verfügbarkeit zu überleben.",
+  "l1": "Vor Level 6 ist Ekko im Level-2-Duell verwundbarer, da ihm die Rückspul-Ultimate als Absicherung fehlt, Olaf kann bei aggressivem Invade häufig gewinnen, solange Ekkos W-Zone noch nicht platziert ist.",
+  "l25": "Ekko will früh seine W-Betäubungszone für Gank-Setups nutzen statt offene Kontests zu suchen, Olaf sollte eigene Camps zügig clearen und Krabbenkontrolle nur mit Vision auf Ekkos W-Cooldown riskieren.",
+  "l6": "Ab 6 wird jedes geplante Duell gegen Ekko riskant, da seine Ultimate ihm erlaubt, aus fast jeder Verlustsituation herauszuspulen, sich zu heilen und Olaf zu verlangsamen, ein Fight sollte danach nur noch eingegangen werden, wenn R bereits sichtbar verbraucht wurde.",
+  "threats": "W-Rückkehrzone mit Betäubung, hoher Passiv-Burstschaden bei mehreren Treffern in kurzer Zeit, R-Rückspul mit Heilung und Flächen-Slow als Fluchttool.",
+  "window": "Ein gutes Fenster existiert primär vor Level 6 oder danach nur, wenn Ekkos R bereits sichtbar verbraucht wurde, ein Duell gegen eine volle Ultimate ist praktisch nicht zu gewinnen.",
+  "errors": "Nicht versuchen, einen Ekko mit voller Ultimate finalzuschlagen, da er einfach zurückspult und heilt, R nicht verschwenden, um in eine bereits aktive W-Zone hineinzukämpfen.",
+  "wave": "Vor Level 6 lohnt sich moderates Konter-Jungle gegen Ekkos durchschnittlichen frühen Clear, nach 6 sollte Olaf Fights defensiver timen und primär auf den Zustand von Ekkos R achten statt auf reine Cooldown-Vorteile bei Q und W.",
+  "trade": "Q werfen sobald Ekko committed, dann Autos solange er außerhalb seiner W-Zone bleibt, R nur zünden wenn Ekkos eigenes R bereits verbraucht ist, sonst wird der Fight ohnehin durch seine Rückspul-Heilung neutralisiert.",
+  "items": "Hydra-Maw kontert Ekkos magischen Burst-Schaden direkt und liefert den nötigen Magieresistenz-Puffer, um seine Passiv-Burst-Fenster zu überstehen.",
+  "situ": "Gegen eine sehr aggressive Ekko-Spielweise mit früher W-Setup-Kombo kann ein noch früherer Magieresistenz-Gegenstand das Überleben eines Ganks deutlich verbessern.",
+  "side": "1 Item: Olaf im Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Ekkos R verfügbar ist. 3 Items: Ekkos Rückspul-Sicherheitsnetz macht ein geplantes Finish praktisch unmöglich, Olaf sollte dann nur noch nach verbrauchtem R fighten.",
+  "plan": "Vor Level 6 aktiv konter-jungeln, da Ekko hier nur durchschnittlich stark ist. Ab Level 6 Fights ausschließlich nach sichtbar verbrauchtem R suchen, da seine Rückspul-Heilung jedes andere geplante Duell zunichtemacht.",
+  "override": "Gegen ein Team mit zusätzlichem harten CC um Ekkos Setup herum kann conqueror_boneplating sinnvoller sein, um längere, erzwungene Fights zu überstehen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Ekkos W-Betäubung und seinen überwiegend magischen Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "E",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/ekko/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

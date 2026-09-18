@@ -1,0 +1,50 @@
+{
+  "slug": "diana",
+  "name": "Diana",
+  "tier": "C",
+  "reason": "Diana ist ein solider AP-Bruiser mit Crescent-Strike-Slow und Lunar-Rush-Gapclose, der frühe Duelle über Pale-Cascade-Schild absichern kann, aber ohne besondere Zugriffsprobleme gegen Olaf auskommt. Das Duell ist über weite Strecken ausgeglichen und hängt stark davon ab, wer den ersten Q-Treffer oder R-Pull sauber landet.",
+  "runeReason": "Conqueror passt zum verlängerten Duell gegen Dianas Pale-Cascade-Schild, da Olaf Sustain über die Zeit braucht, um den Schildschaden auszugleichen; Boneplating dämpft die Combo-Öffnung aus Q-Slow und Lunar-Rush-Dash.",
+  "l1": "Level 1-2 ist eng, da Dianas Q-Slow und Pale-Cascade-Schild frühe Trades absichern; ein Scuttle-Contest um 2:30-3:00 hängt stark davon ab, wer den ersten Crescent-Strike-Treffer landet.",
+  "l25": "Diana pathet über Lunar-Rush-Resets nach Monster- oder Champion-Treffern zügig zwischen Camps; Olaf sollte eigene Positionierung so wählen, dass ein Q-Treffer von Diana nicht automatisch einen Dash-Einstieg ermöglicht.",
+  "l6": "Mit R kann Diana mehrere Ziele in ihre Orbit-Reichweite ziehen, was in Objective-Kämpfen gefährlich wird; im reinen 1v1 hilft Olafs R, den Pull-Einstieg zu überstehen und den Sustain-Wettlauf für sich zu entscheiden.",
+  "threats": "Crescent-Strike-Slow (Q), Pale-Cascade-Schild (W), Lunar-Rush-Gapclose mit Reset (E), Moonfall-Pull (R).",
+  "window": "Sobald Dianas Pale-Cascade-Schild bereits verbraucht ist oder ihr Q-Slow danebenging, ist ein offener Gegenstoß oder Konter-Invade für Olaf spürbar sicherer.",
+  "errors": "Nach einem getroffenen Crescent Strike sofort in Lunar-Rush-Reichweite bleiben und den Dash-Einstieg ermöglichen. Den Moonfall-Pull-Radius im Objective-Kampf unterschätzen und zu weit vorne stehen.",
+  "wave": "Ein Drei-Camp-Gank-Rhythmus ist gegen Diana sinnvoll, da beide ähnliches frühes Invade-Tempo haben; ein direkter Camp-Wettlauf ist meist ausgeglichen und hängt vom ersten Q-Treffer ab.",
+  "trade": "Q zuerst für den Slow, dann E für Sustain, wobei Dianas Pale-Cascade-Schild eingerechnet werden muss; R erst zünden, wenn ihr Schild bereits gebrochen oder Lunar Rush verbraucht ist.",
+  "items": "Die Maw-Linie liefert Magieresistenz gegen Dianas überwiegend magischen Schaden aus W-Sphären und der Moonsilver-Blade-Passive.",
+  "situ": "Ein früher defensiver Magieresistenz-Gegenstand kann gegen Dianas frühen Burst-Druck das Überleben des ersten Kontakts verbessern.",
+  "side": "1 Item: Der Kampf ist eng und hängt vom ersten Combo-Treffer ab. 2 Items: Olafs Sustain beginnt den Unterschied gegenüber Dianas Burst-Fenster zu machen. 3 Items: Olaf gewinnt verlängerte Duelle klarer, sofern er den Schild-Schaden übersteht.",
+  "plan": "Frühe Kontakte nur mit klarer Positionierung gegen den Lunar-Rush-Dash suchen. Objective-Kämpfe idealerweise erst beginnen, wenn Dianas Schild bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+  "override": "Bei viel gegnerischem physischem Druck im Diana-Team auf conqueror_secondwind wechseln, um zusätzlichen Chip-Schaden abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Dianas überwiegend magischen Schaden und den Moonfall-Pull.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/diana/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "swain",
+  "name": "Swain",
+  "tier": "D",
+  "reason": "Swain ist früh noch verwundbar, baut sich mit Levels und Items aber zu einem zäh sustainenden Halb-Tank aus, gegen den Olafs True-Damage-Trades relativ an Wirkung verlieren. Sein Drain-Ultimate heilt ihn in ausgedehnten Kämpfen massiv zurück, was genau die Fights begünstigt, die Olaf eigentlich sucht.",
+  "runeReason": "Conqueror passt zum längeren, sustain-lastigen Charakter dieses Matchups besser als ein kurzes Burstfenster, da Swain selbst auf ausgedehnte Kämpfe abzielt. Second Wind federt seine Q/W-Poke-Serie vor dem eigentlichen Duell ab.",
+  "l1": "Direkter Kontakt ohne seinen Root ist für Olaf gewinnbar, sein Root-Skillshot aus E ist aber langsam genug, um bei Aufmerksamkeit ausgewichen zu werden.",
+  "l25": "Poke-Phase mit Q und W-Vision-Schaden ist unangenehm, All-in vor allem nach verfehltem oder verbrauchtem Root sinnvoll. Farm unter Turm akzeptieren, wenn der Root-Cooldown unklar ist.",
+  "l6": "Sein Ultimate zieht Lebensenergie aus der Umgebung und heilt ihn erheblich, was lange Fights zu seinen Gunsten verschiebt. Olafs R hält Damage-Output während seines Drains aufrecht, kann die Heilung selbst aber nicht verhindern.",
+  "threats": "Root-Skillshot aus E, globale Vision plus Verzögerungsschaden aus W, Drain-Ultimate mit Selbstheilung.",
+  "window": "Direkt nach einem verfehlten oder auf Cooldown liegenden Root und vor seinem Ultimate ist das verlässlichste Kontaktfenster.",
+  "errors": "Geradlinig auf ihn zulaufen, wenn der Root-Cooldown unklar ist. In seinen Drain-Ultimate hineinlaufen, ohne den Kampf sofort entscheiden zu können.",
+  "wave": "Kontrolliertes Freezing, um seine W-Vision und Q-Reichweite zur eigenen Wave zu begrenzen. Roams nutzen, solange sein Root auf Cooldown liegt.",
+  "trade": "Q zum Slow, seitlich um den Root-Vektor herumlaufen, E nach Kontakt, R erst wenn absehbar ist, dass der Kampf vor seinem Ultimate-Drain entschieden werden kann.",
+  "items": "Ravenous Hydra in Cleaver-Linie, da er sich mit Levels zäher ausbaut und Olaf die Rüstung reduzieren muss, um seinen True-Damage-Vorteil zu erhalten.",
+  "situ": "Sterak's Gage gegen sein Poke-plus-Drain-Burst-Gesamtpaket, Quicksilver Sash bei zusätzlicher harter Kontrolle aus der Comp.",
+  "side": "1 Item: Poke und Root dominieren weiter die Lane. 2 Items: enges, lesbares Duell, wenn der Kampf vor seinem Ultimate entschieden wird. 3 Items: sein Sustain und seine Tankiness kippen längere Fights zu seinen Gunsten.",
+  "plan": "Suche frühe, kurze Fenster vor Level 6 und vermeide ausgedehnte Fights, sobald sein Ultimate verfügbar ist. Priorisiere Roams über seine Lane, statt gegen seine Poke-plus-Root-Kombination anzurennen.",
+  "override": "PTA statt Conqueror, wenn das Spiel schnelle Picks statt langer Sidelane-Standoffs verlangt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Teleport",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "E",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/swain/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}
