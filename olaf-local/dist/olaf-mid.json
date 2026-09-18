@@ -1,0 +1,14 @@
+{
+  "champion": "Olaf",
+  "role": "mid",
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "statsPatch": "Keine belastbaren Olaf-Mid-Paarungsdaten",
+  "method": [
+    [
+      "Platzhalter",
+      "Wird durch das Build-Skript ersetzt."
+    ]
+  ],
+  "matchups": []
+}

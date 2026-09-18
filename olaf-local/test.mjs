@@ -4,10 +4,12 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {server} from './server.mjs';
-import {filterMatchups,groups,tiers,parseRoute} from './dist/model.js';
+import {filterMatchups,groups,jungleGroups,tiers,parseRoute} from './dist/model.js';
 const data=JSON.parse(await readFile(new URL('./dist/data.json',import.meta.url)));
 const warwick=JSON.parse(await readFile(new URL('./dist/warwick.json',import.meta.url)));
 const adc=JSON.parse(await readFile(new URL('./dist/olaf-adc.json',import.meta.url)));
+const mid=JSON.parse(await readFile(new URL('./dist/olaf-mid.json',import.meta.url)));
+const jungle=JSON.parse(await readFile(new URL('./dist/olaf-jungle.json',import.meta.url)));
 await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 const base=`http://127.0.0.1:${server.address().port}`;
 after(()=>server.close());
@@ -63,11 +65,11 @@ test('UI rendering: both champions, guide, all details, correct downloads and mi
  const make=()=>({innerHTML:'',textContent:'',href:'',children:[{},{},{}],elements:Object.fromEntries(['q','tier','rune','sums'].map(k=>[k,{value:''}])),addEventListener(){},querySelector(){return form;},querySelectorAll(){return [];}});
  const form=make();
  const picks=['olaf','warwick'].map(id=>({...make(),dataset:{champion:id},setAttribute(){}}));
- const lanes=['top','adc'].map(id=>({...make(),dataset:{lane:id},setAttribute(){}}));
+ const lanes=['top','adc','mid','jungle'].map(id=>({...make(),dataset:{lane:id},setAttribute(){}}));
  const document={title:'',querySelector(q){if(!nodes.has(q))nodes.set(q,make());return nodes.get(q);},querySelectorAll(q){return q==='[data-lane]'?lanes:picks;}};
  const location={hash:'#warwick'};const events={};
  const execute=Object.getPrototypeOf(async function(){}).constructor;
- await new execute('mountTeamPlanner','runePage','buildPanel','tiers','filterMatchups','groups','parseRoute','document','location','window','fetch','addEventListener',source.replace(/^import[^\n]+\n/gm,''))(()=>{},runePage,buildPanel,tiers,filterMatchups,groups,parseRoute,document,location,{scrollTo(){}},url=>fetch(base+url),(name,fn)=>events[name]=fn);
+ await new execute('mountTeamPlanner','runePage','buildPanel','tiers','filterMatchups','groups','jungleGroups','parseRoute','document','location','window','fetch','addEventListener',source.replace(/^import[^\n]+\n/gm,''))(()=>{},runePage,buildPanel,tiers,filterMatchups,groups,jungleGroups,parseRoute,document,location,{scrollTo(){}},url=>fetch(base+url),(name,fn)=>events[name]=fn);
  assert.match(nodes.get('#app').innerHTML,/Lethal Tempo/);
  for(const [id,dataset] of [['olaf',data],['warwick',warwick]]){
   location.hash=id==='olaf'?'#leitfaden':'#warwick/leitfaden';events.hashchange();assert.match(nodes.get('#app').innerHTML,/Geltungsbereich/);
@@ -79,6 +81,14 @@ test('UI rendering: both champions, guide, all details, correct downloads and mi
  assert.equal(nodes.get('header nav').children[2].href,'/olaf-adc.json');
  for(const m of adc.matchups){location.hash='#olaf/adc/matchup/'+m.slug;events.hashchange();const html=nodes.get('#app').innerHTML;assert.match(html,/Support-Einfluss/);assert.ok(html.includes('Olaf_ADC_vs_'+m.slug+'.json'));assert.ok(!html.includes('undefined'));assert.ok(!html.includes('ROHE OLAF SIEGRATE'));}
  location.hash='#olaf/adc/leitfaden';events.hashchange();assert.match(nodes.get('#app').innerHTML,/Hexplate/);
+ location.hash='#olaf/mid';events.hashchange();assert.match(nodes.get('#app').innerHTML,/MITTELLANE/);
+ assert.equal(nodes.get('header nav').children[2].href,'/olaf-mid.json');
+ for(const m of mid.matchups){location.hash='#olaf/mid/matchup/'+m.slug;events.hashchange();const html=nodes.get('#app').innerHTML;assert.ok(html.includes('Olaf_Mid_vs_'+m.slug+'.json'));assert.ok(!html.includes('undefined'));assert.ok(!html.includes('ROHE OLAF SIEGRATE'));assert.match(html,/Level 1/);}
+ location.hash='#olaf/mid/leitfaden';events.hashchange();assert.match(nodes.get('#app').innerHTML,/Geltungsbereich/);
+ location.hash='#olaf/jungle';events.hashchange();assert.match(nodes.get('#app').innerHTML,/JUNGLE/);
+ assert.equal(nodes.get('header nav').children[2].href,'/olaf-jungle.json');
+ for(const m of jungle.matchups){location.hash='#olaf/jungle/matchup/'+m.slug;events.hashchange();const html=nodes.get('#app').innerHTML;assert.ok(html.includes('Olaf_Jungle_vs_'+m.slug+'.json'));assert.ok(!html.includes('undefined'));assert.ok(!html.includes('ROHE OLAF SIEGRATE'));assert.match(html,/Pathing/);}
+ location.hash='#olaf/jungle/leitfaden';events.hashchange();assert.match(nodes.get('#app').innerHTML,/Geltungsbereich/);
  location.hash='#';events.hashchange();assert.equal(nodes.get('header nav').children[2].href,'/downloads/Olaf_Top_Sammlung.xlsx');assert.match(nodes.get('#results').innerHTML,/Renekton/);
 });
 
@@ -95,12 +105,40 @@ test('ADC route, complete independent records and downloadable data',async()=>{
  assert.ok(adc.matchups.find(m=>m.slug==='yunara'));
 });
 
+test('Mid route, complete independent records and downloadable data',async()=>{
+ assert.deepEqual(parseRoute('#olaf/mid/matchup/zed'),{champion:'olaf',role:'mid',page:'matchup',slug:'zed'});
+ assert.equal(mid.matchups.length,28);assert.equal(new Set(mid.matchups.map(m=>m.slug)).size,28);
+ assert.ok(mid.method.length>5);
+ for(const m of mid.matchups){
+  for(const [,fields] of groups)for(const [key]of fields)assert.ok(m[key]?.length>0,`${m.slug}.${key}`);
+  assert.equal(m.stats.n,null);assert.ok(['PTA','Conqueror'].includes(m.rune));
+  assert.ok(['Flash + Ghost','Flash + Ignite','Flash + Teleport'].includes(m.sums),`${m.slug}.sums`);
+  assert.ok(tiers[m.tier]);assert.ok(tiers[m.lane]);assert.ok(tiers[m.late]);
+  const r=await fetch(base+'/downloads/mid/Olaf_Mid_vs_'+m.slug+'.json');assert.equal(r.status,200);assert.equal((await r.json()).slug,m.slug);
+ }
+ assert.equal((await fetch(base+'/olaf-mid.json')).status,200);
+});
+
+test('Jungle route, complete independent records and downloadable data',async()=>{
+ assert.deepEqual(parseRoute('#olaf/jungle/matchup/kayn'),{champion:'olaf',role:'jungle',page:'matchup',slug:'kayn'});
+ assert.equal(jungle.matchups.length,28);assert.equal(new Set(jungle.matchups.map(m=>m.slug)).size,28);
+ assert.ok(jungle.method.length>5);
+ for(const m of jungle.matchups){
+  for(const [,fields] of jungleGroups)for(const [key]of fields)assert.ok(m[key]?.length>0,`${m.slug}.${key}`);
+  assert.equal(m.stats.n,null);assert.ok(['PTA','Conqueror'].includes(m.rune));
+  assert.equal(m.sums,'Flash + Smite',`${m.slug}.sums`);
+  assert.ok(tiers[m.tier]);assert.ok(tiers[m.lane]);assert.ok(tiers[m.late]);
+  const r=await fetch(base+'/downloads/jungle/Olaf_Jungle_vs_'+m.slug+'.json');assert.equal(r.status,200);assert.equal((await r.json()).slug,m.slug);
+ }
+ assert.equal((await fetch(base+'/olaf-jungle.json')).status,200);
+});
+
 test('visual equipment: complete assets, legal rune pages and conditional item slots',async()=>{
  const catalog=JSON.parse(await readFile(new URL('./dist/equipment.json',import.meta.url)));
  const builds=JSON.parse(await readFile(new URL('./dist/loadouts.json',import.meta.url)));
  assert.equal(catalog.version,'16.18.1');
  const paths=new Set();
- for(const [key,dataset]of [['olaf-top',data],['warwick-top',warwick],['olaf-adc',adc]]){
+ for(const [key,dataset]of [['olaf-top',data],['warwick-top',warwick],['olaf-adc',adc],['olaf-mid',mid],['olaf-jungle',jungle]]){
   assert.equal(Object.keys(builds.collections[key]).length,dataset.matchups.length);
   for(const m of dataset.matchups){
    const b=builds.collections[key][m.slug];

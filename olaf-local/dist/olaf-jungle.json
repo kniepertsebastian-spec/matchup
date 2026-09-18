@@ -1,0 +1,14 @@
+{
+  "champion": "Olaf",
+  "role": "jungle",
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "statsPatch": "Keine belastbaren Olaf-Jungle-Paarungsdaten",
+  "method": [
+    [
+      "Platzhalter",
+      "Wird durch das Build-Skript ersetzt."
+    ]
+  ],
+  "matchups": []
+}

@@ -10,7 +10,7 @@ import {filterMatchups} from './dist/model.js';
 const store=await createStore();
 const data=context(store.documents);
 export const closeStore=()=>store.close();
-const aliases={'/data.json':'olaf-top','/warwick.json':'warwick-top','/olaf-adc.json':'olaf-adc','/equipment.json':'equipment','/loadouts.json':'loadouts'};
+const aliases={'/data.json':'olaf-top','/warwick.json':'warwick-top','/olaf-adc.json':'olaf-adc','/olaf-mid.json':'olaf-mid','/olaf-jungle.json':'olaf-jungle','/equipment.json':'equipment','/loadouts.json':'loadouts'};
 function sendJSON(req,res,value,status=200){
  const body=JSON.stringify(value),etag='"'+createHash('sha256').update(body).digest('hex')+'"';
  res.setHeader('Content-Type','application/json; charset=utf-8');res.setHeader('Cache-Control','no-cache');res.setHeader('ETag',etag);

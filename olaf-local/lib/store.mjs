@@ -2,13 +2,14 @@ import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 export const files={
  'olaf-top':'dist/data.json','warwick-top':'dist/warwick.json','olaf-adc':'dist/olaf-adc.json',
+ 'olaf-mid':'dist/olaf-mid.json','olaf-jungle':'dist/olaf-jungle.json',
  equipment:'dist/equipment.json',loadouts:'dist/loadouts.json',champions:'data/champions.json'
 };
 const root=new URL('../',import.meta.url);
 export async function readSeed(){
  return Object.fromEntries(await Promise.all(Object.entries(files).map(async([key,file])=>[key,JSON.parse(await readFile(new URL(file,root),'utf8'))])));
 }
-export function context(documents){return {champions:documents.champions,equipment:documents.equipment,loadouts:documents.loadouts,collections:Object.fromEntries(['olaf-top','warwick-top','olaf-adc'].map(k=>[k,documents[k]]))};}
+export function context(documents){return {champions:documents.champions,equipment:documents.equipment,loadouts:documents.loadouts,collections:Object.fromEntries(['olaf-top','warwick-top','olaf-adc','olaf-mid','olaf-jungle'].map(k=>[k,documents[k]]))};}
 async function password(){return process.env.DB_PASSWORD_FILE?(await readFile(process.env.DB_PASSWORD_FILE,'utf8')).trim():process.env.DB_PASSWORD;}
 export async function createStore({mode=process.env.STORAGE||'files'}={}){
  if(!['files','mariadb'].includes(mode))throw Error('STORAGE must be files or mariadb');
