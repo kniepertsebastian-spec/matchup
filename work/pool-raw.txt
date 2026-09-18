@@ -1,0 +1,3658 @@
+Aatrox Build, Runes & Counters Guide for top Aatrox (https://lolalytics.com/lol/aatrox/build/?lane=top)
+citeturn17view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/aatrox/build/?lane=top","lineno":90}); Total lines: 1424
+L75: cite5†Aatrox top has a 51.19% win rate in Emerald+ on Patch 16.17 coming in at rank 51 of 106 and graded B Tier on the cite1†LoL Tierlist . Aatrox top is a strong counter to cite19†Trundle , cite20†Dr. Mundo & cite21†Tahm Kench while Aatrox is countered most by cite22†Singed , cite23†Irelia & cite24†Pantheon . The best Aatrox players have a 54.42% win rate with an average rank of Grandmaster on the cite2†Aatrox Leaderboard . Below is a detailed breakdown of the Aatrox build, runes & counters.
+L76: 
+L77: 51.19%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.63%
+L82: 
+L83: WR Delta
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 49.56%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 5.94%
+L95: 
+L96: Pick Rate
+L97: 
+L98: B
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 51 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 7.22%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 130,801
+L115: 
+L116: Games
+L117: 
+L118: cite25†Aatrox Build L119: 
+L120: cite2†Aatrox Leaderboard L121: 
+L122: cite3†Aatrox Counters L123: 
+L124: cite26†Aatrox ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Aatrox Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: Aatrox E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Aatrox W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 51.37% Win Rate 127,055 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Akali Build, Runes & Counters Guide for top Akali (https://lolalytics.com/lol/akali/build/?lane=top)
+citeturn17view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/akali/build/?lane=top","lineno":90}); Total lines: 1388
+L75: cite5†Akali top has a 50.82% win rate in Emerald+ on Patch 16.17 coming in at rank 41 of 106 and graded B+ Tier on the cite1†LoL Tierlist . Akali top is a strong counter to cite19†Vayne , cite20†Trundle & cite21†Kayle while Akali is countered most by cite22†Kled , cite23†Galio & cite24†Zed . The best Akali players have a 56.33% win rate with an average rank of Grandmaster on the cite25†Akali Leaderboard . Below is a detailed breakdown of the Akali build, runes & counters.
+L76: 
+L77: 50.82%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.62%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.2%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.59%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 41 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 15.79%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 64,565
+L116: 
+L117: Games
+L118: 
+L119: cite5†Akali Build L120: 
+L121: cite25†Akali Leaderboard L122: 
+L123: cite26†Akali Counters L124: 
+L125: cite27†Akali ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Akali Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Akali E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Akali W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 51.08% Win Rate 61,824 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Ambessa Build, Runes & Counters Guide for top Ambessa (https://lolalytics.com/lol/ambessa/build/?lane=top)
+citeturn17view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/ambessa/build/?lane=top","lineno":90}); Total lines: 1417
+L75: cite5†Ambessa top has a 50.02% win rate in Emerald+ on Patch 16.17 coming in at rank 60 of 107 and graded B- Tier on the cite1†LoL Tierlist . Ambessa top is a strong counter to cite19†Dr. Mundo , cite20†Akali & cite21†Vayne while Ambessa is countered most by cite22†Kennen , cite23†Kled & cite24†Warwick . The best Ambessa players have a 55.65% win rate with an average rank of Challenger on the cite25†Ambessa Leaderboard . Below is a detailed breakdown of the Ambessa build, runes & counters.
+L76: 
+L77: 50.02%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.15%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 48.87%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.97%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 60 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 4.76%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 37,595
+L116: 
+L117: Games
+L118: 
+L119: cite26†Ambessa Build L120: 
+L121: cite25†Ambessa Leaderboard L122: 
+L123: cite27†Ambessa Counters L124: 
+L125: cite28†Ambessa ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Ambessa Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Ambessa E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Ambessa W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 50.29% Win Rate 35,072 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Camille Build, Runes & Counters Guide for top Camille (https://lolalytics.com/lol/camille/build/?lane=top)
+citeturn17view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/camille/build/?lane=top","lineno":90}); Total lines: 1389
+L75: cite5†Camille top has a 52.37% win rate in Emerald+ on Patch 16.17 coming in at rank 2 of 106 and graded S+ Tier on the cite1†LoL Tierlist . Camille top is a strong counter to cite19†Vayne , cite20†Garen & cite21†Yone while Camille is countered most by cite22†Gwen , cite23†Teemo & cite24†Kled . The best Camille players have a 57.77% win rate with an average rank of Grandmaster on the cite25†Camille Leaderboard . Below is a detailed breakdown of the Camille build, runes & counters.
+L76: 
+L77: 52.37%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.26%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.11%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 4.31%
+L96: 
+L97: Pick Rate
+L98: 
+L99: S+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 2 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 5.6%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 106,422
+L116: 
+L117: Games
+L118: 
+L119: cite26†Camille Build L120: 
+L121: cite25†Camille Leaderboard L122: 
+L123: cite27†Camille Counters L124: 
+L125: cite28†Camille ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Camille Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Camille E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Camille W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52.88% Win Rate 97,868 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Cho'Gath Build, Runes & Counters Guide for top Cho'Gath (https://lolalytics.com/lol/chogath/build/?lane=top)
+citeturn17view4 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/chogath/build/?lane=top","lineno":90}); Total lines: 1466
+L75: cite5†Cho'Gath top has a 52.21% win rate in Emerald+ on Patch 16.17 coming in at rank 29 of 107 and graded A- Tier on the cite1†LoL Tierlist . Cho'Gath top is a strong counter to cite19†Riven , cite20†Jax & cite21†Sion while Cho'Gath is countered most by cite22†Ornn , cite23†Dr. Mundo & cite24†Singed . The best Cho'Gath players have a 56.95% win rate with an average rank of Grandmaster on the cite25†Cho'Gath Leaderboard . Below is a detailed breakdown of the Cho'Gath build, runes & counters.
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.58%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 2.91%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A-
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 29 / 107
+L107: 
+L108: Rank
+L109: 
+L110: 0.88%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 40,092
+L115: 
+L116: Games
+L117: 
+L118: cite26†Cho'Gath Build L119: 
+L120: cite25†Cho'Gath Leaderboard L121: 
+L122: cite27†Cho'Gath Counters L123: 
+L124: cite28†Cho'Gath ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite17†Image: Cho'Gath E Skill†cdn5.lolalytics.com L136: 
+L137: E
+L138: 
+L139: Loading...
+L140: 
+L141: cite16†Image: Cho'Gath W Skill†cdn5.lolalytics.com L142: 
+L143: W
+L144: 
+L145: Loading...
+L146: 
+L147: cite15†Image: Cho'Gath Q Skill†cdn5.lolalytics.com L148: 
+L149: Q
+L150: 
+L151: Loading...
+L152: 
+L153: 53.85% Win Rate 9,488 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Darius Build, Runes & Counters Guide for top Darius (https://lolalytics.com/lol/darius/build/?lane=top)
+citeturn17view5 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/darius/build/?lane=top","lineno":90}); Total lines: 1428
+L75: cite5†Darius top has a 51.7% win rate in Emerald+ on Patch 16.17 coming in at rank 13 of 106 and graded A+ Tier on the cite1†LoL Tierlist . Darius top is a strong counter to cite19†Yasuo , cite20†Sion & cite21†Trundle while Darius is countered most by cite22†Quinn , cite23†Dr. Mundo & cite24†Wukong . The best Darius players have a 57.02% win rate with an average rank of Grandmaster on the cite25†Darius Leaderboard . Below is a detailed breakdown of the Darius build, runes & counters.
+L76: 
+L77: 51.7%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.92%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.78%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 7.18%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 13 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 12.95%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 83,672
+L116: 
+L117: Games
+L118: 
+L119: cite26†Darius Build L120: 
+L121: cite25†Darius Leaderboard L122: 
+L123: cite27†Darius Counters L124: 
+L125: cite28†Darius ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Darius Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Darius E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Darius W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52.16% Win Rate 75,149 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Dr. Mundo Build, Runes & Counters Guide for top Dr. Mundo (https://lolalytics.com/lol/drmundo/build/?lane=top)
+citeturn17view6 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/drmundo/build/?lane=top","lineno":90}); Total lines: 1395
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 49.43%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 3.65%
+L95: 
+L96: Pick Rate
+L97: 
+L98: B
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 53 / 97
+L107: 
+L108: Rank
+L109: 
+L110: 2.47%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 3,475
+L115: 
+L116: Games
+L117: 
+L118: cite26†Dr. Mundo Build L119: 
+L120: cite25†Dr. Mundo Leaderboard L121: 
+L122: cite27†Dr. Mundo Counters L123: 
+L124: cite28†Dr. Mundo ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Dr. Mundo Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: Dr. Mundo E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Dr. Mundo W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 50.65% Win Rate 2,861 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Fiora Build, Runes & Counters Guide for top Fiora (https://lolalytics.com/lol/fiora/build/?lane=top)
+citeturn17view7 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/fiora/build/?lane=top","lineno":90}); Total lines: 1417
+L75: cite5†Fiora top has a 51.19% win rate in Emerald+ on Patch 16.17 coming in at rank 33 of 107 and graded A- Tier on the cite1†LoL Tierlist . Fiora top is a strong counter to cite19†K'Sante , cite20†Zaahen & cite21†Yasuo while Fiora is countered most by cite22†Warwick , cite23†Malphite & cite24†Rumble . The best Fiora players have a 56.6% win rate with an average rank of Grandmaster on the cite25†Fiora Leaderboard . Below is a detailed breakdown of the Fiora build, runes & counters.
+L76: 
+L77: 51.19%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.17%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.02%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.55%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 33 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 4.32%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 49,802
+L116: 
+L117: Games
+L118: 
+L119: cite26†Fiora Build L120: 
+L121: cite25†Fiora Leaderboard L122: 
+L123: cite27†Fiora Counters L124: 
+L125: cite28†Fiora ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Fiora Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Fiora E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Fiora W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 51.42% Win Rate 46,875 Games
+L155: 
+L156: Summoner Spells
+
+Gangplank Build, Runes & Counters Guide for top Gangplank (https://lolalytics.com/lol/gangplank/build/?lane=top)
+citeturn14view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/gangplank/build/?lane=top","lineno":90}); Total lines: 1408
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 51.01%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 5.52%
+L95: 
+L96: Pick Rate
+L97: 
+L98: S
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 5 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 7.29%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 121,490
+L115: 
+L116: Games
+L117: 
+L118: cite26†Gangplank Build L119: 
+L120: cite25†Gangplank Leaderboard L121: 
+L122: cite27†Gangplank Counters L123: 
+L124: cite28†Gangplank ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Gangplank Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: Gangplank E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Gangplank W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 52.8% Win Rate 118,818 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Garen Build, Runes & Counters Guide for top Garen (https://lolalytics.com/lol/garen/build/?lane=top)
+citeturn14view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/garen/build/?lane=top","lineno":90}); Total lines: 1430
+L75: cite5†Garen top has a 53.21% win rate in Emerald+ on Patch 16.17 coming in at rank 10 of 106 and graded S- Tier on the cite1†LoL Tierlist . Garen top is a strong counter to cite19†K'Sante , cite20†Jax & cite21†Riven while Garen is countered most by cite22†Kayle , cite23†Camille & cite24†Gangplank . The best Garen players have a 57.82% win rate with an average rank of Grandmaster on the cite25†Garen Leaderboard . Below is a detailed breakdown of the Garen build, runes & counters.
+L76: 
+L77: 53.21%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.02%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.19%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 7.11%
+L96: 
+L97: Pick Rate
+L98: 
+L99: S-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 10 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 5.27%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 156,916
+L116: 
+L117: Games
+L118: 
+L119: cite26†Garen Build L120: 
+L121: cite25†Garen Leaderboard L122: 
+L123: cite27†Garen Counters L124: 
+L125: cite28†Garen ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite17†Image: Garen E Skill†cdn5.lolalytics.com L137: 
+L138: E
+L139: 
+L140: Loading...
+L141: 
+L142: cite15†Image: Garen Q Skill†cdn5.lolalytics.com L143: 
+L144: Q
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Garen W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 53.48% Win Rate 143,198 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Gnar Build, Runes & Counters Guide for top Gnar (https://lolalytics.com/lol/gnar/build/?lane=top)
+citeturn14view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/gnar/build/?lane=top","lineno":90}); Total lines: 1425
+L75: cite5†Gnar top has a 50.73% win rate in Emerald+ on Patch 16.17 coming in at rank 64 of 106 and graded B- Tier on the cite1†LoL Tierlist . Gnar top is a strong counter to cite19†Volibear , cite20†Trundle & cite21†K'Sante while Gnar is countered most by cite22†Malphite , cite23†Irelia & cite24†Nasus . The best Gnar players have a 56.65% win rate with an average rank of Grandmaster on the cite25†Gnar Leaderboard . Below is a detailed breakdown of the Gnar build, runes & counters.
+L76: 
+L77: 50.73%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.59%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.14%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.58%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 64 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 1.14%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 87,408
+L116: 
+L117: Games
+L118: 
+L119: cite26†Gnar Build L120: 
+L121: cite25†Gnar Leaderboard L122: 
+L123: cite27†Gnar Counters L124: 
+L125: cite28†Gnar ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Gnar Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Gnar W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Gnar E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 50.95% Win Rate 82,420 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Gragas Build, Runes & Counters Guide for top Gragas (https://lolalytics.com/lol/gragas/build/?lane=top)
+citeturn14view3 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/gragas/build/?lane=top","lineno":90}); Total lines: 1451
+L75: cite5†Gragas top has a 51.66% win rate in Emerald+ on Patch 16.17 coming in at rank 30 of 106 and graded A- Tier on the cite1†LoL Tierlist . Gragas top is a strong counter to cite19†Rumble , cite20†K'Sante & cite21†Tahm Kench while Gragas is countered most by cite22†Vladimir , cite23†Camille & cite24†Dr. Mundo . The best Gragas players have a 57.26% win rate with an average rank of Grandmaster on the cite25†Gragas Leaderboard . Below is a detailed breakdown of the Gragas build, runes & counters.
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.3%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 2.19%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A-
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 30 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 0.62%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 34,607
+L115: 
+L116: Games
+L117: 
+L118: cite26†Gragas Build L119: 
+L120: cite25†Gragas Leaderboard L121: 
+L122: cite27†Gragas Counters L123: 
+L124: cite28†Gragas ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Gragas Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite16†Image: Gragas W Skill†cdn5.lolalytics.com L142: 
+L143: W
+L144: 
+L145: Loading...
+L146: 
+L147: cite17†Image: Gragas E Skill†cdn5.lolalytics.com L148: 
+L149: E
+L150: 
+L151: Loading...
+L152: 
+L153: 52.94% Win Rate 5,357 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Gwen Build, Runes & Counters Guide for top Gwen (https://lolalytics.com/lol/gwen/build/?lane=top)
+citeturn14view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/gwen/build/?lane=top","lineno":90}); Total lines: 1396
+L75: cite5†Gwen top has a 51.84% win rate in Emerald+ on Patch 16.17 coming in at rank 26 of 106 and graded A Tier on the cite1†LoL Tierlist . Gwen top is a strong counter to cite19†Dr. Mundo , cite20†Yorick & cite21†Vayne while Gwen is countered most by cite22†Kennen , cite23†Singed & cite24†Warwick . The best Gwen players have a 57.59% win rate with an average rank of Grandmaster on the cite25†Gwen Leaderboard . Below is a detailed breakdown of the Gwen build, runes & counters.
+L76: 
+L77: 51.84%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.6%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.24%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.77%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 26 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 3.97%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 68,362
+L116: 
+L117: Games
+L118: 
+L119: cite26†Gwen Build L120: 
+L121: cite25†Gwen Leaderboard L122: 
+L123: cite27†Gwen Counters L124: 
+L125: cite28†Gwen ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Gwen Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Gwen E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Gwen W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52% Win Rate 66,900 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Illaoi Build, Runes & Counters Guide for top Illaoi (https://lolalytics.com/lol/illaoi/build/?lane=top)
+citeturn14view5 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/illaoi/build/?lane=top","lineno":90}); Total lines: 1436
+L75: cite5†Illaoi top has a 53.12% win rate in Emerald+ on Patch 16.17 coming in at rank 34 of 106 and graded A- Tier on the cite1†LoL Tierlist . Illaoi top is a strong counter to cite19†Volibear , cite20†Zaahen & cite21†K'Sante while Illaoi is countered most by cite22†Teemo , cite23†Varus & cite24†Kayle . The best Illaoi players have a 56.26% win rate with an average rank of Master on the cite25†Illaoi Leaderboard . Below is a detailed breakdown of the Illaoi build, runes & counters.
+L76: 
+L77: 53.12%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.24%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.88%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.75%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 34 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 4.83%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 50,820
+L116: 
+L117: Games
+L118: 
+L119: cite26†Illaoi Build L120: 
+L121: cite25†Illaoi Leaderboard L122: 
+L123: cite27†Illaoi Counters L124: 
+L125: cite28†Illaoi ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Illaoi Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Illaoi E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Illaoi W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 53.95% Win Rate 11,703 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Irelia Build, Runes & Counters Guide for top Irelia (https://lolalytics.com/lol/irelia/build/?lane=top)
+citeturn14view6 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/irelia/build/?lane=top","lineno":90}); Total lines: 1432
+L75: cite5†Irelia top has a 52.22% win rate in Emerald+ on Patch 16.17 coming in at rank 12 of 106 and graded A+ Tier on the cite1†LoL Tierlist . Irelia top is a strong counter to cite19†Yorick , cite20†Ambessa & cite21†Jayce while Irelia is countered most by cite22†Malphite , cite23†Jax & cite24†Volibear . The best Irelia players have a 56.37% win rate with an average rank of Grandmaster on the cite25†Irelia Leaderboard . Below is a detailed breakdown of the Irelia build, runes & counters.
+L76: 
+L77: 52.22%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.65%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.57%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 4.52%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 12 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 12.77%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 99,487
+L116: 
+L117: Games
+L118: 
+L119: cite26†Irelia Build L120: 
+L121: cite25†Irelia Leaderboard L122: 
+L123: cite27†Irelia Counters L124: 
+L125: cite28†Irelia ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Irelia Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Irelia W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Irelia E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 52.54% Win Rate 86,899 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Jax Build, Runes & Counters Guide for top Jax (https://lolalytics.com/lol/jax/build/?lane=top)
+citeturn14view7 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/jax/build/?lane=top","lineno":90}); Total lines: 1489
+L75: cite5†Jax top has a 51.24% win rate in Emerald+ on Patch 16.17 coming in at rank 33 of 106 and graded A- Tier on the cite1†LoL Tierlist . Jax top is a strong counter to cite19†Volibear , cite20†Irelia & cite21†Trundle while Jax is countered most by cite22†Singed , cite23†Cho'Gath & cite24†Garen . The best Jax players have a 55.8% win rate with an average rank of Grandmaster on the cite25†Jax Leaderboard . Below is a detailed breakdown of the Jax build, runes & counters.
+L76: 
+L77: 51.24%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.66%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.58%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 5.96%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 33 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 9.85%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 131,196
+L116: 
+L117: Games
+L118: 
+L119: cite26†Jax Build L120: 
+L121: cite25†Jax Leaderboard L122: 
+L123: cite27†Jax Counters L124: 
+L125: cite28†Jax ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite16†Image: Jax W Skill†cdn5.lolalytics.com L137: 
+L138: W
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Jax E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite15†Image: Jax Q Skill†cdn5.lolalytics.com L149: 
+L150: Q
+L151: 
+L152: Loading...
+L153: 
+L154: 51.77% Win Rate 110,067 Games
+L155: 
+L156: Summoner Spells
+
+Jayce Build, Runes & Counters Guide for top Jayce (https://lolalytics.com/lol/jayce/build/?lane=top)
+citeturn15view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/jayce/build/?lane=top","lineno":90}); Total lines: 1405
+L75: cite5†Jayce top has a 49.07% win rate in Emerald+ on Patch 16.17 coming in at rank 86 of 106 and graded C Tier on the cite1†LoL Tierlist . Jayce top is a strong counter to cite19†Volibear , cite20†Vayne & cite21†Akali while Jayce is countered most by cite22†Quinn , cite23†Malphite & cite24†Ornn . The best Jayce players have a 53.65% win rate with an average rank of Challenger on the cite25†Jayce Leaderboard . Below is a detailed breakdown of the Jayce build, runes & counters.
+L76: 
+L77: 49.07%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.39%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 47.68%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 5.52%
+L96: 
+L97: Pick Rate
+L98: 
+L99: C
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 86 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 5.65%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 134,300
+L116: 
+L117: Games
+L118: 
+L119: cite26†Jayce Build L120: 
+L121: cite25†Jayce Leaderboard L122: 
+L123: cite27†Jayce Counters L124: 
+L125: cite28†Jayce ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Jayce Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Jayce W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Jayce E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 49.48% Win Rate 113,845 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Kennen Build, Runes & Counters Guide for top Kennen (https://lolalytics.com/lol/kennen/build/?lane=top)
+citeturn15view1 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/kennen/build/?lane=top","lineno":90}); Total lines: 1399
+L75: cite5†Kennen top has a 51.97% win rate in Emerald+ on Patch 16.17 coming in at rank 32 of 107 and graded A- Tier on the cite1†LoL Tierlist . Kennen top is a strong counter to cite19†Ambessa , cite20†Tryndamere & cite21†Vayne while Kennen is countered most by cite22†Zaahen , cite23†Nasus & cite24†Ornn . The best Kennen players have a 57.33% win rate with an average rank of Grandmaster on the cite25†Kennen Leaderboard . Below is a detailed breakdown of the Kennen build, runes & counters.
+L76: 
+L77: 51.97%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.4%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.57%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 32 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 1.11%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 11,536
+L116: 
+L117: Games
+L118: 
+L119: cite26†Kennen Build L120: 
+L121: cite25†Kennen Leaderboard L122: 
+L123: cite27†Kennen Counters L124: 
+L125: cite28†Kennen ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Kennen Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Kennen W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Kennen E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 52.55% Win Rate 9,946 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Kled Build, Runes & Counters Guide for top Kled (https://lolalytics.com/lol/kled/build/?lane=top)
+citeturn15view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/kled/build/?lane=top","lineno":90}); Total lines: 1469
+L75: cite5†Kled top has a 53.11% win rate in Emerald+ on Patch 16.16 coming in at rank 38 of 107 and graded B+ Tier on the cite1†LoL Tierlist . Kled top is a strong counter to cite19†Dr. Mundo , cite20†Yasuo & cite21†Rumble while Kled is countered most by cite22†Singed , cite23†Gwen & cite24†Kayle . The best Kled players have a 56.03% win rate with an average rank of Grandmaster on the cite25†Kled Leaderboard . Below is a detailed breakdown of the Kled build, runes & counters.
+L76: 
+L77: 53.11%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.52%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.59%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 1.77%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 38 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 0.86%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 47,867
+L116: 
+L117: Games
+L118: 
+L119: cite26†Kled Build L120: 
+L121: cite25†Kled Leaderboard L122: 
+L123: cite27†Kled Counters L124: 
+L125: cite28†Kled ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Kled Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Kled W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Kled E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 53.58% Win Rate 45,666 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+K'Sante Build, Runes & Counters Guide for top K'Sante (https://lolalytics.com/lol/ksante/build/?lane=top)
+citeturn15view3 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/ksante/build/?lane=top","lineno":90}); Total lines: 1389
+L75: cite5†K'Sante top has a 48.42% win rate in Emerald+ on Patch 16.17 coming in at rank 82 of 106 and graded C Tier on the cite1†LoL Tierlist . K'Sante top is a strong counter to cite19†Tahm Kench , cite20†Volibear & cite21†Nasus while K'Sante is countered most by cite22†Kayle , cite23†Singed & cite24†Garen . The best K'Sante players have a 55.39% win rate with an average rank of Grandmaster on the cite25†K'Sante Leaderboard . Below is a detailed breakdown of the K'Sante build, runes & counters.
+L76: 
+L77: 48.42%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.36%
+L82: 
+L83: WR Delta
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 47.06%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 3.67%
+L95: 
+L96: Pick Rate
+L97: 
+L98: C
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 82 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 2.48%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 76,989
+L115: 
+L116: Games
+L117: 
+L118: cite26†K'Sante Build L119: 
+L120: cite25†K'Sante Leaderboard L121: 
+L122: cite27†K'Sante Counters L123: 
+L124: cite28†K'Sante ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: K'Sante Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: K'Sante E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: K'Sante W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 49.75% Win Rate 21,571 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Malphite Build, Runes & Counters Guide for top Malphite (https://lolalytics.com/lol/malphite/build/?lane=top)
+citeturn15view4 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/malphite/build/?lane=top","lineno":90}); Total lines: 1449
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 51.45%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 6.69%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 22 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 15.09%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 147,770
+L115: 
+L116: Games
+L117: 
+L118: cite26†Malphite Build L119: 
+L120: cite25†Malphite Leaderboard L121: 
+L122: cite27†Malphite Counters L123: 
+L124: cite28†Malphite ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite17†Image: Malphite E Skill†cdn5.lolalytics.com L136: 
+L137: E
+L138: 
+L139: Loading...
+L140: 
+L141: cite16†Image: Malphite W Skill†cdn5.lolalytics.com L142: 
+L143: W
+L144: 
+L145: Loading...
+L146: 
+L147: cite15†Image: Malphite Q Skill†cdn5.lolalytics.com L148: 
+L149: Q
+L150: 
+L151: Loading...
+L152: 
+L153: 54.2% Win Rate 5,120 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Mordekaiser Build, Runes & Counters Guide for top Mordekaiser (https://lolalytics.com/lol/mordekaiser/build/?lane=top)
+citeturn15view5 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/mordekaiser/build/?lane=top","lineno":90}); Total lines: 1422
+L80: 2.15%
+L81: 
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 49.48%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 5.21%
+L95: 
+L96: Pick Rate
+L97: 
+L98: B-
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 67 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 8.73%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 110,058
+L115: 
+L116: Games
+L117: 
+L118: cite26†Mordekaiser Build L119: 
+L120: cite25†Mordekaiser Leaderboard L121: 
+L122: cite27†Mordekaiser Counters L123: 
+L124: cite28†Mordekaiser ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Mordekaiser Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: Mordekaiser E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Mordekaiser W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 52.06% Win Rate 96,877 Games
+--------------------------------------------------------------------------------
+Nasus Build, Runes & Counters Guide for top Nasus (https://lolalytics.com/lol/nasus/build/?lane=top)
+citeturn15view6 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/nasus/build/?lane=top","lineno":90}); Total lines: 1440
+L75: cite5†Nasus top has a 52.97% win rate in Emerald+ on Patch 16.17 coming in at rank 29 of 106 and graded A- Tier on the cite1†LoL Tierlist . Nasus top is a strong counter to cite19†Vayne , cite20†Vladimir & cite21†Dr. Mundo while Nasus is countered most by cite22†Tahm Kench , cite23†Ambessa & cite24†Ornn . The best Nasus players have a 55.75% win rate with an average rank of Grandmaster on the cite25†Nasus Leaderboard . Below is a detailed breakdown of the Nasus build, runes & counters.
+L76: 
+L77: 52.97%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.94%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.03%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 8.43%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 29 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 46.15%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 186,128
+L116: 
+L117: Games
+L118: 
+L119: cite26†Nasus Build L120: 
+L121: cite25†Nasus Leaderboard L122: 
+L123: cite27†Nasus Counters L124: 
+L125: cite28†Nasus ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Nasus Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Nasus W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Nasus E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 53.58% Win Rate 147,057 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Ornn Build, Runes & Counters Guide for top Ornn (https://lolalytics.com/lol/ornn/build/?lane=top)
+citeturn15view7 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/ornn/build/?lane=top","lineno":90}); Total lines: 1409
+L75: cite5†Ornn top has a 52.94% win rate in Emerald+ on Patch 16.17 coming in at rank 28 of 106 and graded A- Tier on the cite1†LoL Tierlist . Ornn top is a strong counter to cite19†Sion , cite20†Tahm Kench & cite21†Cho'Gath while Ornn is countered most by cite22†Fiora , cite23†Shen & cite24†Camille . The best Ornn players have a 55.84% win rate with an average rank of Grandmaster on the cite25†Ornn Leaderboard . Below is a detailed breakdown of the Ornn build, runes & counters.
+L76: 
+L77: 52.94%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.38%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.56%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.29%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 28 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 0.46%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 72,497
+L116: 
+L117: Games
+L118: 
+L119: cite26†Ornn Build L120: 
+L121: cite25†Ornn Leaderboard L122: 
+L123: cite27†Ornn Counters L124: 
+L125: cite28†Ornn ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite16†Image: Ornn W Skill†cdn5.lolalytics.com L137: 
+L138: W
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Ornn E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite15†Image: Ornn Q Skill†cdn5.lolalytics.com L149: 
+L150: Q
+L151: 
+L152: Loading...
+L153: 
+L154: 54.74% Win Rate 19,766 Games
+L155: 
+L156: Summoner Spells
+
+Pantheon Build, Runes & Counters Guide for top Pantheon (https://lolalytics.com/lol/pantheon/build/?lane=top)
+citeturn16view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/pantheon/build/?lane=top","lineno":90}); Total lines: 1431
+L75: cite5†Pantheon top has a 52.11% win rate in Emerald+ on Patch 16.17 coming in at rank 18 of 106 and graded A+ Tier on the cite1†LoL Tierlist . Pantheon top is a strong counter to cite19†Vayne , cite20†Trundle & cite21†K'Sante while Pantheon is countered most by cite22†Singed , cite23†Illaoi & cite24†Ornn . The best Pantheon players have a 57.29% win rate with an average rank of Grandmaster on the cite25†Pantheon Leaderboard . Below is a detailed breakdown of the Pantheon build, runes & counters.
+L76: 
+L77: 52.11%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.62%
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.49%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 2.8%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A+
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 18 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 2.47%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 58,410
+L115: 
+L116: Games
+L117: 
+L118: cite5†Pantheon Build L119: 
+L120: cite25†Pantheon Leaderboard L121: 
+L122: cite26†Pantheon Counters L123: 
+L124: cite27†Pantheon ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Pantheon Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite16†Image: Pantheon W Skill†cdn5.lolalytics.com L142: 
+L143: W
+L144: 
+L145: Loading...
+L146: 
+L147: cite17†Image: Pantheon E Skill†cdn5.lolalytics.com L148: 
+L149: E
+L150: 
+L151: Loading...
+L152: 
+L153: 52.53% Win Rate 24,065 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Quinn Build, Runes & Counters Guide for top Quinn (https://lolalytics.com/lol/quinn/build/?lane=top)
+citeturn16view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/quinn/build/?lane=top","lineno":90}); Total lines: 1440
+L75: cite5†Quinn top has a 53.97% win rate in Emerald+ on Patch 16.17 coming in at rank 18 of 106 and graded A+ Tier on the cite1†LoL Tierlist . Quinn top is a strong counter to cite19†Volibear , cite20†Vayne & cite21†Trundle while Quinn is countered most by cite22†Tahm Kench , cite23†Irelia & cite24†Malphite . The best Quinn players have a 56.15% win rate with an average rank of Grandmaster on the cite25†Quinn Leaderboard . Below is a detailed breakdown of the Quinn build, runes & counters.
+L76: 
+L77: 53.97%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.67%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 52.3%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 0.87%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 18 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 0.94%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 19,907
+L116: 
+L117: Games
+L118: 
+L119: cite5†Quinn Build L120: 
+L121: cite25†Quinn Leaderboard L122: 
+L123: cite26†Quinn Counters L124: 
+L125: cite27†Quinn ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Quinn Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Quinn W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Quinn E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 55.46% Win Rate 2,142 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Renekton Build, Runes & Counters Guide for top Renekton (https://lolalytics.com/lol/renekton/build/?lane=top)
+citeturn16view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/renekton/build/?lane=top","lineno":90}); Total lines: 1428
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.04%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 5.63%
+L95: 
+L96: Pick Rate
+L97: 
+L98: B-
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 61 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 3.78%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 42,377
+L115: 
+L116: Games
+L117: 
+L118: cite26†Renekton Build L119: 
+L120: cite25†Renekton Leaderboard L121: 
+L122: cite27†Renekton Counters L123: 
+L124: cite28†Renekton ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite16†Image: Renekton W Skill†cdn5.lolalytics.com L136: 
+L137: W
+L138: 
+L139: Loading...
+L140: 
+L141: cite15†Image: Renekton Q Skill†cdn5.lolalytics.com L142: 
+L143: Q
+L144: 
+L145: Loading...
+L146: 
+L147: cite17†Image: Renekton E Skill†cdn5.lolalytics.com L148: 
+L149: E
+L150: 
+L151: Loading...
+L152: 
+L153: 51.93% Win Rate 2,197 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Riven Build, Runes & Counters Guide for top Riven (https://lolalytics.com/lol/riven/build/?lane=top)
+citeturn16view3 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/riven/build/?lane=top","lineno":90}); Total lines: 1425
+L75: cite5†Riven top has a 50.69% win rate in Emerald+ on Patch 16.17 coming in at rank 56 of 106 and graded B Tier on the cite1†LoL Tierlist . Riven top is a strong counter to cite19†Gwen , cite20†K'Sante & cite21†Tahm Kench while Riven is countered most by cite22†Urgot , cite23†Cho'Gath & cite24†Poppy . The best Riven players have a 55.05% win rate with an average rank of Grandmaster on the cite25†Riven Leaderboard . Below is a detailed breakdown of the Riven build, runes & counters.
+L76: 
+L77: 50.69%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.56%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.13%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.29%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 56 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 1.78%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 33,200
+L116: 
+L117: Games
+L118: 
+L119: cite26†Riven Build L120: 
+L121: cite25†Riven Leaderboard L122: 
+L123: cite27†Riven Counters L124: 
+L125: cite28†Riven ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Riven Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Riven W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Riven E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 53.96% Win Rate 3,721 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Rumble Build, Runes & Counters Guide for top Rumble (https://lolalytics.com/lol/rumble/build/?lane=top)
+citeturn16view4 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/rumble/build/?lane=top","lineno":90}); Total lines: 1388
+L75: cite5†Rumble top has a 50.49% win rate in Emerald+ on Patch 16.17 coming in at rank 71 of 105 and graded C+ Tier on the cite1†LoL Tierlist . Rumble top is a strong counter to cite19†Urgot , cite20†Olaf & cite21†Volibear while Rumble is countered most by cite22†Kayle , cite23†Galio & cite24†Riven . The best Rumble players have a 54.48% win rate with an average rank of Grandmaster on the cite25†Rumble Leaderboard . Below is a detailed breakdown of the Rumble build, runes & counters.
+L76: 
+L77: 50.49%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.46%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.03%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 1.66%
+L96: 
+L97: Pick Rate
+L98: 
+L99: C+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 71 / 105
+L108: 
+L109: Rank
+L110: 
+L111: 0.73%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 7,981
+L116: 
+L117: Games
+L118: 
+L119: cite26†Rumble Build L120: 
+L121: cite25†Rumble Leaderboard L122: 
+L123: cite27†Rumble Counters L124: 
+L125: cite28†Rumble ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Rumble Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Rumble W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Rumble E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 51.75% Win Rate 257 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Sett Build, Runes & Counters Guide for top Sett (https://lolalytics.com/lol/sett/build/?lane=top)
+citeturn16view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/sett/build/?lane=top","lineno":90}); Total lines: 1413
+L75: cite5†Sett top has a 52.51% win rate in Emerald+ on Patch 16.17 coming in at rank 40 of 106 and graded B+ Tier on the cite1†LoL Tierlist . Sett top is a strong counter to cite19†Rumble , cite20†Cho'Gath & cite21†K'Sante while Sett is countered most by cite22†Singed , cite23†Ornn & cite24†Malphite . The best Sett players have a 55.98% win rate with an average rank of Master on the cite25†Sett Leaderboard . Below is a detailed breakdown of the Sett build, runes & counters.
+L76: 
+L77: 52.51%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.11%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.4%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 5.63%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 40 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 2.41%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 139,094
+L116: 
+L117: Games
+L118: 
+L119: cite26†Sett Build L120: 
+L121: cite25†Sett Leaderboard L122: 
+L123: cite27†Sett Counters L124: 
+L125: cite28†Sett ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Sett Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Sett W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Sett E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 52.92% Win Rate 124,439 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Shen Build, Runes & Counters Guide for top Shen (https://lolalytics.com/lol/shen/build/?lane=top)
+citeturn16view6 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/shen/build/?lane=top","lineno":90}); Total lines: 1417
+L75: cite5†Shen top has a 52.62% win rate in Emerald+ on Patch 16.17 coming in at rank 12 of 106 and graded A+ Tier on the cite1†LoL Tierlist . Shen top is a strong counter to cite19†Volibear , cite20†Sion & cite21†K'Sante while Shen is countered most by cite22†Singed , cite23†Riven & cite24†Gangplank . The best Shen players have a 57.03% win rate with an average rank of Grandmaster on the cite25†Shen Leaderboard . Below is a detailed breakdown of the Shen build, runes & counters.
+L76: 
+L77: 52.62%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.59%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.03%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.57%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 12 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 0.76%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 78,757
+L116: 
+L117: Games
+L118: 
+L119: cite26†Shen Build L120: 
+L121: cite25†Shen Leaderboard L122: 
+L123: cite27†Shen Counters L124: 
+L125: cite28†Shen ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Shen Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Shen E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Shen W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52.73% Win Rate 76,402 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Singed Build, Runes & Counters Guide for top Singed (https://lolalytics.com/lol/singed/build/?lane=top)
+citeturn16view7 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/singed/build/?lane=top","lineno":90}); Total lines: 1432
+L75: cite5†Singed top has a 53.65% win rate in Emerald+ on Patch 16.17 coming in at rank 2 of 106 and graded S+ Tier on the cite1†LoL Tierlist . Singed top is a strong counter to cite19†Pantheon , cite20†Jax & cite21†Mordekaiser while Singed is countered most by cite22†Teemo , cite23†Gangplank & cite24†Jayce . The best Singed players have a 57.71% win rate with an average rank of Grandmaster on the cite25†Singed Leaderboard . Below is a detailed breakdown of the Singed build, runes & counters.
+L76: 
+L77: 53.65%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.34%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 52.31%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.58%
+L96: 
+L97: Pick Rate
+L98: 
+L99: S+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 2 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 0.85%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 30,115
+L116: 
+L117: Games
+L118: 
+L119: cite26†Singed Build L120: 
+L121: cite25†Singed Leaderboard L122: 
+L123: cite27†Singed Counters L124: 
+L125: cite28†Singed ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Singed Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Singed W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Singed E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 54.55% Win Rate 660 Games
+L155: 
+L156: Summoner Spells
+
+Sion Build, Runes & Counters Guide for top Sion (https://lolalytics.com/lol/sion/build/?lane=top)
+citeturn19view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/sion/build/?lane=top","lineno":90}); Total lines: 1463
+L75: cite5†Sion top has a 50.67% win rate in Emerald+ on Patch 16.16 coming in at rank 49 of 107 and graded B Tier on the cite1†LoL Tierlist . Sion top is a strong counter to cite19†Jayce , cite20†Yorick & cite21†Urgot while Sion is countered most by cite22†Zaahen , cite23†Kled & cite24†Singed . The best Sion players have a 58.38% win rate with an average rank of Grandmaster on the cite25†Sion Leaderboard . Below is a detailed breakdown of the Sion build, runes & counters.
+L76: 
+L77: 50.67%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.67%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.99%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 49 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 0.61%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 69,432
+L116: 
+L117: Games
+L118: 
+L119: cite26†Sion Build L120: 
+L121: cite25†Sion Leaderboard L122: 
+L123: cite27†Sion Counters L124: 
+L125: cite28†Sion ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Sion Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Sion W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Sion E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 50.89% Win Rate 59,297 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Tahm Kench Build, Runes & Counters Guide for top Tahm Kench (https://lolalytics.com/lol/tahmkench/build/?lane=top)
+citeturn19view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/tahmkench/build/?lane=top","lineno":90}); Total lines: 1400
+L80: 2.26%
+L81: 
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 49.47%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 1.7%
+L95: 
+L96: Pick Rate
+L97: 
+L98: C+
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 71 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 2.13%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 42,346
+L115: 
+L116: Games
+L117: 
+L118: cite5†Tahm Kench Build L119: 
+L120: cite25†Tahm Kench Leaderboard L121: 
+L122: cite26†Tahm Kench Counters L123: 
+L124: cite27†Tahm Kench ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Tahm Kench Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite16†Image: Tahm Kench W Skill†cdn5.lolalytics.com L142: 
+L143: W
+L144: 
+L145: Loading...
+L146: 
+L147: cite17†Image: Tahm Kench E Skill†cdn5.lolalytics.com L148: 
+L149: E
+L150: 
+L151: Loading...
+L152: 
+L153: 51.97% Win Rate 29,298 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Teemo Build, Runes & Counters Guide for top Teemo (https://lolalytics.com/lol/teemo/build/?lane=top)
+citeturn19view2 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/teemo/build/?lane=top","lineno":90}); Total lines: 1432
+L75: cite5†Teemo top has a 53.49% win rate in Emerald+ on Patch 16.17 coming in at rank 35 of 106 and graded A- Tier on the cite1†LoL Tierlist . Teemo top is a strong counter to cite19†Vayne , cite20†Illaoi & cite21†Volibear while Teemo is countered most by cite22†Olaf , cite23†Sion & cite24†Yasuo . The best Teemo players have a 55.76% win rate with an average rank of Master on the cite25†Teemo Leaderboard . Below is a detailed breakdown of the Teemo build, runes & counters.
+L76: 
+L77: 53.49%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.39%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.1%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 4.14%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 35 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 6.84%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 91,255
+L116: 
+L117: Games
+L118: 
+L119: cite26†Teemo Build L120: 
+L121: cite25†Teemo Leaderboard L122: 
+L123: cite27†Teemo Counters L124: 
+L125: cite28†Teemo ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite17†Image: Teemo E Skill†cdn5.lolalytics.com L137: 
+L138: E
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Teemo W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite15†Image: Teemo Q Skill†cdn5.lolalytics.com L149: 
+L150: Q
+L151: 
+L152: Loading...
+L153: 
+L154: 54.75% Win Rate 17,212 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Trundle Build, Runes & Counters Guide for top Trundle (https://lolalytics.com/lol/trundle/build/?lane=top)
+citeturn19view3 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/trundle/build/?lane=top","lineno":90}); Total lines: 1450
+L75: cite5†Trundle top has a 50.73% win rate in Emerald+ on Patch 16.17 coming in at rank 69 of 106 and graded B- Tier on the cite1†LoL Tierlist . Trundle top is a strong counter to cite19†Jayce , cite20†Irelia & cite21†Rumble while Trundle is countered most by cite22†Aatrox , cite23†Kayle & cite24†Teemo . The best Trundle players have a 57.35% win rate with an average rank of Master on the cite25†Trundle Leaderboard . Below is a detailed breakdown of the Trundle build, runes & counters.
+L76: 
+L77: 50.73%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.33%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 48.4%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 1.82%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 69 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 0.45%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 36,134
+L116: 
+L117: Games
+L118: 
+L119: cite26†Trundle Build L120: 
+L121: cite25†Trundle Leaderboard L122: 
+L123: cite27†Trundle Counters L124: 
+L125: cite28†Trundle ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite16†Image: Trundle W Skill†cdn5.lolalytics.com L137: 
+L138: W
+L139: 
+L140: Loading...
+L141: 
+L142: cite15†Image: Trundle Q Skill†cdn5.lolalytics.com L143: 
+L144: Q
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Trundle E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 51.02% Win Rate 1,029 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Tryndamere Build, Runes & Counters Guide for top Tryndamere (https://lolalytics.com/lol/tryndamere/build/?lane=top)
+citeturn19view4 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/tryndamere/build/?lane=top","lineno":90}); Total lines: 1452
+L80: 2.06%
+L81: 
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.3%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 3.2%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 23 / 107
+L107: 
+L108: Rank
+L109: 
+L110: 2.61%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 89,539
+L115: 
+L116: Games
+L117: 
+L118: cite26†Tryndamere Build L119: 
+L120: cite25†Tryndamere Leaderboard L121: 
+L122: cite27†Tryndamere Counters L123: 
+L124: cite28†Tryndamere ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite15†Image: Tryndamere Q Skill†cdn5.lolalytics.com L136: 
+L137: Q
+L138: 
+L139: Loading...
+L140: 
+L141: cite17†Image: Tryndamere E Skill†cdn5.lolalytics.com L142: 
+L143: E
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Tryndamere W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 52.81% Win Rate 78,348 Games
+L154: 
+L155: Summoner Spells
+--------------------------------------------------------------------------------
+Urgot Build, Runes & Counters Guide for top Urgot (https://lolalytics.com/lol/urgot/build/?lane=top)
+citeturn19view5 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/urgot/build/?lane=top","lineno":90}); Total lines: 1444
+L75: cite5†Urgot top has a 53.03% win rate in Emerald+ on Patch 16.17 coming in at rank 25 of 107 and graded A Tier on the cite1†LoL Tierlist . Urgot top is a strong counter to cite19†Riven , cite20†Akali & cite21†Volibear while Urgot is countered most by cite22†Rumble , cite23†Poppy & cite24†Illaoi . The best Urgot players have a 56.19% win rate with an average rank of Grandmaster on the cite25†Urgot Leaderboard . Below is a detailed breakdown of the Urgot build, runes & counters.
+L76: 
+L77: 53.03%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.9%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.13%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.44%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 25 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 0.79%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 20,231
+L116: 
+L117: Games
+L118: 
+L119: cite26†Urgot Build L120: 
+L121: cite25†Urgot Leaderboard L122: 
+L123: cite27†Urgot Counters L124: 
+L125: cite28†Urgot ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Urgot Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Urgot W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Urgot E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 55.13% Win Rate 517 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Vayne Build, Runes & Counters Guide for top Vayne (https://lolalytics.com/lol/vayne/build/?lane=top)
+citeturn19view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/vayne/build/?lane=top","lineno":90}); Total lines: 1438
+L75: cite5†Vayne top has a 48.89% win rate in Emerald+ on Patch 16.17 coming in at rank 102 of 106 and graded D Tier on the cite1†LoL Tierlist . Vayne top is a strong counter to cite19†Trundle , cite20†Volibear & cite21†Illaoi while Vayne is countered most by cite22†Malphite , cite23†Teemo & cite24†Vladimir . The best Vayne players have a 53.57% win rate with an average rank of Grandmaster on the cite25†Vayne Leaderboard . Below is a detailed breakdown of the Vayne build, runes & counters.
+L76: 
+L77: 48.89%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.79%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 47.1%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.05%
+L96: 
+L97: Pick Rate
+L98: 
+L99: D
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 102 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 7.34%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 50,589
+L116: 
+L117: Games
+L118: 
+L119: cite5†Vayne Build L120: 
+L121: cite25†Vayne Leaderboard L122: 
+L123: cite26†Vayne Counters L124: 
+L125: cite27†Vayne ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Vayne Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite16†Image: Vayne W Skill†cdn5.lolalytics.com L143: 
+L144: W
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Vayne E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 49.47% Win Rate 42,842 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Volibear Build, Runes & Counters Guide for top Volibear (https://lolalytics.com/lol/volibear/build/?lane=top)
+citeturn19view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/volibear/build/?lane=top","lineno":90}); Total lines: 1481
+L75: cite5†Volibear top has a 50.49% win rate in Emerald+ on Patch 16.17 coming in at rank 79 of 106 and graded C+ Tier on the cite1†LoL Tierlist . Volibear top is a strong counter to cite19†Tahm Kench , cite20†Irelia & cite21†Yasuo while Volibear is countered most by cite22†Teemo , cite23†Jax & cite24†Kennen . The best Volibear players have a 55.62% win rate with an average rank of Master on the cite25†Volibear Leaderboard . Below is a detailed breakdown of the Volibear build, runes & counters.
+L76: 
+L77: 50.49%
+L78: 
+L79: Win Rate
+L80: 
+L81: 2.07%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 48.42%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.16%
+L96: 
+L97: Pick Rate
+L98: 
+L99: C+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 79 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 1.23%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 79,092
+L116: 
+L117: Games
+L118: 
+L119: cite26†Volibear Build L120: 
+L121: cite25†Volibear Leaderboard L122: 
+L123: cite27†Volibear Counters L124: 
+L125: cite28†Volibear ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite16†Image: Volibear W Skill†cdn5.lolalytics.com L137: 
+L138: W
+L139: 
+L140: Loading...
+L141: 
+L142: cite15†Image: Volibear Q Skill†cdn5.lolalytics.com L143: 
+L144: Q
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Volibear E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 51.37% Win Rate 56,911 Games
+L155: 
+L156: Summoner Spells
+
+Warwick Build, Runes & Counters Guide for top Warwick (https://lolalytics.com/lol/warwick/build/?lane=top)
+citeturn18view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/warwick/build/?lane=top","lineno":90}); Total lines: 1467
+L75: cite5†Warwick top has a 53.5% win rate in Emerald+ on Patch 16.17 coming in at rank 35 of 106 and graded A- Tier on the cite1†LoL Tierlist . Warwick top is a strong counter to cite19†Yorick , cite20†Rumble & cite21†Fiora while Warwick is countered most by cite22†Urgot , cite23†Kennen & cite24†Kayle . The best Warwick players have a 57.23% win rate with an average rank of Master on the cite25†Warwick Leaderboard . Below is a detailed breakdown of the Warwick build, runes & counters.
+L76: 
+L77: 53.5%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.99%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.51%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 1.35%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 35 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 1.83%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 32,946
+L116: 
+L117: Games
+L118: 
+L119: cite5†Warwick Build L120: 
+L121: cite25†Warwick Leaderboard L122: 
+L123: cite26†Warwick Counters L124: 
+L125: cite27†Warwick ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite16†Image: Warwick W Skill†cdn5.lolalytics.com L137: 
+L138: W
+L139: 
+L140: Loading...
+L141: 
+L142: cite15†Image: Warwick Q Skill†cdn5.lolalytics.com L143: 
+L144: Q
+L145: 
+L146: Loading...
+L147: 
+L148: cite17†Image: Warwick E Skill†cdn5.lolalytics.com L149: 
+L150: E
+L151: 
+L152: Loading...
+L153: 
+L154: 54.68% Win Rate 6,774 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Wukong Build, Runes & Counters Guide for top Wukong (https://lolalytics.com/lol/wukong/build/?lane=top)
+citeturn18view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/wukong/build/?lane=top","lineno":90}); Total lines: 1490
+L75: cite5†Wukong top has a 52.47% win rate in Emerald+ on Patch 16.17 coming in at rank 35 of 106 and graded A- Tier on the cite1†LoL Tierlist . Wukong top is a strong counter to cite19†Vayne , cite20†Trundle & cite21†Heimerdinger while Wukong is countered most by cite22†Kennen , cite23†Malphite & cite24†Vladimir . The best Wukong players have a 57.75% win rate with an average rank of Grandmaster on the cite25†Wukong Leaderboard . Below is a detailed breakdown of the Wukong build, runes & counters.
+L76: 
+L77: 52.47%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.93%
+L82: WR Delta
+L83: 
+L84: ?
+L85: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L86: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L87: 50.54%
+L88: 
+L89: Game Avg WR
+L90: 
+L91: ?
+L92: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L93: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L94: 0.98%
+L95: 
+L96: Pick Rate
+L97: 
+L98: A-
+L99: 
+L100: Tier
+L101: 
+L102: ?
+L103: 
+L104: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L105: 
+L106: 35 / 106
+L107: 
+L108: Rank
+L109: 
+L110: 3.17%
+L111: 
+L112: Ban Rate
+L113: 
+L114: 24,505
+L115: 
+L116: Games
+L117: 
+L118: cite5†Wukong Build L119: 
+L120: cite25†Wukong Leaderboard L121: 
+L122: cite26†Wukong Counters L123: 
+L124: cite27†Wukong ProBuilds†pros.lol L125: 
+L126: Highest Win Build
+L127: 
+L128: Most Common Build
+L129: 
+L130: Skill Priority
+L131: 
+L132: ?
+L133: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L134: 
+L135: cite17†Image: Wukong E Skill†cdn5.lolalytics.com L136: 
+L137: E
+L138: 
+L139: Loading...
+L140: 
+L141: cite15†Image: Wukong Q Skill†cdn5.lolalytics.com L142: 
+L143: Q
+L144: 
+L145: Loading...
+L146: 
+L147: cite16†Image: Wukong W Skill†cdn5.lolalytics.com L148: 
+L149: W
+L150: 
+L151: Loading...
+L152: 
+L153: 53.1% Win Rate 872 Games
+L154: 
+L155: Summoner Spells
+L156: cite28†Image: Flash†cdn5.lolalytics.com L157: 
+L158: Loading...
+L159: 
+L160: cite29†Image: Ignite†cdn5.lolalytics.com L161: 
+L162: Loading...
+L163: 
+L164: 52.74% Win Rate 21,295 Games
+L165: 
+L166: Skill Order
+L167: 
+L168: ?
+L169: 
+--------------------------------------------------------------------------------
+Yasuo Build, Runes & Counters Guide for top Yasuo (https://lolalytics.com/lol/yasuo/build/?lane=top)
+citeturn18view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/yasuo/build/?lane=top","lineno":90}); Total lines: 1425
+L75: cite5†Yasuo top has a 51.15% win rate in Emerald+ on Patch 16.17 coming in at rank 10 of 106 and graded S- Tier on the cite1†LoL Tierlist . Yasuo top is a strong counter to cite19†Varus , cite20†Heimerdinger & cite21†Vayne while Yasuo is countered most by cite22†Kled , cite23†Singed & cite24†Riven . The best Yasuo players have a 58.14% win rate with an average rank of Challenger on the cite25†Yasuo Leaderboard . Below is a detailed breakdown of the Yasuo build, runes & counters.
+L76: 
+L77: 51.15%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.78%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.37%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.49%
+L96: 
+L97: Pick Rate
+L98: 
+L99: S-
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 10 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 20.05%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 86,743
+L116: 
+L117: Games
+L118: 
+L119: cite5†Yasuo Build L120: 
+L121: cite25†Yasuo Leaderboard L122: 
+L123: cite26†Yasuo Counters L124: 
+L125: cite27†Yasuo ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Yasuo Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Yasuo E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Yasuo W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 51.37% Win Rate 83,848 Games
+L155: 
+L156: Summoner Spells
+L157: cite28†Image: Exhaust†cdn5.lolalytics.com L158: 
+L159: Loading...
+L160: 
+L161: cite29†Image: Flash†cdn5.lolalytics.com L162: 
+L163: Loading...
+L164: 
+L165: 51.35% Win Rate 42,916 Games
+L166: 
+L167: Skill Order
+L168: 
+L169: ?
+L170: 
+L171: Skill Order is measured at level 15. It has a smaller sample size than Skill Priority and quotes higher win rates as it is measured much later in games with a higher proportion of the winning side having higher levels. Due to being different measurement than Skill Priority it may not match in cases where multiple Skill Orders are viable.
+--------------------------------------------------------------------------------
+Yone Build, Runes & Counters Guide for top Yone (https://lolalytics.com/lol/yone/build/?lane=top)
+citeturn18view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/yone/build/?lane=top","lineno":90}); Total lines: 1407
+L75: cite5†Yone top has a 51.94% win rate in Emerald+ on Patch 16.17 coming in at rank 3 of 106 and graded S+ Tier on the cite1†LoL Tierlist . Yone top is a strong counter to cite19†Yorick , cite20†Sion & cite21†Dr. Mundo while Yone is countered most by cite22†Camille , cite23†Singed & cite24†Riven . The best Yone players have a 57.16% win rate with an average rank of Grandmaster on the cite25†Yone Leaderboard . Below is a detailed breakdown of the Yone build, runes & counters.
+L76: 
+L77: 51.94%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.84%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.1%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 8.17%
+L96: 
+L97: Pick Rate
+L98: 
+L99: S+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 3 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 9.64%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 204,007
+L116: 
+L117: Games
+L118: 
+L119: cite26†Yone Build L120: 
+L121: cite25†Yone Leaderboard L122: 
+L123: cite27†Yone Counters L124: 
+L125: cite28†Yone ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Yone Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Yone E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Yone W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52.35% Win Rate 189,608 Games
+L155: 
+L156: Summoner Spells
+L157: cite29†Image: Flash†cdn5.lolalytics.com L158: 
+L159: Loading...
+L160: 
+L161: cite30†Image: Barrier†cdn5.lolalytics.com L162: 
+L163: Loading...
+L164: 
+L165: 54.12% Win Rate 4,372 Games
+L166: 
+L167: Skill Order
+L168: 
+L169: ?
+L170: 
+L171: Skill Order is measured at level 15. It has a smaller sample size than Skill Priority and quotes higher win rates as it is measured much later in games with a higher proportion of the winning side having higher levels. Due to being different measurement than Skill Priority it may not match in cases where multiple Skill Orders are viable.
+--------------------------------------------------------------------------------
+Yorick Build, Runes & Counters Guide for top Yorick (https://lolalytics.com/lol/yorick/build/?lane=top)
+citeturn18view4 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/yorick/build/?lane=top","lineno":90}); Total lines: 1482
+L75: cite5†Yorick top has a 50.27% win rate in Emerald+ on Patch 16.17 coming in at rank 82 of 105 and graded C Tier on the cite1†LoL Tierlist . Yorick top is a strong counter to cite19†Illaoi , cite20†Kayle & cite21†Kennen while Yorick is countered most by cite22†Warwick , cite23†Volibear & cite24†Singed . The best Yorick players have a 55.24% win rate with an average rank of Master on the cite25†Yorick Leaderboard . Below is a detailed breakdown of the Yorick build, runes & counters.
+L76: 
+L77: 50.27%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.17%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 49.1%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 3.13%
+L96: 
+L97: Pick Rate
+L98: 
+L99: C
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 82 / 105
+L108: 
+L109: Rank
+L110: 
+L111: 5.9%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 5,566
+L116: 
+L117: Games
+L118: 
+L119: cite26†Yorick Build L120: 
+L121: cite25†Yorick Leaderboard L122: 
+L123: cite27†Yorick Counters L124: 
+L125: cite28†Yorick ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite17†Image: Yorick E Skill†cdn5.lolalytics.com L137: 
+L138: E
+L139: 
+L140: Loading...
+L141: 
+L142: cite15†Image: Yorick Q Skill†cdn5.lolalytics.com L143: 
+L144: Q
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Yorick W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 57.24% Win Rate 290 Games
+L155: 
+L156: Summoner Spells
+L157: cite29†Image: Flash†cdn5.lolalytics.com L158: 
+L159: Loading...
+L160: 
+L161: cite30†Image: Ignite†cdn5.lolalytics.com L162: 
+L163: Loading...
+L164: 
+L165: 53.08% Win Rate 1,707 Games
+L166: 
+L167: Skill Order
+L168: 
+L169: ?
+L170: 
+L171: Skill Order is measured at level 15. It has a smaller sample size than Skill Priority and quotes higher win rates as it is measured much later in games with a higher proportion of the winning side having higher levels. Due to being different measurement than Skill Priority it may not match in cases where multiple Skill Orders are viable.
+--------------------------------------------------------------------------------
+Zaahen Build, Runes & Counters Guide for top Zaahen (https://lolalytics.com/lol/zaahen/build/?lane=top)
+citeturn18view5 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/zaahen/build/?lane=top","lineno":90}); Total lines: 1413
+L75: cite5†Zaahen top has a 51.76% win rate in Emerald+ on Patch 16.16 coming in at rank 45 of 107 and graded B+ Tier on the cite1†LoL Tierlist . Zaahen top is a strong counter to cite19†Riven , cite20†Sion & cite21†Yasuo while Zaahen is countered most by cite22†Teemo , cite23†Singed & cite24†Illaoi . The best Zaahen players have a 55.7% win rate with an average rank of Grandmaster on the cite25†Zaahen Leaderboard . Below is a detailed breakdown of the Zaahen build, runes & counters.
+L76: 
+L77: 51.76%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.67%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 50.09%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.88%
+L96: 
+L97: Pick Rate
+L98: 
+L99: B+
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 45 / 107
+L108: 
+L109: Rank
+L110: 
+L111: 1.32%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 67,069
+L116: 
+L117: Games
+L118: 
+L119: cite26†Zaahen Build L120: 
+L121: cite25†Zaahen Leaderboard L122: 
+L123: cite27†Zaahen Counters L124: 
+L125: cite28†Zaahen ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Zaahen Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Zaahen E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Zaahen W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 52.02% Win Rate 65,050 Games
+L155: 
+L156: Summoner Spells
+--------------------------------------------------------------------------------
+Kayle Build, Runes & Counters Guide for top Kayle (https://lolalytics.com/lol/kayle/build/?lane=top)
+citeturn18view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lolalytics.com/lol/kayle/build/?lane=top","lineno":90}); Total lines: 1432
+L75: cite5†Kayle top has a 53% win rate in Emerald+ on Patch 16.17 coming in at rank 24 of 106 and graded A Tier on the cite1†LoL Tierlist . Kayle top is a strong counter to cite19†K'Sante , cite20†Rumble & cite21†Volibear while Kayle is countered most by cite22†Kennen , cite23†Malphite & cite24†Vladimir . The best Kayle players have a 57.09% win rate with an average rank of Grandmaster on the cite25†Kayle Leaderboard . Below is a detailed breakdown of the Kayle build, runes & counters.
+L76: 
+L77: 53%
+L78: 
+L79: Win Rate
+L80: 
+L81: 1.75%
+L82: 
+L83: WR Delta
+L84: 
+L85: ?
+L86: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L87: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L88: 51.25%
+L89: 
+L90: Game Avg WR
+L91: 
+L92: ?
+L93: Champion win rate and win rate delta. The win rate delta is the difference between the win rate using individual player tiers (LoLalytics chosen method) vs the win rate derived from using a game averaged tier (simpler method used by some other websites). LoLalytics data is based upon individual player tiers which includes all games by all players of a given bracket and doesn't include games from players outside the chosen bracket.
+L94: LoLalytics chosen method provides the most accurate picture of how people of a given tier bracket are performing.
+L95: 2.19%
+L96: 
+L97: Pick Rate
+L98: 
+L99: A
+L100: 
+L101: Tier
+L102: 
+L103: ?
+L104: 
+L105: This tier ranking takes into account the win rate of ranked players of the analysed elo, the champions pick/ban influence ratio, the win rate and average rank of the best players on the champion.
+L106: 
+L107: 24 / 106
+L108: 
+L109: Rank
+L110: 
+L111: 1.33%
+L112: 
+L113: Ban Rate
+L114: 
+L115: 54,365
+L116: 
+L117: Games
+L118: 
+L119: cite26†Kayle Build L120: 
+L121: cite25†Kayle Leaderboard L122: 
+L123: cite27†Kayle Counters L124: 
+L125: cite28†Kayle ProBuilds†pros.lol L126: 
+L127: Highest Win Build
+L128: 
+L129: Most Common Build
+L130: 
+L131: Skill Priority
+L132: 
+L133: ?
+L134: Skill Priority is measured at level 10. It has a larger sample size than Skill Order but quotes lower win rates as it is measured much earlier. Due to being different measurement than Skill Order it may not match in cases where multiple Skill Orders are viable.
+L135: 
+L136: cite15†Image: Kayle Q Skill†cdn5.lolalytics.com L137: 
+L138: Q
+L139: 
+L140: Loading...
+L141: 
+L142: cite17†Image: Kayle E Skill†cdn5.lolalytics.com L143: 
+L144: E
+L145: 
+L146: Loading...
+L147: 
+L148: cite16†Image: Kayle W Skill†cdn5.lolalytics.com L149: 
+L150: W
+L151: 
+L152: Loading...
+L153: 
+L154: 54.77% Win Rate 18,982 Games
+L155: 
+L156: Summoner Spells
+L157: cite29†Image: Flash†cdn5.lolalytics.com L158: 
+L159: Loading...
+L160: 
+L161: cite30†Image: Ghost†cdn5.lolalytics.com L162: 
+L163: Loading...
+L164: 
+L165: 54.21% Win Rate 9,123 Games
+L166: 
+L167: Skill Order
+L168: 
+L169: ?
+L170: 
+L171: Skill Order is measured at level 15. It has a smaller sample size than Skill Priority and quotes higher win rates as it is measured much later in games with a higher proportion of the winning side having higher levels. Due to being different measurement than Skill Priority it may not match in cases where multiple Skill Orders are viable.
+

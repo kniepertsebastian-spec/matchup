@@ -1,0 +1,53 @@
+{
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "name": "Aphelios",
+  "slug": "aphelios",
+  "tier": "C",
+  "rune": "PTA",
+  "reason": "Fehlender freier Dash eröffnet Zugriff; Waffen und gegnerischer Peel entscheiden, ob Olaf diesen nutzen kann.",
+  "l1": "Seine Waffenreichweite respektieren. Q zum Sichern von CS, nur mit Supportkontakt laufen.",
+  "l25": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen.",
+  "l6": "R kann Gravitum-Kontrolle überbrücken, aber nicht Severum-Heilung, Chakram-Schaden oder seinen R-Burst.",
+  "threats": "Calibrum-Reichweite, Gravitum und weiß/rote Waffen. Nicht allein nach Championname ein All-in erzwingen.",
+  "window": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen.",
+  "errors": "Calibrum-Reichweite, Gravitum und weiß/rote Waffen. Nicht allein nach Championname ein All-in erzwingen.",
+  "trade": "Q nach seinem Auto auf einen Minion, Support-CC abwarten, AA–E–AA und W für weiteren Kontakt; bei Chakram-Vorteil abbrechen.",
+  "side": "1 Item: Hydra hilft, Poke auszugleichen. 2: Waffenabhängige Duelle. 3: geschützter Aphelios skaliert im Teamfight stark; Zugriff statt DPS-Wettrennen.",
+  "support": "Engage während schlechter Waffenfenster wertvoll; Enchanter plus Frontline macht seine fehlende Mobilität deutlich weniger ausnutzbar.",
+  "role": "adc",
+  "lane": "C",
+  "late": "C",
+  "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Fehlender freier Dash eröffnet Zugriff; Waffen und gegnerischer Peel entscheiden, ob Olaf diesen nutzen kann. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+  "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+  "sums": "Flash + Ghost",
+  "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+  "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+  "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+  "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+  "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+  "plan": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen. R kann Gravitum-Kontrolle überbrücken, aber nicht Severum-Heilung, Chakram-Schaden oder seinen R-Burst. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+  "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+  "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+  "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/aphelios/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/adc"
+    ]
+  ]
+}

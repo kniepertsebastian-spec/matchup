@@ -1,0 +1,355 @@
+[
+  {
+    "slug": "aatrox",
+    "pick": "5.94",
+    "games": "130,801",
+    "patch": "16.17",
+    "ref": "turn17view0"
+  },
+  {
+    "slug": "akali",
+    "pick": "2.59",
+    "games": "64,565",
+    "patch": "16.17",
+    "ref": "turn17view1"
+  },
+  {
+    "slug": "ambessa",
+    "pick": "3.97",
+    "games": "37,595",
+    "patch": "16.17",
+    "ref": "turn17view2"
+  },
+  {
+    "slug": "camille",
+    "pick": "4.31",
+    "games": "106,422",
+    "patch": "16.17",
+    "ref": "turn17view3"
+  },
+  {
+    "slug": "chogath",
+    "pick": "2.91",
+    "games": "40,092",
+    "patch": "16.17",
+    "ref": "turn17view4"
+  },
+  {
+    "slug": "darius",
+    "pick": "7.18",
+    "games": "83,672",
+    "patch": "16.17",
+    "ref": "turn17view5"
+  },
+  {
+    "slug": "drmundo",
+    "pick": "3.65",
+    "games": "3,475",
+    "ref": "turn17view6",
+    "patch": "16.17"
+  },
+  {
+    "slug": "fiora",
+    "pick": "3.55",
+    "games": "49,802",
+    "patch": "16.17",
+    "ref": "turn17view7"
+  },
+  {
+    "slug": "gangplank",
+    "pick": "5.52",
+    "games": "121,490",
+    "ref": "turn14view0",
+    "patch": "16.17"
+  },
+  {
+    "slug": "garen",
+    "pick": "7.11",
+    "games": "156,916",
+    "patch": "16.17",
+    "ref": "turn14view1"
+  },
+  {
+    "slug": "gnar",
+    "pick": "3.58",
+    "games": "87,408",
+    "patch": "16.17",
+    "ref": "turn14view2"
+  },
+  {
+    "slug": "gragas",
+    "pick": "2.19",
+    "games": "34,607",
+    "patch": "16.17",
+    "ref": "turn14view3"
+  },
+  {
+    "slug": "gwen",
+    "pick": "2.77",
+    "games": "68,362",
+    "patch": "16.17",
+    "ref": "turn14view4"
+  },
+  {
+    "slug": "illaoi",
+    "pick": "2.75",
+    "games": "50,820",
+    "patch": "16.17",
+    "ref": "turn14view5"
+  },
+  {
+    "slug": "irelia",
+    "pick": "4.52",
+    "games": "99,487",
+    "patch": "16.17",
+    "ref": "turn14view6"
+  },
+  {
+    "slug": "jax",
+    "pick": "5.96",
+    "games": "131,196",
+    "patch": "16.17",
+    "ref": "turn14view7"
+  },
+  {
+    "slug": "jayce",
+    "pick": "5.52",
+    "games": "134,300",
+    "patch": "16.17",
+    "ref": "turn15view0"
+  },
+  {
+    "slug": "kennen",
+    "pick": "2",
+    "games": "11,536",
+    "patch": "16.17",
+    "ref": "turn15view1"
+  },
+  {
+    "slug": "kled",
+    "pick": "1.77",
+    "games": "47,867",
+    "patch": "16.16",
+    "ref": "turn15view2"
+  },
+  {
+    "slug": "ksante",
+    "pick": "3.67",
+    "games": "76,989",
+    "patch": "16.17",
+    "ref": "turn15view3"
+  },
+  {
+    "slug": "malphite",
+    "pick": "6.69",
+    "games": "147,770",
+    "ref": "turn15view4",
+    "patch": "16.17"
+  },
+  {
+    "slug": "mordekaiser",
+    "pick": "5.21",
+    "games": "110,058",
+    "ref": "turn15view5",
+    "patch": "16.17"
+  },
+  {
+    "slug": "nasus",
+    "pick": "8.43",
+    "games": "186,128",
+    "patch": "16.17",
+    "ref": "turn15view6"
+  },
+  {
+    "slug": "ornn",
+    "pick": "3.29",
+    "games": "72,497",
+    "patch": "16.17",
+    "ref": "turn15view7"
+  },
+  {
+    "slug": "pantheon",
+    "pick": "2.8",
+    "games": "58,410",
+    "patch": "16.17",
+    "ref": "turn16view0"
+  },
+  {
+    "slug": "quinn",
+    "pick": "0.87",
+    "games": "19,907",
+    "patch": "16.17",
+    "ref": "turn16view1"
+  },
+  {
+    "slug": "renekton",
+    "pick": "5.63",
+    "games": "42,377",
+    "ref": "turn16view2",
+    "patch": "16.17"
+  },
+  {
+    "slug": "riven",
+    "pick": "2.29",
+    "games": "33,200",
+    "patch": "16.17",
+    "ref": "turn16view3"
+  },
+  {
+    "slug": "rumble",
+    "pick": "1.66",
+    "games": "7,981",
+    "patch": "16.17",
+    "ref": "turn16view4"
+  },
+  {
+    "slug": "sett",
+    "pick": "5.63",
+    "games": "139,094",
+    "patch": "16.17",
+    "ref": "turn16view5"
+  },
+  {
+    "slug": "shen",
+    "pick": "3.57",
+    "games": "78,757",
+    "patch": "16.17",
+    "ref": "turn16view6"
+  },
+  {
+    "slug": "singed",
+    "pick": "2.58",
+    "games": "30,115",
+    "patch": "16.17",
+    "ref": "turn16view7"
+  },
+  {
+    "slug": "sion",
+    "pick": "2.99",
+    "games": "69,432",
+    "patch": "16.16",
+    "ref": "turn19view0"
+  },
+  {
+    "slug": "tahmkench",
+    "pick": "1.7",
+    "games": "42,346",
+    "ref": "turn19view1",
+    "patch": "16.17"
+  },
+  {
+    "slug": "teemo",
+    "pick": "4.14",
+    "games": "91,255",
+    "patch": "16.17",
+    "ref": "turn19view2"
+  },
+  {
+    "slug": "trundle",
+    "pick": "1.82",
+    "games": "36,134",
+    "patch": "16.17",
+    "ref": "turn19view3"
+  },
+  {
+    "slug": "tryndamere",
+    "pick": "3.2",
+    "games": "89,539",
+    "ref": "turn19view4",
+    "patch": "16.16"
+  },
+  {
+    "slug": "urgot",
+    "pick": "2.44",
+    "games": "20,231",
+    "patch": "16.17",
+    "ref": "turn19view5"
+  },
+  {
+    "slug": "vayne",
+    "pick": "2.05",
+    "games": "50,589",
+    "patch": "16.17",
+    "ref": "turn19view6"
+  },
+  {
+    "slug": "volibear",
+    "pick": "3.16",
+    "games": "79,092",
+    "patch": "16.17",
+    "ref": "turn19view7"
+  },
+  {
+    "slug": "warwick",
+    "pick": "1.35",
+    "games": "32,946",
+    "patch": "16.17",
+    "ref": "turn18view0"
+  },
+  {
+    "slug": "wukong",
+    "pick": "0.98",
+    "games": "24,505",
+    "patch": "16.17",
+    "ref": "turn18view1"
+  },
+  {
+    "slug": "yasuo",
+    "pick": "3.49",
+    "games": "86,743",
+    "patch": "16.17",
+    "ref": "turn18view2"
+  },
+  {
+    "slug": "yone",
+    "pick": "8.17",
+    "games": "204,007",
+    "patch": "16.17",
+    "ref": "turn18view3"
+  },
+  {
+    "slug": "yorick",
+    "pick": "3.13",
+    "games": "5,566",
+    "patch": "16.17",
+    "ref": "turn18view4"
+  },
+  {
+    "slug": "zaahen",
+    "pick": "2.88",
+    "games": "67,069",
+    "patch": "16.16",
+    "ref": "turn18view5"
+  },
+  {
+    "slug": "kayle",
+    "pick": "2.19",
+    "games": "54,365",
+    "patch": "16.17",
+    "ref": "turn18view6"
+  },
+  {
+    "slug": "vladimir",
+    "pick": "1.27",
+    "games": "31,450",
+    "patch": "16.17"
+  },
+  {
+    "slug": "poppy",
+    "pick": ".96",
+    "games": "22,587",
+    "patch": "16.17"
+  },
+  {
+    "slug": "heimerdinger",
+    "pick": "1.25",
+    "games": "27,755",
+    "patch": "16.17"
+  },
+  {
+    "slug": "sylas",
+    "pick": "1.13",
+    "games": "19,981",
+    "patch": "16.17"
+  }
+]

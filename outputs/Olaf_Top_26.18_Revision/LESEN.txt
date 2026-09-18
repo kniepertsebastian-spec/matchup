@@ -1,0 +1,49 @@
+OLAF TOP — REVISION FÜR PATCH 26.18
+Geprüft: 10.09.2026 | Ranked Solo Queue | Emerald+, global
+
+START.html öffnet den filterbaren Katalog mit allen 51 Gegnern.
+Olaf_Top_Sammlung.xlsx enthält Übersicht, alle Details, Championpool, Statistik und Leitfaden.
+Matchups/ enthält die 51 einzelnen, eigenständig lesbaren Excel-Dateien.
+
+Die Paarungsstatistik stammt von U.GG und LoLalytics, Datenpatch 26.17/16.17,
+abgerufen am 10.09.2026. Diese Werte sind keine 26.18-Winrates.
+Der Championpool basiert auf gekennzeichneten 26.17-Snapshots. Der neue Patch ist
+noch zu jung für einen belastbaren vollständigen Statistikwechsel.
+
+Mobalytics und Mobafire sind keine Belegquellen dieser Revision.
+Alle 51 Einträge wurden auf Konsistenz überprüft. Die Tiers bleiben qualitative
+Einschätzungen mit Unsicherheit. Es wurde keine eigene Ingame-Testreihe durchgeführt.
+Lane-Tier, späte Side und Gesamt-Tier sind getrennt. Die Quellen beweisen nicht,
+dass eine konkrete Rune, Skillorder oder Itemfolge jedes Matchups optimal ist.
+
+Inhaltliche Korrekturen: Volibear-W2 kein automatischer Rückzugsbefehl; Volibear-E
+gibt Schild statt Heilung. Olafs W selbst gibt keinen Lebensraub. Beide Tiamat-
+Buildrichtungen können Freezes erschweren. Kayles zusätzliche Range kommt auf 16.
+Zaahens 26.18-Q-/Revive-Änderung ist berücksichtigt. Classic/ARAM wurden ausgeschlossen.
+
+Geänderte Gesamt-Tiers:
+Aatrox: B -> C
+Akali: E -> D
+Ambessa: D -> C
+Camille: E -> D
+Fiora: E -> D
+Garen: D -> C
+Illaoi: E -> D
+Jax: F -> C
+Kayle: D -> C
+Kled: E -> D
+Nasus: C -> B
+Ornn: A -> B
+Poppy: A -> B
+Sett: D -> C
+Sion: A -> B
+Tryndamere: F -> E
+Vayne: F -> D
+Volibear: C -> B
+Warwick: E -> C
+Yorick: E -> D
+Zaahen: D -> C
+
+Der alte 26.17-Ordner bleibt als historische Version erhalten. Verwende für die
+überarbeiteten Einschätzungen diesen 26.18_Revision-Ordner.
+ZIP vollständig entpacken und Ordnerstruktur beibehalten, damit die Links funktionieren.

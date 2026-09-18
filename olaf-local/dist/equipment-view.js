@@ -1,0 +1,18 @@
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+function runeIcon(r){
+ return `<div class="rune-choice"><img src="${esc(r.image)}" alt="" width="44" height="44"><span>${esc(r.name)}</span></div>`;
+}
+export function runePage(build,catalog){
+ const tree=id=>catalog.trees.find(t=>t.id===id);
+ const primary=tree(build.primaryTree),secondary=tree(build.secondaryTree);
+ return `<div class="rune-page" aria-label="Empfohlene vollständige Runenseite"><div class="rune-tree"><h3><img src="${esc(primary.image)}" alt="" width="24" height="24">${esc(primary.name)}</h3><div class="rune-row">${build.primary.map(id=>runeIcon(catalog.runes[id])).join('')}</div></div><div class="rune-tree"><h3><img src="${esc(secondary.image)}" alt="" width="24" height="24">${esc(secondary.name)} <span>Zweiter Baum</span></h3><div class="rune-row secondary">${build.secondary.map(id=>runeIcon(catalog.runes[id])).join('')}</div></div><div class="shard-row" aria-label="Runensplitter">${build.shards.map(id=>runeIcon(catalog.shards.find(s=>s.id===id))).join('')}</div><p class="build-caption">${esc(build.runeNote)}</p><details class="rune-alternative"><summary>Alternative je nach Lane-Plan</summary><p>${esc(build.runeAlternative)}</p></details></div>`;
+}
+export function itemCard(option,catalog,indexLabel=''){
+ const item=catalog.items[option.id];
+ return `<details class="item-card"><summary aria-label="${esc(item.name)} – Werte und Effekte anzeigen">${indexLabel?`<span class="item-step">${esc(indexLabel)}</span>`:''}<img src="${esc(item.image)}" alt="" width="64" height="64"><strong>${esc(item.name)}</strong><span class="item-condition">${esc(option.why)}</span></summary><div class="item-tooltip"><strong>${esc(item.name)}</strong><span class="tooltip-local">${esc(item.localName)} · ${item.gold} Gold</span><span class="tooltip-patch">Patch ${esc(catalog.patch)} · Riot ${esc(catalog.version)}</span><p>${esc(item.description)}</p><small>${esc(item.note)}</small><a href="${esc(item.source)}" target="_blank" rel="noopener noreferrer">Quelle: Riot ↗</a></div></details>`;
+}
+export function buildPanel(build,catalog){
+ const cards=options=>options.map(o=>itemCard(o,catalog)).join('');
+ return `<section class="build-panel" aria-label="Empfohlene Items"><div class="build-heading"><p class="eyebrow">DEIN BUILD AUF EINEN BLICK</p><span>Itemdaten ${esc(catalog.patch)} · ${esc(catalog.checked)}</span></div><div class="start-and-boots"><section><h2>Startitems</h2><div class="item-row">${cards(build.start)}</div><p class="build-caption">${esc(build.startNote)}</p></section><section><h2>Frühe Boots</h2><div class="item-row">${cards(build.boots)}</div></section></div><section class="core-section"><h2>Core <span>1. und 2. Item</span></h2><div class="item-row">${build.core.map((o,i)=>itemCard(o,catalog,`${i+1}. Item`)).join('')}</div><p class="build-caption">${esc(build.coreNote)}</p><details class="build-alternatives"><summary>Alternative Core-Items</summary><div class="item-row">${cards(build.alternatives)}</div></details></section><section class="situational-section"><h2>Situational <span>Nach dem Core</span></h2><p class="build-caption">Pro Slot eine passende Option wählen. Boots zählen separat. Die Reihenfolge richtet sich nach der Bedrohung; Maw und Sterak’s ersetzen einander.</p><div class="situational-grid">${build.situational.map(group=>`<section class="item-slot"><h3>${group.slot}. Item</h3><div class="item-row">${cards(group.options)}</div></section>`).join('')}</div></section><p class="build-caption interaction-hint">Werte & Effekte: mit der Maus über ein Item fahren oder anklicken. Auf dem Handy antippen.</p></section>`;
+}

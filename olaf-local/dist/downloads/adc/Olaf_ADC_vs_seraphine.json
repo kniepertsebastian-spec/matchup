@@ -1,0 +1,57 @@
+{
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "name": "Seraphine",
+  "slug": "seraphine",
+  "tier": "C",
+  "rune": "Conqueror",
+  "reason": "Ragnarok schwächt ihre CC-Ketten, aber Shields, Heilung und Speed erzeugen längere 2v2-Fights.",
+  "l1": "Double-Q und E-Linie meiden; nicht neben Support beide vom selben Zauber treffen lassen.",
+  "l25": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen.",
+  "l6": "R kann Charm/Root überbrücken; W-Schutz und Q-Schaden bleiben. R erst bei erreichbarem Ziel.",
+  "threats": "Echo-W, E und R. Nicht zu zweit alles in Schild/Heilung entladen und dann ohne Ressourcen bleiben.",
+  "window": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen.",
+  "errors": "Echo-W, E und R. Nicht zu zweit alles in Schild/Heilung entladen und dann ohne Ressourcen bleiben.",
+  "trade": "Q → erster Kontakt → W-Fenster überleben → neue Q/Autos nach Schild. Fokus mit Support absprechen.",
+  "side": "1: Sustain gegen Poke. 2: 2v2-Heilwert steigt. 3: sie skaliert über Teamschutz, isoliertes Duell ist kein Gesamtspielmaß.",
+  "support": "Engage plus gestaffelter Schaden gut. Double-Enchanter-/Shield-Lane kann Fang interessant machen, sofern Schilde Kills verhindern.",
+  "role": "adc",
+  "lane": "C",
+  "late": "C",
+  "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Ragnarok schwächt ihre CC-Ketten, aber Shields, Heilung und Speed erzeugen längere 2v2-Fights. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+  "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+  "sums": "Flash + Ghost",
+  "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+  "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+  "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+  "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+  "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+  "plan": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen. R kann Charm/Root überbrücken; W-Schutz und Q-Schaden bleiben. R erst bei erreichbarem Ziel. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+  "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+  "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift. E-Abklingzeit in 26.18 auf allen Rängen 11 Sekunden; Haste verkürzt das tatsächliche Fenster.",
+  "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/seraphine/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/adc"
+    ],
+    [
+      "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+      "https://lolalytics.com/lol/seraphine/build/?lane=bottom"
+    ]
+  ]
+}

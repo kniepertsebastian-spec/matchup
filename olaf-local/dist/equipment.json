@@ -1,0 +1,1692 @@
+{
+  "patch": "26.18",
+  "version": "16.18.1",
+  "checked": "18.09.2026",
+  "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+  "items": {
+    "1001": {
+      "id": 1001,
+      "name": "Boots",
+      "localName": "Stiefel",
+      "description": "25 Lauftempo",
+      "gold": 300,
+      "image": "/assets/items/1001.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "2003": {
+      "id": 2003,
+      "name": "Health Potion",
+      "localName": "Heiltrank",
+      "description": "Verbrauchen\nStellt über 15 Sekunden hinweg 120 Leben wieder her.",
+      "gold": 50,
+      "image": "/assets/items/2003.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "1054": {
+      "id": 1054,
+      "name": "Doran's Shield",
+      "localName": "Dorans Schild",
+      "description": "110 Leben\n\nDauerhafter Fokus\nStellt alle 5 Sekunden 4 Leben wieder her. \nNachdem du durch einen Champion Schaden erlitten hast, stellst du über 8 Sekunden hinweg Leben wieder her.\n\nHelfende Hand\nAngriffe fügen Vasallen 5 zusätzlichen normalen Schaden zu.",
+      "gold": 450,
+      "image": "/assets/items/1054.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "1055": {
+      "id": 1055,
+      "name": "Doran's Blade",
+      "localName": "Dorans Klinge",
+      "description": "10 Angriffsschaden\n80 Leben\n2.5 % Omnivampir",
+      "gold": 450,
+      "image": "/assets/items/1055.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3047": {
+      "id": 3047,
+      "name": "Plated Steelcaps",
+      "localName": "Beschichtete Stahlkappen",
+      "description": "25 Rüstung\n45 Lauftempo\n\nPanzerung\nVerringert den eingehenden Schaden von Angriffen um 10 %.",
+      "gold": 1200,
+      "image": "/assets/items/3047.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3111": {
+      "id": 3111,
+      "name": "Mercury's Treads",
+      "localName": "Merkurs Schuhe",
+      "description": "20 Magieresistenz\n45 Lauftempo\n30 % Zähigkeit",
+      "gold": 1250,
+      "image": "/assets/items/3111.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3009": {
+      "id": 3009,
+      "name": "Boots of Swiftness",
+      "localName": "Stiefel der Wendigkeit",
+      "description": "55 Lauftempo\n\nLeichtfüßig\nVerringert die Effektivität von Verlangsamungen um 25 %.",
+      "gold": 1000,
+      "image": "/assets/items/3009.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3077": {
+      "id": 3077,
+      "name": "Tiamat",
+      "localName": "Tiamat",
+      "description": "25 Angriffsschaden\n\nDurchschlag\nAngriffe fügen nahen Gegnern normalen Schaden zu.\nSichelschlag\nDu fügst Gegnern um dich herum normalen Schaden zu.",
+      "gold": 1200,
+      "image": "/assets/items/3077.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "3074": {
+      "id": 3074,
+      "name": "Ravenous Hydra",
+      "localName": "Gefräßige Hydra",
+      "description": "65 Angriffsschaden\n15 Fähigkeitstempo\n12 % Lebensraub\n\nDurchschlag\nAngriffe fügen nahen Gegnern normalen Schaden zu.\n\nGefräßiger Sichelschlag\nDu fügst Gegnern um dich herum normalen Schaden zu. \nDein Lebensraub gilt für diesen Schaden.",
+      "gold": 3300,
+      "image": "/assets/items/3074.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "6631": {
+      "id": 6631,
+      "name": "Stridebreaker",
+      "localName": "Schikane",
+      "description": "40 Angriffsschaden\n25 % Angriffstempo\n450 Leben\n\nDurchschlag\nAngriffe fügen nahen Gegnern normalen Schaden zu.\nBrechende Schockwelle \nDu verursachst normalen Schaden und verlangsamst nahe Gegner um 35 %.\nGewährt für jeden getroffenen Gegner 3 Sekunden lang 35 % abfallendes Lauftempo.",
+      "gold": 3300,
+      "image": "/assets/items/6631.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3153": {
+      "id": 3153,
+      "name": "Blade of The Ruined King",
+      "localName": "Klinge des gestürzten Königs",
+      "description": "40 Angriffsschaden\n25 % Angriffstempo\n10 % Lebensraub\n\nKlinge des Nebels\nAngriffe verursachen einen prozentuellen Anteil des aktuellen Lebens des Gegners als zusätzlichen normalen Schaden bei Treffern.\n\nUmklammernde Schatten\nWenn du einen Champion 3-mal angreifst, wird er 1 Sekunde lang um 30 % verlangsamt.",
+      "gold": 3200,
+      "image": "/assets/items/3153.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3071": {
+      "id": 3071,
+      "name": "Black Cleaver",
+      "localName": "Schwarzes Beil",
+      "description": "45 Angriffsschaden\n400 Leben\n20 Fähigkeitstempo\n\nAufschlitzen\nNachdem du einem Champion normalen Schaden zugefügt hast, wird seine Rüstung 6 Sekunden lang um 6 % verringert (bis zu 5 Steigerungen).\n\nInbrunst\nWenn du normalen Schaden verursachst, erhältst du 2 Sekunden lang 0 Lauftempo.",
+      "gold": 3000,
+      "image": "/assets/items/3071.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "6333": {
+      "id": 6333,
+      "name": "Death's Dance",
+      "localName": "Tanz des Todes",
+      "description": "60 Angriffsschaden\n50 Rüstung\n15 Fähigkeitstempo\n\nSchmerzgrenze\nDu erleidest einen prozentuellen Anteil des erlittenen Schadens über 3 Sekunden verteilt.\n\nTrotz\nWenn ein Champion stirbt, dem du innerhalb der letzten 3 Sekunden Schaden zugefügt hast, wird der verbleibende Schaden von Schmerzgrenze absorbiert und du stellst über 2 Sekunden hinweg Leben wieder her.",
+      "gold": 3300,
+      "image": "/assets/items/6333.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "3053": {
+      "id": 3053,
+      "name": "Sterak's Gage",
+      "localName": "Steraks Pegel",
+      "description": "400 Leben\n20 % Zähigkeit\n\nDie kratzenden Krallen\nDu erhältst zusätzlichen Angriffsschaden.\n\nRettungsanker \nWenn du Schaden erleidest, durch den dein Leben unter 30 % fallen würde, erhältst du 4.5 Sekunden lang einen abfallenden Schild.",
+      "gold": 3200,
+      "image": "/assets/items/3053.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3156": {
+      "id": 3156,
+      "name": "Maw of Malmortius",
+      "localName": "Schlund von Malmortius",
+      "description": "60 Angriffsschaden\n15 Fähigkeitstempo\n40 Magieresistenz\n\nRettungsanker\nWenn du magischen Schaden erleidest, durch den dein Leben unter 30 % fallen würde, erhältst du 3 Sekunden lang einen Schild gegen magischen Schaden und bis zum Ende des Kampfes 10 % Omnivampir.",
+      "gold": 3100,
+      "image": "/assets/items/3156.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3065": {
+      "id": 3065,
+      "name": "Spirit Visage",
+      "localName": "Geistessicht",
+      "description": "400 Leben\n50 Magieresistenz\n10 Fähigkeitstempo\n100 % Grundwert für Lebensregeneration\n\nGrenzenlose Vitalität\nDeine Heilungen und Schilde sind um 25 % erhöht.",
+      "gold": 2700,
+      "image": "/assets/items/3065.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3143": {
+      "id": 3143,
+      "name": "Randuin's Omen",
+      "localName": "Randuins Omen",
+      "description": "350 Leben\n75 Rüstung\n\nWiderstandsfähigkeit\nDu erleidest 30 % weniger Schaden durch kritische Treffer.\nBescheidenheit\nVerlangsamt Gegner in der Nähe 2 Sekunden lang um 70 %.",
+      "gold": 2700,
+      "image": "/assets/items/3143.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3075": {
+      "id": 3075,
+      "name": "Thornmail",
+      "localName": "Dornenpanzer",
+      "description": "150 Leben\n75 Rüstung\n\nDornen\nWenn du von einem Angriff getroffen wirst, fügst du dem Angreifer magischen Schaden zu und belegst ihn 3 Sekunden lang mit 40 % Wunden, wenn es sich um einen Champion handelt.",
+      "gold": 2450,
+      "image": "/assets/items/3075.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3072": {
+      "id": 3072,
+      "name": "Bloodthirster",
+      "localName": "Blutdürster",
+      "description": "80 Angriffsschaden\n15 % Lebensraub\n\nIchorschild\nDu wandelst überschüssige Heilung durch deinen Lebensraub in einen Schild um.",
+      "gold": 3400,
+      "image": "/assets/items/3072.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3031": {
+      "id": 3031,
+      "name": "Infinity Edge",
+      "localName": "Klinge der Unendlichkeit",
+      "description": "75 Angriffsschaden\n25 % Chance auf kritische Treffer\n30 % kritischer Trefferschaden",
+      "gold": 3500,
+      "image": "/assets/items/3031.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3032": {
+      "id": 3032,
+      "name": "Yun Tal Wildarrows",
+      "localName": "Yun Tal-Wildpfeile",
+      "description": "50 Angriffsschaden\n45 % Angriffstempo\n0 % Chance auf kritische Treffer\n\nÜbung macht tödlich\nBeim Angriff erhältst du dauerhafte Chance auf kritische Treffer (bis zu 25 %).\n\nUnruhe\nWenn du einen gegnerischen Champion angreifst, erhältst du 6 Sekunden lang 30 % Angriffstempo (30 Sekunden Abklingzeit). \nAngriffe verringern diese Abklingzeit um 1 Sekunden, erhöht auf 2 Sekunden für kritische Treffer.",
+      "gold": 3000,
+      "image": "/assets/items/3032.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "2512": {
+      "id": 2512,
+      "name": "Fiendhunter Bolts",
+      "localName": "Unholdjägerbolzen",
+      "description": "45 % Angriffstempo\n25 % Chance auf kritische Treffer\n4 % Lauftempo\n\nNachtwache\nDu erhältst 30 Fähigkeitstempo für die ultimative Fähigkeit.\n\nEröffnungstrommelfeuer\nNach dem Einsatz deiner ultimativen Fähigkeit erhalten deine nächsten 3 normalen Angriffe 50 % Angriffstempo und treffen 8 Sekunden lang in Höhe von 80 % deines normalen kritischen Trefferschadens kritisch. Wenn ein Angriff bereits kritisch treffen würde, verursacht er stattdessen 15 % zusätzlichen absoluten Schaden.",
+      "gold": 2650,
+      "image": "/assets/items/2512.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3073": {
+      "id": 3073,
+      "name": "Experimental Hexplate",
+      "localName": "Experimentelle Hexpanzerung",
+      "description": "40 Angriffsschaden\n20 % Angriffstempo\n450 Leben\n\nHexgeladen: 30 ultimatives Fähigkeitstempo.\nOverdrive: Nach dem Einsatz der ultimativen Fähigkeit für Nahkämpfer 50 % zusätzliches Angriffstempo und 20 % zusätzliches Lauftempo für 8 Sekunden. Für Fernkämpfer 35 % / 14 %.",
+      "gold": 3000,
+      "image": "/assets/items/3073.png",
+      "source": "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-11-notes/",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "3748": {
+      "id": 3748,
+      "name": "Titanic Hydra",
+      "localName": "Titanische Hydra",
+      "description": "40 Angriffsschaden\n600 Leben\n\nDurchschlag\nAngriffe fügen  normalen Schaden bei Treffern und an Gegnern hinter dem Ziel zu.\nTitanischer Sichelschlag \nVerstärkt deinen nächsten Durchschlag, um zusätzlichen normalen Schaden bei Treffern zu verursachen und Gegnern hinter dem Ziel zusätzlichen normalen Schaden zuzufügen.",
+      "gold": 3300,
+      "image": "/assets/items/3748.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
+    },
+    "3026": {
+      "id": 3026,
+      "name": "Guardian Angel",
+      "localName": "Schutzengel",
+      "description": "55 Angriffsschaden\n45 Rüstung\n\nWiedergeburt\nWenn du tödlichen Schaden erleidest, werden nach einer Stase von 4 Sekunden 50 % Grundleben und 100 % des max. Manas wiederhergestellt.",
+      "gold": 3200,
+      "image": "/assets/items/3026.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3033": {
+      "id": 3033,
+      "name": "Mortal Reminder",
+      "localName": "Sterbliche Mahnung",
+      "description": "35 Angriffsschaden\n30 % Rüstungsdurchdringung\n25 % Chance auf kritische Treffer\n\nKlaffende Wunden\nNormaler Schaden belegt gegnerische Champions 3 Sekunden lang mit 40 % Wunden.",
+      "gold": 3000,
+      "image": "/assets/items/3033.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "6609": {
+      "id": 6609,
+      "name": "Chempunk Chainsword",
+      "localName": "Chempunk-Kettenschwert",
+      "description": "45 Angriffsschaden\n450 Leben\n15 Fähigkeitstempo\n\nZerhäckseln\nNormaler Schaden belegt gegnerische Champions 3 Sekunden lang mit 40 % Wunden.",
+      "gold": 3000,
+      "image": "/assets/items/6609.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3139": {
+      "id": 3139,
+      "name": "Mercurial Scimitar",
+      "localName": "Flinker Krummsäbel",
+      "description": "50 Angriffsschaden\n35 Magieresistenz\n10 % Lebensraub\n\n\n\nAKTIV\nQuecksilber\nEntfernt alle Massenkontrolleffekte (außer in der Luft) und gewährt Lauftempo.",
+      "gold": 3200,
+      "image": "/assets/items/3139.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3036": {
+      "id": 3036,
+      "name": "Lord Dominik's Regards",
+      "localName": "Lord Dominiks Grüße",
+      "description": "35 Angriffsschaden\n35 % Rüstungsdurchdringung\n25 % Chance auf kritische Treffer\n\nRiesenschlächter\nDu fügst Champions abhängig von ihrem zusätzlichen Leben bis zu 15 % zusätzlichen Schaden zu. Maximaler Schadensbonus erreicht bei 1500 zusätzlichem Leben.",
+      "gold": 3300,
+      "image": "/assets/items/3036.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3046": {
+      "id": 3046,
+      "name": "Phantom Dancer",
+      "localName": "Phantomtänzer",
+      "description": "65 % Angriffstempo\n25 % Chance auf kritische Treffer\n10 % Lauftempo\n\nGeisterhafter Walzer\nDu erhältst Geist.",
+      "gold": 2650,
+      "image": "/assets/items/3046.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3161": {
+      "id": 3161,
+      "name": "Spear of Shojin",
+      "localName": "Speer von Shojin",
+      "description": "45 Angriffsschaden\n450 Leben\n\nDrachenwucht \nDu erhältst 25 Grundfähigkeitstempo.\n\nFokussierter Wille \nTreffer mit Fähigkeiten erhöhen den Fähigkeitsschaden und den passiven Schaden deines Champions 6 Sekunden lang um 3 % (4-mal steigerbar).",
+      "gold": 3100,
+      "image": "/assets/items/3161.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3123": {
+      "id": 3123,
+      "name": "Executioner's Calling",
+      "localName": "Ruf des Henkers",
+      "description": "15 Angriffsschaden\n\nKlaffende Wunden\nNormaler Schaden fügt Champions 3 Sekunden lang 40 % Wunden zu.",
+      "gold": 800,
+      "image": "/assets/items/3123.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3211": {
+      "id": 3211,
+      "name": "Spectre's Cowl",
+      "localName": "Geisterkutte",
+      "description": "200 Leben\n35 Magieresistenz\n100 % Grundwert für Lebensregeneration",
+      "gold": 1250,
+      "image": "/assets/items/3211.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3155": {
+      "id": 3155,
+      "name": "Hexdrinker",
+      "localName": "Hextrinker",
+      "description": "25 Angriffsschaden\n25 Magieresistenz\n\nRettungsanker\nWenn du magischen Schaden erleidest, durch den dein Leben unter 30 % fallen würde, erhältst du 2.5 Sekunden lang einen Schild gegen magischen Schaden.",
+      "gold": 1300,
+      "image": "/assets/items/3155.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "3006": {
+      "id": 3006,
+      "name": "Berserker's Greaves",
+      "localName": "Beinschienen des Berserkers",
+      "description": "30 % Angriffstempo\n45 Lauftempo",
+      "gold": 1100,
+      "image": "/assets/items/3006.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "6695": {
+      "id": 6695,
+      "name": "Serpent's Fang",
+      "localName": "Giftzahn der Schlange",
+      "description": "55 Angriffsschaden\n15 Tödlichkeitsfaktor\n\nSchildräuber\nWenn du einem gegnerischen Champion Schaden zufügst, werden die Schilde, die er erhält, 3 Sekunden lang um 0 % verringert. \nWird der Champion nicht von Schildräuber beeinflusst, dann werden seine Schilde um 0 % reduziert.",
+      "gold": 2500,
+      "image": "/assets/items/6695.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    }
+  },
+  "trees": [
+    {
+      "id": 8100,
+      "key": "Domination",
+      "icon": "perk-images/Styles/7200_Domination.png",
+      "name": "Dominanz",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8112,
+              "key": "Electrocute",
+              "icon": "perk-images/Styles/Domination/Electrocute/Electrocute.png",
+              "name": "Elektrisieren",
+              "shortDesc": "Einen Champion innerhalb von 3 Sekunden mit 3 <b>individuellen</b> Angriffen oder Fähigkeiten zu treffen, verursacht zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword>.",
+              "longDesc": "Wenn du einen Champion innerhalb von 3&nbsp;Sekunden mit drei <b>einzelnen</b> Angriffen oder Fähigkeiten triffst, verursachst du zusätzlich <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>&nbsp;adaptiven Schaden</font></lol-uikit-tooltipped-keyword>.<br><br>Schaden: 70–240 (+0.1&nbsp;zusätzlicher Angriffsschaden, + 0.05&nbsp;Fähigkeitsstärke) Schaden.<br>Abklingzeit: 20&nbsp;Sekunden<br><br><i>„Wir nannten sie die Donnerfürsten, weil die bloße Erwähnung ihrer Blitze grenzenloses Unheil heraufbeschwören konnte.“</i>",
+              "image": "/assets/runes/8112.png"
+            },
+            {
+              "id": 8128,
+              "key": "DarkHarvest",
+              "icon": "perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png",
+              "name": "Dunkle Seelenernte",
+              "shortDesc": "Fügst du einem Champion mit wenig Leben Schaden zu, erleidet er <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword> und du erntest die Seele deines Opfers.",
+              "longDesc": "Fügst du einem Champion mit weniger als 50&nbsp;% Leben Schaden zu, erleidet er <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword>. Außerdem erntest du seine Seele und erhöhst so den Schaden durch „Dunkle Seelenernte“ dauerhaft um 11.<br><br>Schaden durch „Dunkle Seelenernte“: 30 (+11&nbsp;Schaden pro Seele) (+0.1&nbsp;zusätzlicher Angriffsschaden) (+0.05&nbsp;Fähigkeitsstärke)<br>Abklingzeit: 35&nbsp;Sek. (wird nach einem Kill, an dem du beteiligt warst, auf 1.0&nbsp;Sek. zurückgesetzt).",
+              "image": "/assets/runes/8128.png"
+            },
+            {
+              "id": 9923,
+              "key": "HailOfBlades",
+              "icon": "perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png",
+              "name": "Klingenhagel",
+              "shortDesc": "Für die ersten 3&nbsp;Angriffe gegen einen gegnerischen Champion werden dein Angriffstempo und dein <trueDamage>zusätzlicher absoluter Schaden</trueDamage> stark erhöht.",
+              "longDesc": "Du erhältst für bis zu 3&nbsp;Angriffe 90&nbsp;% Angriffstempo (60&nbsp;% im Fall von Fernkampf-Champions) und <trueDamage>zusätzlichen absoluten Schaden</trueDamage>, wenn du einen gegnerischen Champion angreifst.<br><br>Zwischen den Angriffen dürfen maximal 3&nbsp;Sekunde(n) vergehen, sonst endet der Effekt.<br><br>Abklingzeit: 10&nbsp;Sek.<br>Schaden bei Treffer: 2–20 (+0.12&nbsp;zusätzlicher Angriffsschaden, +0.1&nbsp;Fähigkeitsstärke).<br><br><rules>Zurückgesetzte Angriffe erhöhen das Angriffslimit um 1.<br>Mit „Klingenhagel“ kannst du kurzzeitig die Obergrenze für Angriffstempo überschreiten.</rules>",
+              "image": "/assets/runes/9923.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8126,
+              "key": "CheapShot",
+              "icon": "perk-images/Styles/Domination/CheapShot/CheapShot.png",
+              "name": "Perfider Trick",
+              "shortDesc": "Du verursachst zusätzlichen absoluten Schaden an gegnerischen Champions, deren <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairAct'>Bewegungen oder Handlungen eingeschränkt</lol-uikit-tooltipped-keyword> sind. ",
+              "longDesc": "Verursache an gegnerischen Champions, <b>deren Bewegungen oder Handlungen eingeschränkt sind</b>, abhängig von der Stufe 10–45&nbsp;zusätzlichen absoluten Schaden.<br><br>Abklingzeit: 4&nbsp;Sekunden<br><rules>Wird erst durch Schaden aktiviert, nachdem die Einschränkung eingesetzt hat.</rules>",
+              "image": "/assets/runes/8126.png"
+            },
+            {
+              "id": 8139,
+              "key": "TasteOfBlood",
+              "icon": "perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png",
+              "name": "Geschmack von Blut",
+              "shortDesc": "Du heilst dich, wenn du einem gegnerischen Champion Schaden zufügst.",
+              "longDesc": "Du heilst dich, wenn du einem gegnerischen Champion Schaden zufügst.<br><br>Heilung: 16–40 (+0.1&nbsp;zusätzlicher Angriffsschaden, +0.05&nbsp;Fähigkeitsstärke) Leben (abhängig von der Stufe)<br><br>Abklingzeit: 20&nbsp;Sekunden",
+              "image": "/assets/runes/8139.png"
+            },
+            {
+              "id": 8143,
+              "key": "SuddenImpact",
+              "icon": "perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png",
+              "name": "Plötzlicher Einschlag",
+              "shortDesc": "Nachdem du einen Sprint, Sprung, Blitz oder Teleportation benutzt oder deine Tarnung beendet hast, fügen schadensverursachende normale Angriffe und Fähigkeiten gegnerischen Champions zusätzlich absoluten Schaden zu.",
+              "longDesc": "Nachdem du einen Sprint, Sprung, Blitz oder Teleportation benutzt oder deine Tarnung beendet hast, fügen schadensverursachende normale Angriffe und Fähigkeiten gegnerischen Champions 4&nbsp;Sekunden lang zusätzlich <trueDamage>20–80&nbsp;absoluten Schaden</trueDamage> (abhängig von der Stufe) zu.<br><br>Abklingzeit: 10&nbsp;Sekunden",
+              "image": "/assets/runes/8143.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8137,
+              "key": "SixthSense",
+              "icon": "perk-images/Styles/Domination/SixthSense/SixthSense.png",
+              "name": "Sechster Sinn",
+              "shortDesc": "Während einer langen Abklingzeit spürst du automatisch nahe unsichtbare Augen und markierst sie für das Team. <br><br>Stufe 11: Außerdem deckst du das Auge 10 Sek. lang auf.",
+              "longDesc": "Du spürst automatisch nahe unsichtbare Augen und markierst sie für das Team. <br><br>Stufe 11: Außerdem deckst du das Auge 10&nbsp;Sek. lang auf.<br><br>Dieser Effekt hat eine Abklingzeit von 250&nbsp;Sekunden.",
+              "image": "/assets/runes/8137.png"
+            },
+            {
+              "id": 8140,
+              "key": "GrislyMementos",
+              "icon": "perk-images/Styles/Domination/GrislyMementos/GrislyMementos.png",
+              "name": "Grässliche Mementos",
+              "shortDesc": "Sammle 1 Memento durch <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Champion-Kills/Unterstützungen</lol-uikit-tooltipped-keyword>, bis zu 18 insgesamt.<br><br>Du erhältst für jedes gesammelte Memento 6 Tempo für dein Schmuckstück.",
+              "longDesc": "Sammle 1 Memento durch <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Champion-Kills/Unterstützungen</lol-uikit-tooltipped-keyword>, bis zu 18 insgesamt.<br><br>Du erhältst für jedes gesammelte Memento 6 Tempo für dein Schmuckstück. In Spielmodi, in denen es keine Sicht-Schmuckstücke gibt, erhältst du stattdessen 3 Tempo für Beschwörerzauber.",
+              "image": "/assets/runes/8140.png"
+            },
+            {
+              "id": 8141,
+              "key": "DeepWard",
+              "icon": "perk-images/Styles/Domination/DeepWard/DeepWard.png",
+              "name": "Tiefes Auge",
+              "shortDesc": "Deine Augen im gegnerischen Dschungel gelten als <keywordMajor>tief</keywordMajor> und erhalten Leben und Dauer.<br><br>Stufe 9: Augen im Fluss gelten ebenfalls als <keywordMajor>tief</keywordMajor>.",
+              "longDesc": "Deine Augen im gegnerischen Dschungel gelten als <keywordMajor>tief</keywordMajor>. <keywordMajor>Tiefe</keywordMajor> Augen erhalten +1&nbsp;zusätzliches Leben und ihre Dauer ist um +[30–45] Sek. verlängert (+[45–150] Sek. für getarnte Augen durch Schmuckstücke).<br><br>Stufe 9: Augen im Fluss gelten ebenfalls als <keywordMajor>tief</keywordMajor>.",
+              "image": "/assets/runes/8141.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8135,
+              "key": "TreasureHunter",
+              "icon": "perk-images/Styles/Domination/TreasureHunter/TreasureHunter.png",
+              "name": "Schatzjäger",
+              "shortDesc": "<b>Einzigartige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills/Unterstützungen</lol-uikit-tooltipped-keyword> gewähren zusätzliches Gold, wenn sie zum ersten Mal eingesammelt werden. ",
+              "longDesc": "Du erhältst zusätzlich <gold>50&nbsp;Gold</gold>, wenn du das nächste Mal eine Steigerung von <i>Kopfgeldjäger</i> sammelst. Du erhöhst das erhaltene Gold für jede Steigerung von <i>Kopfgeldjäger</i> um <gold>20&nbsp;Gold</gold> (maximal <gold>130&nbsp;Gold</gold>).<br><br>Du erhältst für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist, eine <i>Kopfgeldjäger</i>-Steigerung.",
+              "image": "/assets/runes/8135.png"
+            },
+            {
+              "id": 8105,
+              "key": "RelentlessHunter",
+              "icon": "perk-images/Styles/Domination/RelentlessHunter/RelentlessHunter.png",
+              "name": "Erbarmungsloser Jäger",
+              "shortDesc": "<b>Erstmalige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills</lol-uikit-tooltipped-keyword> gewähren dauerhaftes <b> Lauftempo außerhalb von Kämpfen</b>. ",
+              "longDesc": "Du erhältst <speed>8&nbsp;Lauftempo</speed> außerhalb des Kampfes pro <i>Kopfgeldjäger</i>-Steigerung.Du erhältst 1&nbsp;<i>Kopfgeldjäger</i>-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist.",
+              "image": "/assets/runes/8105.png"
+            },
+            {
+              "id": 8106,
+              "key": "UltimateHunter",
+              "icon": "perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png",
+              "name": "Ultimativer Jäger",
+              "shortDesc": "<b>Erstmalige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills, an denen du beteiligt bist,</lol-uikit-tooltipped-keyword> gewähren dauerhaft Abklingzeitverringerung für deine Ult. ",
+              "longDesc": "Deine Ult erhält <attention>6</attention>&nbsp;Fähigkeitstempo plus zusätzlich <attention>5</attention>&nbsp;Fähigkeitstempo pro Steigerung von <i>Kopfgeldjäger</i>. <i>Du erhältst 1&nbsp;Kopfgeldjäger</i>-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist.",
+              "image": "/assets/runes/8106.png"
+            }
+          ]
+        }
+      ],
+      "image": "/assets/runes/tree-8100.png"
+    },
+    {
+      "id": 8300,
+      "key": "Inspiration",
+      "icon": "perk-images/Styles/7203_Whimsy.png",
+      "name": "Inspiration",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8351,
+              "key": "GlacialAugment",
+              "icon": "perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png",
+              "name": "Eiszeit",
+              "shortDesc": "Wenn du einen gegnerischen Champion bewegungsunfähig machst, bilden sich 3&nbsp;Eisstrahlen, die nahe Gegner verlangsamen und den Schaden verringern, den sie deinen Verbündeten zufügen.",
+              "longDesc": "Wenn du einen gegnerischen Champion bewegungsunfähig machst, setzt er 3&nbsp;Eisstrahlen in deine Richtung auf nahe Champions frei, die 3 (+ Effektdauer von „bewegungsunfähig“) Sekunden lang Frostzonen erzeugen. Diese Frostzonen verlangsamen Gegner um 20&nbsp;% (+90&nbsp;% pro 100&nbsp;% Heil- und Schildkraft) (+6&nbsp;% pro 100&nbsp;Fähigkeitsstärke) (+7&nbsp;% pro 100&nbsp;zusätzlicher Angriffsschaden) und verringern den Schaden, den sie deinen Verbündeten (dich selbst ausgenommen) zufügen, um 15&nbsp;%. <br><br>Abklingzeit: 25&nbsp;Sekunden",
+              "image": "/assets/runes/8351.png"
+            },
+            {
+              "id": 8360,
+              "key": "UnsealedSpellbook",
+              "icon": "perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png",
+              "name": "Entsiegeltes Zauberbuch",
+              "shortDesc": "Tausche Beschwörerzauber aus, während du dich nicht im Kampf befindest. Ein Wechsel zu einmaligen Beschwörerzaubern erhöht die Rate, mit der du zukünftig Beschwörerzauber austauschen kannst.",
+              "longDesc": "Tausche einen deiner ausgerüsteten Beschwörerzauber gegen einen neuen aus, der nur einmalig benutzt werden kann. Der Austausch jedes einmaligen Beschwörerzaubers verringert permanent die Austausch-Abklingzeit um 25&nbsp;Sekunden (die anfängliche Austausch-Abklingzeit beträgt @f3@&nbsp;Sekunden).<br><br>Nach 6&nbsp;Minuten steht dir erstmalig ein Austausch zur Verfügung. <br><rules><br>Beschwörerzauber können nur ausgetauscht werden, wenn du dich nicht im Kampf befindest. <br>Nach der Benutzung eines ausgetauschten Beschwörerzaubers musst du zunächst 3 weitere austauschen, bevor du den ersten erneut auswählen kannst.<br>Schaden durch „Zerschmettern“ wird nach zwei ausgetauschten Beschwörerzaubern erhöht. </rules>",
+              "image": "/assets/runes/8360.png"
+            },
+            {
+              "id": 8369,
+              "key": "FirstStrike",
+              "icon": "perk-images/Styles/Inspiration/FirstStrike/FirstStrike.png",
+              "name": "Erstschlag",
+              "shortDesc": "Wenn du einen Kampf beginnst, verursachst du 3&nbsp;Sekunden lang 7&nbsp;% zusätzlichen Schaden und erhältst Gold basierend auf dem verursachten Schaden.",
+              "longDesc": "Angriffe oder Fähigkeiten gegen einen gegnerischen Champion innerhalb von 0.25&nbsp;Sek. nach Kampfbeginn gewähren dir 10&nbsp;Gold und 3&nbsp;Sekunden lang <b>Erstschlag</b>, wodurch du <truedamage>7&nbsp;%</truedamage> zusätzlichen <truedamage>Schaden</truedamage> an Champions verursachst. Außerdem erhältst du <gold>Gold</gold> in Höhe von <gold>50&nbsp;% (35&nbsp;% für Nahkämpfer)</gold> des verursachten zusätzlichen Schadens.<br><br>Abklingzeit: <scaleLevel>25–15</scaleLevel>&nbsp;Sek.",
+              "image": "/assets/runes/8369.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8306,
+              "key": "HextechFlashtraption",
+              "icon": "perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png",
+              "name": "Hextech-Blitzfalle",
+              "shortDesc": "Wenn „Blitz“ abklingt, wird er stattdessen durch <i>„Hexablitz“</i> ersetzt.<br><br><i>„Hexablitz“</i>: Kanalisiere, um dich an einen anderen Ort zu versetzen.",
+              "longDesc": "Wenn „Blitz“ abklingt, wird er stattdessen durch <i>„Hexablitz“</i> ersetzt.<br><br><i>„Hexablitz“</i>: Kanalisiere für 2&nbsp;Sekunden, um dich an einen anderen Ort zu versetzen.<br><br>Abklingzeit: 20&nbsp;Sekunden. Eine Abklingzeit von 10&nbsp;Sekunden wird ausgelöst, wenn du den Kampf gegen einen anderen Champion beginnst.",
+              "image": "/assets/runes/8306.png"
+            },
+            {
+              "id": 8304,
+              "key": "MagicalFootwear",
+              "icon": "perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png",
+              "name": "Magisches Schuhwerk",
+              "shortDesc": "Nach 12&nbsp;Minuten erhältst du kostenlose Stiefel. Du kannst allerdings davor keine Stiefel kaufen. Für jeden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kill</lol-uikit-tooltipped-keyword> erhältst du deine Stiefel 45&nbsp;Sekunden früher.",
+              "longDesc": "Nach 12&nbsp;Minuten erhältst du kostenlos Leicht magisches Schuhwerk. Du kannst davor keine Stiefel kaufen. Für jeden Kill, an dem du beteiligt bist, erhältst du die Stiefel 45&nbsp;Sekunden früher.<br><br>Leicht magisches Schuhwerk gewähren dir zusätzlich <speed>10&nbsp;Lauftempo</speed>.",
+              "image": "/assets/runes/8304.png"
+            },
+            {
+              "id": 8321,
+              "key": "CashBack",
+              "icon": "perk-images/Styles/Inspiration/CashBack/CashBack2.png",
+              "name": "Rückzahlung",
+              "shortDesc": "Du erhältst etwas Gold zurück, wenn du legendäre Gegenstände kaufst.",
+              "longDesc": "Du erhältst 7.5&nbsp;% Gold zurück, wenn du legendäre Gegenstände kaufst.",
+              "image": "/assets/runes/8321.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8313,
+              "key": "PerfectTiming",
+              "icon": "perk-images/Styles/Inspiration/PerfectTiming/AlchemistCabinet.png",
+              "name": "Dreifach-Tonikum",
+              "shortDesc": "Wenn du Stufe 3 erreichst, erhältst du ein „Elixier der Habgier“.<br>Wenn du Stufe 6 erreichst, erhältst du ein „Elixier der Kraft“.<br>Wenn du Stufe 9 erreichst, erhältst du ein „Elixier des Könnens“. ",
+              "longDesc": "Wenn du Stufe 3 erreichst, erhältst du ein „Elixier der Habgier“.<br>Wenn du Stufe 6 erreichst, erhältst du ein „Elixier der Kraft“.<br>Wenn du Stufe 9 erreichst, erhältst du ein „Elixier des Könnens“. ",
+              "image": "/assets/runes/8313.png"
+            },
+            {
+              "id": 8352,
+              "key": "TimeWarpTonic",
+              "icon": "perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png",
+              "name": "Tonikum der Zeitkrümmung",
+              "shortDesc": "Tränke gewähren dir sofort einen Teil ihrer Wiederherstellung.",
+              "longDesc": "Die Verwendung eines Tranks gewährt sofort 40&nbsp;% seiner Lebenswiederherstellung.",
+              "image": "/assets/runes/8352.png"
+            },
+            {
+              "id": 8345,
+              "key": "BiscuitDelivery",
+              "icon": "perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png",
+              "name": "Kekslieferung",
+              "shortDesc": "Du erhältst 6&nbsp;Minuten lang alle 2&nbsp;Minuten einen kostenlosen Keks. Wenn du den Keks isst oder verkaufst, erhöht das dauerhaft dein maximales Leben und stellt Leben wieder her.",
+              "longDesc": "Kekslieferung: Du erhältst 6&nbsp;Minuten lang alle 2&nbsp;Minuten einen „Absoluter Keks des unvergänglichen Willens“.<br><br>Kekse stellen 20 + 2&nbsp;% deines maximalen Lebens wieder her, was auf bis zu 100&nbsp;% erhöht wird, abhängig von deinem fehlenden Leben. Wenn du einen Keks isst oder verkaufst, erhöhst du dein maximales Leben dauerhaft um 30. ",
+              "image": "/assets/runes/8345.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8347,
+              "key": "CosmicInsight",
+              "icon": "perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png",
+              "name": "Kosmische Einsicht",
+              "shortDesc": "+<attention>18</attention>&nbsp;Tempo für Beschwörerzauber<br>+<attention>10</attention>&nbsp;Tempo für Gegenstände",
+              "longDesc": "+<attention>18</attention>&nbsp;Tempo für Beschwörerzauber<br>+<attention>10</attention>&nbsp;Tempo für Gegenstände",
+              "image": "/assets/runes/8347.png"
+            },
+            {
+              "id": 8410,
+              "key": "ApproachVelocity",
+              "icon": "perk-images/Styles/Resolve/ApproachVelocity/ApproachVelocity.png",
+              "name": "Anziehungskraft",
+              "shortDesc": "Du erhältst zusätzliches Lauftempo, wenn du dich auf nahe gegnerische Champions zubewegst, deren <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairMov'>Bewegung beeinträchtigt</lol-uikit-tooltipped-keyword> wurde. Erhöht bei gegnerischen Champions, deren Bewegung du beeinträchtigst.",
+              "longDesc": "Du erhältst <speed>7.5&nbsp;% Lauftempo</speed>, wenn du dich auf gegnerische Champions zubewegst, deren Bewegung beeinträchtigt wurde. Dieser Bonus steigt auf <speed>15&nbsp;% Lauftempo</speed> für jeden gegnerischen Champion, dessen Bewegung du beeinträchtigst. <br><br>Aktivierungsreichweite durch Massenkontrolle von Verbündeten: 1000",
+              "image": "/assets/runes/8410.png"
+            },
+            {
+              "id": 8316,
+              "key": "JackOfAllTrades",
+              "icon": "perk-images/Styles/Inspiration/JackOfAllTrades/JackofAllTrades2.png",
+              "name": "Alleskönner",
+              "shortDesc": "Für jeden anderen Wert, den du durch Gegenstände erhältst, erhältst du eine Alleskönner-Steigerung. Jede Steigerung gewährt dir <speed>1&nbsp;Fähigkeitstempo</speed>.<br><br>Bei 5 und 10&nbsp;Steigerungen erhältst du zusätzliche <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>adaptive Kraft</lol-uikit-tooltipped-keyword>.",
+              "longDesc": "Für jeden anderen Wert, den du durch Gegenstände erhältst, erhältst du eine Alleskönner-Steigerung. Jede Steigerung gewährt dir <speed>1 Fähigkeitstempo</speed>.<br><br>Erhalte bei 5 bzw. 10 Steigerungen 8 bzw. 20 zusätzliche <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>adaptive Kraft</lol-uikit-tooltipped-keyword>.",
+              "image": "/assets/runes/8316.png"
+            }
+          ]
+        }
+      ],
+      "image": "/assets/runes/tree-8300.png"
+    },
+    {
+      "id": 8000,
+      "key": "Precision",
+      "icon": "perk-images/Styles/7201_Precision.png",
+      "name": "Präzision",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8005,
+              "key": "PressTheAttack",
+              "icon": "perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png",
+              "name": "Fokussierter Angriff",
+              "shortDesc": "Wenn du einen gegnerischen Champion 3-mal hintereinander triffst, wird zusätzlicher Schaden verursacht und dein Schaden bis zum Ende des Kampfes mit Champions erhöht.",
+              "longDesc": "Einen gegnerischen Champion mit 3&nbsp;aufeinanderfolgenden normalen Angriffen zu treffen, verursacht 40–160&nbsp;zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>adaptiven Schaden</font></lol-uikit-tooltipped-keyword> (abhängig von der Stufe) und erhöht den Schaden, den du verursachst, um 8&nbsp;%, bis du den Kampf mit Champions verlässt.",
+              "image": "/assets/runes/8005.png"
+            },
+            {
+              "id": 8008,
+              "key": "LethalTempo",
+              "icon": "perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png",
+              "name": "Tödliches Tempo",
+              "shortDesc": "Wenn du einen gegnerischen Champion angreifst, erhältst du Angriffstempo (maximal 6&nbsp;Steigerungen). Bei maximalen Steigerungen verursachen Angriffe <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>zusätzlichen adaptiven Schaden</font></lol-uikit-tooltipped-keyword> bei Angriffen.",
+              "longDesc": "Wenn du einen gegnerischen Champion angreifst, erhältst du 6&nbsp;Sekunden lang [6&nbsp;% für Nahkämpfer || 4&nbsp;% für Fernkämpfer] Angriffstempo (maximal 6&nbsp;Steigerungen). Bei maximalen Steigerungen verursachen Angriffe [9–30 für Nahkämpfer || 6–24 für Fernkämpfer] <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>zusätzlichen adaptiven Schaden bei Angriffen, der pro 1&nbsp;% zusätzliches Angriffstempo um 1&nbsp;% erhöht wird</lol-uikit-tooltipped-keyword>.",
+              "image": "/assets/runes/8008.png"
+            },
+            {
+              "id": 8021,
+              "key": "FleetFootwork",
+              "icon": "perk-images/Styles/Precision/FleetFootwork/FleetFootwork.png",
+              "name": "Leichtfüßigkeit",
+              "shortDesc": "Deine Angriffe und Bewegungen bauen Energiesteigerungen auf. Bei 100 Steigerungen heilt dich dein nächster Angriff und gewährt dir erhöhtes Lauftempo.",
+              "longDesc": "Angriffe und Bewegungen bauen Energiesteigerungen auf. Bei 100&nbsp;Steigerungen ist der nächste Angriff aufgeladen.<br><br>Aufgeladene Angriffe heilen dich um 15–160 (+0.1&nbsp;zusätzlicher Angriffsschaden, +0.05&nbsp;Fähigkeitsstärke) und gewähren 1&nbsp;Sekunde(n) lang <speed>20&nbsp;% Lauftempo</speed>.<br><br>Die Effektivität der Heilung beträgt für Fernkampf-Champions 60&nbsp;% und die Effektivität des Lauftempos beträgt 75&nbsp;%. Die Effektivität der gesamten Heilung durch Vasallen beträgt 15&nbsp;%.",
+              "image": "/assets/runes/8021.png"
+            },
+            {
+              "id": 8010,
+              "key": "Conqueror",
+              "icon": "perk-images/Styles/Precision/Conqueror/Conqueror.png",
+              "name": "Eroberer",
+              "shortDesc": "Du erhältst Steigerungen adaptiver Kraft, wenn du gegnerische Champions angreifst. Bei 12&nbsp;Steigerungen heilst du dich um einen Teil des an Champions verursachten Schadens.",
+              "longDesc": "Normale Angriffe oder Fähigkeiten, die gegnerischen Champions Schaden zufügen, gewähren 5&nbsp;Sekunden lang 2&nbsp;Steigerungen von „Eroberer“. Jede Steigerung verleiht 1.8–4 <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptive Kraft</font></lol-uikit-tooltipped-keyword>. Maximal 12&nbsp;Steigerungen. Fernkampf-Champions erhalten nur 1&nbsp;Steigerung pro normalem Angriff.<br><br>Bei maximalen Steigerungen heilst du dich um 8&nbsp;% des an Champions verursachten Schadens (5&nbsp;% bei Fernkampf-Champions).",
+              "image": "/assets/runes/8010.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 9101,
+              "key": "AbsorbLife",
+              "icon": "perk-images/Styles/Precision/AbsorbLife/AbsorbLife.png",
+              "name": "Leben absorbieren",
+              "shortDesc": "Wenn du ein Ziel tötest, wirst du geheilt.",
+              "longDesc": "Wenn du ein Ziel tötest, wirst du um @HealAmount@ geheilt.",
+              "image": "/assets/runes/9101.png"
+            },
+            {
+              "id": 9111,
+              "key": "Triumph",
+              "icon": "perk-images/Styles/Precision/Triumph.png",
+              "name": "Triumph",
+              "shortDesc": "<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills</lol-uikit-tooltipped-keyword> stellen 5&nbsp;% deines fehlenden Lebens wieder her und gewähren zusätzlich 20&nbsp;Gold. ",
+              "longDesc": "Kills und Unterstützungen stellen 5&nbsp;% deines fehlenden Lebens und 2.5&nbsp;% deines maximalen Lebens wieder her und gewähren zusätzlich 20&nbsp;Gold. <br><br><hr><br><i>„Das gefährlichste Spiel bringt den größten Ruhm.“ <br>—&nbsp;Noxianischer Vergelter</i>",
+              "image": "/assets/runes/9111.png"
+            },
+            {
+              "id": 8009,
+              "key": "PresenceOfMind",
+              "icon": "perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png",
+              "name": "Geistesgegenwart",
+              "shortDesc": "Wenn du einem gegnerischen Champion Schaden zufügst, wird eine kleine Menge Mana oder Energie wiederhergestellt. Kills/Unterstützungen stellen Mana oder Energie wieder her.",
+              "longDesc": "Wenn du einem gegnerischen Champion Schaden zufügst, wird 6–50&nbsp;Mana wiederhergestellt (80&nbsp;% bei Fernkämpfern). Champions, die Energie nutzen, erhalten stattdessen 6&nbsp;Energie.<br><br>Kills/Unterstützungen stellen 15&nbsp;% deines maximalen Manas bzw. deiner maximalen Energie wieder her.<br><br>Abklingzeit für die Schadenswiederherstellung: 8&nbsp;Sek.",
+              "image": "/assets/runes/8009.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 9104,
+              "key": "LegendAlacrity",
+              "icon": "perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png",
+              "name": "Legende: Eifer",
+              "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest</lol-uikit-tooltipped-keyword>, erhältst du dauerhaftes <b>Angriffstempo</b>. ",
+              "longDesc": "Du erhältst für jede <i>„Legenden“</i>-Steigerung 3&nbsp;% Angriffstempo sowie zusätzliche 1.5&nbsp;% (<statGood>max. 10&nbsp;Steigerungen</statGood>).<br><br>Du kannst deine <i>„Legenden“</i>-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest.",
+              "image": "/assets/runes/9104.png"
+            },
+            {
+              "id": 9105,
+              "key": "LegendHaste",
+              "icon": "perk-images/Styles/Precision/LegendHaste/LegendHaste.png",
+              "name": "Legende: Hast",
+              "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest</lol-uikit-tooltipped-keyword>, erhältst du dauerhaftes <b>Grundfähigkeitstempo</b>. ",
+              "longDesc": "Du erhältst für jede <i>Legenden</i>-Steigerung 1,5&nbsp;Grundfähigkeitstempo (<statGood>maximal 10&nbsp;Steigerungen</statGood>).<br><br>Du kannst deine <i>Legenden</i>-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest.",
+              "image": "/assets/runes/9105.png"
+            },
+            {
+              "id": 9103,
+              "key": "LegendBloodline",
+              "icon": "perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png",
+              "name": "Legende: Blutdurst",
+              "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest,</lol-uikit-tooltipped-keyword> erhältst du dauerhaften<b> Lebensraub</b> bis zu einer Obergrenze. Ist die Obergrenze erreicht, wird dein maximales Leben erhöht. Im frühen Spiel schwächer, im späten Spiel dafür stärker als andere Legenden-Runen.",
+              "longDesc": "Gewährt für jede <i>Legenden</i>-Steigerung <scaleAD>0.45&nbsp;% Lebensraub</scaleAD> (<statGood>max. 15&nbsp;Steigerungen</statGood>). Bei maximalen <i>Legenden</i>-Steigerungen erhältst du <scaleHealth>85&nbsp;maximales Leben</scaleHealth>.<br><br>Erhöhe deine <i>Legenden</i>-Steigerungen durch Takedowns von Champions oder epischen Monstern sowie Kills von großen Monstern oder Vasallen.",
+              "image": "/assets/runes/9103.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8014,
+              "key": "CoupDeGrace",
+              "icon": "perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png",
+              "name": "Gnadenstoß",
+              "shortDesc": "Verursache mehr Schaden an Champions mit wenig Leben.",
+              "longDesc": "Du verursachst 8&nbsp;% zusätzlichen Schaden an Champions, deren Leben unter 40&nbsp;% liegt.",
+              "image": "/assets/runes/8014.png"
+            },
+            {
+              "id": 8017,
+              "key": "CutDown",
+              "icon": "perk-images/Styles/Precision/CutDown/CutDown.png",
+              "name": "Niedermäher",
+              "shortDesc": "Du verursachst mehr Schaden an gegnerischen Champions mit viel Leben.",
+              "longDesc": "Du verursachst 8&nbsp;% zusätzlichen Schaden an Champions, die über mehr als 60&nbsp;% ihres Lebens verfügen.",
+              "image": "/assets/runes/8017.png"
+            },
+            {
+              "id": 8299,
+              "key": "LastStand",
+              "icon": "perk-images/Styles/Sorcery/LastStand/LastStand.png",
+              "name": "Letztes Gefecht",
+              "shortDesc": "Verursache mehr Schaden an Champions, wenn du wenig Leben hast.",
+              "longDesc": "Verursache 5–11&nbsp;% zusätzlichen Schaden an Champions, wenn dein Leben unter 60&nbsp;% liegt. Der maximale Schaden wird bei 30&nbsp;% Leben erreicht.",
+              "image": "/assets/runes/8299.png"
+            }
+          ]
+        }
+      ],
+      "image": "/assets/runes/tree-8000.png"
+    },
+    {
+      "id": 8400,
+      "key": "Resolve",
+      "icon": "perk-images/Styles/7204_Resolve.png",
+      "name": "Entschlossenheit",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8437,
+              "key": "GraspOfTheUndying",
+              "icon": "perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png",
+              "name": "Umklammerung der Untoten",
+              "shortDesc": "Alle 4 Sekunden verursacht dein nächster Angriff zusätzlichen magischen Schaden an gegnerischen Champions, heilt dich und erhöht dein Leben dauerhaft.",
+              "longDesc": "Im Kampf hat dein nächster normaler Angriff auf einen Champion alle 4&nbsp;Sekunden die folgenden Effekte:<li>Er verursacht 3.5&nbsp;% deines maximalen Lebens als zusätzlichen magischen Schaden.<li>Er heilt dich um 1.3&nbsp;% deines maximalen Lebens.<li>Er erhöht dein maximales Leben dauerhaft um 5.<br><rules><i>Fernkampf-Champions:</i> Schaden, Heilung und dauerhaftes Leben sind 40&nbsp;% effektiv.</rules>",
+              "image": "/assets/runes/8437.png"
+            },
+            {
+              "id": 8439,
+              "key": "Aftershock",
+              "icon": "perk-images/Styles/Resolve/VeteranAftershock/VeteranAftershock.png",
+              "name": "Nachbeben",
+              "shortDesc": "Nachdem du einen gegnerischen Champion <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Immobilize'>bewegungsunfähig</lol-uikit-tooltipped-keyword> gemacht hast, erhältst du Verteidigung und verursachst nach einer Verzögerung um dich herum magischen Schaden.",
+              "longDesc": "Nachdem du einen gegnerischen Champion bewegungsunfähig gemacht hast, erhöhen sich deine Rüstung und Magieresistenz 2.5&nbsp;Sek. lang um 45 + 75&nbsp;% deiner zusätzlichen Resistenzen. Daraufhin löst du eine Explosion aus und verursachst magischen Schaden an nahen Gegnern.<br><br>Schaden: 25–120 (+8&nbsp;% deines zusätzlichen Lebens)<br>Abklingzeit: 20&nbsp;Sekunden<br><br>Resistenzbonus von Nachbeben beträgt maximal: 80-150 (abhängig von der Stufe)<br>",
+              "image": "/assets/runes/8439.png"
+            },
+            {
+              "id": 8465,
+              "key": "Guardian",
+              "icon": "perk-images/Styles/Resolve/Guardian/Guardian.png",
+              "name": "Bewahrer",
+              "shortDesc": "Schütze Verbündete in deiner Nähe und Verbündete, auf die du Fähigkeiten wirkst. Wenn du oder ein geschützter Verbündeter einen gewisse Menge Schaden (abhängig von der Stufe) erleiden würden, erhaltet ihr einen Schild.",
+              "longDesc": "<i>Beschütze</i> 2.5&nbsp;Sekunden lang Verbündete, die sich in einer Reichweite von 350&nbsp;Einheiten zu dir aufhalten, und Verbündete, die du mit Fähigkeiten anvisierst. Wenn du oder ein <i>geschützter</i> Verbündeter eine gewisse Menge Schaden erleiden, während <i>Schutz</i> aktiv ist, erhaltet ihr 1.5&nbsp;Sekunden lang einen Schild.<br><br>Abklingzeit: <scaleLevel>75–40</scaleLevel>&nbsp;Sekunden<br>Schild: <scaleLevel>40–150</scaleLevel> + <scaleAP>20&nbsp;%</scaleAP> deiner Fähigkeitsstärke + <scalehealth>6&nbsp;%</scalehealth> deines zusätzlichen Lebens<br>Aktivierungsschwelle: <scaleLevel>50–165</scaleLevel>&nbsp;Nachabzugsschaden",
+              "image": "/assets/runes/8465.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8446,
+              "key": "Demolish",
+              "icon": "perk-images/Styles/Resolve/Demolish/Demolish.png",
+              "name": "Abriss",
+              "shortDesc": "Dein dritter Angriff gegen Türme verursacht zusätzlichen Schaden.",
+              "longDesc": "Dein dritter Angriff gegen Türme verursacht [85 (+28&nbsp;% max. Leben) Nahkampf || 50 (+20&nbsp;% max. Leben) Fernkampf] zusätzlichen normalen Schaden.<br><br>Abklingzeit: 30&nbsp;Sek.",
+              "image": "/assets/runes/8446.png"
+            },
+            {
+              "id": 8463,
+              "key": "FontOfLife",
+              "icon": "perk-images/Styles/Resolve/FontOfLife/FontOfLife.png",
+              "name": "Lebensquelle",
+              "shortDesc": "Wenn die Bewegung eines gegnerischen Champions <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairMov'>eingeschränkt</lol-uikit-tooltipped-keyword> wird, werden verbündete Champions in der Nähe geheilt. ",
+              "longDesc": "Wenn die Bewegung eines gegnerischen Champions eingeschränkt wird, werden du und der verbündete Champion mit dem niedrigsten Leben in deiner Nähe um <healing>@BaseHeal@&nbsp;Leben</healing> geheilt.<br><br>70&nbsp;% Effekt für Fernkämpfer.<br><br>Abklingzeit: 20&nbsp;Sek.",
+              "image": "/assets/runes/8463.png"
+            },
+            {
+              "id": 8401,
+              "key": "ShieldBash",
+              "icon": "perk-images/Styles/Resolve/MirrorShell/MirrorShell.png",
+              "name": "Schildschlag",
+              "shortDesc": "Wenn du einen Schild erhältst, verursacht dein nächster normaler Angriff gegen einen Champion zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiven</font></lol-uikit-tooltipped-keyword> Schaden.",
+              "longDesc": "Wenn du einen neuen Schild erhältst, verursacht dein nächster normaler Angriff gegen einen Champion <scaleLevel>5–30</scaleLevel> <scaleHealth>(+2.5&nbsp;% zusätzliches Leben)</scaleHealth> <scaleMana>(+15.0&nbsp;% neue Schildstärke)</scaleMana> zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiven</font></lol-uikit-tooltipped-keyword> Schaden.<br><br>Diesen Effekt kannst du bis zu 2&nbsp;Sekunden nach Ablauf des Schilds nutzen.",
+              "image": "/assets/runes/8401.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8429,
+              "key": "Conditioning",
+              "icon": "perk-images/Styles/Resolve/Conditioning/Conditioning.png",
+              "name": "Konditionierung",
+              "shortDesc": "Nach 12 Minuten erhältst du +8 Rüstung und +8 Magieresistenz und deine Rüstung sowie Magieresistenz erhöhen sich um 3&nbsp;%.",
+              "longDesc": "Nach 12 Minuten erhältst du +8 Rüstung und +8 Magieresistenz und deine Rüstung sowie Magieresistenz erhöhen sich um 3&nbsp;%.",
+              "image": "/assets/runes/8429.png"
+            },
+            {
+              "id": 8444,
+              "key": "SecondWind",
+              "icon": "perk-images/Styles/Resolve/SecondWind/SecondWind.png",
+              "name": "Aufschwung",
+              "shortDesc": "Wenn du Schaden durch einen gegnerischen Champion erleidest, wirst du über Zeit um einen Teil deines fehlenden Lebens geheilt. ",
+              "longDesc": "Wenn du Schaden durch einen gegnerischen Champion erleidest, wirst du über 10 Sekunden hinweg um 4 % deines fehlenden Lebens geheilt.",
+              "image": "/assets/runes/8444.png"
+            },
+            {
+              "id": 8473,
+              "key": "BonePlating",
+              "icon": "perk-images/Styles/Resolve/BonePlating/BonePlating.png",
+              "name": "Knochenpanzerung",
+              "shortDesc": "Nachdem ein gegnerischer Champion dir Schaden zugefügt hat, verursachen seine nächsten 3&nbsp;Fähigkeiten oder Angriffe gegen dich 30–60 (abhängig von de Stufe) weniger Schaden.<br><br>Dauer: 1.5&nbsp;s<br>Abklingzeit: 55&nbsp;Sekunden",
+              "longDesc": "Nachdem ein gegnerischer Champion dir Schaden zugefügt hat, verursachen seine nächsten 3&nbsp;Fähigkeiten oder Angriffe gegen dich 30–60 (abhängig von de Stufe) weniger Schaden.<br><br>Dauer: 1.5&nbsp;s<br>Abklingzeit: 55&nbsp;Sekunden",
+              "image": "/assets/runes/8473.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8451,
+              "key": "Overgrowth",
+              "icon": "perk-images/Styles/Resolve/Overgrowth/Overgrowth.png",
+              "name": "Zuwachs",
+              "shortDesc": "Erhalte dauerhaft maximales Leben, wenn Monster oder gegnerische Vasallen in deiner Nähe sterben.",
+              "longDesc": "Du absorbierst Lebensessenz von Monstern und gegnerischen Vasallen, die in deiner Nähe sterben, und erhältst dauerhaft 3&nbsp;maximales Leben pro 8&nbsp;Einheit.<br><br>Wenn du die Lebensessenz von 120&nbsp;Monstern oder gegnerischen Vasallen absorbiert hast, erhältst du zusätzlich 3.5&nbsp;% maximales Leben.",
+              "image": "/assets/runes/8451.png"
+            },
+            {
+              "id": 8453,
+              "key": "Revitalize",
+              "icon": "perk-images/Styles/Resolve/Revitalize/Revitalize.png",
+              "name": "Frische",
+              "shortDesc": "Erhalte 5&nbsp;% Heil- und Schildkraft.<br><br>Von dir gewirkte oder erhaltene Heilungen und Schilde sind 10&nbsp;% stärker, wenn das Leben des Ziels unter 40&nbsp;% liegt.",
+              "longDesc": "Erhalte 5&nbsp;% Heil- und Schildkraft.<br><br>Von dir gewirkte oder erhaltene Heilungen und Schilde sind 10&nbsp;% stärker, wenn das Leben des Ziels unter 40&nbsp;% liegt.",
+              "image": "/assets/runes/8453.png"
+            },
+            {
+              "id": 8242,
+              "key": "Unflinching",
+              "icon": "perk-images/Styles/Sorcery/Unflinching/Unflinching.png",
+              "name": "Unerschrocken",
+              "shortDesc": "Du erhältst Rüstung und Magieresistenz, wenn du von Massenkontrolle betroffen bist.",
+              "longDesc": "Du erhältst 10&nbsp;Rüstung und Magieresistenz, während du von Massenkontrolle betroffen bist und für weitere 2&nbsp;Sekunden nach ihrem Ende.",
+              "image": "/assets/runes/8242.png"
+            }
+          ]
+        }
+      ],
+      "image": "/assets/runes/tree-8400.png"
+    },
+    {
+      "id": 8200,
+      "key": "Sorcery",
+      "icon": "perk-images/Styles/7202_Sorcery.png",
+      "name": "Zauberei",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8214,
+              "key": "SummonAery",
+              "icon": "perk-images/Styles/Sorcery/SummonAery/SummonAery.png",
+              "name": "Benefee-Beschwörung",
+              "shortDesc": "Deine Angriffe und Fähigkeiten schicken Benefee zu einem Ziel. Sie verursacht dabei an Gegnern Schaden oder verleiht Verbündeten einen Schild.",
+              "longDesc": "Erleiden gegnerische Champions durch normale Angriffe oder Fähigkeiten Schaden, wird Benefee zu ihnen ausgesendet. Sie verursacht dabei 10–50&nbsp;Schaden abhängig von der Stufe (+<scaleAP>0.05 Fähigkeitsstärke</scaleAP>) (+<scaleAD>0.1 zusätzlicher Angriffsschaden</scaleAD>).<br>Werden Verbündete durch Fähigkeiten verstärkt oder beschützt, wird Benefee zu ihnen ausgesendet und gewährt ihnen einen Schild in Höhe von 20 - 100&nbsp;Schaden abhängig von der Stufe (+<scaleAP>0.05 Fähigkeitsstärke</scaleAP>) (+<scaleAD>0.1 zusätzlicher Angriffsschaden</scaleAD>).<br>Benefee kann erst erneut ausgeschickt werden, wenn sie zu dir zurückgekehrt ist.",
+              "image": "/assets/runes/8214.png"
+            },
+            {
+              "id": 8229,
+              "key": "ArcaneComet",
+              "icon": "perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png",
+              "name": "Arkaner Komet",
+              "shortDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, fliegt ein Schaden verursachender Komet an dessen Position.",
+              "longDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, fliegt ein Komet an dessen Position und verursacht je nach Distanz erhöhten Schaden.<br><br><lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>Adaptiver Schaden</font></lol-uikit-tooltipped-keyword>: 15–100 je nach Stufe (<scaleAP>+ 0.05 Fähigkeitsstärke</scaleAP> und <scaleAD>+ 0.1 zusätzlicher Angriffsschaden</scaleAD>)<br>Abklingzeit: 20–8 Sek.<br><rules><br>Schadensverstärkung skaliert bei einer Reichweite von 750 auf bis zu 100&nbsp;%.<br></rules>",
+              "image": "/assets/runes/8229.png"
+            },
+            {
+              "id": 8230,
+              "key": "PhaseRush",
+              "icon": "perk-images/Styles/Sorcery/PhaseRush/StormraidersSurgeRuneIcon2.png",
+              "name": "Woge des Sturmräubers",
+              "shortDesc": "Triffst du einen Champion mit 25&nbsp;% seines max. Lebens, erhältst du einen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_MS'>Lauftemposchub</lol-uikit-tooltipped-keyword> und Resistenz gegen Verlangsamung. ",
+              "longDesc": "Wenn du einem Champion innerhalb von 3&nbsp;Sek. Schaden in Höhe von 25&nbsp;% des maximalen Lebens zufügst, erhältst du 4&nbsp;Sek. lang <speed>48&nbsp;% Lauftempo</speed> und <status>50&nbsp;% Resistenz gegen Verlangsamung</status>. Lauftempo ist für Fernkampf-Champions zu 75&nbsp;% effektiv.<br>Abklingzeit: 20–10&nbsp;Sek.",
+              "image": "/assets/runes/8230.png"
+            },
+            {
+              "id": 8992,
+              "key": "DeathfireTouch",
+              "icon": "perk-images/Styles/Sorcery/DeathfireTouch/DEATHFIRE_TOUCH_KEYSTONE.png",
+              "name": "Berührung des Todesfeuers",
+              "shortDesc": "Wenn du einem Champion mit einer Fähigkeit Schaden zufügst, erleidet er Verbrennungsschaden über Zeit.",
+              "longDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, erleidet er pro Sekunde 3–12 magischen Schaden, abhängig von der Stufe (+ <scaleAP>2.5&nbsp;% Fähigkeitsstärke</scaleAP>) (+ <scaleAD>7&nbsp;% zusätzlicher Angriffsschaden</scaleAD>). Nachdem das Ziel 3&nbsp;Sekunden lang gebrannt hat, erhöht sich der Schaden um 75&nbsp;%, solange es in Flammen steht.<br><rules><br>Dauer:<br>Einzelziel: 4&nbsp;Sek.<br>Flächenwirkung: 2&nbsp;Sek.<br>Schaden über Zeit: 1&nbsp;Sek.<br></rules>",
+              "image": "/assets/runes/8992.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8224,
+              "key": "NullifyingOrb",
+              "icon": "perk-images/Styles/Sorcery/NullifyingOrb/Axiom_Arcanist.png",
+              "name": "Axiom-Arkanist",
+              "shortDesc": "Deine Ult hat Schaden, Heilung und Schildstärke erhöht. Kills/Unterstützungen gegen gegnerische Champions reduzieren die aktuelle Abklingzeit deiner Ult.",
+              "longDesc": "Schaden, Heilung und Schilde deiner Ult sind um 12&nbsp;% erhöht. <br>(Der Flächenschaden ist um 8&nbsp;% erhöht.)<br><br>Erzielte Kills/Unterstützungen gegen gegnerische Champions verkürzen die aktuelle Abklingzeit der Ult um 7&nbsp;%.",
+              "image": "/assets/runes/8224.png"
+            },
+            {
+              "id": 8226,
+              "key": "ManaflowBand",
+              "icon": "perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png",
+              "name": "Manafluss",
+              "shortDesc": "Wenn du einen gegnerischen Champion mit einer Fähigkeit triffst, erhöht sich dein maximales Mana permanent um 25 (max. 250&nbsp;Mana).<br><br>Ab 250&nbsp;zusätzlichem Mana stellst du alle 5&nbsp;Sekunden 1&nbsp;% deines fehlenden Manas wieder her.",
+              "longDesc": "Wenn du einen gegnerischen Champion mit einer Fähigkeit triffst, erhöht sich dein maximales Mana permanent um 25 (max. 250&nbsp;Mana).<br><br>Ab 250&nbsp;zusätzlichem Mana stellst du alle 5&nbsp;Sekunden 1&nbsp;% deines fehlenden Manas wieder her.<br><br>Abklingzeit: 15&nbsp;Sekunden",
+              "image": "/assets/runes/8226.png"
+            },
+            {
+              "id": 8275,
+              "key": "NimbusCloak",
+              "icon": "perk-images/Styles/Sorcery/NimbusCloak/6361.png",
+              "name": "Nimbus-Umhang",
+              "shortDesc": "Nachdem du einen Beschwörerzauber eingesetzt hast, erhältst du kurzzeitig erhöhtes <speed>Lauftempo</speed> und kannst dich durch Einheiten hindurchbewegen.",
+              "longDesc": "Nachdem du einen Beschwörerzauber eingesetzt hast, erhältst du 2&nbsp;Sekunden lang erhöhtes <speed>Lauftempo</speed> und kannst dich durch Einheiten hindurchbewegen.<br><br>Erhöhung: <speed>15–45&nbsp;% Lauftempo</speed>, abhängig von der Abklingzeit des Beschwörerzaubers. (Beschwörerzauber mit längerer Abklingzeit gewähren mehr <speed>Lauftempo</speed>.) ",
+              "image": "/assets/runes/8275.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8210,
+              "key": "Transcendence",
+              "icon": "perk-images/Styles/Sorcery/Transcendence/Transcendence.png",
+              "name": "Überlegenheit",
+              "shortDesc": "Erhalte Boni, wenn du die folgenden Stufen erreichst:<br>Stufe&nbsp;5: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;8: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;11: Wenn du einen Champion tötest, verringert sich die verbleibende Abklingzeit von Grundfähigkeiten um 20&nbsp;%.",
+              "longDesc": "Erhalte Boni, wenn du die folgenden Stufen erreichst:<br>Stufe&nbsp;5: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'> Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;8: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;11: Wenn du einen Champion tötest, verringert sich die verbleibende Abklingzeit von Grundfähigkeiten um 20&nbsp;%.",
+              "image": "/assets/runes/8210.png"
+            },
+            {
+              "id": 8234,
+              "key": "Celerity",
+              "icon": "perk-images/Styles/Sorcery/Celerity/CelerityTemp.png",
+              "name": "Flinkheit",
+              "shortDesc": "Alle Boni auf <speed>Lauftempo</speed> sind bei dir 7&nbsp;% effektiver und du erhältst <speed>1&nbsp;% Lauftempo</speed>.",
+              "longDesc": "Alle Boni auf Lauftempo sind bei dir 7&nbsp;% effektiver und du erhältst <speed>1&nbsp;% Lauftempo</speed>.",
+              "image": "/assets/runes/8234.png"
+            },
+            {
+              "id": 8233,
+              "key": "AbsoluteFocus",
+              "icon": "perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png",
+              "name": "Absoluter Fokus",
+              "shortDesc": "Wenn du über mehr als 70&nbsp;% deines Lebens verfügst, wird dir zusätzlicher <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiver Schaden</lol-uikit-tooltipped-keyword> gewährt.",
+              "longDesc": "Wenn du über mehr als 70&nbsp;% deines Lebens verfügst, wird dir abhängig von der Stufe ein Bonus von bis zu 18&nbsp;Angriffsschaden oder 30&nbsp;Fähigkeitsstärke <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>(adaptiv)</font></lol-uikit-tooltipped-keyword> gewährt. <br><br>Gewährt 1.8&nbsp;Angriffsschaden oder 3&nbsp;Fähigkeitsstärke auf Stufe&nbsp;1. ",
+              "image": "/assets/runes/8233.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8237,
+              "key": "Scorch",
+              "icon": "perk-images/Styles/Sorcery/Scorch/Scorch.png",
+              "name": "Hitzewelle",
+              "shortDesc": "Deine 1. schadensverursachende Fähigkeit, die einen Champion trifft, steckt diesen in Brand. Dieser Effekt kann alle 10&nbsp;Sekunden auftreten.",
+              "longDesc": "Deine nächste getroffene schadensverursachende Fähigkeit steckt Champions in Brand und verursacht abhängig von der Stufe über 1&nbsp;Sekunde(n) hinweg 20–40&nbsp;zusätzlichen magischen Schaden.<br><br>Abklingzeit: 10&nbsp;Sekunden",
+              "image": "/assets/runes/8237.png"
+            },
+            {
+              "id": 8232,
+              "key": "Waterwalking",
+              "icon": "perk-images/Styles/Sorcery/Waterwalking/Waterwalking.png",
+              "name": "Wasserlauf",
+              "shortDesc": "Du erhältst im Fluss Lauftempo und Fähigkeitsstärke oder Angriffsschaden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>(adaptiv)</lol-uikit-tooltipped-keyword>.",
+              "longDesc": "Du erhältst <speed>10&nbsp;Lauftempo</speed> und abhängig von der Stufe <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>13&nbsp;– 30 adaptive Kraft</font></lol-uikit-tooltipped-keyword>, wenn du dich im Fluss aufhältst.<br><br><i>Mögest du so schnell sein wie tosendes Wasser und so wendig wie ein aufgeschreckter Kluftkrabbler.</i>",
+              "image": "/assets/runes/8232.png"
+            },
+            {
+              "id": 8236,
+              "key": "GatheringStorm",
+              "icon": "perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png",
+              "name": "Aufziehender Sturm",
+              "shortDesc": "Du erhältst im Laufe des Spiels einen sich ständig erhöhenden Betrag an Fähigkeitsstärke oder Angriffsschaden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>(adaptiv)</lol-uikit-tooltipped-keyword>.",
+              "longDesc": "Du erhältst alle 10&nbsp;Min. Fähigkeitsstärke oder Angriffsschaden, <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiv</font></lol-uikit-tooltipped-keyword>.<br><br><i>10&nbsp;Min.</i>: +8 Fähigkeitsstärke oder 5 Angriffsschaden <br><i>20&nbsp;Min.</i>: +24 Fähigkeitsstärke oder 14 Angriffsschaden<br><i>30&nbsp;Min.</i>: +48 Fähigkeitsstärke oder 29 Angriffsschaden<br><i>40&nbsp;Min.</i>: +80 Fähigkeitsstärke oder 48 Angriffsschaden<br><i>50&nbsp;Min.</i>: +120 Fähigkeitsstärke oder 72 Angriffsschaden<br><i>60&nbsp;Min.</i>: +168 Fähigkeitsstärke oder 101 Angriffsschaden<br>usw.",
+              "image": "/assets/runes/8236.png"
+            }
+          ]
+        }
+      ],
+      "image": "/assets/runes/tree-8200.png"
+    }
+  ],
+  "runes": {
+    "8112": {
+      "id": 8112,
+      "key": "Electrocute",
+      "icon": "perk-images/Styles/Domination/Electrocute/Electrocute.png",
+      "name": "Elektrisieren",
+      "shortDesc": "Einen Champion innerhalb von 3 Sekunden mit 3 <b>individuellen</b> Angriffen oder Fähigkeiten zu treffen, verursacht zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword>.",
+      "longDesc": "Wenn du einen Champion innerhalb von 3&nbsp;Sekunden mit drei <b>einzelnen</b> Angriffen oder Fähigkeiten triffst, verursachst du zusätzlich <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>&nbsp;adaptiven Schaden</font></lol-uikit-tooltipped-keyword>.<br><br>Schaden: 70–240 (+0.1&nbsp;zusätzlicher Angriffsschaden, + 0.05&nbsp;Fähigkeitsstärke) Schaden.<br>Abklingzeit: 20&nbsp;Sekunden<br><br><i>„Wir nannten sie die Donnerfürsten, weil die bloße Erwähnung ihrer Blitze grenzenloses Unheil heraufbeschwören konnte.“</i>",
+      "image": "/assets/runes/8112.png",
+      "description": "Wenn du einen Champion innerhalb von 3 Sekunden mit drei einzelnen Angriffen oder Fähigkeiten triffst, verursachst du zusätzlich  adaptiven Schaden.\n\nSchaden: 70–240 (+0.1 zusätzlicher Angriffsschaden, + 0.05 Fähigkeitsstärke) Schaden.\nAbklingzeit: 20 Sekunden\n\n„Wir nannten sie die Donnerfürsten, weil die bloße Erwähnung ihrer Blitze grenzenloses Unheil heraufbeschwören konnte.“"
+    },
+    "8128": {
+      "id": 8128,
+      "key": "DarkHarvest",
+      "icon": "perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png",
+      "name": "Dunkle Seelenernte",
+      "shortDesc": "Fügst du einem Champion mit wenig Leben Schaden zu, erleidet er <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword> und du erntest die Seele deines Opfers.",
+      "longDesc": "Fügst du einem Champion mit weniger als 50&nbsp;% Leben Schaden zu, erleidet er <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiven Schaden</lol-uikit-tooltipped-keyword>. Außerdem erntest du seine Seele und erhöhst so den Schaden durch „Dunkle Seelenernte“ dauerhaft um 11.<br><br>Schaden durch „Dunkle Seelenernte“: 30 (+11&nbsp;Schaden pro Seele) (+0.1&nbsp;zusätzlicher Angriffsschaden) (+0.05&nbsp;Fähigkeitsstärke)<br>Abklingzeit: 35&nbsp;Sek. (wird nach einem Kill, an dem du beteiligt warst, auf 1.0&nbsp;Sek. zurückgesetzt).",
+      "image": "/assets/runes/8128.png",
+      "description": "Fügst du einem Champion mit weniger als 50 % Leben Schaden zu, erleidet er adaptiven Schaden. Außerdem erntest du seine Seele und erhöhst so den Schaden durch „Dunkle Seelenernte“ dauerhaft um 11.\n\nSchaden durch „Dunkle Seelenernte“: 30 (+11 Schaden pro Seele) (+0.1 zusätzlicher Angriffsschaden) (+0.05 Fähigkeitsstärke)\nAbklingzeit: 35 Sek. (wird nach einem Kill, an dem du beteiligt warst, auf 1.0 Sek. zurückgesetzt)."
+    },
+    "9923": {
+      "id": 9923,
+      "key": "HailOfBlades",
+      "icon": "perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png",
+      "name": "Klingenhagel",
+      "shortDesc": "Für die ersten 3&nbsp;Angriffe gegen einen gegnerischen Champion werden dein Angriffstempo und dein <trueDamage>zusätzlicher absoluter Schaden</trueDamage> stark erhöht.",
+      "longDesc": "Du erhältst für bis zu 3&nbsp;Angriffe 90&nbsp;% Angriffstempo (60&nbsp;% im Fall von Fernkampf-Champions) und <trueDamage>zusätzlichen absoluten Schaden</trueDamage>, wenn du einen gegnerischen Champion angreifst.<br><br>Zwischen den Angriffen dürfen maximal 3&nbsp;Sekunde(n) vergehen, sonst endet der Effekt.<br><br>Abklingzeit: 10&nbsp;Sek.<br>Schaden bei Treffer: 2–20 (+0.12&nbsp;zusätzlicher Angriffsschaden, +0.1&nbsp;Fähigkeitsstärke).<br><br><rules>Zurückgesetzte Angriffe erhöhen das Angriffslimit um 1.<br>Mit „Klingenhagel“ kannst du kurzzeitig die Obergrenze für Angriffstempo überschreiten.</rules>",
+      "image": "/assets/runes/9923.png",
+      "description": "Du erhältst für bis zu 3 Angriffe 90 % Angriffstempo (60 % im Fall von Fernkampf-Champions) und zusätzlichen absoluten Schaden, wenn du einen gegnerischen Champion angreifst.\n\nZwischen den Angriffen dürfen maximal 3 Sekunde(n) vergehen, sonst endet der Effekt.\n\nAbklingzeit: 10 Sek.\nSchaden bei Treffer: 2–20 (+0.12 zusätzlicher Angriffsschaden, +0.1 Fähigkeitsstärke).\n\nZurückgesetzte Angriffe erhöhen das Angriffslimit um 1.\nMit „Klingenhagel“ kannst du kurzzeitig die Obergrenze für Angriffstempo überschreiten."
+    },
+    "8126": {
+      "id": 8126,
+      "key": "CheapShot",
+      "icon": "perk-images/Styles/Domination/CheapShot/CheapShot.png",
+      "name": "Perfider Trick",
+      "shortDesc": "Du verursachst zusätzlichen absoluten Schaden an gegnerischen Champions, deren <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairAct'>Bewegungen oder Handlungen eingeschränkt</lol-uikit-tooltipped-keyword> sind. ",
+      "longDesc": "Verursache an gegnerischen Champions, <b>deren Bewegungen oder Handlungen eingeschränkt sind</b>, abhängig von der Stufe 10–45&nbsp;zusätzlichen absoluten Schaden.<br><br>Abklingzeit: 4&nbsp;Sekunden<br><rules>Wird erst durch Schaden aktiviert, nachdem die Einschränkung eingesetzt hat.</rules>",
+      "image": "/assets/runes/8126.png",
+      "description": "Verursache an gegnerischen Champions, deren Bewegungen oder Handlungen eingeschränkt sind, abhängig von der Stufe 10–45 zusätzlichen absoluten Schaden.\n\nAbklingzeit: 4 Sekunden\nWird erst durch Schaden aktiviert, nachdem die Einschränkung eingesetzt hat."
+    },
+    "8139": {
+      "id": 8139,
+      "key": "TasteOfBlood",
+      "icon": "perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png",
+      "name": "Geschmack von Blut",
+      "shortDesc": "Du heilst dich, wenn du einem gegnerischen Champion Schaden zufügst.",
+      "longDesc": "Du heilst dich, wenn du einem gegnerischen Champion Schaden zufügst.<br><br>Heilung: 16–40 (+0.1&nbsp;zusätzlicher Angriffsschaden, +0.05&nbsp;Fähigkeitsstärke) Leben (abhängig von der Stufe)<br><br>Abklingzeit: 20&nbsp;Sekunden",
+      "image": "/assets/runes/8139.png",
+      "description": "Du heilst dich, wenn du einem gegnerischen Champion Schaden zufügst.\n\nHeilung: 16–40 (+0.1 zusätzlicher Angriffsschaden, +0.05 Fähigkeitsstärke) Leben (abhängig von der Stufe)\n\nAbklingzeit: 20 Sekunden"
+    },
+    "8143": {
+      "id": 8143,
+      "key": "SuddenImpact",
+      "icon": "perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png",
+      "name": "Plötzlicher Einschlag",
+      "shortDesc": "Nachdem du einen Sprint, Sprung, Blitz oder Teleportation benutzt oder deine Tarnung beendet hast, fügen schadensverursachende normale Angriffe und Fähigkeiten gegnerischen Champions zusätzlich absoluten Schaden zu.",
+      "longDesc": "Nachdem du einen Sprint, Sprung, Blitz oder Teleportation benutzt oder deine Tarnung beendet hast, fügen schadensverursachende normale Angriffe und Fähigkeiten gegnerischen Champions 4&nbsp;Sekunden lang zusätzlich <trueDamage>20–80&nbsp;absoluten Schaden</trueDamage> (abhängig von der Stufe) zu.<br><br>Abklingzeit: 10&nbsp;Sekunden",
+      "image": "/assets/runes/8143.png",
+      "description": "Nachdem du einen Sprint, Sprung, Blitz oder Teleportation benutzt oder deine Tarnung beendet hast, fügen schadensverursachende normale Angriffe und Fähigkeiten gegnerischen Champions 4 Sekunden lang zusätzlich 20–80 absoluten Schaden (abhängig von der Stufe) zu.\n\nAbklingzeit: 10 Sekunden"
+    },
+    "8137": {
+      "id": 8137,
+      "key": "SixthSense",
+      "icon": "perk-images/Styles/Domination/SixthSense/SixthSense.png",
+      "name": "Sechster Sinn",
+      "shortDesc": "Während einer langen Abklingzeit spürst du automatisch nahe unsichtbare Augen und markierst sie für das Team. <br><br>Stufe 11: Außerdem deckst du das Auge 10 Sek. lang auf.",
+      "longDesc": "Du spürst automatisch nahe unsichtbare Augen und markierst sie für das Team. <br><br>Stufe 11: Außerdem deckst du das Auge 10&nbsp;Sek. lang auf.<br><br>Dieser Effekt hat eine Abklingzeit von 250&nbsp;Sekunden.",
+      "image": "/assets/runes/8137.png",
+      "description": "Du spürst automatisch nahe unsichtbare Augen und markierst sie für das Team. \n\nStufe 11: Außerdem deckst du das Auge 10 Sek. lang auf.\n\nDieser Effekt hat eine Abklingzeit von 250 Sekunden."
+    },
+    "8140": {
+      "id": 8140,
+      "key": "GrislyMementos",
+      "icon": "perk-images/Styles/Domination/GrislyMementos/GrislyMementos.png",
+      "name": "Grässliche Mementos",
+      "shortDesc": "Sammle 1 Memento durch <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Champion-Kills/Unterstützungen</lol-uikit-tooltipped-keyword>, bis zu 18 insgesamt.<br><br>Du erhältst für jedes gesammelte Memento 6 Tempo für dein Schmuckstück.",
+      "longDesc": "Sammle 1 Memento durch <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Champion-Kills/Unterstützungen</lol-uikit-tooltipped-keyword>, bis zu 18 insgesamt.<br><br>Du erhältst für jedes gesammelte Memento 6 Tempo für dein Schmuckstück. In Spielmodi, in denen es keine Sicht-Schmuckstücke gibt, erhältst du stattdessen 3 Tempo für Beschwörerzauber.",
+      "image": "/assets/runes/8140.png",
+      "description": "Sammle 1 Memento durch Champion-Kills/Unterstützungen, bis zu 18 insgesamt.\n\nDu erhältst für jedes gesammelte Memento 6 Tempo für dein Schmuckstück. In Spielmodi, in denen es keine Sicht-Schmuckstücke gibt, erhältst du stattdessen 3 Tempo für Beschwörerzauber."
+    },
+    "8141": {
+      "id": 8141,
+      "key": "DeepWard",
+      "icon": "perk-images/Styles/Domination/DeepWard/DeepWard.png",
+      "name": "Tiefes Auge",
+      "shortDesc": "Deine Augen im gegnerischen Dschungel gelten als <keywordMajor>tief</keywordMajor> und erhalten Leben und Dauer.<br><br>Stufe 9: Augen im Fluss gelten ebenfalls als <keywordMajor>tief</keywordMajor>.",
+      "longDesc": "Deine Augen im gegnerischen Dschungel gelten als <keywordMajor>tief</keywordMajor>. <keywordMajor>Tiefe</keywordMajor> Augen erhalten +1&nbsp;zusätzliches Leben und ihre Dauer ist um +[30–45] Sek. verlängert (+[45–150] Sek. für getarnte Augen durch Schmuckstücke).<br><br>Stufe 9: Augen im Fluss gelten ebenfalls als <keywordMajor>tief</keywordMajor>.",
+      "image": "/assets/runes/8141.png",
+      "description": "Deine Augen im gegnerischen Dschungel gelten als tief. Tiefe Augen erhalten +1 zusätzliches Leben und ihre Dauer ist um +[30–45] Sek. verlängert (+[45–150] Sek. für getarnte Augen durch Schmuckstücke).\n\nStufe 9: Augen im Fluss gelten ebenfalls als tief."
+    },
+    "8135": {
+      "id": 8135,
+      "key": "TreasureHunter",
+      "icon": "perk-images/Styles/Domination/TreasureHunter/TreasureHunter.png",
+      "name": "Schatzjäger",
+      "shortDesc": "<b>Einzigartige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills/Unterstützungen</lol-uikit-tooltipped-keyword> gewähren zusätzliches Gold, wenn sie zum ersten Mal eingesammelt werden. ",
+      "longDesc": "Du erhältst zusätzlich <gold>50&nbsp;Gold</gold>, wenn du das nächste Mal eine Steigerung von <i>Kopfgeldjäger</i> sammelst. Du erhöhst das erhaltene Gold für jede Steigerung von <i>Kopfgeldjäger</i> um <gold>20&nbsp;Gold</gold> (maximal <gold>130&nbsp;Gold</gold>).<br><br>Du erhältst für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist, eine <i>Kopfgeldjäger</i>-Steigerung.",
+      "image": "/assets/runes/8135.png",
+      "description": "Du erhältst zusätzlich 50 Gold, wenn du das nächste Mal eine Steigerung von Kopfgeldjäger sammelst. Du erhöhst das erhaltene Gold für jede Steigerung von Kopfgeldjäger um 20 Gold (maximal 130 Gold).\n\nDu erhältst für jeden gegnerischen Champion, an dessen Tod du zum 1. Mal beteiligt bist, eine Kopfgeldjäger-Steigerung."
+    },
+    "8105": {
+      "id": 8105,
+      "key": "RelentlessHunter",
+      "icon": "perk-images/Styles/Domination/RelentlessHunter/RelentlessHunter.png",
+      "name": "Erbarmungsloser Jäger",
+      "shortDesc": "<b>Erstmalige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills</lol-uikit-tooltipped-keyword> gewähren dauerhaftes <b> Lauftempo außerhalb von Kämpfen</b>. ",
+      "longDesc": "Du erhältst <speed>8&nbsp;Lauftempo</speed> außerhalb des Kampfes pro <i>Kopfgeldjäger</i>-Steigerung.Du erhältst 1&nbsp;<i>Kopfgeldjäger</i>-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist.",
+      "image": "/assets/runes/8105.png",
+      "description": "Du erhältst 8 Lauftempo außerhalb des Kampfes pro Kopfgeldjäger-Steigerung.Du erhältst 1 Kopfgeldjäger-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1. Mal beteiligt bist."
+    },
+    "8106": {
+      "id": 8106,
+      "key": "UltimateHunter",
+      "icon": "perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png",
+      "name": "Ultimativer Jäger",
+      "shortDesc": "<b>Erstmalige</b> <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills, an denen du beteiligt bist,</lol-uikit-tooltipped-keyword> gewähren dauerhaft Abklingzeitverringerung für deine Ult. ",
+      "longDesc": "Deine Ult erhält <attention>6</attention>&nbsp;Fähigkeitstempo plus zusätzlich <attention>5</attention>&nbsp;Fähigkeitstempo pro Steigerung von <i>Kopfgeldjäger</i>. <i>Du erhältst 1&nbsp;Kopfgeldjäger</i>-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1.&nbsp;Mal beteiligt bist.",
+      "image": "/assets/runes/8106.png",
+      "description": "Deine Ult erhält 6 Fähigkeitstempo plus zusätzlich 5 Fähigkeitstempo pro Steigerung von Kopfgeldjäger. Du erhältst 1 Kopfgeldjäger-Steigerung für jeden gegnerischen Champion, an dessen Tod du zum 1. Mal beteiligt bist."
+    },
+    "8351": {
+      "id": 8351,
+      "key": "GlacialAugment",
+      "icon": "perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png",
+      "name": "Eiszeit",
+      "shortDesc": "Wenn du einen gegnerischen Champion bewegungsunfähig machst, bilden sich 3&nbsp;Eisstrahlen, die nahe Gegner verlangsamen und den Schaden verringern, den sie deinen Verbündeten zufügen.",
+      "longDesc": "Wenn du einen gegnerischen Champion bewegungsunfähig machst, setzt er 3&nbsp;Eisstrahlen in deine Richtung auf nahe Champions frei, die 3 (+ Effektdauer von „bewegungsunfähig“) Sekunden lang Frostzonen erzeugen. Diese Frostzonen verlangsamen Gegner um 20&nbsp;% (+90&nbsp;% pro 100&nbsp;% Heil- und Schildkraft) (+6&nbsp;% pro 100&nbsp;Fähigkeitsstärke) (+7&nbsp;% pro 100&nbsp;zusätzlicher Angriffsschaden) und verringern den Schaden, den sie deinen Verbündeten (dich selbst ausgenommen) zufügen, um 15&nbsp;%. <br><br>Abklingzeit: 25&nbsp;Sekunden",
+      "image": "/assets/runes/8351.png",
+      "description": "Wenn du einen gegnerischen Champion bewegungsunfähig machst, setzt er 3 Eisstrahlen in deine Richtung auf nahe Champions frei, die 3 (+ Effektdauer von „bewegungsunfähig“) Sekunden lang Frostzonen erzeugen. Diese Frostzonen verlangsamen Gegner um 20 % (+90 % pro 100 % Heil- und Schildkraft) (+6 % pro 100 Fähigkeitsstärke) (+7 % pro 100 zusätzlicher Angriffsschaden) und verringern den Schaden, den sie deinen Verbündeten (dich selbst ausgenommen) zufügen, um 15 %. \n\nAbklingzeit: 25 Sekunden"
+    },
+    "8360": {
+      "id": 8360,
+      "key": "UnsealedSpellbook",
+      "icon": "perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png",
+      "name": "Entsiegeltes Zauberbuch",
+      "shortDesc": "Tausche Beschwörerzauber aus, während du dich nicht im Kampf befindest. Ein Wechsel zu einmaligen Beschwörerzaubern erhöht die Rate, mit der du zukünftig Beschwörerzauber austauschen kannst.",
+      "longDesc": "Tausche einen deiner ausgerüsteten Beschwörerzauber gegen einen neuen aus, der nur einmalig benutzt werden kann. Der Austausch jedes einmaligen Beschwörerzaubers verringert permanent die Austausch-Abklingzeit um 25&nbsp;Sekunden (die anfängliche Austausch-Abklingzeit beträgt @f3@&nbsp;Sekunden).<br><br>Nach 6&nbsp;Minuten steht dir erstmalig ein Austausch zur Verfügung. <br><rules><br>Beschwörerzauber können nur ausgetauscht werden, wenn du dich nicht im Kampf befindest. <br>Nach der Benutzung eines ausgetauschten Beschwörerzaubers musst du zunächst 3 weitere austauschen, bevor du den ersten erneut auswählen kannst.<br>Schaden durch „Zerschmettern“ wird nach zwei ausgetauschten Beschwörerzaubern erhöht. </rules>",
+      "image": "/assets/runes/8360.png",
+      "description": "Tausche einen deiner ausgerüsteten Beschwörerzauber gegen einen neuen aus, der nur einmalig benutzt werden kann. Der Austausch jedes einmaligen Beschwörerzaubers verringert permanent die Austausch-Abklingzeit um 25 Sekunden (die anfängliche Austausch-Abklingzeit beträgt @f3@ Sekunden).\n\nNach 6 Minuten steht dir erstmalig ein Austausch zur Verfügung. \n\nBeschwörerzauber können nur ausgetauscht werden, wenn du dich nicht im Kampf befindest. \nNach der Benutzung eines ausgetauschten Beschwörerzaubers musst du zunächst 3 weitere austauschen, bevor du den ersten erneut auswählen kannst.\nSchaden durch „Zerschmettern“ wird nach zwei ausgetauschten Beschwörerzaubern erhöht."
+    },
+    "8369": {
+      "id": 8369,
+      "key": "FirstStrike",
+      "icon": "perk-images/Styles/Inspiration/FirstStrike/FirstStrike.png",
+      "name": "Erstschlag",
+      "shortDesc": "Wenn du einen Kampf beginnst, verursachst du 3&nbsp;Sekunden lang 7&nbsp;% zusätzlichen Schaden und erhältst Gold basierend auf dem verursachten Schaden.",
+      "longDesc": "Angriffe oder Fähigkeiten gegen einen gegnerischen Champion innerhalb von 0.25&nbsp;Sek. nach Kampfbeginn gewähren dir 10&nbsp;Gold und 3&nbsp;Sekunden lang <b>Erstschlag</b>, wodurch du <truedamage>7&nbsp;%</truedamage> zusätzlichen <truedamage>Schaden</truedamage> an Champions verursachst. Außerdem erhältst du <gold>Gold</gold> in Höhe von <gold>50&nbsp;% (35&nbsp;% für Nahkämpfer)</gold> des verursachten zusätzlichen Schadens.<br><br>Abklingzeit: <scaleLevel>25–15</scaleLevel>&nbsp;Sek.",
+      "image": "/assets/runes/8369.png",
+      "description": "Angriffe oder Fähigkeiten gegen einen gegnerischen Champion innerhalb von 0.25 Sek. nach Kampfbeginn gewähren dir 10 Gold und 3 Sekunden lang Erstschlag, wodurch du 7 % zusätzlichen Schaden an Champions verursachst. Außerdem erhältst du Gold in Höhe von 50 % (35 % für Nahkämpfer) des verursachten zusätzlichen Schadens.\n\nAbklingzeit: 25–15 Sek."
+    },
+    "8306": {
+      "id": 8306,
+      "key": "HextechFlashtraption",
+      "icon": "perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png",
+      "name": "Hextech-Blitzfalle",
+      "shortDesc": "Wenn „Blitz“ abklingt, wird er stattdessen durch <i>„Hexablitz“</i> ersetzt.<br><br><i>„Hexablitz“</i>: Kanalisiere, um dich an einen anderen Ort zu versetzen.",
+      "longDesc": "Wenn „Blitz“ abklingt, wird er stattdessen durch <i>„Hexablitz“</i> ersetzt.<br><br><i>„Hexablitz“</i>: Kanalisiere für 2&nbsp;Sekunden, um dich an einen anderen Ort zu versetzen.<br><br>Abklingzeit: 20&nbsp;Sekunden. Eine Abklingzeit von 10&nbsp;Sekunden wird ausgelöst, wenn du den Kampf gegen einen anderen Champion beginnst.",
+      "image": "/assets/runes/8306.png",
+      "description": "Wenn „Blitz“ abklingt, wird er stattdessen durch „Hexablitz“ ersetzt.\n\n„Hexablitz“: Kanalisiere für 2 Sekunden, um dich an einen anderen Ort zu versetzen.\n\nAbklingzeit: 20 Sekunden. Eine Abklingzeit von 10 Sekunden wird ausgelöst, wenn du den Kampf gegen einen anderen Champion beginnst."
+    },
+    "8304": {
+      "id": 8304,
+      "key": "MagicalFootwear",
+      "icon": "perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png",
+      "name": "Magisches Schuhwerk",
+      "shortDesc": "Nach 12&nbsp;Minuten erhältst du kostenlose Stiefel. Du kannst allerdings davor keine Stiefel kaufen. Für jeden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kill</lol-uikit-tooltipped-keyword> erhältst du deine Stiefel 45&nbsp;Sekunden früher.",
+      "longDesc": "Nach 12&nbsp;Minuten erhältst du kostenlos Leicht magisches Schuhwerk. Du kannst davor keine Stiefel kaufen. Für jeden Kill, an dem du beteiligt bist, erhältst du die Stiefel 45&nbsp;Sekunden früher.<br><br>Leicht magisches Schuhwerk gewähren dir zusätzlich <speed>10&nbsp;Lauftempo</speed>.",
+      "image": "/assets/runes/8304.png",
+      "description": "Nach 12 Minuten erhältst du kostenlos Leicht magisches Schuhwerk. Du kannst davor keine Stiefel kaufen. Für jeden Kill, an dem du beteiligt bist, erhältst du die Stiefel 45 Sekunden früher.\n\nLeicht magisches Schuhwerk gewähren dir zusätzlich 10 Lauftempo."
+    },
+    "8321": {
+      "id": 8321,
+      "key": "CashBack",
+      "icon": "perk-images/Styles/Inspiration/CashBack/CashBack2.png",
+      "name": "Rückzahlung",
+      "shortDesc": "Du erhältst etwas Gold zurück, wenn du legendäre Gegenstände kaufst.",
+      "longDesc": "Du erhältst 7.5&nbsp;% Gold zurück, wenn du legendäre Gegenstände kaufst.",
+      "image": "/assets/runes/8321.png",
+      "description": "Du erhältst 7.5 % Gold zurück, wenn du legendäre Gegenstände kaufst."
+    },
+    "8313": {
+      "id": 8313,
+      "key": "PerfectTiming",
+      "icon": "perk-images/Styles/Inspiration/PerfectTiming/AlchemistCabinet.png",
+      "name": "Dreifach-Tonikum",
+      "shortDesc": "Wenn du Stufe 3 erreichst, erhältst du ein „Elixier der Habgier“.<br>Wenn du Stufe 6 erreichst, erhältst du ein „Elixier der Kraft“.<br>Wenn du Stufe 9 erreichst, erhältst du ein „Elixier des Könnens“. ",
+      "longDesc": "Wenn du Stufe 3 erreichst, erhältst du ein „Elixier der Habgier“.<br>Wenn du Stufe 6 erreichst, erhältst du ein „Elixier der Kraft“.<br>Wenn du Stufe 9 erreichst, erhältst du ein „Elixier des Könnens“. ",
+      "image": "/assets/runes/8313.png",
+      "description": "Wenn du Stufe 3 erreichst, erhältst du ein „Elixier der Habgier“.\nWenn du Stufe 6 erreichst, erhältst du ein „Elixier der Kraft“.\nWenn du Stufe 9 erreichst, erhältst du ein „Elixier des Könnens“."
+    },
+    "8352": {
+      "id": 8352,
+      "key": "TimeWarpTonic",
+      "icon": "perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png",
+      "name": "Tonikum der Zeitkrümmung",
+      "shortDesc": "Tränke gewähren dir sofort einen Teil ihrer Wiederherstellung.",
+      "longDesc": "Die Verwendung eines Tranks gewährt sofort 40&nbsp;% seiner Lebenswiederherstellung.",
+      "image": "/assets/runes/8352.png",
+      "description": "Die Verwendung eines Tranks gewährt sofort 40 % seiner Lebenswiederherstellung."
+    },
+    "8345": {
+      "id": 8345,
+      "key": "BiscuitDelivery",
+      "icon": "perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png",
+      "name": "Kekslieferung",
+      "shortDesc": "Du erhältst 6&nbsp;Minuten lang alle 2&nbsp;Minuten einen kostenlosen Keks. Wenn du den Keks isst oder verkaufst, erhöht das dauerhaft dein maximales Leben und stellt Leben wieder her.",
+      "longDesc": "Kekslieferung: Du erhältst 6&nbsp;Minuten lang alle 2&nbsp;Minuten einen „Absoluter Keks des unvergänglichen Willens“.<br><br>Kekse stellen 20 + 2&nbsp;% deines maximalen Lebens wieder her, was auf bis zu 100&nbsp;% erhöht wird, abhängig von deinem fehlenden Leben. Wenn du einen Keks isst oder verkaufst, erhöhst du dein maximales Leben dauerhaft um 30. ",
+      "image": "/assets/runes/8345.png",
+      "description": "Kekslieferung: Du erhältst 6 Minuten lang alle 2 Minuten einen „Absoluter Keks des unvergänglichen Willens“.\n\nKekse stellen 20 + 2 % deines maximalen Lebens wieder her, was auf bis zu 100 % erhöht wird, abhängig von deinem fehlenden Leben. Wenn du einen Keks isst oder verkaufst, erhöhst du dein maximales Leben dauerhaft um 30."
+    },
+    "8347": {
+      "id": 8347,
+      "key": "CosmicInsight",
+      "icon": "perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png",
+      "name": "Kosmische Einsicht",
+      "shortDesc": "+<attention>18</attention>&nbsp;Tempo für Beschwörerzauber<br>+<attention>10</attention>&nbsp;Tempo für Gegenstände",
+      "longDesc": "+<attention>18</attention>&nbsp;Tempo für Beschwörerzauber<br>+<attention>10</attention>&nbsp;Tempo für Gegenstände",
+      "image": "/assets/runes/8347.png",
+      "description": "+18 Tempo für Beschwörerzauber\n+10 Tempo für Gegenstände"
+    },
+    "8410": {
+      "id": 8410,
+      "key": "ApproachVelocity",
+      "icon": "perk-images/Styles/Resolve/ApproachVelocity/ApproachVelocity.png",
+      "name": "Anziehungskraft",
+      "shortDesc": "Du erhältst zusätzliches Lauftempo, wenn du dich auf nahe gegnerische Champions zubewegst, deren <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairMov'>Bewegung beeinträchtigt</lol-uikit-tooltipped-keyword> wurde. Erhöht bei gegnerischen Champions, deren Bewegung du beeinträchtigst.",
+      "longDesc": "Du erhältst <speed>7.5&nbsp;% Lauftempo</speed>, wenn du dich auf gegnerische Champions zubewegst, deren Bewegung beeinträchtigt wurde. Dieser Bonus steigt auf <speed>15&nbsp;% Lauftempo</speed> für jeden gegnerischen Champion, dessen Bewegung du beeinträchtigst. <br><br>Aktivierungsreichweite durch Massenkontrolle von Verbündeten: 1000",
+      "image": "/assets/runes/8410.png",
+      "description": "Du erhältst 7.5 % Lauftempo, wenn du dich auf gegnerische Champions zubewegst, deren Bewegung beeinträchtigt wurde. Dieser Bonus steigt auf 15 % Lauftempo für jeden gegnerischen Champion, dessen Bewegung du beeinträchtigst. \n\nAktivierungsreichweite durch Massenkontrolle von Verbündeten: 1000"
+    },
+    "8316": {
+      "id": 8316,
+      "key": "JackOfAllTrades",
+      "icon": "perk-images/Styles/Inspiration/JackOfAllTrades/JackofAllTrades2.png",
+      "name": "Alleskönner",
+      "shortDesc": "Für jeden anderen Wert, den du durch Gegenstände erhältst, erhältst du eine Alleskönner-Steigerung. Jede Steigerung gewährt dir <speed>1&nbsp;Fähigkeitstempo</speed>.<br><br>Bei 5 und 10&nbsp;Steigerungen erhältst du zusätzliche <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>adaptive Kraft</lol-uikit-tooltipped-keyword>.",
+      "longDesc": "Für jeden anderen Wert, den du durch Gegenstände erhältst, erhältst du eine Alleskönner-Steigerung. Jede Steigerung gewährt dir <speed>1 Fähigkeitstempo</speed>.<br><br>Erhalte bei 5 bzw. 10 Steigerungen 8 bzw. 20 zusätzliche <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>adaptive Kraft</lol-uikit-tooltipped-keyword>.",
+      "image": "/assets/runes/8316.png",
+      "description": "Für jeden anderen Wert, den du durch Gegenstände erhältst, erhältst du eine Alleskönner-Steigerung. Jede Steigerung gewährt dir 1 Fähigkeitstempo.\n\nErhalte bei 5 bzw. 10 Steigerungen 8 bzw. 20 zusätzliche adaptive Kraft."
+    },
+    "8005": {
+      "id": 8005,
+      "key": "PressTheAttack",
+      "icon": "perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png",
+      "name": "Fokussierter Angriff",
+      "shortDesc": "Wenn du einen gegnerischen Champion 3-mal hintereinander triffst, wird zusätzlicher Schaden verursacht und dein Schaden bis zum Ende des Kampfes mit Champions erhöht.",
+      "longDesc": "Einen gegnerischen Champion mit 3&nbsp;aufeinanderfolgenden normalen Angriffen zu treffen, verursacht 40–160&nbsp;zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>adaptiven Schaden</font></lol-uikit-tooltipped-keyword> (abhängig von der Stufe) und erhöht den Schaden, den du verursachst, um 8&nbsp;%, bis du den Kampf mit Champions verlässt.",
+      "image": "/assets/runes/8005.png",
+      "description": "Einen gegnerischen Champion mit 3 aufeinanderfolgenden normalen Angriffen zu treffen, verursacht 40–160 zusätzlichen adaptiven Schaden (abhängig von der Stufe) und erhöht den Schaden, den du verursachst, um 8 %, bis du den Kampf mit Champions verlässt."
+    },
+    "8008": {
+      "id": 8008,
+      "key": "LethalTempo",
+      "icon": "perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png",
+      "name": "Tödliches Tempo",
+      "shortDesc": "Wenn du einen gegnerischen Champion angreifst, erhältst du Angriffstempo (maximal 6&nbsp;Steigerungen). Bei maximalen Steigerungen verursachen Angriffe <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>zusätzlichen adaptiven Schaden</font></lol-uikit-tooltipped-keyword> bei Angriffen.",
+      "longDesc": "Wenn du einen gegnerischen Champion angreifst, erhältst du 6&nbsp;Sekunden lang [6&nbsp;% für Nahkämpfer || 4&nbsp;% für Fernkämpfer] Angriffstempo (maximal 6&nbsp;Steigerungen). Bei maximalen Steigerungen verursachen Angriffe [9–30 für Nahkämpfer || 6–24 für Fernkämpfer] <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>zusätzlichen adaptiven Schaden bei Angriffen, der pro 1&nbsp;% zusätzliches Angriffstempo um 1&nbsp;% erhöht wird</lol-uikit-tooltipped-keyword>.",
+      "image": "/assets/runes/8008.png",
+      "description": "Wenn du einen gegnerischen Champion angreifst, erhältst du 6 Sekunden lang [6 % für Nahkämpfer || 4 % für Fernkämpfer] Angriffstempo (maximal 6 Steigerungen). Bei maximalen Steigerungen verursachen Angriffe [9–30 für Nahkämpfer || 6–24 für Fernkämpfer] zusätzlichen adaptiven Schaden bei Angriffen, der pro 1 % zusätzliches Angriffstempo um 1 % erhöht wird."
+    },
+    "8021": {
+      "id": 8021,
+      "key": "FleetFootwork",
+      "icon": "perk-images/Styles/Precision/FleetFootwork/FleetFootwork.png",
+      "name": "Leichtfüßigkeit",
+      "shortDesc": "Deine Angriffe und Bewegungen bauen Energiesteigerungen auf. Bei 100 Steigerungen heilt dich dein nächster Angriff und gewährt dir erhöhtes Lauftempo.",
+      "longDesc": "Angriffe und Bewegungen bauen Energiesteigerungen auf. Bei 100&nbsp;Steigerungen ist der nächste Angriff aufgeladen.<br><br>Aufgeladene Angriffe heilen dich um 15–160 (+0.1&nbsp;zusätzlicher Angriffsschaden, +0.05&nbsp;Fähigkeitsstärke) und gewähren 1&nbsp;Sekunde(n) lang <speed>20&nbsp;% Lauftempo</speed>.<br><br>Die Effektivität der Heilung beträgt für Fernkampf-Champions 60&nbsp;% und die Effektivität des Lauftempos beträgt 75&nbsp;%. Die Effektivität der gesamten Heilung durch Vasallen beträgt 15&nbsp;%.",
+      "image": "/assets/runes/8021.png",
+      "description": "Angriffe und Bewegungen bauen Energiesteigerungen auf. Bei 100 Steigerungen ist der nächste Angriff aufgeladen.\n\nAufgeladene Angriffe heilen dich um 15–160 (+0.1 zusätzlicher Angriffsschaden, +0.05 Fähigkeitsstärke) und gewähren 1 Sekunde(n) lang 20 % Lauftempo.\n\nDie Effektivität der Heilung beträgt für Fernkampf-Champions 60 % und die Effektivität des Lauftempos beträgt 75 %. Die Effektivität der gesamten Heilung durch Vasallen beträgt 15 %."
+    },
+    "8010": {
+      "id": 8010,
+      "key": "Conqueror",
+      "icon": "perk-images/Styles/Precision/Conqueror/Conqueror.png",
+      "name": "Eroberer",
+      "shortDesc": "Du erhältst Steigerungen adaptiver Kraft, wenn du gegnerische Champions angreifst. Bei 12&nbsp;Steigerungen heilst du dich um einen Teil des an Champions verursachten Schadens.",
+      "longDesc": "Normale Angriffe oder Fähigkeiten, die gegnerischen Champions Schaden zufügen, gewähren 5&nbsp;Sekunden lang 2&nbsp;Steigerungen von „Eroberer“. Jede Steigerung verleiht 1.8–4 <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptive Kraft</font></lol-uikit-tooltipped-keyword>. Maximal 12&nbsp;Steigerungen. Fernkampf-Champions erhalten nur 1&nbsp;Steigerung pro normalem Angriff.<br><br>Bei maximalen Steigerungen heilst du dich um 8&nbsp;% des an Champions verursachten Schadens (5&nbsp;% bei Fernkampf-Champions).",
+      "image": "/assets/runes/8010.png",
+      "description": "Normale Angriffe oder Fähigkeiten, die gegnerischen Champions Schaden zufügen, gewähren 5 Sekunden lang 2 Steigerungen von „Eroberer“. Jede Steigerung verleiht 1.8–4 adaptive Kraft. Maximal 12 Steigerungen. Fernkampf-Champions erhalten nur 1 Steigerung pro normalem Angriff.\n\nBei maximalen Steigerungen heilst du dich um 8 % des an Champions verursachten Schadens (5 % bei Fernkampf-Champions)."
+    },
+    "9101": {
+      "id": 9101,
+      "key": "AbsorbLife",
+      "icon": "perk-images/Styles/Precision/AbsorbLife/AbsorbLife.png",
+      "name": "Leben absorbieren",
+      "shortDesc": "Wenn du ein Ziel tötest, wirst du geheilt.",
+      "longDesc": "Wenn du ein Ziel tötest, wirst du um @HealAmount@ geheilt.",
+      "image": "/assets/runes/9101.png",
+      "description": "Wenn du ein Ziel tötest, wirst du um @HealAmount@ geheilt."
+    },
+    "9111": {
+      "id": 9111,
+      "key": "Triumph",
+      "icon": "perk-images/Styles/Precision/Triumph.png",
+      "name": "Triumph",
+      "shortDesc": "<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>Kills</lol-uikit-tooltipped-keyword> stellen 5&nbsp;% deines fehlenden Lebens wieder her und gewähren zusätzlich 20&nbsp;Gold. ",
+      "longDesc": "Kills und Unterstützungen stellen 5&nbsp;% deines fehlenden Lebens und 2.5&nbsp;% deines maximalen Lebens wieder her und gewähren zusätzlich 20&nbsp;Gold. <br><br><hr><br><i>„Das gefährlichste Spiel bringt den größten Ruhm.“ <br>—&nbsp;Noxianischer Vergelter</i>",
+      "image": "/assets/runes/9111.png",
+      "description": "Kills und Unterstützungen stellen 5 % deines fehlenden Lebens und 2.5 % deines maximalen Lebens wieder her und gewähren zusätzlich 20 Gold. \n\n\n„Das gefährlichste Spiel bringt den größten Ruhm.“ \n— Noxianischer Vergelter"
+    },
+    "8009": {
+      "id": 8009,
+      "key": "PresenceOfMind",
+      "icon": "perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png",
+      "name": "Geistesgegenwart",
+      "shortDesc": "Wenn du einem gegnerischen Champion Schaden zufügst, wird eine kleine Menge Mana oder Energie wiederhergestellt. Kills/Unterstützungen stellen Mana oder Energie wieder her.",
+      "longDesc": "Wenn du einem gegnerischen Champion Schaden zufügst, wird 6–50&nbsp;Mana wiederhergestellt (80&nbsp;% bei Fernkämpfern). Champions, die Energie nutzen, erhalten stattdessen 6&nbsp;Energie.<br><br>Kills/Unterstützungen stellen 15&nbsp;% deines maximalen Manas bzw. deiner maximalen Energie wieder her.<br><br>Abklingzeit für die Schadenswiederherstellung: 8&nbsp;Sek.",
+      "image": "/assets/runes/8009.png",
+      "description": "Wenn du einem gegnerischen Champion Schaden zufügst, wird 6–50 Mana wiederhergestellt (80 % bei Fernkämpfern). Champions, die Energie nutzen, erhalten stattdessen 6 Energie.\n\nKills/Unterstützungen stellen 15 % deines maximalen Manas bzw. deiner maximalen Energie wieder her.\n\nAbklingzeit für die Schadenswiederherstellung: 8 Sek."
+    },
+    "9104": {
+      "id": 9104,
+      "key": "LegendAlacrity",
+      "icon": "perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png",
+      "name": "Legende: Eifer",
+      "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest</lol-uikit-tooltipped-keyword>, erhältst du dauerhaftes <b>Angriffstempo</b>. ",
+      "longDesc": "Du erhältst für jede <i>„Legenden“</i>-Steigerung 3&nbsp;% Angriffstempo sowie zusätzliche 1.5&nbsp;% (<statGood>max. 10&nbsp;Steigerungen</statGood>).<br><br>Du kannst deine <i>„Legenden“</i>-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest.",
+      "image": "/assets/runes/9104.png",
+      "description": "Du erhältst für jede „Legenden“-Steigerung 3 % Angriffstempo sowie zusätzliche 1.5 % (max. 10 Steigerungen).\n\nDu kannst deine „Legenden“-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest."
+    },
+    "9105": {
+      "id": 9105,
+      "key": "LegendHaste",
+      "icon": "perk-images/Styles/Precision/LegendHaste/LegendHaste.png",
+      "name": "Legende: Hast",
+      "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest</lol-uikit-tooltipped-keyword>, erhältst du dauerhaftes <b>Grundfähigkeitstempo</b>. ",
+      "longDesc": "Du erhältst für jede <i>Legenden</i>-Steigerung 1,5&nbsp;Grundfähigkeitstempo (<statGood>maximal 10&nbsp;Steigerungen</statGood>).<br><br>Du kannst deine <i>Legenden</i>-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest.",
+      "image": "/assets/runes/9105.png",
+      "description": "Du erhältst für jede Legenden-Steigerung 1,5 Grundfähigkeitstempo (maximal 10 Steigerungen).\n\nDu kannst deine Legenden-Steigerungen erhöhen, indem du Champions tötest, epische Monster niederringst, große Monster erlegst oder Vasallen ausschaltest."
+    },
+    "9103": {
+      "id": 9103,
+      "key": "LegendBloodline",
+      "icon": "perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png",
+      "name": "Legende: Blutdurst",
+      "shortDesc": "Wenn du Gegner <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Takedown'>tötest,</lol-uikit-tooltipped-keyword> erhältst du dauerhaften<b> Lebensraub</b> bis zu einer Obergrenze. Ist die Obergrenze erreicht, wird dein maximales Leben erhöht. Im frühen Spiel schwächer, im späten Spiel dafür stärker als andere Legenden-Runen.",
+      "longDesc": "Gewährt für jede <i>Legenden</i>-Steigerung <scaleAD>0.45&nbsp;% Lebensraub</scaleAD> (<statGood>max. 15&nbsp;Steigerungen</statGood>). Bei maximalen <i>Legenden</i>-Steigerungen erhältst du <scaleHealth>85&nbsp;maximales Leben</scaleHealth>.<br><br>Erhöhe deine <i>Legenden</i>-Steigerungen durch Takedowns von Champions oder epischen Monstern sowie Kills von großen Monstern oder Vasallen.",
+      "image": "/assets/runes/9103.png",
+      "description": "Gewährt für jede Legenden-Steigerung 0.45 % Lebensraub (max. 15 Steigerungen). Bei maximalen Legenden-Steigerungen erhältst du 85 maximales Leben.\n\nErhöhe deine Legenden-Steigerungen durch Takedowns von Champions oder epischen Monstern sowie Kills von großen Monstern oder Vasallen."
+    },
+    "8014": {
+      "id": 8014,
+      "key": "CoupDeGrace",
+      "icon": "perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png",
+      "name": "Gnadenstoß",
+      "shortDesc": "Verursache mehr Schaden an Champions mit wenig Leben.",
+      "longDesc": "Du verursachst 8&nbsp;% zusätzlichen Schaden an Champions, deren Leben unter 40&nbsp;% liegt.",
+      "image": "/assets/runes/8014.png",
+      "description": "Du verursachst 8 % zusätzlichen Schaden an Champions, deren Leben unter 40 % liegt."
+    },
+    "8017": {
+      "id": 8017,
+      "key": "CutDown",
+      "icon": "perk-images/Styles/Precision/CutDown/CutDown.png",
+      "name": "Niedermäher",
+      "shortDesc": "Du verursachst mehr Schaden an gegnerischen Champions mit viel Leben.",
+      "longDesc": "Du verursachst 8&nbsp;% zusätzlichen Schaden an Champions, die über mehr als 60&nbsp;% ihres Lebens verfügen.",
+      "image": "/assets/runes/8017.png",
+      "description": "Du verursachst 8 % zusätzlichen Schaden an Champions, die über mehr als 60 % ihres Lebens verfügen."
+    },
+    "8299": {
+      "id": 8299,
+      "key": "LastStand",
+      "icon": "perk-images/Styles/Sorcery/LastStand/LastStand.png",
+      "name": "Letztes Gefecht",
+      "shortDesc": "Verursache mehr Schaden an Champions, wenn du wenig Leben hast.",
+      "longDesc": "Verursache 5–11&nbsp;% zusätzlichen Schaden an Champions, wenn dein Leben unter 60&nbsp;% liegt. Der maximale Schaden wird bei 30&nbsp;% Leben erreicht.",
+      "image": "/assets/runes/8299.png",
+      "description": "Verursache 5–11 % zusätzlichen Schaden an Champions, wenn dein Leben unter 60 % liegt. Der maximale Schaden wird bei 30 % Leben erreicht."
+    },
+    "8437": {
+      "id": 8437,
+      "key": "GraspOfTheUndying",
+      "icon": "perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png",
+      "name": "Umklammerung der Untoten",
+      "shortDesc": "Alle 4 Sekunden verursacht dein nächster Angriff zusätzlichen magischen Schaden an gegnerischen Champions, heilt dich und erhöht dein Leben dauerhaft.",
+      "longDesc": "Im Kampf hat dein nächster normaler Angriff auf einen Champion alle 4&nbsp;Sekunden die folgenden Effekte:<li>Er verursacht 3.5&nbsp;% deines maximalen Lebens als zusätzlichen magischen Schaden.<li>Er heilt dich um 1.3&nbsp;% deines maximalen Lebens.<li>Er erhöht dein maximales Leben dauerhaft um 5.<br><rules><i>Fernkampf-Champions:</i> Schaden, Heilung und dauerhaftes Leben sind 40&nbsp;% effektiv.</rules>",
+      "image": "/assets/runes/8437.png",
+      "description": "Im Kampf hat dein nächster normaler Angriff auf einen Champion alle 4 Sekunden die folgenden Effekte:Er verursacht 3.5 % deines maximalen Lebens als zusätzlichen magischen Schaden.Er heilt dich um 1.3 % deines maximalen Lebens.Er erhöht dein maximales Leben dauerhaft um 5.\nFernkampf-Champions: Schaden, Heilung und dauerhaftes Leben sind 40 % effektiv."
+    },
+    "8439": {
+      "id": 8439,
+      "key": "Aftershock",
+      "icon": "perk-images/Styles/Resolve/VeteranAftershock/VeteranAftershock.png",
+      "name": "Nachbeben",
+      "shortDesc": "Nachdem du einen gegnerischen Champion <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Immobilize'>bewegungsunfähig</lol-uikit-tooltipped-keyword> gemacht hast, erhältst du Verteidigung und verursachst nach einer Verzögerung um dich herum magischen Schaden.",
+      "longDesc": "Nachdem du einen gegnerischen Champion bewegungsunfähig gemacht hast, erhöhen sich deine Rüstung und Magieresistenz 2.5&nbsp;Sek. lang um 45 + 75&nbsp;% deiner zusätzlichen Resistenzen. Daraufhin löst du eine Explosion aus und verursachst magischen Schaden an nahen Gegnern.<br><br>Schaden: 25–120 (+8&nbsp;% deines zusätzlichen Lebens)<br>Abklingzeit: 20&nbsp;Sekunden<br><br>Resistenzbonus von Nachbeben beträgt maximal: 80-150 (abhängig von der Stufe)<br>",
+      "image": "/assets/runes/8439.png",
+      "description": "Nachdem du einen gegnerischen Champion bewegungsunfähig gemacht hast, erhöhen sich deine Rüstung und Magieresistenz 2.5 Sek. lang um 45 + 75 % deiner zusätzlichen Resistenzen. Daraufhin löst du eine Explosion aus und verursachst magischen Schaden an nahen Gegnern.\n\nSchaden: 25–120 (+8 % deines zusätzlichen Lebens)\nAbklingzeit: 20 Sekunden\n\nResistenzbonus von Nachbeben beträgt maximal: 80-150 (abhängig von der Stufe)"
+    },
+    "8465": {
+      "id": 8465,
+      "key": "Guardian",
+      "icon": "perk-images/Styles/Resolve/Guardian/Guardian.png",
+      "name": "Bewahrer",
+      "shortDesc": "Schütze Verbündete in deiner Nähe und Verbündete, auf die du Fähigkeiten wirkst. Wenn du oder ein geschützter Verbündeter einen gewisse Menge Schaden (abhängig von der Stufe) erleiden würden, erhaltet ihr einen Schild.",
+      "longDesc": "<i>Beschütze</i> 2.5&nbsp;Sekunden lang Verbündete, die sich in einer Reichweite von 350&nbsp;Einheiten zu dir aufhalten, und Verbündete, die du mit Fähigkeiten anvisierst. Wenn du oder ein <i>geschützter</i> Verbündeter eine gewisse Menge Schaden erleiden, während <i>Schutz</i> aktiv ist, erhaltet ihr 1.5&nbsp;Sekunden lang einen Schild.<br><br>Abklingzeit: <scaleLevel>75–40</scaleLevel>&nbsp;Sekunden<br>Schild: <scaleLevel>40–150</scaleLevel> + <scaleAP>20&nbsp;%</scaleAP> deiner Fähigkeitsstärke + <scalehealth>6&nbsp;%</scalehealth> deines zusätzlichen Lebens<br>Aktivierungsschwelle: <scaleLevel>50–165</scaleLevel>&nbsp;Nachabzugsschaden",
+      "image": "/assets/runes/8465.png",
+      "description": "Beschütze 2.5 Sekunden lang Verbündete, die sich in einer Reichweite von 350 Einheiten zu dir aufhalten, und Verbündete, die du mit Fähigkeiten anvisierst. Wenn du oder ein geschützter Verbündeter eine gewisse Menge Schaden erleiden, während Schutz aktiv ist, erhaltet ihr 1.5 Sekunden lang einen Schild.\n\nAbklingzeit: 75–40 Sekunden\nSchild: 40–150 + 20 % deiner Fähigkeitsstärke + 6 % deines zusätzlichen Lebens\nAktivierungsschwelle: 50–165 Nachabzugsschaden"
+    },
+    "8446": {
+      "id": 8446,
+      "key": "Demolish",
+      "icon": "perk-images/Styles/Resolve/Demolish/Demolish.png",
+      "name": "Abriss",
+      "shortDesc": "Dein dritter Angriff gegen Türme verursacht zusätzlichen Schaden.",
+      "longDesc": "Dein dritter Angriff gegen Türme verursacht [85 (+28&nbsp;% max. Leben) Nahkampf || 50 (+20&nbsp;% max. Leben) Fernkampf] zusätzlichen normalen Schaden.<br><br>Abklingzeit: 30&nbsp;Sek.",
+      "image": "/assets/runes/8446.png",
+      "description": "Dein dritter Angriff gegen Türme verursacht [85 (+28 % max. Leben) Nahkampf || 50 (+20 % max. Leben) Fernkampf] zusätzlichen normalen Schaden.\n\nAbklingzeit: 30 Sek."
+    },
+    "8463": {
+      "id": 8463,
+      "key": "FontOfLife",
+      "icon": "perk-images/Styles/Resolve/FontOfLife/FontOfLife.png",
+      "name": "Lebensquelle",
+      "shortDesc": "Wenn die Bewegung eines gegnerischen Champions <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_ImpairMov'>eingeschränkt</lol-uikit-tooltipped-keyword> wird, werden verbündete Champions in der Nähe geheilt. ",
+      "longDesc": "Wenn die Bewegung eines gegnerischen Champions eingeschränkt wird, werden du und der verbündete Champion mit dem niedrigsten Leben in deiner Nähe um <healing>@BaseHeal@&nbsp;Leben</healing> geheilt.<br><br>70&nbsp;% Effekt für Fernkämpfer.<br><br>Abklingzeit: 20&nbsp;Sek.",
+      "image": "/assets/runes/8463.png",
+      "description": "Wenn die Bewegung eines gegnerischen Champions eingeschränkt wird, werden du und der verbündete Champion mit dem niedrigsten Leben in deiner Nähe um @BaseHeal@ Leben geheilt.\n\n70 % Effekt für Fernkämpfer.\n\nAbklingzeit: 20 Sek."
+    },
+    "8401": {
+      "id": 8401,
+      "key": "ShieldBash",
+      "icon": "perk-images/Styles/Resolve/MirrorShell/MirrorShell.png",
+      "name": "Schildschlag",
+      "shortDesc": "Wenn du einen Schild erhältst, verursacht dein nächster normaler Angriff gegen einen Champion zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiven</font></lol-uikit-tooltipped-keyword> Schaden.",
+      "longDesc": "Wenn du einen neuen Schild erhältst, verursacht dein nächster normaler Angriff gegen einen Champion <scaleLevel>5–30</scaleLevel> <scaleHealth>(+2.5&nbsp;% zusätzliches Leben)</scaleHealth> <scaleMana>(+15.0&nbsp;% neue Schildstärke)</scaleMana> zusätzlichen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiven</font></lol-uikit-tooltipped-keyword> Schaden.<br><br>Diesen Effekt kannst du bis zu 2&nbsp;Sekunden nach Ablauf des Schilds nutzen.",
+      "image": "/assets/runes/8401.png",
+      "description": "Wenn du einen neuen Schild erhältst, verursacht dein nächster normaler Angriff gegen einen Champion 5–30 (+2.5 % zusätzliches Leben) (+15.0 % neue Schildstärke) zusätzlichen adaptiven Schaden.\n\nDiesen Effekt kannst du bis zu 2 Sekunden nach Ablauf des Schilds nutzen."
+    },
+    "8429": {
+      "id": 8429,
+      "key": "Conditioning",
+      "icon": "perk-images/Styles/Resolve/Conditioning/Conditioning.png",
+      "name": "Konditionierung",
+      "shortDesc": "Nach 12 Minuten erhältst du +8 Rüstung und +8 Magieresistenz und deine Rüstung sowie Magieresistenz erhöhen sich um 3&nbsp;%.",
+      "longDesc": "Nach 12 Minuten erhältst du +8 Rüstung und +8 Magieresistenz und deine Rüstung sowie Magieresistenz erhöhen sich um 3&nbsp;%.",
+      "image": "/assets/runes/8429.png",
+      "description": "Nach 12 Minuten erhältst du +8 Rüstung und +8 Magieresistenz und deine Rüstung sowie Magieresistenz erhöhen sich um 3 %."
+    },
+    "8444": {
+      "id": 8444,
+      "key": "SecondWind",
+      "icon": "perk-images/Styles/Resolve/SecondWind/SecondWind.png",
+      "name": "Aufschwung",
+      "shortDesc": "Wenn du Schaden durch einen gegnerischen Champion erleidest, wirst du über Zeit um einen Teil deines fehlenden Lebens geheilt. ",
+      "longDesc": "Wenn du Schaden durch einen gegnerischen Champion erleidest, wirst du über 10 Sekunden hinweg um 4 % deines fehlenden Lebens geheilt.",
+      "image": "/assets/runes/8444.png",
+      "description": "Wenn du Schaden durch einen gegnerischen Champion erleidest, wirst du über 10 Sekunden hinweg um 4 % deines fehlenden Lebens geheilt."
+    },
+    "8473": {
+      "id": 8473,
+      "key": "BonePlating",
+      "icon": "perk-images/Styles/Resolve/BonePlating/BonePlating.png",
+      "name": "Knochenpanzerung",
+      "shortDesc": "Nachdem ein gegnerischer Champion dir Schaden zugefügt hat, verursachen seine nächsten 3&nbsp;Fähigkeiten oder Angriffe gegen dich 30–60 (abhängig von de Stufe) weniger Schaden.<br><br>Dauer: 1.5&nbsp;s<br>Abklingzeit: 55&nbsp;Sekunden",
+      "longDesc": "Nachdem ein gegnerischer Champion dir Schaden zugefügt hat, verursachen seine nächsten 3&nbsp;Fähigkeiten oder Angriffe gegen dich 30–60 (abhängig von de Stufe) weniger Schaden.<br><br>Dauer: 1.5&nbsp;s<br>Abklingzeit: 55&nbsp;Sekunden",
+      "image": "/assets/runes/8473.png",
+      "description": "Nachdem ein gegnerischer Champion dir Schaden zugefügt hat, verursachen seine nächsten 3 Fähigkeiten oder Angriffe gegen dich 30–60 (abhängig von de Stufe) weniger Schaden.\n\nDauer: 1.5 s\nAbklingzeit: 55 Sekunden"
+    },
+    "8451": {
+      "id": 8451,
+      "key": "Overgrowth",
+      "icon": "perk-images/Styles/Resolve/Overgrowth/Overgrowth.png",
+      "name": "Zuwachs",
+      "shortDesc": "Erhalte dauerhaft maximales Leben, wenn Monster oder gegnerische Vasallen in deiner Nähe sterben.",
+      "longDesc": "Du absorbierst Lebensessenz von Monstern und gegnerischen Vasallen, die in deiner Nähe sterben, und erhältst dauerhaft 3&nbsp;maximales Leben pro 8&nbsp;Einheit.<br><br>Wenn du die Lebensessenz von 120&nbsp;Monstern oder gegnerischen Vasallen absorbiert hast, erhältst du zusätzlich 3.5&nbsp;% maximales Leben.",
+      "image": "/assets/runes/8451.png",
+      "description": "Du absorbierst Lebensessenz von Monstern und gegnerischen Vasallen, die in deiner Nähe sterben, und erhältst dauerhaft 3 maximales Leben pro 8 Einheit.\n\nWenn du die Lebensessenz von 120 Monstern oder gegnerischen Vasallen absorbiert hast, erhältst du zusätzlich 3.5 % maximales Leben."
+    },
+    "8453": {
+      "id": 8453,
+      "key": "Revitalize",
+      "icon": "perk-images/Styles/Resolve/Revitalize/Revitalize.png",
+      "name": "Frische",
+      "shortDesc": "Erhalte 5&nbsp;% Heil- und Schildkraft.<br><br>Von dir gewirkte oder erhaltene Heilungen und Schilde sind 10&nbsp;% stärker, wenn das Leben des Ziels unter 40&nbsp;% liegt.",
+      "longDesc": "Erhalte 5&nbsp;% Heil- und Schildkraft.<br><br>Von dir gewirkte oder erhaltene Heilungen und Schilde sind 10&nbsp;% stärker, wenn das Leben des Ziels unter 40&nbsp;% liegt.",
+      "image": "/assets/runes/8453.png",
+      "description": "Erhalte 5 % Heil- und Schildkraft.\n\nVon dir gewirkte oder erhaltene Heilungen und Schilde sind 10 % stärker, wenn das Leben des Ziels unter 40 % liegt."
+    },
+    "8242": {
+      "id": 8242,
+      "key": "Unflinching",
+      "icon": "perk-images/Styles/Sorcery/Unflinching/Unflinching.png",
+      "name": "Unerschrocken",
+      "shortDesc": "Du erhältst Rüstung und Magieresistenz, wenn du von Massenkontrolle betroffen bist.",
+      "longDesc": "Du erhältst 10&nbsp;Rüstung und Magieresistenz, während du von Massenkontrolle betroffen bist und für weitere 2&nbsp;Sekunden nach ihrem Ende.",
+      "image": "/assets/runes/8242.png",
+      "description": "Du erhältst 10 Rüstung und Magieresistenz, während du von Massenkontrolle betroffen bist und für weitere 2 Sekunden nach ihrem Ende."
+    },
+    "8214": {
+      "id": 8214,
+      "key": "SummonAery",
+      "icon": "perk-images/Styles/Sorcery/SummonAery/SummonAery.png",
+      "name": "Benefee-Beschwörung",
+      "shortDesc": "Deine Angriffe und Fähigkeiten schicken Benefee zu einem Ziel. Sie verursacht dabei an Gegnern Schaden oder verleiht Verbündeten einen Schild.",
+      "longDesc": "Erleiden gegnerische Champions durch normale Angriffe oder Fähigkeiten Schaden, wird Benefee zu ihnen ausgesendet. Sie verursacht dabei 10–50&nbsp;Schaden abhängig von der Stufe (+<scaleAP>0.05 Fähigkeitsstärke</scaleAP>) (+<scaleAD>0.1 zusätzlicher Angriffsschaden</scaleAD>).<br>Werden Verbündete durch Fähigkeiten verstärkt oder beschützt, wird Benefee zu ihnen ausgesendet und gewährt ihnen einen Schild in Höhe von 20 - 100&nbsp;Schaden abhängig von der Stufe (+<scaleAP>0.05 Fähigkeitsstärke</scaleAP>) (+<scaleAD>0.1 zusätzlicher Angriffsschaden</scaleAD>).<br>Benefee kann erst erneut ausgeschickt werden, wenn sie zu dir zurückgekehrt ist.",
+      "image": "/assets/runes/8214.png",
+      "description": "Erleiden gegnerische Champions durch normale Angriffe oder Fähigkeiten Schaden, wird Benefee zu ihnen ausgesendet. Sie verursacht dabei 10–50 Schaden abhängig von der Stufe (+0.05 Fähigkeitsstärke) (+0.1 zusätzlicher Angriffsschaden).\nWerden Verbündete durch Fähigkeiten verstärkt oder beschützt, wird Benefee zu ihnen ausgesendet und gewährt ihnen einen Schild in Höhe von 20 - 100 Schaden abhängig von der Stufe (+0.05 Fähigkeitsstärke) (+0.1 zusätzlicher Angriffsschaden).\nBenefee kann erst erneut ausgeschickt werden, wenn sie zu dir zurückgekehrt ist."
+    },
+    "8229": {
+      "id": 8229,
+      "key": "ArcaneComet",
+      "icon": "perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png",
+      "name": "Arkaner Komet",
+      "shortDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, fliegt ein Schaden verursachender Komet an dessen Position.",
+      "longDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, fliegt ein Komet an dessen Position und verursacht je nach Distanz erhöhten Schaden.<br><br><lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'><font color='#48C4B7'>Adaptiver Schaden</font></lol-uikit-tooltipped-keyword>: 15–100 je nach Stufe (<scaleAP>+ 0.05 Fähigkeitsstärke</scaleAP> und <scaleAD>+ 0.1 zusätzlicher Angriffsschaden</scaleAD>)<br>Abklingzeit: 20–8 Sek.<br><rules><br>Schadensverstärkung skaliert bei einer Reichweite von 750 auf bis zu 100&nbsp;%.<br></rules>",
+      "image": "/assets/runes/8229.png",
+      "description": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, fliegt ein Komet an dessen Position und verursacht je nach Distanz erhöhten Schaden.\n\nAdaptiver Schaden: 15–100 je nach Stufe (+ 0.05 Fähigkeitsstärke und + 0.1 zusätzlicher Angriffsschaden)\nAbklingzeit: 20–8 Sek.\n\nSchadensverstärkung skaliert bei einer Reichweite von 750 auf bis zu 100 %."
+    },
+    "8230": {
+      "id": 8230,
+      "key": "PhaseRush",
+      "icon": "perk-images/Styles/Sorcery/PhaseRush/StormraidersSurgeRuneIcon2.png",
+      "name": "Woge des Sturmräubers",
+      "shortDesc": "Triffst du einen Champion mit 25&nbsp;% seines max. Lebens, erhältst du einen <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_MS'>Lauftemposchub</lol-uikit-tooltipped-keyword> und Resistenz gegen Verlangsamung. ",
+      "longDesc": "Wenn du einem Champion innerhalb von 3&nbsp;Sek. Schaden in Höhe von 25&nbsp;% des maximalen Lebens zufügst, erhältst du 4&nbsp;Sek. lang <speed>48&nbsp;% Lauftempo</speed> und <status>50&nbsp;% Resistenz gegen Verlangsamung</status>. Lauftempo ist für Fernkampf-Champions zu 75&nbsp;% effektiv.<br>Abklingzeit: 20–10&nbsp;Sek.",
+      "image": "/assets/runes/8230.png",
+      "description": "Wenn du einem Champion innerhalb von 3 Sek. Schaden in Höhe von 25 % des maximalen Lebens zufügst, erhältst du 4 Sek. lang 48 % Lauftempo und 50 % Resistenz gegen Verlangsamung. Lauftempo ist für Fernkampf-Champions zu 75 % effektiv.\nAbklingzeit: 20–10 Sek."
+    },
+    "8992": {
+      "id": 8992,
+      "key": "DeathfireTouch",
+      "icon": "perk-images/Styles/Sorcery/DeathfireTouch/DEATHFIRE_TOUCH_KEYSTONE.png",
+      "name": "Berührung des Todesfeuers",
+      "shortDesc": "Wenn du einem Champion mit einer Fähigkeit Schaden zufügst, erleidet er Verbrennungsschaden über Zeit.",
+      "longDesc": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, erleidet er pro Sekunde 3–12 magischen Schaden, abhängig von der Stufe (+ <scaleAP>2.5&nbsp;% Fähigkeitsstärke</scaleAP>) (+ <scaleAD>7&nbsp;% zusätzlicher Angriffsschaden</scaleAD>). Nachdem das Ziel 3&nbsp;Sekunden lang gebrannt hat, erhöht sich der Schaden um 75&nbsp;%, solange es in Flammen steht.<br><rules><br>Dauer:<br>Einzelziel: 4&nbsp;Sek.<br>Flächenwirkung: 2&nbsp;Sek.<br>Schaden über Zeit: 1&nbsp;Sek.<br></rules>",
+      "image": "/assets/runes/8992.png",
+      "description": "Wenn ein Champion durch eine Fähigkeit Schaden erleidet, erleidet er pro Sekunde 3–12 magischen Schaden, abhängig von der Stufe (+ 2.5 % Fähigkeitsstärke) (+ 7 % zusätzlicher Angriffsschaden). Nachdem das Ziel 3 Sekunden lang gebrannt hat, erhöht sich der Schaden um 75 %, solange es in Flammen steht.\n\nDauer:\nEinzelziel: 4 Sek.\nFlächenwirkung: 2 Sek.\nSchaden über Zeit: 1 Sek."
+    },
+    "8224": {
+      "id": 8224,
+      "key": "NullifyingOrb",
+      "icon": "perk-images/Styles/Sorcery/NullifyingOrb/Axiom_Arcanist.png",
+      "name": "Axiom-Arkanist",
+      "shortDesc": "Deine Ult hat Schaden, Heilung und Schildstärke erhöht. Kills/Unterstützungen gegen gegnerische Champions reduzieren die aktuelle Abklingzeit deiner Ult.",
+      "longDesc": "Schaden, Heilung und Schilde deiner Ult sind um 12&nbsp;% erhöht. <br>(Der Flächenschaden ist um 8&nbsp;% erhöht.)<br><br>Erzielte Kills/Unterstützungen gegen gegnerische Champions verkürzen die aktuelle Abklingzeit der Ult um 7&nbsp;%.",
+      "image": "/assets/runes/8224.png",
+      "description": "Schaden, Heilung und Schilde deiner Ult sind um 12 % erhöht. \n(Der Flächenschaden ist um 8 % erhöht.)\n\nErzielte Kills/Unterstützungen gegen gegnerische Champions verkürzen die aktuelle Abklingzeit der Ult um 7 %."
+    },
+    "8226": {
+      "id": 8226,
+      "key": "ManaflowBand",
+      "icon": "perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png",
+      "name": "Manafluss",
+      "shortDesc": "Wenn du einen gegnerischen Champion mit einer Fähigkeit triffst, erhöht sich dein maximales Mana permanent um 25 (max. 250&nbsp;Mana).<br><br>Ab 250&nbsp;zusätzlichem Mana stellst du alle 5&nbsp;Sekunden 1&nbsp;% deines fehlenden Manas wieder her.",
+      "longDesc": "Wenn du einen gegnerischen Champion mit einer Fähigkeit triffst, erhöht sich dein maximales Mana permanent um 25 (max. 250&nbsp;Mana).<br><br>Ab 250&nbsp;zusätzlichem Mana stellst du alle 5&nbsp;Sekunden 1&nbsp;% deines fehlenden Manas wieder her.<br><br>Abklingzeit: 15&nbsp;Sekunden",
+      "image": "/assets/runes/8226.png",
+      "description": "Wenn du einen gegnerischen Champion mit einer Fähigkeit triffst, erhöht sich dein maximales Mana permanent um 25 (max. 250 Mana).\n\nAb 250 zusätzlichem Mana stellst du alle 5 Sekunden 1 % deines fehlenden Manas wieder her.\n\nAbklingzeit: 15 Sekunden"
+    },
+    "8275": {
+      "id": 8275,
+      "key": "NimbusCloak",
+      "icon": "perk-images/Styles/Sorcery/NimbusCloak/6361.png",
+      "name": "Nimbus-Umhang",
+      "shortDesc": "Nachdem du einen Beschwörerzauber eingesetzt hast, erhältst du kurzzeitig erhöhtes <speed>Lauftempo</speed> und kannst dich durch Einheiten hindurchbewegen.",
+      "longDesc": "Nachdem du einen Beschwörerzauber eingesetzt hast, erhältst du 2&nbsp;Sekunden lang erhöhtes <speed>Lauftempo</speed> und kannst dich durch Einheiten hindurchbewegen.<br><br>Erhöhung: <speed>15–45&nbsp;% Lauftempo</speed>, abhängig von der Abklingzeit des Beschwörerzaubers. (Beschwörerzauber mit längerer Abklingzeit gewähren mehr <speed>Lauftempo</speed>.) ",
+      "image": "/assets/runes/8275.png",
+      "description": "Nachdem du einen Beschwörerzauber eingesetzt hast, erhältst du 2 Sekunden lang erhöhtes Lauftempo und kannst dich durch Einheiten hindurchbewegen.\n\nErhöhung: 15–45 % Lauftempo, abhängig von der Abklingzeit des Beschwörerzaubers. (Beschwörerzauber mit längerer Abklingzeit gewähren mehr Lauftempo.)"
+    },
+    "8210": {
+      "id": 8210,
+      "key": "Transcendence",
+      "icon": "perk-images/Styles/Sorcery/Transcendence/Transcendence.png",
+      "name": "Überlegenheit",
+      "shortDesc": "Erhalte Boni, wenn du die folgenden Stufen erreichst:<br>Stufe&nbsp;5: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;8: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;11: Wenn du einen Champion tötest, verringert sich die verbleibende Abklingzeit von Grundfähigkeiten um 20&nbsp;%.",
+      "longDesc": "Erhalte Boni, wenn du die folgenden Stufen erreichst:<br>Stufe&nbsp;5: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'> Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;8: +5&nbsp;<lol-uikit-tooltipped-keyword key='LinkTooltip_Description_CDR'>Fähigkeitstempo</lol-uikit-tooltipped-keyword> <br>Stufe&nbsp;11: Wenn du einen Champion tötest, verringert sich die verbleibende Abklingzeit von Grundfähigkeiten um 20&nbsp;%.",
+      "image": "/assets/runes/8210.png",
+      "description": "Erhalte Boni, wenn du die folgenden Stufen erreichst:\nStufe 5: +5  Fähigkeitstempo \nStufe 8: +5 Fähigkeitstempo \nStufe 11: Wenn du einen Champion tötest, verringert sich die verbleibende Abklingzeit von Grundfähigkeiten um 20 %."
+    },
+    "8234": {
+      "id": 8234,
+      "key": "Celerity",
+      "icon": "perk-images/Styles/Sorcery/Celerity/CelerityTemp.png",
+      "name": "Flinkheit",
+      "shortDesc": "Alle Boni auf <speed>Lauftempo</speed> sind bei dir 7&nbsp;% effektiver und du erhältst <speed>1&nbsp;% Lauftempo</speed>.",
+      "longDesc": "Alle Boni auf Lauftempo sind bei dir 7&nbsp;% effektiver und du erhältst <speed>1&nbsp;% Lauftempo</speed>.",
+      "image": "/assets/runes/8234.png",
+      "description": "Alle Boni auf Lauftempo sind bei dir 7 % effektiver und du erhältst 1 % Lauftempo."
+    },
+    "8233": {
+      "id": 8233,
+      "key": "AbsoluteFocus",
+      "icon": "perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png",
+      "name": "Absoluter Fokus",
+      "shortDesc": "Wenn du über mehr als 70&nbsp;% deines Lebens verfügst, wird dir zusätzlicher <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_AdaptiveDmg'>adaptiver Schaden</lol-uikit-tooltipped-keyword> gewährt.",
+      "longDesc": "Wenn du über mehr als 70&nbsp;% deines Lebens verfügst, wird dir abhängig von der Stufe ein Bonus von bis zu 18&nbsp;Angriffsschaden oder 30&nbsp;Fähigkeitsstärke <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>(adaptiv)</font></lol-uikit-tooltipped-keyword> gewährt. <br><br>Gewährt 1.8&nbsp;Angriffsschaden oder 3&nbsp;Fähigkeitsstärke auf Stufe&nbsp;1. ",
+      "image": "/assets/runes/8233.png",
+      "description": "Wenn du über mehr als 70 % deines Lebens verfügst, wird dir abhängig von der Stufe ein Bonus von bis zu 18 Angriffsschaden oder 30 Fähigkeitsstärke (adaptiv) gewährt. \n\nGewährt 1.8 Angriffsschaden oder 3 Fähigkeitsstärke auf Stufe 1."
+    },
+    "8237": {
+      "id": 8237,
+      "key": "Scorch",
+      "icon": "perk-images/Styles/Sorcery/Scorch/Scorch.png",
+      "name": "Hitzewelle",
+      "shortDesc": "Deine 1. schadensverursachende Fähigkeit, die einen Champion trifft, steckt diesen in Brand. Dieser Effekt kann alle 10&nbsp;Sekunden auftreten.",
+      "longDesc": "Deine nächste getroffene schadensverursachende Fähigkeit steckt Champions in Brand und verursacht abhängig von der Stufe über 1&nbsp;Sekunde(n) hinweg 20–40&nbsp;zusätzlichen magischen Schaden.<br><br>Abklingzeit: 10&nbsp;Sekunden",
+      "image": "/assets/runes/8237.png",
+      "description": "Deine nächste getroffene schadensverursachende Fähigkeit steckt Champions in Brand und verursacht abhängig von der Stufe über 1 Sekunde(n) hinweg 20–40 zusätzlichen magischen Schaden.\n\nAbklingzeit: 10 Sekunden"
+    },
+    "8232": {
+      "id": 8232,
+      "key": "Waterwalking",
+      "icon": "perk-images/Styles/Sorcery/Waterwalking/Waterwalking.png",
+      "name": "Wasserlauf",
+      "shortDesc": "Du erhältst im Fluss Lauftempo und Fähigkeitsstärke oder Angriffsschaden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>(adaptiv)</lol-uikit-tooltipped-keyword>.",
+      "longDesc": "Du erhältst <speed>10&nbsp;Lauftempo</speed> und abhängig von der Stufe <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>13&nbsp;– 30 adaptive Kraft</font></lol-uikit-tooltipped-keyword>, wenn du dich im Fluss aufhältst.<br><br><i>Mögest du so schnell sein wie tosendes Wasser und so wendig wie ein aufgeschreckter Kluftkrabbler.</i>",
+      "image": "/assets/runes/8232.png",
+      "description": "Du erhältst 10 Lauftempo und abhängig von der Stufe 13 – 30 adaptive Kraft, wenn du dich im Fluss aufhältst.\n\nMögest du so schnell sein wie tosendes Wasser und so wendig wie ein aufgeschreckter Kluftkrabbler."
+    },
+    "8236": {
+      "id": 8236,
+      "key": "GatheringStorm",
+      "icon": "perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png",
+      "name": "Aufziehender Sturm",
+      "shortDesc": "Du erhältst im Laufe des Spiels einen sich ständig erhöhenden Betrag an Fähigkeitsstärke oder Angriffsschaden <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'>(adaptiv)</lol-uikit-tooltipped-keyword>.",
+      "longDesc": "Du erhältst alle 10&nbsp;Min. Fähigkeitsstärke oder Angriffsschaden, <lol-uikit-tooltipped-keyword key='LinkTooltip_Description_Adaptive'><font color='#48C4B7'>adaptiv</font></lol-uikit-tooltipped-keyword>.<br><br><i>10&nbsp;Min.</i>: +8 Fähigkeitsstärke oder 5 Angriffsschaden <br><i>20&nbsp;Min.</i>: +24 Fähigkeitsstärke oder 14 Angriffsschaden<br><i>30&nbsp;Min.</i>: +48 Fähigkeitsstärke oder 29 Angriffsschaden<br><i>40&nbsp;Min.</i>: +80 Fähigkeitsstärke oder 48 Angriffsschaden<br><i>50&nbsp;Min.</i>: +120 Fähigkeitsstärke oder 72 Angriffsschaden<br><i>60&nbsp;Min.</i>: +168 Fähigkeitsstärke oder 101 Angriffsschaden<br>usw.",
+      "image": "/assets/runes/8236.png",
+      "description": "Du erhältst alle 10 Min. Fähigkeitsstärke oder Angriffsschaden, adaptiv.\n\n10 Min.: +8 Fähigkeitsstärke oder 5 Angriffsschaden \n20 Min.: +24 Fähigkeitsstärke oder 14 Angriffsschaden\n30 Min.: +48 Fähigkeitsstärke oder 29 Angriffsschaden\n40 Min.: +80 Fähigkeitsstärke oder 48 Angriffsschaden\n50 Min.: +120 Fähigkeitsstärke oder 72 Angriffsschaden\n60 Min.: +168 Fähigkeitsstärke oder 101 Angriffsschaden\nusw."
+    }
+  },
+  "shards": [
+    {
+      "id": "attack-speed",
+      "name": "10 % Angriffstempo",
+      "image": "/assets/runes/shard-attack-speed.png"
+    },
+    {
+      "id": "adaptive",
+      "name": "Adaptive Kraft",
+      "image": "/assets/runes/shard-adaptive.png"
+    },
+    {
+      "id": "health",
+      "name": "Leben pro Level",
+      "image": "/assets/runes/shard-health.png"
+    }
+  ]
+}

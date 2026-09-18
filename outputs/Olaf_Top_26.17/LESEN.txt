@@ -1,0 +1,13 @@
+OLAF TOP — PATCH 26.17
+Geprüft: 09.09.2026 | Ranked Solo Queue | Datenrahmen Emerald+, global
+Statistik-Snapshots: Recherche vom 08.09.2026, teils abweichende Cache-Stände.
+
+START.html im Browser öffnen: Suche und Filter sowie Links zu allen 51 einzelnen Excel-Dateien.
+Olaf_Top_Sammlung.xlsx enthält Übersicht, alle 20 Detailfelder, Championpool, unterstützende Paarungsstatistik und Build-/Methodik-Leitfaden.
+Matchups/ enthält je eine eigenständig lesbare Excel-Datei pro Gegner. Der Gameplan steht jeweils oben.
+
+Zum Weitergeben die ZIP vollständig entpacken und die Ordnerstruktur behalten. Einzeldateien können separat weitergegeben werden; ihre Texte und Quellen sind enthalten. Excel-Links auf andere Dateien können je nach Sicherheitseinstellungen eine Bestätigung verlangen. Dann die gewünschte Datei direkt im Matchups-Ordner öffnen.
+
+Die Tiers sind qualitative Kit-/Lane-/Gesamtspielanalysen, keine garantierten Gewinnwahrscheinlichkeiten. Patch 26.17 heißt auf einigen Datenportalen 16.17. Nicht aus dem Datum allein auf minutengleiche Statistik-Snapshots schließen. Unsicherheiten und Quellen stehen in den Dateien.
+
+Die Jungle-Empfehlung ohne Ravenous ist im Leitfaden und unten im Katalog ergänzt.

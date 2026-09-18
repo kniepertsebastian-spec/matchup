@@ -1,0 +1,53 @@
+{
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "name": "Zeri",
+  "slug": "zeri",
+  "tier": "E",
+  "rune": "PTA",
+  "reason": "Wandflucht und R-Beweglichkeit verhindern lange Auto-Serien; Killfenster brauchen externen Halt.",
+  "l1": "Minions können ihre Q blockieren; E-Durchschüsse beachten und nicht außerhalb der Wave frei anlaufen.",
+  "l25": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen.",
+  "l6": "Olaf-R löst nicht ihre R-Mobilität. Nähe zu langen Wänden verkleinert dein Finish-Fenster.",
+  "threats": "E über Wände, R und W durch Terrain. Nicht ohne Sicht über Flusswände verfolgen.",
+  "window": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen.",
+  "errors": "E über Wände, R und W durch Terrain. Nicht ohne Sicht über Flusswände verfolgen.",
+  "trade": "Support-CC → Q → kurze Auto-/E-Folge. Bleibt E bereit, zuerst Flucht erzwingen statt Ghost und Flash gleichzeitig ausgeben.",
+  "side": "1: Farm halten. 2: R-Kiting schwieriger. 3: Zugriff bleibt Problem; reiner Mehrschaden ohne CC reicht selten.",
+  "support": "Hard Engage vor Wandkontakt hilft. Shields und Tempo auf Zeri verschlechtern den Zugang deutlich.",
+  "role": "adc",
+  "lane": "E",
+  "late": "E",
+  "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Wandflucht und R-Beweglichkeit verhindern lange Auto-Serien; Killfenster brauchen externen Halt. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+  "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+  "sums": "Flash + Ghost",
+  "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+  "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+  "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+  "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+  "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+  "plan": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen. Olaf-R löst nicht ihre R-Mobilität. Nähe zu langen Wänden verkleinert dein Finish-Fenster. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+  "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+  "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift. W-AD-Skalierung in 26.18 reduziert; E-Wandflucht bleibt der zentrale Zugriffsfaktor.",
+  "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/zeri/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/adc"
+    ]
+  ]
+}

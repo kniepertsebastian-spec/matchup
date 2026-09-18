@@ -1,0 +1,1637 @@
+{
+  "champion": "Olaf",
+  "role": "adc",
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "statsPatch": "Keine belastbaren Olaf-ADC-Paarungsdaten",
+  "method": [
+    [
+      "Geltungsbereich",
+      "Olaf als farmender ADC/Botlaner in Ranked Solo Queue, nicht Support. Eigenständige Botlane-Liste. Gleicher Z–F-Maßstab, aber vorläufige qualitative Kit-Einschätzung und keine statistisch bestätigte 2v2-Tierlist."
+    ],
+    [
+      "Bewertungsannahme",
+      "Ähnlicher Gold-/Erfahrungsstand und beide Supports anwesend. Kein bestimmter Support wird als Standardpartner vorausgesetzt. Tier beschreibt die grundsätzliche Spielbarkeit gegen den Carry; der Abschnitt Support-Einfluss benennt wichtige Abweichungen. Kein garantierter 1v1- oder 2v2-Ausgang."
+    ],
+    [
+      "Championpool",
+      "24 reguläre Marksmen einschließlich Nilah und Yunara sowie Yasuo und fünf etablierte Botlane-Magier: Ziggs, Seraphine, Hwei, Swain, Veigar. METAsrc Bot-Liste 26.18 und verfügbare LoLalytics-Bot-Seiten als Rollenkontrolle. Für seltenere Flex-Picks keine einheitlich verifizierte aktuelle Pickrate; ihre Aufnahme ist redaktionell, keine numerische Schwellenprüfung. Keine beliebigen exotischen Off-Meta-Gegner."
+    ],
+    [
+      "Statistik",
+      "Keine belastbaren Olaf-ADC-Paarungswinrates extrahiert. Toplane-Winrates werden nicht übertragen. Unterschiedliche Supportduos und kleine Off-Meta-Stichproben begrenzen ohnehin die Übertragbarkeit. Fehlend heißt nicht 0 %."
+    ],
+    [
+      "Quellen und Tiers",
+      "Riot-Kits und Summoner’s-Rift-Änderungen 26.18 sind die mechanische Grundlage. Poolseiten dienen nur der Rollenauswahl. Sämtliche Tiers, Runenentscheidungen und Spielpläne sind eigene qualitative Ableitungen; keine Quelle bestätigt diese Liste als fertige Empfehlung. Keine Mobalytics-/Mobafire-Quellen."
+    ],
+    [
+      "Erste Waves",
+      "Nicht die Toplane-Level-1-Duellstärke auf ein 2v2 übertragen. Q zum Farmen und Drohen, Minionnachteil vermeiden. Level 2 im normalen geteilten Bot-XP-Verlauf typischerweise nach erster Wave plus drei Melee-Minions der zweiten; verpasste XP und Nilah verändern das. Beide gegnerischen Level beobachten."
+    ],
+    [
+      "Wave und Support",
+      "Bei verlorenem Push Wave kontrolliert ankommen lassen und vor Turm ausdünnen, sofern ohne viel HP-Verlust möglich. Freeze nur wenn Support und Jungler ihn absichern können. Crash/Recall gemeinsam planen; ein Cheater Recall setzt tatsächliche Pushkontrolle und vollständigen Crash voraus."
+    ],
+    [
+      "R und Zugang",
+      "Ragnarok hilft gegen Kontrolle, nicht gegen Schaden, Dashes oder Unsichtbarkeit. Erst aktivieren, wenn danach schnell Autos/E auf einen Champion möglich sind. Q allein hält R nicht aktiv. Flash + Ghost bietet Zugang; Ignite nur bei verlässlichem Support-Engage und bewusstem Verzicht auf Chase."
+    ],
+    [
+      "Rune",
+      "PTA für ein durch Support gesichertes Fenster mit mindestens drei Autos auf dasselbe Ziel. Conqueror bei langem Nahkampf, Heilduellen und mehrfachen Kontakten. Auto-Unterbrechungen schwächen beide: Conqueror löst kein Zugangsproblem. Support und übrige Gegner können die Empfehlung überschreiben."
+    ],
+    [
+      "Tiamat → Steelcaps → Ravenous Hydra",
+      "Plausible Linie gegen Auto-Druck, keine feste Reihenfolge. Boots/Armor vor Tiamat, wenn du sonst nicht farmen kannst; gegen AP-Poke MR oder Ausweich-Tempo abwägen. Tiamat hilft Waveclear, erschwert durch Cleave aber präzises Freezen. Hydra liefert Sustain, ohne einen fehlenden Gapclose zu ersetzen."
+    ],
+    [
+      "Hexplate als First Item",
+      "Experimental Hexplate ist eine theoretische Alternative für vorbereitete R-All-ins: Nach Ult-Cast für Nahkämpfer 50 % zusätzliches Angriffstempo und 20 % zusätzliches Bewegungstempo für 8 Sekunden (Riot 26.11; kein entsprechender späterer Änderungsbeleg gefunden). Eigene Einschätzung: zuerst Boots nach Bedarf, dann Hexplate; Tiamat nicht automatisch vorschalten und den fertigen Spike verzögern. Hydra bevorzugen, wenn Waveclear und Heilung zwischen Kämpfen fehlen. Hexplate gibt keinen Lebensraub; Olafs passive Heilung bleibt. Acht Sekunden Itemeffekt verlängern Ragnarok nicht automatisch. R erst nutzen, wenn Autos/E zeitnah erreichbar sind. Danach Crit nur bei sicherer Auto-Zeit, andernfalls Sustain oder passende Defensive."
+    ],
+    [
+      "Nach Hydra in Crit?",
+      "Nur bei verlässlichem Kontakt und ausreichender Überlebenszeit. Ein Crit-/Attack-Speed-Zwischenitem und später Infinity Edge sind eine offensive Alternative, kein geprüfter universeller Best-Build. Wenn du vor Autos stirbst, zuerst passende Defensive. Gegen mehrere Frontliner längeres Bruiser-Fight-Pattern prüfen. Keine erfundenen DPS-Zahlen oder automatische Full-Crit-Empfehlung."
+    ],
+    [
+      "Supportpartner",
+      "Engage sichert Erstkontakt; Tempo/Schilde können Zugang und Auto-Zeit schaffen. Enchanter ohne frühen Wave-Druck können eine passive Lane erzwingen. Gegnerischer Disengage, Burst und Schild-Uptime müssen vor jedem All-in berücksichtigt werden. Support-Matchups werden hier als Modifier, nicht als separate Carry-Gegner geführt."
+    ],
+    [
+      "Sidelane und Team",
+      "Bei 1/2/3 Items sind gleiche Itemzahlen nur eine grobe Annahme: Level, Gold, Summoners und Supportnähe zählen. Als Botlaner fehlt Olaf häufig der Toplane-Levelvorsprung. Splitpush nur wenn das Team ohne den farmenden Bot-Carry Ziele verteidigen kann; fehlenden Fernkampf-DPS bei Draft und Objectives bedenken."
+    ],
+    [
+      "Patchprüfung",
+      "18.09.2026: 26.18. Nur Summoner’s Rift, keine League-Classic-/ARAM-Änderungen. Seraphine E-CD wurde auf allen Rängen 11 s; Zeri W-AD-Skalierung reduziert. Die übrigen Matchup-Tiers sind keine vollständige numerische Itemsimulation."
+    ],
+    [
+      "Quelle: Live-Patch",
+      "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-18-notes/"
+    ],
+    [
+      "Quelle: Pool",
+      "https://www.metasrc.com/lol/tier-list/adc"
+    ],
+    [
+      "Quelle: Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "Quelle: Hexplate-Nahkampf-Effekt",
+      "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-11-notes/"
+    ]
+  ],
+  "matchups": [
+    {
+      "name": "Aphelios",
+      "slug": "aphelios",
+      "tier": "C",
+      "rune": "PTA",
+      "reason": "Fehlender freier Dash eröffnet Zugriff; Waffen und gegnerischer Peel entscheiden, ob Olaf diesen nutzen kann.",
+      "l1": "Seine Waffenreichweite respektieren. Q zum Sichern von CS, nur mit Supportkontakt laufen.",
+      "l25": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen.",
+      "l6": "R kann Gravitum-Kontrolle überbrücken, aber nicht Severum-Heilung, Chakram-Schaden oder seinen R-Burst.",
+      "threats": "Calibrum-Reichweite, Gravitum und weiß/rote Waffen. Nicht allein nach Championname ein All-in erzwingen.",
+      "window": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen.",
+      "errors": "Calibrum-Reichweite, Gravitum und weiß/rote Waffen. Nicht allein nach Championname ein All-in erzwingen.",
+      "trade": "Q nach seinem Auto auf einen Minion, Support-CC abwarten, AA–E–AA und W für weiteren Kontakt; bei Chakram-Vorteil abbrechen.",
+      "side": "1 Item: Hydra hilft, Poke auszugleichen. 2: Waffenabhängige Duelle. 3: geschützter Aphelios skaliert im Teamfight stark; Zugriff statt DPS-Wettrennen.",
+      "support": "Engage während schlechter Waffenfenster wertvoll; Enchanter plus Frontline macht seine fehlende Mobilität deutlich weniger ausnutzbar.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Fehlender freier Dash eröffnet Zugriff; Waffen und gegnerischer Peel entscheiden, ob Olaf diesen nutzen kann. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Ab Level 2 Waffen prüfen: nach verbrauchtem Gravitum-Root oder bei ungünstigem Waffenwechsel angreifen; nicht in Severum/Crescendum-Nahkampf hineinrennen. R kann Gravitum-Kontrolle überbrücken, aber nicht Severum-Heilung, Chakram-Schaden oder seinen R-Burst. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/aphelios/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Ashe",
+      "slug": "ashe",
+      "tier": "B",
+      "rune": "PTA",
+      "reason": "Vor 6 gefährliches Kiting; während Ragnarok verliert ihr Slow-/Stun-Peel gegen Olaf viel Wert. Das macht sie bei Zugriff angreifbar.",
+      "l1": "Ashe kontrolliert Abstand mit Autos und W. Keine Axt hinter ihr holen, wenn der Rückweg offen ist.",
+      "l25": "W in Minions verbraucht und eigener Support trifft: Q-Kette in langer Lane. Ohne Kontakt kurze Reichweitentrades vermeiden.",
+      "l6": "R für Pfeil/Slow nutzen, wenn danach sofort Autos oder E möglich sind. Ohne R ist ihr Kiting wieder gefährlich.",
+      "threats": "W, passive Slows und R. R nicht aus großer Entfernung starten und unterwegs auslaufen lassen.",
+      "window": "W in Minions verbraucht und eigener Support trifft: Q-Kette in langer Lane. Ohne Kontakt kurze Reichweitentrades vermeiden.",
+      "errors": "W, passive Slows und R. R nicht aus großer Entfernung starten und unterwegs auslaufen lassen.",
+      "trade": "Support bindet → Q → annähern → R bei Kontrolle → Autos/E. Äxte in Laufrichtung statt maximal weit werfen.",
+      "side": "1: Hydra für Lane-Sustain. 2: Zugriff mit R oft stark. 3: Ashe mit Peel weiterhin guter Teamfight-Carry; isoliertes Duell und 5v5 trennen.",
+      "support": "Engage oder Speed-Up verstärken Olafs Fenster; Janna-artiger Abstand/Heal kann trotz CC-Immunität genug Zeit gewinnen.",
+      "role": "adc",
+      "lane": "B",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Vor 6 gefährliches Kiting; während Ragnarok verliert ihr Slow-/Stun-Peel gegen Olaf viel Wert. Das macht sie bei Zugriff angreifbar. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W in Minions verbraucht und eigener Support trifft: Q-Kette in langer Lane. Ohne Kontakt kurze Reichweitentrades vermeiden. R für Pfeil/Slow nutzen, wenn danach sofort Autos oder E möglich sind. Ohne R ist ihr Kiting wieder gefährlich. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ashe/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Caitlyn",
+      "slug": "caitlyn",
+      "tier": "E",
+      "rune": "PTA",
+      "reason": "Reichweite und Netzdash erschweren den Erstkontakt; R beseitigt weder Distanz noch Headshot-Schaden.",
+      "l1": "Caitlyn hat offenen Lane-Druck. Büsche nur mit Sicht und Unterstützung nutzen, CS gegen HP abwägen.",
+      "l25": "E verfehlt/verbraucht plus Support-CC ist das Hauptfenster. Keine Chase durch ihre größere Wave.",
+      "l6": "R hilft gegen Fallen-Root, aber nicht gegen Netzdash, Fallen-/Netz-Markierung und Folgeschaden.",
+      "threats": "E, Fallen, Headshots. Fallen auch mit R nicht als harmlos behandeln.",
+      "window": "E verfehlt/verbraucht plus Support-CC ist das Hauptfenster. Keine Chase durch ihre größere Wave.",
+      "errors": "E, Fallen, Headshots. Fallen auch mit R nicht als harmlos behandeln.",
+      "trade": "Q aus seitlichem Winkel, Netz provozieren, erst danach Flash/Support-Follow-up. Nicht direkt in vorbereitete Fallen laufen.",
+      "side": "1: Sustain stabilisiert, löst Reichweite nicht. 2: abgefangene Caitlyn bestrafbar. 3: Crit und Peel verschärfen Zugang; Flanke nötig.",
+      "support": "Zuverlässiger Engage wesentlich; mit passivem eigenen Support und gegnerischem Poke sinkt deine Lane-Handlungsfreiheit deutlich.",
+      "role": "adc",
+      "lane": "E",
+      "late": "D",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Reichweite und Netzdash erschweren den Erstkontakt; R beseitigt weder Distanz noch Headshot-Schaden. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E verfehlt/verbraucht plus Support-CC ist das Hauptfenster. Keine Chase durch ihre größere Wave. R hilft gegen Fallen-Root, aber nicht gegen Netzdash, Fallen-/Netz-Markierung und Folgeschaden. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/caitlyn/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Corki",
+      "slug": "corki",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Burst, Rüstungssenkung und W-Flucht bestrafen geradliniges Anlaufen. Ein gebundenes Ziel ist dennoch verwundbar.",
+      "l1": "Reichweitenautos akzeptieren, Q nicht für ungesicherte Chase verschwenden.",
+      "l25": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen.",
+      "l6": "Raketen erhöhen Poke. Deine R verhindert keine seiner Schadensquellen oder W-Flucht.",
+      "threats": "W, E und Q-Burst. Steelcaps nicht als Antwort auf alle Zauberschäden verstehen.",
+      "window": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen.",
+      "errors": "W, E und Q-Burst. Steelcaps nicht als Antwort auf alle Zauberschäden verstehen.",
+      "trade": "Seitliche Q, E-Kegel verlassen, W abwarten, dann mit Support in mehreren Autos finishen.",
+      "side": "1: Hydra hält Lane spielbar. 2: kurzer Burst entscheidet. 3: lange Front-to-back-Fights sind für Olaf ohne Einstieg ungünstig.",
+      "support": "Support muss W erzwingen oder den Landepunkt erreichen; bloßes Hinterherlaufen gibt Corki freie Salven.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Burst, Rüstungssenkung und W-Flucht bestrafen geradliniges Anlaufen. Ein gebundenes Ziel ist dennoch verwundbar. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen. Raketen erhöhen Poke. Deine R verhindert keine seiner Schadensquellen oder W-Flucht. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/corki/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Draven",
+      "slug": "draven",
+      "tier": "D",
+      "rune": "Conqueror",
+      "reason": "Frühe Axt-Autos machen Tradefehler teuer; ein überlebter langer Nahkampf ist Olafs Weg zurück.",
+      "l1": "Draven stärker im offenen Auto-Tausch. Kein Level-1-Statcheck durch eine gegnerische Wave.",
+      "l25": "Axt-Fangpunkt mit Q bedrohen. Nach E-Verbrauch und verlorenem Axt-Setup mit Support länger kämpfen.",
+      "l6": "R verhindert E-Kontrolle, nicht seinen Axtschaden. Mit HP-Vorsprung und Kontakt kannst du ihn binden.",
+      "threats": "Q-Äxte, W-Tempo und E. Nicht absichtlich low HP werden, während beide Gegner frei schlagen.",
+      "window": "Axt-Fangpunkt mit Q bedrohen. Nach E-Verbrauch und verlorenem Axt-Setup mit Support länger kämpfen.",
+      "errors": "Q-Äxte, W-Tempo und E. Nicht absichtlich low HP werden, während beide Gegner frei schlagen.",
+      "trade": "Q zum Fangpunkt → Support bindet → W beim eingehenden Burst → Autos und E; Chase beenden, wenn W/Peel den Kontakt bricht.",
+      "side": "1: Steelcaps/Hydra geben Stabilität. 2: gleicher Goldstand bietet lange Duelle. 3: gefeedeter Crit-Draven bleibt Burstgefahr; kein garantierter Outscale.",
+      "support": "Eigener Engage muss mit dir synchron sein. Gegnerischer Engage plus Draven bestraft jedes getrennte Positionieren.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Frühe Axt-Autos machen Tradefehler teuer; ein überlebter langer Nahkampf ist Olafs Weg zurück. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Axt-Fangpunkt mit Q bedrohen. Nach E-Verbrauch und verlorenem Axt-Setup mit Support länger kämpfen. R verhindert E-Kontrolle, nicht seinen Axtschaden. Mit HP-Vorsprung und Kontakt kannst du ihn binden. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/draven/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Ezreal",
+      "slug": "ezreal",
+      "tier": "E",
+      "rune": "PTA",
+      "reason": "E und Q-Reichweite lassen ihn Olafs R-Zeit auslaufen; sein tatsächliches Escape-Fenster ist wichtiger als seine Haltbarkeit.",
+      "l1": "Hinter Minions gegen Q stehen; Nahkontakt nur über Support oder fehlendes Spacing.",
+      "l25": "E benutzt: sofortige Q-/Support-Chance, bevor Fähigkeitstreffer seinen nächsten Escape beschleunigen.",
+      "l6": "Deine R bringt gegen ihn selbst wenig Kontrolle-Vorteil. Für Support-CC reservieren und erst bei Kontakt nutzen.",
+      "threats": "E und Q. Nicht Flash vor seiner noch bereiten E für einen ungesicherten Auto ausgeben.",
+      "window": "E benutzt: sofortige Q-/Support-Chance, bevor Fähigkeitstreffer seinen nächsten Escape beschleunigen.",
+      "errors": "E und Q. Nicht Flash vor seiner noch bereiten E für einen ungesicherten Auto ausgeben.",
+      "trade": "Q-Landung → E erzwingen → Support oder Flash in erreichbaren Landepunkt → kurze Auto-Serie. Kein minutenlanges Hinterherlaufen.",
+      "side": "1: Farm stabilisieren. 2: E-Uptime erschwert Kills. 3: ein gebundener Ezreal stirbt weiterhin, freies 1v1 bleibt positionsabhängig.",
+      "support": "Ein Engage, der E überbrückt, ist entscheidend; nur Poke neben Olaf erzeugt selten zuverlässige Killfenster.",
+      "role": "adc",
+      "lane": "E",
+      "late": "D",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. E und Q-Reichweite lassen ihn Olafs R-Zeit auslaufen; sein tatsächliches Escape-Fenster ist wichtiger als seine Haltbarkeit. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E benutzt: sofortige Q-/Support-Chance, bevor Fähigkeitstreffer seinen nächsten Escape beschleunigen. Deine R bringt gegen ihn selbst wenig Kontrolle-Vorteil. Für Support-CC reservieren und erst bei Kontakt nutzen. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ezreal/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Hwei",
+      "slug": "hwei",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Flächenkontrolle, Waveclear und defensive Wege erschweren den Einstieg; nach verbrauchter E-Familie ist er greifbarer.",
+      "l1": "Seitlich zur Wave stehen, damit QQ/QE nicht Farm und dich zugleich treffen.",
+      "l25": "Furcht-/Root-/Pull-Zauber aus E verbraucht: rasch gemeinsam angreifen; W-Tempo oder Schild beachten.",
+      "l6": "Ragnarok nimmt CC-Druck, aber die Schadenszonen und sein R-Burst bleiben.",
+      "threats": "E-Familie, QE-Zone und WW/WQ. Nicht mehrere E-Varianten als voneinander unabhängige sofortige Casts behandeln.",
+      "window": "Furcht-/Root-/Pull-Zauber aus E verbraucht: rasch gemeinsam angreifen; W-Tempo oder Schild beachten.",
+      "errors": "E-Familie, QE-Zone und WW/WQ. Nicht mehrere E-Varianten als voneinander unabhängige sofortige Casts behandeln.",
+      "trade": "E herauslocken → Q aus anderem Winkel → Supportkontakt → kurze AA/E-Serie, Zonen dabei verlassen.",
+      "side": "1: MR/Sustain kann Zugang ermöglichen. 2: Waveclear/Zone bleibt Hürde. 3: Flanken statt Frontalkorridor.",
+      "support": "Reichweiten-Engage hilft. Poke-Support neben Hwei bestraft schlechte Recall-Fenster besonders stark.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Flächenkontrolle, Waveclear und defensive Wege erschweren den Einstieg; nach verbrauchter E-Familie ist er greifbarer. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Furcht-/Root-/Pull-Zauber aus E verbraucht: rasch gemeinsam angreifen; W-Tempo oder Schild beachten. Ragnarok nimmt CC-Druck, aber die Schadenszonen und sein R-Burst bleiben. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/hwei/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ],
+        [
+          "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+          "https://lolalytics.com/lol/hwei/build/?lane=bottom"
+        ]
+      ]
+    },
+    {
+      "name": "Jhin",
+      "slug": "jhin",
+      "tier": "B",
+      "rune": "PTA",
+      "reason": "Reload und fehlender Dash geben echte Kontaktfenster; sein Bewegungstempo nach Treffern darfst du nicht unterschätzen.",
+      "l1": "Vierten Schuss respektieren. Danach Reload für CS oder gemeinsames Vorrücken nutzen.",
+      "l25": "Nach viertem Schuss und verfehlter W mit Q einsteigen; nicht durch große Minionwave laufen.",
+      "l6": "R neutralisiert W-Root und Slows während des Kontakts. Jhins Sprint nach Crit bleibt bestehen.",
+      "threats": "Vierter Schuss, W und Fallen. Nicht angeschlagen für einen CS den Execute-Schuss nehmen.",
+      "window": "Nach viertem Schuss und verfehlter W mit Q einsteigen; nicht durch große Minionwave laufen.",
+      "errors": "Vierter Schuss, W und Fallen. Nicht angeschlagen für einen CS den Execute-Schuss nehmen.",
+      "trade": "Reload → Q → Support-CC → AA/E und kurze Äxte. Flash erst gegen verbleibenden Abstand einsetzen.",
+      "side": "1: gute Kontaktfenster mit Hydra. 2: höherer Burst beiderseits. 3: Jhin wird schneller und unterstützt aus Distanz, isolierter Nahkontakt bleibt günstig.",
+      "support": "Hard Engage passt gut. Shield-/Speed-Support kann Jhin über Reload hinweg retten und die Basiswertung verschlechtern.",
+      "role": "adc",
+      "lane": "B",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Reload und fehlender Dash geben echte Kontaktfenster; sein Bewegungstempo nach Treffern darfst du nicht unterschätzen. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach viertem Schuss und verfehlter W mit Q einsteigen; nicht durch große Minionwave laufen. R neutralisiert W-Root und Slows während des Kontakts. Jhins Sprint nach Crit bleibt bestehen. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/jhin/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Jinx",
+      "slug": "jinx",
+      "tier": "C",
+      "rune": "PTA",
+      "reason": "Ohne Reset und ohne Peel angreifbar, mit Reichweite und erstem Takedown dagegen schwer einzuholen.",
+      "l1": "Raketen-Poke vermeiden; ohne Support keinen Q-Treffer automatisch zum All-in erklären.",
+      "l25": "Chompers verbraucht und kein großer gegnerischer Push: Q/Engage auf langer Lane.",
+      "l6": "R überbrückt Root/Slow; ein Kill an deinem Support gibt Jinx trotzdem Reset-Tempo und Schaden.",
+      "threats": "E, W, passive Resets. Nicht den eigenen Support im 2v2 opfern und dann isoliert nachlaufen.",
+      "window": "Chompers verbraucht und kein großer gegnerischer Push: Q/Engage auf langer Lane.",
+      "errors": "E, W, passive Resets. Nicht den eigenen Support im 2v2 opfern und dann isoliert nachlaufen.",
+      "trade": "Q und Engage bündeln, Chompers mit R passieren wenn Kontakt sicher ist, Autos halten; bei Reset ohne Reichweite abbrechen.",
+      "side": "1: Zugriff wichtiger als Farmrace. 2: mit Peel wird sie stark. 3: Teamfight-Scaling liegt bei Jinx, Olaf braucht vorherige Positionierung.",
+      "support": "Engage kann sie bestrafen; Gegner mit Disengage und Shields verlängern genau bis zu ihrem Reset.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Ohne Reset und ohne Peel angreifbar, mit Reichweite und erstem Takedown dagegen schwer einzuholen. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Chompers verbraucht und kein großer gegnerischer Push: Q/Engage auf langer Lane. R überbrückt Root/Slow; ein Kill an deinem Support gibt Jinx trotzdem Reset-Tempo und Schaden. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/jinx/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Kai'Sa",
+      "slug": "kaisa",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "E und später Unsichtbarkeit/R-Schild unterbrechen Autos; isolierte Q plus Plasma bestrafen Olafs geringe HP.",
+      "l1": "In eigener Wave bleiben, damit Q nicht vollständig isoliert trifft.",
+      "l25": "E zum Push benutzt oder Q auf Wave: Support-Engage und kurze Killfolge. Plasma-Stacks vor Re-engage auslaufen lassen.",
+      "l6": "R kann Abstand und Schild schaffen. Eigene R verhindert weder Plasma-Schaden noch ihre spätere E-Unsichtbarkeit.",
+      "threats": "Isolierte Q, E-Evolution, R. Nicht auf ununterbrochene Auto-Zeit nach ihrem ersten Dash zählen.",
+      "window": "E zum Push benutzt oder Q auf Wave: Support-Engage und kurze Killfolge. Plasma-Stacks vor Re-engage auslaufen lassen.",
+      "errors": "Isolierte Q, E-Evolution, R. Nicht auf ununterbrochene Auto-Zeit nach ihrem ersten Dash zählen.",
+      "trade": "Q nach E-Laufweg, Supportkontakt, AA–E–AA; nach R neu positionieren statt blind alle Ressourcen folgen.",
+      "side": "1: kurze erreichbare Fenster. 2: Evolutionszustand prüfen. 3: Unsichtbarkeit und gemischter Schaden machen Defensivwahl und Timing wichtiger.",
+      "support": "Sofortiger CC hilft vor ihren Ausweichfenstern. Gegnerischer Engage stapelt Plasma und macht Olaf-low-HP-Baits riskant.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. E und später Unsichtbarkeit/R-Schild unterbrechen Autos; isolierte Q plus Plasma bestrafen Olafs geringe HP. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E zum Push benutzt oder Q auf Wave: Support-Engage und kurze Killfolge. Plasma-Stacks vor Re-engage auslaufen lassen. R kann Abstand und Schild schaffen. Eigene R verhindert weder Plasma-Schaden noch ihre spätere E-Unsichtbarkeit. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kaisa/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Kalista",
+      "slug": "kalista",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Sprünge erschweren Kontakt, ein getroffener Slow und Support-CC können ihre Beweglichkeit aber deutlich einschränken.",
+      "l1": "Kalistas anhaltenden Auto-/Speerdruck nicht ohne sicheren Zugriff erwidern.",
+      "l25": "Q treffen, wenn sie für Last Hit springt. E ohne Reset verbraucht: gemeinsames All-in möglich.",
+      "l6": "R schützt vor Support-Knock-up, nicht vor Speerschaden oder ihrer Fähigkeit, den Support zu retten.",
+      "threats": "Passive Sprünge, E und R. Nicht auf viele Speere warten, bevor du zurückgehst.",
+      "window": "Q treffen, wenn sie für Last Hit springt. E ohne Reset verbraucht: gemeinsames All-in möglich.",
+      "errors": "Passive Sprünge, E und R. Nicht auf viele Speere warten, bevor du zurückgehst.",
+      "trade": "Q auf Landepunkt → Support-CC → Autos/E im kurzen Fenster; W vor erwartetem Rend-Burst.",
+      "side": "1: Slow-Zugriff entscheidet. 2: ihr Kite bleibt relevant. 3: abgefangene Kalista verwundbar, geschützte Auto-Uptime für Olaf problematisch.",
+      "support": "Punktgenauer Engage verbessert das Matchup. Gegnerischer Support kann mit Kalista-R dem Fokus entkommen.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Sprünge erschweren Kontakt, ein getroffener Slow und Support-CC können ihre Beweglichkeit aber deutlich einschränken. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Q treffen, wenn sie für Last Hit springt. E ohne Reset verbraucht: gemeinsames All-in möglich. R schützt vor Support-Knock-up, nicht vor Speerschaden oder ihrer Fähigkeit, den Support zu retten. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kalista/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Kog'Maw",
+      "slug": "kogmaw",
+      "tier": "C",
+      "rune": "PTA",
+      "reason": "Kein Dash, aber W-Reichweite und Prozent-Schaden bestrafen langes Anlaufen. Ohne W leichter erreichbar.",
+      "l1": "Nicht gegen aktives W offen tauschen. Sicheren Farm und HP für später erhalten.",
+      "l25": "W abgelaufen: Q plus Engage, bevor das nächste Fenster kommt.",
+      "l6": "R hilft gegen E-Slow und Support-CC, nicht gegen seine W-Schadensspitze.",
+      "threats": "W, E und Support-Peel. Nicht mit wenig HP in aktives W reinlaufen.",
+      "window": "W abgelaufen: Q plus Engage, bevor das nächste Fenster kommt.",
+      "errors": "W, E und Support-Peel. Nicht mit wenig HP in aktives W reinlaufen.",
+      "trade": "W aussitzen → Q → Kontakt erzwingen → kurze Auto-/E-Serie. Bei Tod aus der passiven Explosion gehen.",
+      "side": "1: frühe Boots erleichtern Zugriff. 2: On-hit-Spike erhöht Risiko. 3: mit Enchanter sehr gefährlich; isolierter Fang bleibt möglich.",
+      "support": "Lulu-/Milio-artiger Schutz macht einen großen Unterschied. Eigener Hard Engage ist mehr wert als noch etwas zusätzlicher Poke.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Kein Dash, aber W-Reichweite und Prozent-Schaden bestrafen langes Anlaufen. Ohne W leichter erreichbar. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W abgelaufen: Q plus Engage, bevor das nächste Fenster kommt. R hilft gegen E-Slow und Support-CC, nicht gegen seine W-Schadensspitze. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/kogmaw/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Lucian",
+      "slug": "lucian",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Kurze Bursttrades und E-Spacing spielen gegen Olafs Wunsch nach Kontakt; nach verbrauchtem Dash entsteht ein Fenster.",
+      "l1": "Nicht hinter niedrigem Minion in durchgehende Q stellen. Er kann kurze Trades bestimmen.",
+      "l25": "E offensiv benutzt und Support kann folgen: über den ersten Burst hinaus Druck machen.",
+      "l6": "R-Kanal seitlich verlassen oder mit Zugriff bestrafen; Olaf-R reduziert dessen Schaden nicht.",
+      "threats": "E, passive Doppelautos und Q-Linie. Keine Auto-Uptime annehmen, solange E und Support-Peel bereit sind.",
+      "window": "E offensiv benutzt und Support kann folgen: über den ersten Burst hinaus Druck machen.",
+      "errors": "E, passive Doppelautos und Q-Linie. Keine Auto-Uptime annehmen, solange E und Support-Peel bereit sind.",
+      "trade": "Ersten Dash abwarten → Q → Support-CC → AA/E/W. Nicht frontal durch die komplette R laufen.",
+      "side": "1: Überleben des Bursts. 2: CDR/Reset-Mechanik erschwert Folgekontakt. 3: Flanken bleiben besser als gerader Frontalkampf.",
+      "support": "Lucian mit offensivem Enchanter deutlich gefährlicher. Dein Support muss Burst abfangen oder E-Verbrauch erzwingen.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Kurze Bursttrades und E-Spacing spielen gegen Olafs Wunsch nach Kontakt; nach verbrauchtem Dash entsteht ein Fenster. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E offensiv benutzt und Support kann folgen: über den ersten Burst hinaus Druck machen. R-Kanal seitlich verlassen oder mit Zugriff bestrafen; Olaf-R reduziert dessen Schaden nicht. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/lucian/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Miss Fortune",
+      "slug": "missfortune",
+      "tier": "B",
+      "rune": "PTA",
+      "reason": "Nach Verlust ihres Lauftempos und mit gebundenem Support ist sie ohne Dash verwundbar; Lane-Poke bleibt gefährlich.",
+      "l1": "Nicht hinter fast toten Minions für Q-Abpraller stehen.",
+      "l25": "Q auf Wave und E verbraucht: Q treffen, Lauftempo nehmen und gemeinsam folgen.",
+      "l6": "Olaf kann ihre R nicht selbst mit Hard-CC abbrechen. Seitlich aus dem Kegel oder bei sicherem Kill zu ihr laufen.",
+      "threats": "Q-Abpraller, E, R. CC-Immunität ist keine R-Schadensimmunität.",
+      "window": "Q auf Wave und E verbraucht: Q treffen, Lauftempo nehmen und gemeinsam folgen.",
+      "errors": "Q-Abpraller, E, R. CC-Immunität ist keine R-Schadensimmunität.",
+      "trade": "Q → seitlicher Zugang → AA/E, W für Gegenburst. Bei ihrer R nicht im Kegel für eine entfernte Axt stehen bleiben.",
+      "side": "1: Sustain erleichtert Lane. 2: Kontakt stark, ihr R-Teamfight bleibt relevant. 3: Crit-MF und Peel verlangen weiterhin schnellen Zugriff.",
+      "support": "Dein Engage eröffnet Kills; gegnerischer AoE-CC plus MF-R bestraft vor Level 6 und bei R-Ausfall hart.",
+      "role": "adc",
+      "lane": "B",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Nach Verlust ihres Lauftempos und mit gebundenem Support ist sie ohne Dash verwundbar; Lane-Poke bleibt gefährlich. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Q auf Wave und E verbraucht: Q treffen, Lauftempo nehmen und gemeinsam folgen. Olaf kann ihre R nicht selbst mit Hard-CC abbrechen. Seitlich aus dem Kegel oder bei sicherem Kill zu ihr laufen. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/missfortune/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Nilah",
+      "slug": "nilah",
+      "tier": "D",
+      "rune": "Conqueror",
+      "reason": "W entzieht Autos, Dash-Ladungen und Heilung verlängern Fights. Drei sofortige PTA-Autos sind nicht verlässlich.",
+      "l1": "Q-Reichweite respektieren, frühe Level durch ihren XP-Vorteil nicht nach Standard-Minions zählen.",
+      "l25": "W provozieren und auslaufen lassen; E-Ladungen berücksichtigen, dann langen Nahkampf führen.",
+      "l6": "R kontrolliert Olaf mit aktiver R nicht, verursacht aber weiter Schaden und heilt Nilah.",
+      "threats": "W-Ausweichen, E und R-Heilung. Keine W-/PTA-Ressourcen in ihr Dodge-Fenster verschwenden.",
+      "window": "W provozieren und auslaufen lassen; E-Ladungen berücksichtigen, dann langen Nahkampf führen.",
+      "errors": "W-Ausweichen, E und R-Heilung. Keine W-/PTA-Ressourcen in ihr Dodge-Fenster verschwenden.",
+      "trade": "Mit Q/E Druck, während W Autos verhindert; danach W und Autos zum langen Fight, nicht im Dodge stehen bleiben.",
+      "side": "1: nach W realistische Duelle. 2: Sustain steigt. 3: Crit-/Heilsynergien machen die späte 2v2-/Teamfight-Skalierung gefährlich.",
+      "support": "Enchanter verstärken sie besonders. Dein Support sollte nach W kontrollieren und nicht alle Angriffe gleichzeitig ins Ausweichen schicken.",
+      "role": "adc",
+      "lane": "D",
+      "late": "D",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. W entzieht Autos, Dash-Ladungen und Heilung verlängern Fights. Drei sofortige PTA-Autos sind nicht verlässlich. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W provozieren und auslaufen lassen; E-Ladungen berücksichtigen, dann langen Nahkampf führen. R kontrolliert Olaf mit aktiver R nicht, verursacht aber weiter Schaden und heilt Nilah. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/nilah/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Samira",
+      "slug": "samira",
+      "tier": "C",
+      "rune": "Conqueror",
+      "reason": "Sie kommt selbst in Nahdistanz, aber W und Resets stören eine lineare Combo. Längere Kämpfe sind wahrscheinlicher als ein freier kurzer Burst.",
+      "l1": "Frühe Reichweite respektieren, aber kein automatisches verlorenes Melee-Duell annehmen.",
+      "l25": "W abwarten, dann Q-Kette; E offensiv ohne sicheren Takedown ist ein Angriffsfenster.",
+      "l6": "Olaf-R verhindert ihre Kontrolle, unterbricht ihre R aber nicht. Du brauchst Killdruck oder Support-Unterbrechung.",
+      "threats": "W blockiert Q-Projektil, E-Resets und R. W ist kein generelles Auto-Dodge gegen Olafs Nahkampfautos.",
+      "window": "W abwarten, dann Q-Kette; E offensiv ohne sicheren Takedown ist ein Angriffsfenster.",
+      "errors": "W blockiert Q-Projektil, E-Resets und R. W ist kein generelles Auto-Dodge gegen Olafs Nahkampfautos.",
+      "trade": "Q nach W, Autos/E bei Kontakt, W gegen Gegenburst; nach Reset Ziel und Abstand neu bewerten.",
+      "side": "1: naher Kampf möglich. 2: Lifesteal macht Finishes knapper. 3: ein früher Takedown kann das ganze Gefecht kippen.",
+      "support": "Dein Support sollte eine R-Unterbrechung behalten. Gegnerischer Engage liefert ihr den Einstieg und den ersten Reset.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Sie kommt selbst in Nahdistanz, aber W und Resets stören eine lineare Combo. Längere Kämpfe sind wahrscheinlicher als ein freier kurzer Burst. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W abwarten, dann Q-Kette; E offensiv ohne sicheren Takedown ist ein Angriffsfenster. Olaf-R verhindert ihre Kontrolle, unterbricht ihre R aber nicht. Du brauchst Killdruck oder Support-Unterbrechung. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/samira/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Seraphine",
+      "slug": "seraphine",
+      "tier": "C",
+      "rune": "Conqueror",
+      "reason": "Ragnarok schwächt ihre CC-Ketten, aber Shields, Heilung und Speed erzeugen längere 2v2-Fights.",
+      "l1": "Double-Q und E-Linie meiden; nicht neben Support beide vom selben Zauber treffen lassen.",
+      "l25": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen.",
+      "l6": "R kann Charm/Root überbrücken; W-Schutz und Q-Schaden bleiben. R erst bei erreichbarem Ziel.",
+      "threats": "Echo-W, E und R. Nicht zu zweit alles in Schild/Heilung entladen und dann ohne Ressourcen bleiben.",
+      "window": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen.",
+      "errors": "Echo-W, E und R. Nicht zu zweit alles in Schild/Heilung entladen und dann ohne Ressourcen bleiben.",
+      "trade": "Q → erster Kontakt → W-Fenster überleben → neue Q/Autos nach Schild. Fokus mit Support absprechen.",
+      "side": "1: Sustain gegen Poke. 2: 2v2-Heilwert steigt. 3: sie skaliert über Teamschutz, isoliertes Duell ist kein Gesamtspielmaß.",
+      "support": "Engage plus gestaffelter Schaden gut. Double-Enchanter-/Shield-Lane kann Fang interessant machen, sofern Schilde Kills verhindern.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Ragnarok schwächt ihre CC-Ketten, aber Shields, Heilung und Speed erzeugen längere 2v2-Fights. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach E plus verstärktem W-Defensivfenster angreifen. Ihr Push kann eine lange Lane für dich schaffen. R kann Charm/Root überbrücken; W-Schutz und Q-Schaden bleiben. R erst bei erreichbarem Ziel. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift. E-Abklingzeit in 26.18 auf allen Rängen 11 Sekunden; Haste verkürzt das tatsächliche Fenster.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/seraphine/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ],
+        [
+          "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+          "https://lolalytics.com/lol/seraphine/build/?lane=bottom"
+        ]
+      ]
+    },
+    {
+      "name": "Sivir",
+      "slug": "sivir",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Spellshield kann den entscheidenden Q-Zugang verwehren; R-Tempo und Waveclear verkürzen deine Killfenster.",
+      "l1": "Boomerang beide Wege ausweichen; nicht zum Farmen Wave plus Poke gleichzeitig tanken.",
+      "l25": "E verbraucht: Q/Support-CC verbinden. Nicht beide Eröffnungsspells in denselben Spellshield werfen.",
+      "l6": "Ihre R beschleunigt auch Verbündete. Olaf-R verhindert das Weglaufen nicht.",
+      "threats": "E, R und Q-Rückflug. Keine langen Chases in frische Waves.",
+      "window": "E verbraucht: Q/Support-CC verbinden. Nicht beide Eröffnungsspells in denselben Spellshield werfen.",
+      "errors": "E, R und Q-Rückflug. Keine langen Chases in frische Waves.",
+      "trade": "Support zwingt E → Q → Kontakt und drei Autos; nach Rückzug Tempo nicht mit blindem Ghost nachrennen.",
+      "side": "1: Waveclear hält sie sicher. 2: häufiger verfügbarer Escape. 3: ihr Team profitiert stark von R, Solo-Zugriff bleibt möglich.",
+      "support": "Gestaffelter Engage hilft gegen E. Speed-/Peel-Support verstärkt ihr Disengage-Konzept.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Spellshield kann den entscheidenden Q-Zugang verwehren; R-Tempo und Waveclear verkürzen deine Killfenster. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E verbraucht: Q/Support-CC verbinden. Nicht beide Eröffnungsspells in denselben Spellshield werfen. Ihre R beschleunigt auch Verbündete. Olaf-R verhindert das Weglaufen nicht. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/sivir/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Smolder",
+      "slug": "smolder",
+      "tier": "B",
+      "rune": "PTA",
+      "reason": "Früh begrenzter Kampfwert und ein klares E-Fluchtfenster sind nutzbar; freies Stacken über lange Zeit ist keine Win Condition.",
+      "l1": "Kurze Q-/Auto-Trades nehmen, wenn Support mithält; nicht für Aggression die ganze erste Wave verlieren.",
+      "l25": "E verbraucht und nicht über Wand erreichbar: Q-Kette. W-Poke seitlich meiden.",
+      "l6": "Seine R heilt und erzeugt Abstand über Slow, den Olaf-R überbrücken kann; Schaden bleibt.",
+      "threats": "E und R. Nicht über Wände chase-en oder den Gegner ohne Preis endlos stacken lassen.",
+      "window": "E verbraucht und nicht über Wand erreichbar: Q-Kette. W-Poke seitlich meiden.",
+      "errors": "E und R. Nicht über Wände chase-en oder den Gegner ohne Preis endlos stacken lassen.",
+      "trade": "Q → E erzwingen → nach Landung Engage → AA/E. Crash und Reset statt unter Turm endlos warten.",
+      "side": "1: Druckfenster nutzen. 2: Stackstand wichtiger als Itemzahl allein. 3: späte AoE-/Execute-Skalierung erschwert Teamfights.",
+      "support": "Support mit Zugriff kann E bestrafen. Passives 2v2 gegen starken Peel schenkt ihm den gewünschten Farmverlauf.",
+      "role": "adc",
+      "lane": "B",
+      "late": "D",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Früh begrenzter Kampfwert und ein klares E-Fluchtfenster sind nutzbar; freies Stacken über lange Zeit ist keine Win Condition. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E verbraucht und nicht über Wand erreichbar: Q-Kette. W-Poke seitlich meiden. Seine R heilt und erzeugt Abstand über Slow, den Olaf-R überbrücken kann; Schaden bleibt. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/smolder/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Swain",
+      "slug": "swain",
+      "tier": "C",
+      "rune": "Conqueror",
+      "reason": "Er bleibt für längere Kämpfe erreichbar, heilt aber im 2v2 an mehreren Zielen. R-Immunität ersetzt keinen ausreichenden Schaden.",
+      "l1": "E-Rückweg vermeiden, nicht in Minions für seine Nah-Q gehen.",
+      "l25": "E verfehlt: längerer Gegenfight, wenn Support und Wave mitspielen.",
+      "l6": "Nicht automatisch in aktiver Swain-R kämpfen. Wenn dein Schaden fehlt, auseinandergehen und Reichweite verlassen; sonst fokussierter Finish.",
+      "threats": "E, Nah-Q und R-Heilung. Nicht beide dauerhaft in R stehen und auf Olaf-Passive allein vertrauen.",
+      "window": "E verfehlt: längerer Gegenfight, wenn Support und Wave mitspielen.",
+      "errors": "E, Nah-Q und R-Heilung. Nicht beide dauerhaft in R stehen und auf Olaf-Passive allein vertrauen.",
+      "trade": "E ausweichen → Q → AA/E, W gegen Burst. Bei nicht gewinnbarem Drain-Fight disengagen statt ihm beide Ziele zu geben.",
+      "side": "1: längere Duelle möglich. 2: HP/AP und Antiheal bestimmen Finish. 3: zwei Champions in seiner R können die Solo-Einschätzung umdrehen.",
+      "support": "Eigener Support sollte nicht unnötig mitgetroffen werden. Gemeinsamer Fokus oder gemeinsamer Rückzug statt geteilter Entscheidung.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Er bleibt für längere Kämpfe erreichbar, heilt aber im 2v2 an mehreren Zielen. R-Immunität ersetzt keinen ausreichenden Schaden. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+      "situ": "Anti-Heal gegen entscheidende Heilung, insbesondere im langen R-Fight. Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E verfehlt: längerer Gegenfight, wenn Support und Wave mitspielen. Nicht automatisch in aktiver Swain-R kämpfen. Wenn dein Schaden fehlt, auseinandergehen und Reichweite verlassen; sonst fokussierter Finish. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/swain/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ],
+        [
+          "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+          "https://lolalytics.com/lol/swain/build/?lane=bottom"
+        ]
+      ]
+    },
+    {
+      "name": "Tristana",
+      "slug": "tristana",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "W und später R schaffen Abstand; Olaf kann nur den Knockback, nicht ihren Sprung neutralisieren.",
+      "l1": "E-Passive pusht die Wave. Sicher abfangen, keine unnötigen Explosionstrades.",
+      "l25": "W aggressiv verbraucht: Gegenengage, falls Bombenexplosion/Takedown keinen schnellen Reset ermöglichen.",
+      "l6": "R vor ihrem Knockback bei sicherem Nahkontakt. W-Flucht bleibt auch gegen Ragnarok voll wirksam.",
+      "threats": "W-Resets, E-Bombe, R. Voll gestapelte Bombe nicht als garantiertes Escape-CD-Fenster missverstehen.",
+      "window": "W aggressiv verbraucht: Gegenengage, falls Bombenexplosion/Takedown keinen schnellen Reset ermöglichen.",
+      "errors": "W-Resets, E-Bombe, R. Voll gestapelte Bombe nicht als garantiertes Escape-CD-Fenster missverstehen.",
+      "trade": "Sprungziel mit Q/Support abfangen, E-Burst mit W puffern, Autos halten; keine Chase nach erneutem W über Wand.",
+      "side": "1: Burst abfangen. 2: Reichweite wächst mit Level. 3: mehrere Escape-Werkzeuge verlangen Flanke oder CC-Kette.",
+      "support": "Dein Support muss ihren Landepunkt kontrollieren; Gegner mit Burst/Engage kann einen W-Reset ermöglichen.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. W und später R schaffen Abstand; Olaf kann nur den Knockback, nicht ihren Sprung neutralisieren. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W aggressiv verbraucht: Gegenengage, falls Bombenexplosion/Takedown keinen schnellen Reset ermöglichen. R vor ihrem Knockback bei sicherem Nahkontakt. W-Flucht bleibt auch gegen Ragnarok voll wirksam. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/tristana/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Twitch",
+      "slug": "twitch",
+      "tier": "C",
+      "rune": "PTA",
+      "reason": "Ohne vorbereiteten Tarnungswinkel ist er gut bindbar; Surprise-Opening und R-Reichweite können dich vor Kontakt töten.",
+      "l1": "Wave kontrolliert spielen, fehlenden Twitch nicht als freien Rückzug des Supports interpretieren.",
+      "l25": "Nach Auftauchen und verbrauchtem W direkt binden; nicht mit vielen Giftstacks noch einmal kurz traden.",
+      "l6": "R gibt ihm Distanzschaden. Olaf-R hilft gegen Slow/Peel, nicht gegen Gift und seine Reichweite.",
+      "threats": "Q-Tarnung, E-Giftburst, R. Nicht allein in unkontrollierte Lane-Büsche oder Chokepoints gehen.",
+      "window": "Nach Auftauchen und verbrauchtem W direkt binden; nicht mit vielen Giftstacks noch einmal kurz traden.",
+      "errors": "Q-Tarnung, E-Giftburst, R. Nicht allein in unkontrollierte Lane-Büsche oder Chokepoints gehen.",
+      "trade": "Q beim Auftauchen → Support-CC → kurzer Kill; W vor Gift-Execute statt erst bei fast null HP.",
+      "side": "1: Kontaktfenster vorhanden. 2: Hinterhalt stark. 3: R plus Enchanter gefährlicher als isoliertes Duell vermuten lässt.",
+      "support": "Engage beim Reveal hilft. Gegnerischer Enchanter und freie Flanke sind seine stärkste Voraussetzung.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Ohne vorbereiteten Tarnungswinkel ist er gut bindbar; Surprise-Opening und R-Reichweite können dich vor Kontakt töten. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach Auftauchen und verbrauchtem W direkt binden; nicht mit vielen Giftstacks noch einmal kurz traden. R gibt ihm Distanzschaden. Olaf-R hilft gegen Slow/Peel, nicht gegen Gift und seine Reichweite. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/twitch/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Varus",
+      "slug": "varus",
+      "tier": "C",
+      "rune": "PTA",
+      "reason": "Kein Dash macht ihn erreichbar; Poke- und On-hit-Varianten verlangen unterschiedliche Vorbereitung.",
+      "l1": "Q-Linien meiden, frühe Autos nicht kostenlos nehmen. Eigene Minions helfen nur begrenzt gegen seine durchgehende Q.",
+      "l25": "Q verbraucht plus Support-Engage ist ein Fenster; Blight-Stacks und E-Zone vor längerem Fight beachten.",
+      "l6": "R verliert Kontrolle gegen aktive Olaf-R, aber Blight-Burst und E-Heilreduktion verschwinden nicht.",
+      "threats": "Q, Blight, E und R. Nicht im E mit erwarteter voller Heilung statchecken.",
+      "window": "Q verbraucht plus Support-Engage ist ein Fenster; Blight-Stacks und E-Zone vor längerem Fight beachten.",
+      "errors": "Q, Blight, E und R. Nicht im E mit erwarteter voller Heilung statchecken.",
+      "trade": "Q treffen → E-Zone verlassen → R gegen Root → Autos/E. Bei On-hit nicht unnötig lange anlaufen.",
+      "side": "1: Poke-Sustain oder Auto-Defensive passend wählen. 2: Build prüfen. 3: On-hit-DPS mit Peel sehr gefährlich, Poke-Varus beim Fang verwundbarer.",
+      "support": "Engage gut gegen fehlenden Dash. Gegnerischer Peel und On-hit-Supportbuffs erhöhen seinen effektiven Schaden stark.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Kein Dash macht ihn erreichbar; Poke- und On-hit-Varianten verlangen unterschiedliche Vorbereitung. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Q verbraucht plus Support-Engage ist ein Fenster; Blight-Stacks und E-Zone vor längerem Fight beachten. R verliert Kontrolle gegen aktive Olaf-R, aber Blight-Burst und E-Heilreduktion verschwinden nicht. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/varus/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Vayne",
+      "slug": "vayne",
+      "tier": "E",
+      "rune": "Conqueror",
+      "reason": "R/Q-Unsichtbarkeit unterbricht Autos und Ragnarok-Verlängerung; Condemn-Immunität allein macht das Duell nicht leicht.",
+      "l1": "Nicht für einen Auto drei Silberbolzen-Treffer nehmen. Wave mit Q statt HP bezahlen.",
+      "l25": "Q offensiv und E verbraucht: Support-CC nutzen. Mit sauberem Zugriff kann frühe Vayne bestraft werden.",
+      "l6": "R blockiert Condemn-Kontrolle, nicht Unsichtbarkeit oder Silberbolzen. Fähigkeit und Auto für Wiederauftauchen halten.",
+      "threats": "R/Q, W und E. Nicht R aus Entfernung zünden und während Unsichtbarkeit auslaufen lassen.",
+      "window": "Q offensiv und E verbraucht: Support-CC nutzen. Mit sauberem Zugriff kann frühe Vayne bestraft werden.",
+      "errors": "R/Q, W und E. Nicht R aus Entfernung zünden und während Unsichtbarkeit auslaufen lassen.",
+      "trade": "Q vor Ausweichen oder beim Reveal, E bei Zielbarkeit, Autos/W nach Reappear. Support-Follow-up statt blindes Dauerchase.",
+      "side": "1: frühe Fenster. 2: längeres Duell kippt bei sauberem Kiting. 3: True Damage und Tarnung bleiben gefährlich, kein pauschaler Olaf-Outscale.",
+      "support": "Zuverlässiger CC auf Reveal wichtiger als reiner Heal. Gegnerischer Peel verlängert ihre Unsichtbarkeitszyklen.",
+      "role": "adc",
+      "lane": "E",
+      "late": "E",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. R/Q-Unsichtbarkeit unterbricht Autos und Ragnarok-Verlängerung; Condemn-Immunität allein macht das Duell nicht leicht. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Q offensiv und E verbraucht: Support-CC nutzen. Mit sauberem Zugriff kann frühe Vayne bestraft werden. R blockiert Condemn-Kontrolle, nicht Unsichtbarkeit oder Silberbolzen. Fähigkeit und Auto für Wiederauftauchen halten. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/vayne/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Veigar",
+      "slug": "veigar",
+      "tier": "B",
+      "rune": "PTA",
+      "reason": "Während Ragnarok verliert der Käfig gegen Olaf seinen Stop-Effekt; der Burst bleibt ein echtes Problem für Low-HP-Fights.",
+      "l1": "Q/W nicht zusammen mit CS einstecken; E-Zone vor 6 respektieren.",
+      "l25": "Käfig verbraucht: Q/Engage in langer Lane. Nicht erst im Käfig bei halben HP anfangen.",
+      "l6": "R kann Käfig-Stun verhindern, nicht W/R-Schaden. W früh genug gegen Burst, statt auf maximale Passive zu warten.",
+      "threats": "E-Käfig, W und R. Nicht Low-HP-Bait gegen bereiten Execute-Burst erzwingen.",
+      "window": "Käfig verbraucht: Q/Engage in langer Lane. Nicht erst im Käfig bei halben HP anfangen.",
+      "errors": "E-Käfig, W und R. Nicht Low-HP-Bait gegen bereiten Execute-Burst erzwingen.",
+      "trade": "E abwarten oder mit R bei Kontakt durchqueren → W vor W/R → schnelle Auto-/E-Folge.",
+      "side": "1: MR kann Burstgrenze verändern. 2: Zhonya/Seraph können Finish verschieben. 3: Skalierung erhöht Schaden, Zugriff bleibt mechanisch möglich.",
+      "support": "Hard Engage gut, sofern Burst abgefangen wird. Gegner mit Shields/Stasis-Kauf verlängert über dein R-Fenster hinaus.",
+      "role": "adc",
+      "lane": "B",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Während Ragnarok verliert der Käfig gegen Olaf seinen Stop-Effekt; der Burst bleibt ein echtes Problem für Low-HP-Fights. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Käfig verbraucht: Q/Engage in langer Lane. Nicht erst im Käfig bei halben HP anfangen. R kann Käfig-Stun verhindern, nicht W/R-Schaden. W früh genug gegen Burst, statt auf maximale Passive zu warten. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/veigar/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ],
+        [
+          "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+          "https://lolalytics.com/lol/veigar/build/?lane=bottom"
+        ]
+      ]
+    },
+    {
+      "name": "Xayah",
+      "slug": "xayah",
+      "tier": "E",
+      "rune": "Conqueror",
+      "reason": "R-Unzielbarkeit unterbricht Kontakt; Federburst bleibt auch bei Root-Immunität bestehen und bestraft frontales Anlaufen.",
+      "l1": "Keine geraden Wege zwischen ihr und vielen Federn nehmen.",
+      "l25": "E nach Waveclear verbraucht: Winkelwechsel plus Engage, solange keine neue gefährliche Federlinie steht.",
+      "l6": "R negiert ihren Root, nicht E-Schaden. Ihre R kann Olaf-R mangels Autos/E auslaufen lassen.",
+      "threats": "Federn, E und R. Nicht alle Ressourcen vor ihrer Unzielbarkeit einsetzen.",
+      "window": "E nach Waveclear verbraucht: Winkelwechsel plus Engage, solange keine neue gefährliche Federlinie steht.",
+      "errors": "Federn, E und R. Nicht alle Ressourcen vor ihrer Unzielbarkeit einsetzen.",
+      "trade": "Q/kurzer Kontakt zum Erzwingen von R, seitlich aus Federn, nach Landung neu binden. W für E-Burst aufheben.",
+      "side": "1: E-Fenster wichtig. 2: mehr Crit erhöht Rückzugsburst. 3: mit Peel schwerer Zugriff, nicht im Federnkorridor duellieren.",
+      "support": "Gestaffelter Engage nach R ist entscheidend. Gegnerischer Rakan-/Peel-Support macht gleichzeitigen Commit leicht ausspielbar.",
+      "role": "adc",
+      "lane": "E",
+      "late": "E",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. R-Unzielbarkeit unterbricht Kontakt; Federburst bleibt auch bei Root-Immunität bestehen und bestraft frontales Anlaufen. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E nach Waveclear verbraucht: Winkelwechsel plus Engage, solange keine neue gefährliche Federlinie steht. R negiert ihren Root, nicht E-Schaden. Ihre R kann Olaf-R mangels Autos/E auslaufen lassen. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/xayah/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Yasuo",
+      "slug": "yasuo",
+      "tier": "C",
+      "rune": "Conqueror",
+      "reason": "Melee-Kontakt passt Olaf, aber Windwall nimmt Äxte und Minion-Dashes unterbrechen das Duell.",
+      "l1": "Passivschild mit Q lösen, bevor ein echter Trade beginnt; große Wave nicht zum Chase-Korridor machen.",
+      "l25": "Nach Windwall und verbrauchtem Q3 in dünner Wave kämpfen. Seine Dash-Ziele mitdenken.",
+      "l6": "Olaf-R erschwert gegnerische Knock-up-Ketten; Yasuos Schaden und Windwall bleiben relevant.",
+      "threats": "W, Q3, Passivschild und E-Ziele. Keine Äxte wiederholt in W werfen.",
+      "window": "Nach Windwall und verbrauchtem Q3 in dünner Wave kämpfen. Seine Dash-Ziele mitdenken.",
+      "errors": "W, Q3, Passivschild und E-Ziele. Keine Äxte wiederholt in W werfen.",
+      "trade": "Schild ankratzen → Q3 ausweichen → nach W seitlich schließen → langer AA/E-Fight mit W bei Gegenburst.",
+      "side": "1: Sustain und Kontaktduell. 2: Crit-Spike respektieren. 3: Rüstung/Gold und Dash-Raum entscheiden, nicht Melee allein.",
+      "support": "Knock-up-Support des Gegners macht vor 6 viel aus. Dein Support sollte nach Windwall oder von der Seite eröffnen.",
+      "role": "adc",
+      "lane": "C",
+      "late": "C",
+      "runeReason": "Conqueror als Basis für mehrere Kontaktphasen oder lange Nahkämpfe. Melee-Kontakt passt Olaf, aber Windwall nimmt Äxte und Minion-Dashes unterbrechen das Duell. Kontrolle/Heilung deines Supports muss das längere Fight-Pattern ermöglichen.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: PTA möglich, wenn dein Support den Carry nach dessen Defensivfenster lange genug fixiert und schnelle Picks das Spiel entscheiden. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach Windwall und verbrauchtem Q3 in dünner Wave kämpfen. Seine Dash-Ziele mitdenken. Olaf-R erschwert gegnerische Knock-up-Ketten; Yasuos Schaden und Windwall bleiben relevant. Längere Kontakte planen und gegnerische Defensivfenster nicht mit allen Ressourcen beantworten.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/yasuo/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Yunara",
+      "slug": "yunara",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Reichweiten-DPS und verstärkte Mobilität während R begrenzen den Nahkontakt. Kurzer gebundener Zugriff ist besser als freies Hinterherlaufen.",
+      "l1": "Aufgeladenes Q und Wave-Poke respektieren; nicht durch ihre vorbereitete Auto-Phase laufen.",
+      "l25": "Nach verbrauchtem E-Tempo mit Support binden; nicht in aktives Q einen langen freien Anlauf nehmen.",
+      "l6": "Während R ist E ein Dash. R-Aktivierung als Mobilitätswechsel berücksichtigen, nicht als stationären DPS-Knopf.",
+      "threats": "Q-Fenster, E und verstärkte E in R. Kein pauschaler Steelcaps-Statcheck gegen ihre gemischten Schadensanteile.",
+      "window": "Nach verbrauchtem E-Tempo mit Support binden; nicht in aktives Q einen langen freien Anlauf nehmen.",
+      "errors": "Q-Fenster, E und verstärkte E in R. Kein pauschaler Steelcaps-Statcheck gegen ihre gemischten Schadensanteile.",
+      "trade": "Q → Support bindet → AA/E/W. Wenn R den Zugriff auflöst, Folge-CC oder Flash für tatsächlichen Landepunkt halten.",
+      "side": "1: Supportkontakt nötig. 2: starke DPS-Fenster. 3: Crit enthält zusätzlichen Magieschaden; Defensive nach gesamter Comp.",
+      "support": "Engage muss zur R-/E-Verfügbarkeit passen. Eigenes Tempo hilft, ersetzt gegen Dash aber kein gutes Timing.",
+      "role": "adc",
+      "lane": "D",
+      "late": "D",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Reichweiten-DPS und verstärkte Mobilität während R begrenzen den Nahkontakt. Kurzer gebundener Zugriff ist besser als freies Hinterherlaufen. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "Nach verbrauchtem E-Tempo mit Support binden; nicht in aktives Q einen langen freien Anlauf nehmen. Während R ist E ein Dash. R-Aktivierung als Mobilitätswechsel berücksichtigen, nicht als stationären DPS-Knopf. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/yunara/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Zeri",
+      "slug": "zeri",
+      "tier": "E",
+      "rune": "PTA",
+      "reason": "Wandflucht und R-Beweglichkeit verhindern lange Auto-Serien; Killfenster brauchen externen Halt.",
+      "l1": "Minions können ihre Q blockieren; E-Durchschüsse beachten und nicht außerhalb der Wave frei anlaufen.",
+      "l25": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen.",
+      "l6": "Olaf-R löst nicht ihre R-Mobilität. Nähe zu langen Wänden verkleinert dein Finish-Fenster.",
+      "threats": "E über Wände, R und W durch Terrain. Nicht ohne Sicht über Flusswände verfolgen.",
+      "window": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen.",
+      "errors": "E über Wände, R und W durch Terrain. Nicht ohne Sicht über Flusswände verfolgen.",
+      "trade": "Support-CC → Q → kurze Auto-/E-Folge. Bleibt E bereit, zuerst Flucht erzwingen statt Ghost und Flash gleichzeitig ausgeben.",
+      "side": "1: Farm halten. 2: R-Kiting schwieriger. 3: Zugriff bleibt Problem; reiner Mehrschaden ohne CC reicht selten.",
+      "support": "Hard Engage vor Wandkontakt hilft. Shields und Tempo auf Zeri verschlechtern den Zugang deutlich.",
+      "role": "adc",
+      "lane": "E",
+      "late": "E",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Wandflucht und R-Beweglichkeit verhindern lange Auto-Serien; Killfenster brauchen externen Halt. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "E für Wave/Wand verbraucht: zeitnah binden, bevor weitere Treffer ihren Escape zurückbringen. Olaf-R löst nicht ihre R-Mobilität. Nähe zu langen Wänden verkleinert dein Finish-Fenster. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift. W-AD-Skalierung in 26.18 reduziert; E-Wandflucht bleibt der zentrale Zugriffsfaktor.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/zeri/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ]
+      ]
+    },
+    {
+      "name": "Ziggs",
+      "slug": "ziggs",
+      "tier": "D",
+      "rune": "PTA",
+      "reason": "Poke und Waveclear verweigern lange Lane; W schafft auch bei CC-Immunität durch seinen eigenen Sprung Abstand.",
+      "l1": "Bomben seitlich ausweichen, CS nicht mit mehreren Poke-Treffern bezahlen.",
+      "l25": "W offensiv/auf Wave genutzt: Q plus Engage. Minenfeld möglichst umgehen.",
+      "l6": "R hilft gegen Slow/Knockback auf Olaf, verhindert nicht Ziggs eigenen W-Sprung oder Bombenschaden.",
+      "threats": "Q, W, E. Nicht annehmen, Ragnarok schalte beide Teile der Satchel-Flucht aus.",
+      "window": "W offensiv/auf Wave genutzt: Q plus Engage. Minenfeld möglichst umgehen.",
+      "errors": "Q, W, E. Nicht annehmen, Ragnarok schalte beide Teile der Satchel-Flucht aus.",
+      "trade": "Seitlicher Q-Winkel, W erzwingen, nach Landung mit Support binden. Keine Chase durch Minen ohne Finish.",
+      "side": "1: Hydra/MR stabilisiert. 2: Waveclear verhindert einfache Push-Strafen. 3: Team braucht Zugang zu ihm, Tower-Race allein schlecht.",
+      "support": "Engage mit Reichweite wertvoll. Double-Poke zwingt mehr frühe Defensive und sichere Resets.",
+      "role": "adc",
+      "lane": "D",
+      "late": "C",
+      "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Poke und Waveclear verweigern lange Lane; W schafft auch bei CC-Immunität durch seinen eigenen Sprung Abstand. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+      "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+      "sums": "Flash + Ghost",
+      "boots": "Frühe Boots zum Ausweichen; Mercury’s Treads bei relevantem Magieschaden und reduzierbarem CC. Nicht wegen des gegnerischen Rollennamens Steelcaps kaufen.",
+      "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Sein/ihr Waveclear kann den Freeze brechen: keine halbe HP-Leiste für das Halten ausgeben. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+      "items": "Ravenous Hydra für Waveclear/Sustain; bei AP-Poke eine frühe MR-Komponente vorziehen. Danach Maw gegen AP-Burst oder Spirit Visage bei anhaltendem AP-Schaden und relevantem Heil-/Schildwert.",
+      "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+      "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+      "plan": "W offensiv/auf Wave genutzt: Q plus Engage. Minenfeld möglichst umgehen. R hilft gegen Slow/Knockback auf Olaf, verhindert nicht Ziggs eigenen W-Sprung oder Bombenschaden. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+      "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+      "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+      "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+      "stats": {
+        "opponentWR": null,
+        "n": null,
+        "opponentGD": null,
+        "rawWR": null,
+        "ln": null,
+        "delta2": null
+      },
+      "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+      "official": "https://www.leagueoflegends.com/en-us/champions/ziggs/",
+      "sources": [
+        [
+          "Riot · Olaf",
+          "https://www.leagueoflegends.com/en-us/champions/olaf/"
+        ],
+        [
+          "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+          "https://www.metasrc.com/lol/tier-list/adc"
+        ],
+        [
+          "LoLalytics · Bot-Rolle (keine Olaf-Paarungsstatistik)",
+          "https://lolalytics.com/lol/ziggs/build/?lane=bottom"
+        ]
+      ]
+    }
+  ]
+}

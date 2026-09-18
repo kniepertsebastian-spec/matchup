@@ -1,0 +1,53 @@
+{
+  "patch": "26.18",
+  "checked": "18.09.2026",
+  "name": "Corki",
+  "slug": "corki",
+  "tier": "D",
+  "rune": "PTA",
+  "reason": "Burst, Rüstungssenkung und W-Flucht bestrafen geradliniges Anlaufen. Ein gebundenes Ziel ist dennoch verwundbar.",
+  "l1": "Reichweitenautos akzeptieren, Q nicht für ungesicherte Chase verschwenden.",
+  "l25": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen.",
+  "l6": "Raketen erhöhen Poke. Deine R verhindert keine seiner Schadensquellen oder W-Flucht.",
+  "threats": "W, E und Q-Burst. Steelcaps nicht als Antwort auf alle Zauberschäden verstehen.",
+  "window": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen.",
+  "errors": "W, E und Q-Burst. Steelcaps nicht als Antwort auf alle Zauberschäden verstehen.",
+  "trade": "Seitliche Q, E-Kegel verlassen, W abwarten, dann mit Support in mehreren Autos finishen.",
+  "side": "1: Hydra hält Lane spielbar. 2: kurzer Burst entscheidet. 3: lange Front-to-back-Fights sind für Olaf ohne Einstieg ungünstig.",
+  "support": "Support muss W erzwingen oder den Landepunkt erreichen; bloßes Hinterherlaufen gibt Corki freie Salven.",
+  "role": "adc",
+  "lane": "D",
+  "late": "C",
+  "runeReason": "PTA nur bei gesicherter kurzer Auto-Serie nach Supportkontakt. Burst, Rüstungssenkung und W-Flucht bestrafen geradliniges Anlaufen. Ein gebundenes Ziel ist dennoch verwundbar. Ohne drei Autos auf dasselbe Ziel ist diese Rune kein Argument für einen erzwungenen Engage.",
+  "start": "Doran’s Shield + Health Potion; Doran’s Blade nur bei realistisch gewinnbarem frühem 2v2 und ausreichendem Schutz vor Poke.",
+  "sums": "Flash + Ghost",
+  "boots": "Frühe Boots für Zugang. Plated Steelcaps bei dominantem gegnerischem Auto-Druck; gegen magischen Support-Poke und gemischten Schaden beide Gegner berücksichtigen.",
+  "wave": "Wave eher auf eigener Seite halten und vor Crash sicher ausdünnen. Mit Supportkontrolle nach gewonnenem Trade slowpushen und vollständig crashen. Tiamat-Cleave erschwert den Freeze. Cheater Recall nur bei gemeinsam gesichertem Push; bei verlorenem Push nicht erzwingen.",
+  "items": "Ravenous Hydra als Sustain-/Waveclear-Basis. Tiamat → Steelcaps → Hydra passt nur, wenn Auto-Schaden die Lane bestimmt. Danach Death’s Dance gegen physischen Druck; offensive Crit-Abzweigung nur bei bereits gesicherter Auto-Zeit.",
+  "situ": "Serpent’s Fang nur wenn wiederholte gegnerische Schilde deinen Finish verhindern. Gegen Crit Randuin’s erwägen, gegen AP-Burst Maw. Sterak’s als alternative Burstabsicherung; nicht mit Maw als doppelte Lifeline einplanen. Crit-Ausbau verlangt Zugriff und Überlebenszeit, kein automatisches Full-Crit ab Hydra.",
+  "override": "Comp Override: Conqueror, wenn dein erreichbares Ziel meist die Frontline ist oder Schilde/Heilung mehrere Kontaktphasen erzwingen. Flash + Ignite nur bei gesichertem Engage und kurzem Killfenster statt Chase; der Verzicht auf Ghost ist eine bewusste Zugangsentscheidung.",
+  "plan": "Nach W-Verbrauch angreifen; kurze Trades in seinem E-Kegel vermeiden, seitlich herausgehen. Raketen erhöhen Poke. Deine R verhindert keine seiner Schadensquellen oder W-Flucht. Supportkontakt für eine kurze Auto-Serie nutzen; ohne Folgekontakt keine Summoners erzwingen.",
+  "revision": "Neu: unabhängige Olaf-ADC-Analyse, keine Übernahme der Toplane-Wertung.",
+  "note": "Patch 26.18 · geprüft 18.09.2026. Qualitative Kit-Einschätzung für Summoner’s Rift.",
+  "uncertainty": "Vorläufig; keine belastbare Olaf-ADC-Paarungsstatistik. Supportduo, Wave, Level und Zugriff können das Ergebnis stärker verschieben als der Carry allein. Späte-Side-Tier nur grobe isolierte Einordnung bei vergleichbarem Stand.",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-ADC-Paarungsstatistik verifiziert. Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/corki/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Botlane-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/adc"
+    ]
+  ]
+}

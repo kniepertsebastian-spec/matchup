@@ -1,0 +1,268 @@
+{
+  "workbooks": [
+    {
+      "file": "Matchups\\Olaf_vs_aatrox.xlsx",
+      "sheets": 1,
+      "bytes": 7614
+    },
+    {
+      "file": "Matchups\\Olaf_vs_akali.xlsx",
+      "sheets": 1,
+      "bytes": 7687
+    },
+    {
+      "file": "Matchups\\Olaf_vs_ambessa.xlsx",
+      "sheets": 1,
+      "bytes": 7551
+    },
+    {
+      "file": "Matchups\\Olaf_vs_camille.xlsx",
+      "sheets": 1,
+      "bytes": 7645
+    },
+    {
+      "file": "Matchups\\Olaf_vs_chogath.xlsx",
+      "sheets": 1,
+      "bytes": 7515
+    },
+    {
+      "file": "Matchups\\Olaf_vs_darius.xlsx",
+      "sheets": 1,
+      "bytes": 7588
+    },
+    {
+      "file": "Matchups\\Olaf_vs_drmundo.xlsx",
+      "sheets": 1,
+      "bytes": 7607
+    },
+    {
+      "file": "Matchups\\Olaf_vs_fiora.xlsx",
+      "sheets": 1,
+      "bytes": 7633
+    },
+    {
+      "file": "Matchups\\Olaf_vs_gangplank.xlsx",
+      "sheets": 1,
+      "bytes": 7584
+    },
+    {
+      "file": "Matchups\\Olaf_vs_garen.xlsx",
+      "sheets": 1,
+      "bytes": 7614
+    },
+    {
+      "file": "Matchups\\Olaf_vs_gnar.xlsx",
+      "sheets": 1,
+      "bytes": 7452
+    },
+    {
+      "file": "Matchups\\Olaf_vs_gragas.xlsx",
+      "sheets": 1,
+      "bytes": 7460
+    },
+    {
+      "file": "Matchups\\Olaf_vs_gwen.xlsx",
+      "sheets": 1,
+      "bytes": 7540
+    },
+    {
+      "file": "Matchups\\Olaf_vs_heimerdinger.xlsx",
+      "sheets": 1,
+      "bytes": 7493
+    },
+    {
+      "file": "Matchups\\Olaf_vs_illaoi.xlsx",
+      "sheets": 1,
+      "bytes": 7523
+    },
+    {
+      "file": "Matchups\\Olaf_vs_irelia.xlsx",
+      "sheets": 1,
+      "bytes": 7485
+    },
+    {
+      "file": "Matchups\\Olaf_vs_jax.xlsx",
+      "sheets": 1,
+      "bytes": 7641
+    },
+    {
+      "file": "Matchups\\Olaf_vs_jayce.xlsx",
+      "sheets": 1,
+      "bytes": 7394
+    },
+    {
+      "file": "Matchups\\Olaf_vs_kayle.xlsx",
+      "sheets": 1,
+      "bytes": 7605
+    },
+    {
+      "file": "Matchups\\Olaf_vs_kennen.xlsx",
+      "sheets": 1,
+      "bytes": 7376
+    },
+    {
+      "file": "Matchups\\Olaf_vs_kled.xlsx",
+      "sheets": 1,
+      "bytes": 7556
+    },
+    {
+      "file": "Matchups\\Olaf_vs_ksante.xlsx",
+      "sheets": 1,
+      "bytes": 7552
+    },
+    {
+      "file": "Matchups\\Olaf_vs_malphite.xlsx",
+      "sheets": 1,
+      "bytes": 7454
+    },
+    {
+      "file": "Matchups\\Olaf_vs_mordekaiser.xlsx",
+      "sheets": 1,
+      "bytes": 7475
+    },
+    {
+      "file": "Matchups\\Olaf_vs_nasus.xlsx",
+      "sheets": 1,
+      "bytes": 7696
+    },
+    {
+      "file": "Matchups\\Olaf_vs_ornn.xlsx",
+      "sheets": 1,
+      "bytes": 7353
+    },
+    {
+      "file": "Matchups\\Olaf_vs_pantheon.xlsx",
+      "sheets": 1,
+      "bytes": 7373
+    },
+    {
+      "file": "Matchups\\Olaf_vs_poppy.xlsx",
+      "sheets": 1,
+      "bytes": 7327
+    },
+    {
+      "file": "Matchups\\Olaf_vs_quinn.xlsx",
+      "sheets": 1,
+      "bytes": 7380
+    },
+    {
+      "file": "Matchups\\Olaf_vs_renekton.xlsx",
+      "sheets": 1,
+      "bytes": 7396
+    },
+    {
+      "file": "Matchups\\Olaf_vs_riven.xlsx",
+      "sheets": 1,
+      "bytes": 7339
+    },
+    {
+      "file": "Matchups\\Olaf_vs_rumble.xlsx",
+      "sheets": 1,
+      "bytes": 7429
+    },
+    {
+      "file": "Matchups\\Olaf_vs_sett.xlsx",
+      "sheets": 1,
+      "bytes": 7387
+    },
+    {
+      "file": "Matchups\\Olaf_vs_shen.xlsx",
+      "sheets": 1,
+      "bytes": 7367
+    },
+    {
+      "file": "Matchups\\Olaf_vs_singed.xlsx",
+      "sheets": 1,
+      "bytes": 7414
+    },
+    {
+      "file": "Matchups\\Olaf_vs_sion.xlsx",
+      "sheets": 1,
+      "bytes": 7264
+    },
+    {
+      "file": "Matchups\\Olaf_vs_sylas.xlsx",
+      "sheets": 1,
+      "bytes": 7327
+    },
+    {
+      "file": "Matchups\\Olaf_vs_tahmkench.xlsx",
+      "sheets": 1,
+      "bytes": 7399
+    },
+    {
+      "file": "Matchups\\Olaf_vs_teemo.xlsx",
+      "sheets": 1,
+      "bytes": 7397
+    },
+    {
+      "file": "Matchups\\Olaf_vs_trundle.xlsx",
+      "sheets": 1,
+      "bytes": 7470
+    },
+    {
+      "file": "Matchups\\Olaf_vs_tryndamere.xlsx",
+      "sheets": 1,
+      "bytes": 7469
+    },
+    {
+      "file": "Matchups\\Olaf_vs_urgot.xlsx",
+      "sheets": 1,
+      "bytes": 7370
+    },
+    {
+      "file": "Matchups\\Olaf_vs_vayne.xlsx",
+      "sheets": 1,
+      "bytes": 7611
+    },
+    {
+      "file": "Matchups\\Olaf_vs_vladimir.xlsx",
+      "sheets": 1,
+      "bytes": 7381
+    },
+    {
+      "file": "Matchups\\Olaf_vs_volibear.xlsx",
+      "sheets": 1,
+      "bytes": 7701
+    },
+    {
+      "file": "Matchups\\Olaf_vs_warwick.xlsx",
+      "sheets": 1,
+      "bytes": 7590
+    },
+    {
+      "file": "Matchups\\Olaf_vs_wukong.xlsx",
+      "sheets": 1,
+      "bytes": 7298
+    },
+    {
+      "file": "Matchups\\Olaf_vs_yasuo.xlsx",
+      "sheets": 1,
+      "bytes": 7316
+    },
+    {
+      "file": "Matchups\\Olaf_vs_yone.xlsx",
+      "sheets": 1,
+      "bytes": 7325
+    },
+    {
+      "file": "Matchups\\Olaf_vs_yorick.xlsx",
+      "sheets": 1,
+      "bytes": 7512
+    },
+    {
+      "file": "Matchups\\Olaf_vs_zaahen.xlsx",
+      "sheets": 1,
+      "bytes": 7593
+    },
+    {
+      "file": "Olaf_Top_Sammlung.xlsx",
+      "sheets": 5,
+      "bytes": 95175
+    }
+  ],
+  "count": 52,
+  "required_fields_per_matchup": 20,
+  "xlsx_errors": 0,
+  "local_targets_checked": 51
+}

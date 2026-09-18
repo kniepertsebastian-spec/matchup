@@ -1,0 +1,1891 @@
+Aatrox (https://www.leagueoflegends.com/en-us/champions/aatrox/)
+citeturn36view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/aatrox/","lineno":null}); Total lines: 101
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Darkin Blade
+L5: # Aatrox
+L6: Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence.
+L7: Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.
+L8: Role
+L9: 
+L10: Fighter
+L11: 
+L12: Difficulty
+L13: 
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†Op.gg†op.gg cite3†U.gg†u.gg cite4†Probuild Stats†probuildstats.com cite5†Probuilds.net†probuilds.net L19: ## ABILITIES
+L20: 
+L21:   1. cite6†Image†ddragon.leagueoflegends.com L22: 
+L23: Deathbringer Stance
+L24: 
+L25:   2. cite7†Image†ddragon.leagueoflegends.com L26: 
+L27: The Darkin Blade
+L28: 
+L29:   3. cite8†Image†ddragon.leagueoflegends.com L30: 
+L31: Infernal Chains
+L32: 
+L33:   4. cite9†Image†ddragon.leagueoflegends.com L34: 
+L35: Umbral Dash
+L36: 
+L37:   5. cite10†Image†ddragon.leagueoflegends.com L38: 
+L39: World Ender
+L40: 
+L41: Deathbringer Stance
+L42: 
+L43: PASSIVE
+L44: 
+L45: Periodically, Aatrox's next basic attack deals bonus magic damage and heals him, based on the target's max health.
+L46: Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Aatrox
+L55: 
+L56:   2. cite11†Image†ddragon.leagueoflegends.com L57: 
+L58: Justicar Aatrox
+L59: 
+L60:   3. cite12†Image†ddragon.leagueoflegends.com L61: 
+L62: Mecha Aatrox
+L63: 
+L64:   4. cite13†Image†ddragon.leagueoflegends.com L65: 
+L66: Sea Hunter Aatrox
+L67:   5. cite14†Image†ddragon.leagueoflegends.com L68: 
+L69: Blood Moon Aatrox
+L70: 
+L71:   6. cite15†Image†ddragon.leagueoflegends.com L72: 
+L73: Prestige Blood Moon Aatrox
+L74: 
+L75:   7. cite16†Image†ddragon.leagueoflegends.com L76: 
+L77: Victorious Aatrox
+L78: 
+L79:   8. cite17†Image†ddragon.leagueoflegends.com L80: 
+L81: Odyssey Aatrox
+L82: 
+L83:   9. cite18†Image†ddragon.leagueoflegends.com L84: 
+L85: Prestige Blood Moon Aatrox (2022)
+L86: 
+L87:   10. cite19†Image†ddragon.leagueoflegends.com L88: 
+L89: Lunar Eclipse Aatrox
+L90: 
+L91:   11. cite20†Image†ddragon.leagueoflegends.com L92: 
+L93: DRX Aatrox
+L94:   12. cite21†Image†ddragon.leagueoflegends.com L95: 
+L96: Prestige DRX Aatrox
+L97: 
+L98:   13. cite22†Image†ddragon.leagueoflegends.com L99: 
+L100: Primordian Aatrox
+--------------------------------------------------------------------------------
+Akali (https://www.leagueoflegends.com/en-us/champions/akali/)
+citeturn36view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/akali/","lineno":null}); Total lines: 136
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Rogue Assassin
+L5: # Akali
+L6: 
+L7: Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.
+L8: 
+L9: Role
+L10: 
+L11: Assassin
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: cite2†Op.gg†op.gg cite3†U.gg†u.gg cite4†Probuild Stats†probuildstats.com cite5†Probuilds.net†probuilds.net L19: ## ABILITIES
+L20: 
+L21:   1. cite6†Image†ddragon.leagueoflegends.com L22: 
+L23: Assassin's Mark
+L24: 
+L25:   2. cite7†Image†ddragon.leagueoflegends.com L26: 
+L27: Five Point Strike
+L28: 
+L29:   3. cite8†Image†ddragon.leagueoflegends.com L30: 
+L31: Twilight Shroud
+L32: 
+L33:   4. cite9†Image†ddragon.leagueoflegends.com L34: 
+L35: Shuriken Flip
+L36: 
+L37:   5. cite10†Image†ddragon.leagueoflegends.com L38: 
+L39: Perfect Execution
+L40: 
+L41: Assassin's Mark
+L42: 
+L43: PASSIVE
+L44: 
+L45: Dealing spell damage to a champion creates a ring of energy around them. Exiting that ring empowers Akali's next Attack with bonus range and damage.
+L46: Akali drops a cover of smoke and briefly gains Move Speed. While inside the shroud, Akali becomes invisible and unable to be selected by enemy spells and attacks. Attacking or using abilities will briefly reveal her.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Akali
+L55: 
+L56:   2. cite11†Image†ddragon.leagueoflegends.com L57: 
+L58: Stinger Akali
+L59: 
+L60:   3. cite12†Image†ddragon.leagueoflegends.com L61: 
+L62: Infernal Akali
+L63: 
+L64:   4. cite13†Image†ddragon.leagueoflegends.com L65: 
+L66: All-star Akali
+L67:   5. cite14†Image†ddragon.leagueoflegends.com L68: 
+L69: Nurse Akali
+L70: 
+L71:   6. cite15†Image†ddragon.leagueoflegends.com L72: 
+L73: Blood Moon Akali
+L74: 
+L75:   7. cite16†Image†ddragon.leagueoflegends.com L76: 
+L77: Silverfang Akali
+L78: 
+L79:   8. cite17†Image†ddragon.leagueoflegends.com L80: 
+L81: Headhunter Akali
+L82: 
+L83:   9. cite18†Image†ddragon.leagueoflegends.com L84: 
+L85: Sashimi Akali
+L86: 
+L87:   10. cite19†Image†ddragon.leagueoflegends.com L88: 
+L89: K/DA Akali
+L90: 
+L91:   11. cite20†Image†ddragon.leagueoflegends.com L92: 
+L93: Prestige K/DA Akali
+L94: 
+L95:   12. cite21†Image†ddragon.leagueoflegends.com L96: 
+L97: PROJECT: Akali
+L98:   13. cite22†Image†ddragon.leagueoflegends.com L99: 
+L100: True Damage Akali
+L101: 
+L102:   14. cite23†Image†ddragon.leagueoflegends.com L103: 
+L104: K/DA ALL OUT Akali
+L105: 
+L106:   15. cite24†Image†ddragon.leagueoflegends.com L107: 
+L108: Crime City Nightmare Akali
+L109: 
+L110:   16. cite25†Image†ddragon.leagueoflegends.com L111: 
+L112: Prestige K/DA Akali (2022)
+L113: 
+L114:   17. cite26†Image†ddragon.leagueoflegends.com L115: 
+L116: Star Guardian Akali
+L117: 
+L118:   18. cite27†Image†ddragon.leagueoflegends.com L119: 
+L120: DRX Akali
+L121: 
+L122:   19. cite28†Image†ddragon.leagueoflegends.com L123: 
+L124: Coven Akali
+L125: 
+L126:   20. cite29†Image†ddragon.leagueoflegends.com L127: Prestige Coven Akali
+L128: 
+L129:   21. cite30†Image†ddragon.leagueoflegends.com L130: 
+L131: Empyrean Akali
+L132: 
+L133:   22. cite31†Image†ddragon.leagueoflegends.com L134: 
+L135: Spirit Blossom Akali
+--------------------------------------------------------------------------------
+Ambessa (https://www.leagueoflegends.com/en-us/champions/ambessa/)
+citeturn36view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/ambessa/","lineno":null}); Total lines: 61
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: Matriarch of War
+L5: # Ambessa
+L6: 
+L7: All who know the name Medarda respect and fear the family's leader, Ambessa. As a Noxian general, she embodies a deadly combination of ruthless strength and fearless resolve in battle. Her role as matriarch is no different, requiring great cunning to empower the Medardas while leaving no room for failure or compassion. Embracing the merciless ways of the Wolf, Ambessa will do whatever it takes to protect her family's legacy, even at the cost of her own children's love.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Assassin
+L12: Difficulty
+L13: 
+L14: High
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Drakehound's Step
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Cunning Sweep / Sundering Slam
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Repudiation
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Lacerate
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Public Execution
+L40: 
+L41: Drakehound's Step
+L42: 
+L43: PASSIVE
+L44: Entering an attack or movement command while casting an ability will cause Ambessa to dash a short distance once the ability is cast, granting her next attack bonus range, damage, and attack speed, and refunding energy.
+L45: Ambessa sweeps her twin drakehounds in a semicircle in front of her, dealing bonus damage to enemies hit by the blades. Striking an enemy will transform the next cast of this ability for a short period of time, causing her to slam her twin drakehounds down in a line in front of her, dealing bonus damage to the first enemy hit.
+L46: 
+L47: Available Skins
+L48: 
+L49: cite1†Image†ddragon.leagueoflegends.com L50: 
+L51:   1. cite1†Image†ddragon.leagueoflegends.com L52: 
+L53: Ambessa
+L54: 
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Chosen of the Wolf Ambessa
+L58:   3. cite11†Image†ddragon.leagueoflegends.com L59: 
+L60: T1 Ambessa
+--------------------------------------------------------------------------------
+Camille (https://www.leagueoflegends.com/en-us/champions/camille/)
+citeturn36view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/camille/","lineno":null}); Total lines: 86
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Steel Shadow
+L5: # Camille
+L6: 
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn36view4 [wordlim: 200] Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/cho-gath/","lineno":null}); Total lines: 1
+--------------------------------------------------------------------------------
+Darius (https://www.leagueoflegends.com/en-us/champions/darius/)
+citeturn36view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/darius/","lineno":null}); Total lines: 112
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn36view6 [wordlim: 200] Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/dr-mundo/","lineno":null}); Total lines: 1
+--------------------------------------------------------------------------------
+Fiora (https://www.leagueoflegends.com/en-us/champions/fiora/)
+citeturn36view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/fiora/","lineno":null}); Total lines: 117
+
+Gangplank (https://www.leagueoflegends.com/en-us/champions/gangplank/)
+citeturn33view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/gangplank/","lineno":null}); Total lines: 101
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Saltwater Scourge
+L5: # Gangplank
+L6: 
+L7: As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see Bilgewater bathed in blood once more before letting someone else take it—and now with pistol, cutlass, and barrels of gunpowder, he is determined to reclaim what he has lost.
+L8: 
+L9: Role
+L10: 
+L11: Fighter
+L12: 
+L13: Difficulty
+L14: 
+L15: High
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Trial by Fire
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Parrrley
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Remove Scurvy
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Powder Keg
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Cannon Barrage
+L40: 
+L41: Trial by Fire
+L42: 
+L43: PASSIVE
+L44: 
+L45: Every few seconds, Gangplank's melee strike will set his opponent on fire.
+L46: Gangplank uncovers a powder keg at target location. If he attacks it, it explodes, spreading the attack's damage to enemies in the area, slowing them.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Gangplank
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Spooky Gangplank
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Minuteman Gangplank
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Sailor Gangplank
+L67: 
+L68:   5. cite13†Image†ddragon.leagueoflegends.com L69: Toy Soldier Gangplank
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Special Forces Gangplank
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Sultan Gangplank
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Captain Gangplank
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Dreadnova Gangplank
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Pool Party Gangplank
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: FPX Gangplank
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: Gangplank the Betrayer
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: PROJECT: Gangplank
+--------------------------------------------------------------------------------
+Garen (https://www.leagueoflegends.com/en-us/champions/garen/)
+citeturn33view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/garen/","lineno":null}); Total lines: 117
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: The Might of Demacia
+L5: # Garen
+L6: 
+L7: A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Tank
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Perseverance
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Decisive Strike
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Courage
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Judgment
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Demacian Justice
+L40: 
+L41: Perseverance
+L42: 
+L43: PASSIVE
+L44: 
+L45: If Garen has not recently been struck by damage or enemy abilities, he regenerates a percentage of his total health each second.
+L46: Garen passively increases his Armor and Magic Resist by killing enemies. He may also activate this ability to give him a shield and tenacity for a brief moment followed by a lesser amount of damage reduction for a longer duration.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Garen
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Sanguine Garen
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Desert Trooper Garen
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: Commando Garen
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Dreadknight Garen
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Rugged Garen
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Steel Legion Garen
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Rogue Admiral Garen
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Warring Kingdoms Garen
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: God-King Garen
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Demacia Vice Garen
+L94:   12. cite20†Image†ddragon.leagueoflegends.com L95: 
+L96: Mecha Kingdoms Garen
+L97: 
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: Prestige Mecha Kingdoms Garen
+L101: 
+L102:   14. cite22†Image†ddragon.leagueoflegends.com L103: 
+L104: Battle Academia Garen
+L105: 
+L106:   15. cite23†Image†ddragon.leagueoflegends.com L107: 
+L108: Mythmaker Garen
+L109: 
+L110:   16. cite24†Image†ddragon.leagueoflegends.com L111: 
+L112: Fallen God-King Garen
+L113: 
+L114:   17. cite25†Image†ddragon.leagueoflegends.com L115: 
+L116: Visions of the Fallen Garen
+--------------------------------------------------------------------------------
+Gnar (https://www.leagueoflegends.com/en-us/champions/gnar/)
+citeturn33view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/gnar/","lineno":null}); Total lines: 94
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Missing Link
+L5: # Gnar
+L6: 
+L7: Gnar is a primeval yordle whose playful antics can erupt into a toddler's outrage in an instant, transforming him into a massive beast bent on destruction. Frozen in True Ice for millennia, the curious creature broke free and now hops about a changed world he sees as exotic and wondrous. Delighted by danger, Gnar flings whatever he can at his enemies, be it his bonetooth boomerang, or a nearby building.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Tank
+L12: 
+L13: Difficulty
+L14: 
+L15: High
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Rage Gene
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Boomerang Throw / Boulder Toss
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Hyper / Wallop
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Hop / Crunch
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: GNAR!
+L40: 
+L41: Rage Gene
+L42: 
+L43: PASSIVE
+L44: 
+L45: While in combat Gnar generates Rage. At maximum Rage his next ability will transform him into Mega Gnar, granting increased survivability and access to new spells.
+L46: Gnar throws a boomerang that damages and slows enemies it hits before returning to him. If he catches the boomerang its cooldown is reduced. Mega Gnar instead throws a boulder that stops on the first unit hit, damaging and slowing everything nearby. It can then be picked up to reduce the cooldown.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Gnar
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Dino Gnar
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: Gentleman Gnar
+L62: 
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Snow Day Gnar
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: El León Gnar
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Super Galaxy Gnar
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: SSG Gnar
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Astronaut Gnar
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Elderwood Gnar
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: La Ilusión Gnar
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: T1 Gnar
+--------------------------------------------------------------------------------
+Gragas (https://www.leagueoflegends.com/en-us/champions/gragas/)
+citeturn33view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/gragas/","lineno":null}); Total lines: 109
+--------------------------------------------------------------------------------
+Gwen (https://www.leagueoflegends.com/en-us/champions/gwen/)
+citeturn33view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/gwen/","lineno":null}); Total lines: 78
+--------------------------------------------------------------------------------
+Heimerdinger (https://www.leagueoflegends.com/en-us/champions/heimerdinger/)
+citeturn33view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/heimerdinger/","lineno":null}); Total lines: 90
+--------------------------------------------------------------------------------
+Illaoi (https://www.leagueoflegends.com/en-us/champions/illaoi/)
+citeturn33view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/illaoi/","lineno":null}); Total lines: 78
+--------------------------------------------------------------------------------
+Irelia (https://www.leagueoflegends.com/en-us/champions/irelia/)
+citeturn33view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/irelia/","lineno":null}); Total lines: 117
+
+Jax (https://www.leagueoflegends.com/en-us/champions/jax/)
+citeturn31view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/jax/","lineno":null}); Total lines: 121
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: Grandmaster at Arms
+L5: # Jax
+L6: 
+L7: Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained. As magic now rises in the world, this slumbering threat stirs once more, and Jax roams Valoran, wielding the last light of Icathia and testing all warriors he meets to see if any are strong enough to stand beside him...
+L8: 
+L9: Role
+L10: 
+L11: Fighter
+L12: 
+L13: Difficulty
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Relentless Assault
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Leap Strike
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Empower
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Counter Strike
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Grandmaster-at-Arms
+L40: 
+L41: Relentless Assault
+L42: 
+L43: PASSIVE
+L44: 
+L45: Jax's consecutive basic attacks continuously increase his Attack Speed.
+L46: Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to deal damage around himself and strengthen his resolve, increasing his Armor and Magic Resist for a short duration.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Jax
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: The Mighty Jax
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Vandal Jax
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Angler Jax
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: PAX Jax
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Jaximus
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Temple Jax
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Nemesis Jax
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: SKT T1 Jax
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Warden Jax
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: God Staff Jax
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: Mecha Kingdoms Jax
+L98: 
+L99:   13. cite21†Image†ddragon.leagueoflegends.com L100: Conqueror Jax
+L101: 
+L102:   14. cite22†Image†ddragon.leagueoflegends.com L103: 
+L104: Prestige Conqueror Jax
+L105: 
+L106:   15. cite23†Image†ddragon.leagueoflegends.com L107: 
+L108: Empyrean Jax
+L109: 
+L110:   16. cite24†Image†ddragon.leagueoflegends.com L111: 
+L112: Neo PAX Jax
+L113: 
+L114:   17. cite25†Image†ddragon.leagueoflegends.com L115: 
+L116: PROJECT: Jax
+L117: 
+L118:   18. cite26†Image†ddragon.leagueoflegends.com L119: 
+L120: Prestige Magma Chamber Jax
+--------------------------------------------------------------------------------
+Jayce (https://www.leagueoflegends.com/en-us/champions/jayce/)
+citeturn31view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/jayce/","lineno":null}); Total lines: 101
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Defender of Tomorrow
+L5: # Jayce
+L6: 
+L7: Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as "the Man of Progress," but often struggles with the expectations placed upon him. Because of this, Jayce has begun to see the ways in which his invention has furthered the division between Piltover and Zaun—and armed with his hextech hammer, he stands ready to defend tomorrow.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Marksman
+L12: Difficulty
+L13: 
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Hextech Capacitor
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: To the Skies! / Shock Blast
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Lightning Field / Hyper Charge
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Thundering Blow / Acceleration Gate
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Mercury Cannon / Mercury Hammer
+L40: 
+L41: Hextech Capacitor
+L42: 
+L43: PASSIVE
+L44: 
+L45: When Jayce swaps weapons he gains Move Speed for a short duration.
+L46: Hammer Stance: Transforms the Mercury Hammer into the Mercury Cannon gaining new abilities and increased range. The first attack in this form reduces the target's Armor and Magic Resist. Cannon Stance: Transforms the Mercury Cannon into the Mercury Hammer gaining new abilities and increasing Armor and Magic Resist. The first attack in this form deals additional magic damage.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Jayce
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Full Metal Jayce
+L58: 
+L59:   3. cite11†Image†ddragon.leagueoflegends.com L60: 
+L61: Debonair Jayce
+L62: 
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Forsaken Jayce
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Jayce Brighthammer
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Battle Academia Jayce
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Resistance Jayce
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Arcane Inventor Jayce
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: Zenith Games Jayce
+L85: 
+L86:   10. cite18†Image†ddragon.leagueoflegends.com L87: 
+L88: T1 Jayce
+L89: 
+L90:   11. cite19†Image†ddragon.leagueoflegends.com L91: 
+L92: Arcane Survivor Jayce
+L93: 
+L94:   12. cite20†Image†ddragon.leagueoflegends.com L95: 
+L96: Prestige T1 Jayce
+L97: 
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: Petals of Spring Jayce
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn31view2 [wordlim: 200] Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/k-sante/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.leagueoflegends.com/en-us/champions/k-sante/: (404) Not Found
+--------------------------------------------------------------------------------
+Kayle (https://www.leagueoflegends.com/en-us/champions/kayle/)
+citeturn31view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/kayle/","lineno":null}); Total lines: 124
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Righteous
+L5: # Kayle
+L6: 
+L7: Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…
+L8: 
+L9: Role
+L10: 
+L11: Marksman / Mage
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Divine Ascent
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Radiant Blast
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Celestial Blessing
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Starfire Spellblade
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Divine Judgment
+L40: 
+L41: Divine Ascent
+L42: 
+L43: PASSIVE
+L44: Kayle's attacks are empowered by the heavens as she levels up and spends skill points. Her wings are lit aflame as she progressively gains Attack Speed, Move Speed, Attack Range, and waves of fire on her attacks.
+L45: 
+L46: Passive: Kayle's celestial sword, Virtue, deals bonus magic damage to enemies she attacks. Active: Kayle's next attack smites her target with celestial fire, dealing bonus damage proportionate to their missing health.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51:   1. cite1†Image†ddragon.leagueoflegends.com L52: 
+L53: Kayle
+L54: 
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Silver Kayle
+L58: 
+L59:   3. cite11†Image†ddragon.leagueoflegends.com L60: 
+L61: Viridian Kayle
+L62: 
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Transcended Kayle
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Battleborn Kayle
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Judgment Kayle
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Aether Wing Kayle
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Riot Kayle
+L82:   9. cite17†Image†ddragon.leagueoflegends.com L83: 
+L84: Iron Inquisitor Kayle
+L85: 
+L86:   10. cite18†Image†ddragon.leagueoflegends.com L87: 
+--------------------------------------------------------------------------------
+Kennen (https://www.leagueoflegends.com/en-us/champions/kennen/)
+citeturn31view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/kennen/","lineno":null}); Total lines: 95
+--------------------------------------------------------------------------------
+Kled (https://www.leagueoflegends.com/en-us/champions/kled/)
+citeturn31view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/kled/","lineno":null}); Total lines: 69
+--------------------------------------------------------------------------------
+Malphite (https://www.leagueoflegends.com/en-us/champions/malphite/)
+citeturn31view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/malphite/","lineno":null}); Total lines: 109
+--------------------------------------------------------------------------------
+Mordekaiser (https://www.leagueoflegends.com/en-us/champions/mordekaiser/)
+citeturn31view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/mordekaiser/","lineno":null}); Total lines: 105
+
+Nasus (https://www.leagueoflegends.com/en-us/champions/nasus/)
+citeturn34view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/nasus/","lineno":null}); Total lines: 105
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Curator of the Sands
+L5: # Nasus
+L6: Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient empire of Shurima to greatness for many centuries. After the fall of the empire, he went into self-imposed exile, becoming little more than a legend.
+L7: Now that the ancient city of Shurima has risen once more, he has returned, determined to ensure it never falls again.
+L8: Role
+L9: 
+L10: Fighter / Tank
+L11: 
+L12: Difficulty
+L13: 
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Soul Eater
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Siphoning Strike
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Wither
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Spirit Fire
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Fury of the Sands
+L40: 
+L41: Soul Eater
+L42: 
+L43: PASSIVE
+L44: 
+L45: Nasus drains his foe's spiritual energy, giving him bonus Life Steal.
+L46: Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies, has a reduced cooldown on Siphoning Strike, and gains bonus Armor and Magic Resistance.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Nasus
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Galactic Nasus
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Pharaoh Nasus
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Dreadknight Nasus
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Riot K-9 Nasus
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Infernal Nasus
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Archduke Nasus
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Worldbreaker Nasus
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Lunar Guardian Nasus
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Battlecast Nasus
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Space Groove Nasus
+L94:   12. cite20†Image†ddragon.leagueoflegends.com L95: 
+L96: Armored Titan Nasus
+L97: 
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: Nightbringer Nasus
+L101: 
+L102:   14. cite22†Image†ddragon.leagueoflegends.com L103: 
+L104: Fatemaker Nasus
+--------------------------------------------------------------------------------
+Ornn (https://www.leagueoflegends.com/en-us/champions/ornn/)
+citeturn34view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/ornn/","lineno":null}); Total lines: 72
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: The Fire below the Mountain
+L5: # Ornn
+L6: Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.
+L7: Role
+L8: 
+L9: Tank
+L10: 
+L11: Difficulty
+L12: 
+L13: Medium
+L14: 
+L15: Champion Mastery
+L16: 
+L17: cite2†OP.GG†www.op.gg cite3†U.GG†u.gg cite4†probuilds.net†www.probuilds.net L18: ## ABILITIES
+L19: 
+L20:   1. cite5†Image†ddragon.leagueoflegends.com L21: 
+L22: Living Forge
+L23: 
+L24:   2. cite6†Image†ddragon.leagueoflegends.com L25: 
+L26: Volcanic Rupture
+L27: 
+L28:   3. cite7†Image†ddragon.leagueoflegends.com L29: 
+L30: Bellows Breath
+L31: 
+L32:   4. cite8†Image†ddragon.leagueoflegends.com L33: 
+L34: Searing Charge
+L35: 
+L36:   5. cite9†Image†ddragon.leagueoflegends.com L37: 
+L38: Call of the Forge God
+L39: 
+L40: Living Forge
+L41: 
+L42: PASSIVE
+L43: Ornn gains an additional bonus Armor and Magic Resist from all sources. Ornn can spend gold to forge non-consumable items anywhere. Additionally, he can create masterwork items for himself and for his allies.
+L44: Ornn summons a massive elemental at a location which travels toward him with increasing speed. Enemies run over by the elemental take damage, are slowed and are made Brittle. Ornn can recast the ability to charge into the elemental, redirecting it in the direction he hits it, causing the elemental to affect any enemies it runs over to be knocked up, dealing the same damage and re-applying Brittle.
+L45: 
+L46: Available Skins
+L47: 
+L48: cite1†Image†ddragon.leagueoflegends.com L49: 
+L50:   1. cite1†Image†ddragon.leagueoflegends.com L51: 
+L52: Ornn
+L53:   2. cite10†Image†ddragon.leagueoflegends.com L54: 
+L55: Thunder Lord Ornn
+L56: 
+L57:   3. cite11†Image†ddragon.leagueoflegends.com L58: 
+L59: Elderwood Ornn
+L60: 
+L61:   4. cite12†Image†ddragon.leagueoflegends.com L62: 
+L63: Space Groove Ornn
+L64: 
+L65:   5. cite13†Image†ddragon.leagueoflegends.com L66: 
+L67: Choo-Choo Ornn
+L68: 
+L69:   6. cite14†Image†ddragon.leagueoflegends.com L70: 
+L71: Aegis Frame Ornn
+--------------------------------------------------------------------------------
+Pantheon (https://www.leagueoflegends.com/en-us/champions/pantheon/)
+citeturn34view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/pantheon/","lineno":null}); Total lines: 106
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Unbreakable Spear
+L5: # Pantheon
+L6: 
+L7: Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect's weapons on the field of battle.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Assassin
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Mortal Will
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Comet Spear
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Shield Vault
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Aegis Assault
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Grand Starfall
+L40: 
+L41: Mortal Will
+L42: 
+L43: PASSIVE
+L44: 
+L45: Every few spells or attacks, Pantheon's next spell is empowered.
+L46: 
+L47: Pantheon sets his shield, becoming invulnerable to damage from the front and striking repeatedly with his spear.
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Pantheon
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Myrmidon Pantheon
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Ruthless Pantheon
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Perseus Pantheon
+L67: 
+L68:   5. cite13†Image†ddragon.leagueoflegends.com L69: 
+L70: Full Metal Pantheon
+L71: 
+L72:   6. cite14†Image†ddragon.leagueoflegends.com L73: 
+L74: Glaive Warrior Pantheon
+L75: 
+L76:   7. cite15†Image†ddragon.leagueoflegends.com L77: 
+L78: Dragonslayer Pantheon
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Zombie Slayer Pantheon
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Baker Pantheon
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Pulsefire Pantheon
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Ruined Pantheon
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: Prestige Ascended Pantheon
+L98: 
+L99:   13. cite21†Image†ddragon.leagueoflegends.com L100: 
+L101: Ashen Conqueror Pantheon
+L102: 
+L103:   14. cite22†Image†ddragon.leagueoflegends.com L104: 
+L105: Chosen of the Wolf Pantheon
+--------------------------------------------------------------------------------
+Poppy (https://www.leagueoflegends.com/en-us/champions/poppy/)
+citeturn34view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/poppy/","lineno":null}); Total lines: 105
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: Keeper of the Hammer
+L5: # Poppy
+L6: 
+L7: Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled “Hero of Demacia,” said to be its rightful wielder. Until then, she dutifully charges into battle, pushing back the kingdom's enemies with every whirling strike.
+L8: 
+L9: Role
+L10: 
+L11: Tank / Fighter
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+--------------------------------------------------------------------------------
+Quinn (https://www.leagueoflegends.com/en-us/champions/quinn/)
+citeturn34view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/quinn/","lineno":null}); Total lines: 82
+--------------------------------------------------------------------------------
+Renekton (https://www.leagueoflegends.com/en-us/champions/renekton/)
+citeturn34view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/renekton/","lineno":null}); Total lines: 113
+--------------------------------------------------------------------------------
+Riven (https://www.leagueoflegends.com/en-us/champions/riven/)
+citeturn34view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/riven/","lineno":null}); Total lines: 121
+--------------------------------------------------------------------------------
+Rumble (https://www.leagueoflegends.com/en-us/champions/rumble/)
+citeturn34view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/rumble/","lineno":null}); Total lines: 78
+
+Sett (https://www.leagueoflegends.com/en-us/champions/sett/)
+citeturn35view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/sett/","lineno":null}); Total lines: 93
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Boss
+L5: # Sett
+L6: 
+L7: A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Tank
+L12: 
+L13: Difficulty
+L14: 
+L15: Low
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Pit Grit
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Knuckle Down
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Haymaker
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Facebreaker
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: The Show Stopper
+L40: 
+L41: Pit Grit
+L42: 
+L43: PASSIVE
+L44: Sett's basic attacks alternate between left and right punch. Right punch is slightly stronger and faster. Sett also hates losing, gaining additional health regeneration based off of his missing health.
+L45: 
+L46: Sett's basic attacks alternate between left and right punch. Right punch is slightly stronger and faster. Sett also hates losing, gaining additional health regeneration based off of his missing health.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Sett
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Mecha Kingdoms Sett
+L58: 
+L59:   3. cite11†Image†ddragon.leagueoflegends.com L60: 
+L61: Obsidian Dragon Sett
+L62: 
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Prestige Obsidian Dragon Sett
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Pool Party Sett
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Firecracker Sett
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Spirit Blossom Sett
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Soul Fighter Sett
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: HEARTSTEEL Sett
+L85: 
+L86:   10. cite18†Image†ddragon.leagueoflegends.com L87: 
+L88: Radiant Serpent Sett
+L89: 
+L90:   11. cite19†Image†ddragon.leagueoflegends.com L91: 
+L92: Spirit Blossom Springs Sett
+--------------------------------------------------------------------------------
+Shen (https://www.leagueoflegends.com/en-us/champions/shen/)
+citeturn35view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/shen/","lineno":null}); Total lines: 105
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Eye of Twilight
+L5: # Shen
+L6: 
+L7: Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.
+L8: 
+L9: Role
+L10: 
+L11: Tank
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Ki Barrier
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Twilight Assault
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Spirit's Refuge
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Shadow Dash
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Stand United
+L40: 
+L41: Ki Barrier
+L42: 
+L43: PASSIVE
+L44: 
+L45: After casting a spell, Shen gets a shield. Affecting other champions reduces the cooldown of this effect.
+L46: Shen recalls his spirit blade to attack with it, dealing damage based on the target's max health. The attacks are greatly empowered if it collides with an enemy champion, and all collided enemies are slowed while running away from Shen.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Shen
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Frozen Shen
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Yellow Jacket Shen
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: Surgeon Shen
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Blood Moon Shen
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Warlord Shen
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: TPA Shen
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Pulsefire Shen
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Infernal Shen
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: PsyOps Shen
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Shockblade Shen
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: Ashen Guardian Shen
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: Three Honors Shen
+L101: 
+L102:   14. cite22†Image†ddragon.leagueoflegends.com L103: 
+L104: Broken Covenant Shen
+--------------------------------------------------------------------------------
+Singed (https://www.leagueoflegends.com/en-us/champions/singed/)
+citeturn35view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/singed/","lineno":null}); Total lines: 100
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Mad Chemist
+L5: # Singed
+L6: Singed is a brilliant alchemist of dubious morality, whose experiments would turn the stomach of even the most cutthroat criminal. Selling his skills to the highest bidder, he cares little for how his noxious concoctions are used, with the ensuing chaos an experiment in itself. His most infamous work is “shimmer”, which enabled the chembarons to turn Zaun into their personal playground—but fueled by madness, Singed is always working on something new, with each endeavor more depraved than the last...
+L7: 
+L8: Role
+L9: Tank / Mage
+L10: 
+L11: Difficulty
+L12: 
+L13: Medium
+L14: 
+L15: Champion Mastery
+L16: 
+L17: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L18: ## ABILITIES
+L19: 
+L20:   1. cite5†Image†ddragon.leagueoflegends.com L21: 
+L22: Noxious Slipstream
+L23: 
+L24:   2. cite6†Image†ddragon.leagueoflegends.com L25: 
+L26: Poison Trail
+L27: 
+L28:   3. cite7†Image†ddragon.leagueoflegends.com L29: 
+L30: Mega Adhesive
+L31: 
+L32:   4. cite8†Image†ddragon.leagueoflegends.com L33: 
+L34: Fling
+L35: 
+L36:   5. cite9†Image†ddragon.leagueoflegends.com L37: 
+L38: Insanity Potion
+L39: 
+L40: Noxious Slipstream
+L41: 
+L42: PASSIVE
+L43: 
+L44: Singed drafts off nearby champions, gaining a burst of Move Speed when passing them.
+L45: Damages target enemy unit and flings them into the air behind Singed. If the target Singed flings lands in his Mega Adhesive, they are also rooted.
+L46: 
+L47: Available Skins
+L48: 
+L49: cite1†Image†ddragon.leagueoflegends.com L50: 
+L51:   1. cite1†Image†ddragon.leagueoflegends.com L52: 
+L53: Singed
+L54: 
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Riot Squad Singed
+L58: 
+L59:   3. cite11†Image†ddragon.leagueoflegends.com L60: 
+L61: Hextech Singed
+L62: 
+L63:   4. cite12†Image†ddragon.leagueoflegends.com L64: 
+L65: Surfer Singed
+L66: 
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Mad Scientist Singed
+L70:   6. cite14†Image†ddragon.leagueoflegends.com L71: 
+L72: Augmented Singed
+L73: 
+L74:   7. cite15†Image†ddragon.leagueoflegends.com L75: 
+L76: Snow Day Singed
+L77: 
+L78:   8. cite16†Image†ddragon.leagueoflegends.com L79: 
+L80: SSW Singed
+L81: 
+L82:   9. cite17†Image†ddragon.leagueoflegends.com L83: 
+L84: Black Scourge Singed
+L85: 
+L86:   10. cite18†Image†ddragon.leagueoflegends.com L87: 
+L88: Beekeeper Singed
+L89: 
+L90:   11. cite19†Image†ddragon.leagueoflegends.com L91: 
+L92: Resistance Singed
+L93: 
+L94:   12. cite20†Image†ddragon.leagueoflegends.com L95: 
+L96: Astronaut Singed
+L97: 
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: Arcane Shimmer Lab Singed
+--------------------------------------------------------------------------------
+Sion (https://www.leagueoflegends.com/en-us/champions/sion/)
+citeturn35view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/sion/","lineno":null}); Total lines: 97
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: The Undead Juggernaut
+L5: # Sion
+L6: A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his way, regardless of allegiance, proving he no longer retained his former humanity.
+L7: Even so, with crude armor bolted onto rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe.
+L8: Role
+L9: 
+L10: Tank / Fighter
+L11: 
+L12: Difficulty
+L13: 
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+--------------------------------------------------------------------------------
+Sylas (https://www.leagueoflegends.com/en-us/champions/sylas/)
+citeturn35view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/sylas/","lineno":null}); Total lines: 89
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn35view5 [wordlim: 200] Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/tahm-kench/","lineno":null}); Total lines: 1
+--------------------------------------------------------------------------------
+Teemo (https://www.leagueoflegends.com/en-us/champions/teemo/)
+citeturn35view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/teemo/","lineno":null}); Total lines: 112
+--------------------------------------------------------------------------------
+Trundle (https://www.leagueoflegends.com/en-us/champions/trundle/)
+citeturn35view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/trundle/","lineno":null}); Total lines: 86
+
+Tryndamere (https://www.leagueoflegends.com/en-us/champions/tryndamere/)
+citeturn37view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/tryndamere/","lineno":null}); Total lines: 105
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Barbarian King
+L5: # Tryndamere
+L6: Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the annihilation of his clan, though more recently he has found companionship with Ashe, the Avarosan warmother, and a home with her people.
+L7: His almost inhuman strength and fortitude is legendary, and has delivered him and his new allies countless victories against the greatest of odds.
+L8: Role
+L9: 
+L10: Fighter / Assassin
+L11: 
+L12: Difficulty
+L13: 
+L14: Medium
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Battle Fury
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Bloodlust
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Mocking Shout
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Spinning Slash
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Undying Rage
+L40: 
+L41: Battle Fury
+L42: 
+L43: PASSIVE
+L44: 
+L45: Tryndamere gains Fury for each attack, critical strike, and killing blow he makes. Fury passively increases his Critical Strike Chance and can be consumed with his Bloodlust spell.
+L46: Tryndamere gains Fury for each attack, critical strike, and killing blow he makes. Fury passively increases his Critical Strike Chance and can be consumed with his Bloodlust spell.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Tryndamere
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Highland Tryndamere
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: King Tryndamere
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Viking Tryndamere
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Demonblade Tryndamere
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Sultan Tryndamere
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Warring Kingdoms Tryndamere
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Nightmare Tryndamere
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Beast Hunter Tryndamere
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Chemtech Tryndamere
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Blood Moon Tryndamere
+L94:   12. cite20†Image†ddragon.leagueoflegends.com L95: 
+L96: Nightbringer Tryndamere
+L97: 
+L98:   13. cite21†Image†ddragon.leagueoflegends.com L99: 
+L100: Victorious Tryndamere
+L101: 
+L102:   14. cite22†Image†ddragon.leagueoflegends.com L103: 
+L104: Visions of the Fallen Tryndamere
+--------------------------------------------------------------------------------
+Urgot (https://www.leagueoflegends.com/en-us/champions/urgot/)
+citeturn37view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/urgot/","lineno":null}); Total lines: 82
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Dreadnought
+L5: # Urgot
+L6: 
+L7: Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.
+L8: 
+L9: Role
+L10: Fighter / Tank
+L11: 
+L12: Difficulty
+L13: 
+L14: High
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Echoing Flames
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Corrosive Charge
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Purge
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Disdain
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Fear Beyond Death
+L40: 
+L41: Echoing Flames
+L42: 
+L43: PASSIVE
+L44: 
+L45: Urgot's basic attacks and Purge periodically trigger blasts of flame from his legs, dealing physical damage.
+L46: Urgot slows himself while he unloads his weapon on nearby enemies. Prioritizes enemy champions Urgot has recently struck with other abilities and triggers Echoing Flames.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Urgot
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Giant Enemy Crabgot
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Butcher Urgot
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Battlecast Urgot
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: High Noon Urgot
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Pajama Guardian Cosplay Urgot
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Fright Night Urgot
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Urgot the Clogfather
+--------------------------------------------------------------------------------
+Vayne (https://www.leagueoflegends.com/en-us/champions/vayne/)
+citeturn37view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/vayne/","lineno":null}); Total lines: 129
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Night Hunter
+L5: # Vayne
+L6: 
+L7: Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.
+L8: 
+L9: Role
+L10: 
+L11: Marksman / Assassin
+L12: 
+L13: Difficulty
+L14: 
+L15: High
+L16: 
+L17: Champion Mastery
+L18: 
+L19: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L20: ## ABILITIES
+L21: 
+L22:   1. cite5†Image†ddragon.leagueoflegends.com L23: 
+L24: Night Hunter
+L25: 
+L26:   2. cite6†Image†ddragon.leagueoflegends.com L27: 
+L28: Tumble
+L29: 
+L30:   3. cite7†Image†ddragon.leagueoflegends.com L31: 
+L32: Silver Bolts
+L33: 
+L34:   4. cite8†Image†ddragon.leagueoflegends.com L35: 
+L36: Condemn
+L37: 
+L38:   5. cite9†Image†ddragon.leagueoflegends.com L39: 
+L40: Final Hour
+L41: 
+L42: Night Hunter
+L43: 
+L44: PASSIVE
+L45: 
+L46: Vayne ruthlessly hunts evil-doers, gaining Move Speed when moving toward nearby enemy champions.
+L47: Vayne draws a heavy crossbow from her back, and fires a huge bolt at her target, knocking them back and dealing damage. If they collide with terrain, they are impaled, dealing bonus damage and stunning them.
+L48: 
+L49: Available Skins
+L50: 
+L51: cite1†Image†ddragon.leagueoflegends.com L52: 
+L53:   1. cite1†Image†ddragon.leagueoflegends.com L54: 
+L55: Vayne
+L56: 
+L57:   2. cite10†Image†ddragon.leagueoflegends.com L58: 
+L59: Vindicator Vayne
+L60: 
+L61:   3. cite11†Image†ddragon.leagueoflegends.com L62: 
+L63: Aristocrat Vayne
+L64: 
+L65:   4. cite12†Image†ddragon.leagueoflegends.com L66: 
+L67: Dragonslayer Vayne
+L68:   5. cite13†Image†ddragon.leagueoflegends.com L69: 
+L70: Heartseeker Vayne
+L71: 
+L72:   6. cite14†Image†ddragon.leagueoflegends.com L73: 
+L74: SKT T1 Vayne
+L75: 
+L76:   7. cite15†Image†ddragon.leagueoflegends.com L77: 
+L78: Arclight Vayne
+L79: 
+L80:   8. cite16†Image†ddragon.leagueoflegends.com L81: 
+L82: Soulstealer Vayne
+L83: 
+L84:   9. cite17†Image†ddragon.leagueoflegends.com L85: 
+L86: PROJECT: Vayne
+L87: 
+L88:   10. cite18†Image†ddragon.leagueoflegends.com L89: 
+L90: Firecracker Vayne
+L91: 
+L92:   11. cite19†Image†ddragon.leagueoflegends.com L93: 
+L94: Prestige Firecracker Vayne
+L95: 
+L96:   12. cite20†Image†ddragon.leagueoflegends.com L97: Spirit Blossom Vayne
+L98: 
+L99:   13. cite21†Image†ddragon.leagueoflegends.com L100: 
+L101: FPX Vayne
+L102: 
+L103:   14. cite22†Image†ddragon.leagueoflegends.com L104: 
+L105: Sentinel Vayne
+L106: 
+L107:   15. cite23†Image†ddragon.leagueoflegends.com L108: 
+L109: Battle Bat Vayne
+L110: 
+L111:   16. cite24†Image†ddragon.leagueoflegends.com L112: 
+L113: Prestige Firecracker Vayne (2022)
+L114: 
+L115:   17. cite25†Image†ddragon.leagueoflegends.com L116: 
+L117: Dawnbringer Vayne
+L118: 
+L119:   18. cite26†Image†ddragon.leagueoflegends.com L120: 
+L121: Dragonmancer Vayne
+L122: 
+L123:   19. cite27†Image†ddragon.leagueoflegends.com L124: 
+L125: Risen Legend Vayne
+L126:   20. cite28†Image†ddragon.leagueoflegends.com L127: 
+L128: Demoncursed Vayne
+--------------------------------------------------------------------------------
+Vladimir (https://www.leagueoflegends.com/en-us/champions/vladimir/)
+citeturn37view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/vladimir/","lineno":null}); Total lines: 109
+L0: cite0†iframe†www.googletagmanager.com --------------------------------------------------------------------------------
+Volibear (https://www.leagueoflegends.com/en-us/champions/volibear/)
+citeturn37view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/volibear/","lineno":null}); Total lines: 93
+--------------------------------------------------------------------------------
+Warwick (https://www.leagueoflegends.com/en-us/champions/warwick/)
+citeturn37view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/warwick/","lineno":null}); Total lines: 117
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn37view6 [wordlim: 200] Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/wukong/","lineno":null}); Total lines: 1
+--------------------------------------------------------------------------------
+Yasuo (https://www.leagueoflegends.com/en-us/champions/yasuo/)
+citeturn37view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/yasuo/","lineno":null}); Total lines: 124
+
+Yone (https://www.leagueoflegends.com/en-us/champions/yone/)
+citeturn32view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/yone/","lineno":null}); Total lines: 98
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Unforgotten
+L5: # Yone
+L6: 
+L7: In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Assassin
+L12: 
+L13: Difficulty
+L14: 
+L15: High
+L16: 
+L17: Champion Mastery
+L18: cite2†Op.gg†op.gg cite3†U.gg†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Way of the Hunter
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Mortal Steel
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Spirit Cleave
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Soul Unbound
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Fate Sealed
+L40: 
+L41: Way of the Hunter
+L42: 
+L43: PASSIVE
+L44: 
+L45: Yone deals magic damage with every second Attack. In addition, his critical strike chance is increased.
+L46: Cleaves forward, damaging all enemies in a cone. Grants a shield to Yone, the value is increased by the number of champions hit by the swipe. Spirit Cleave's cooldown and cast time scale with attack speed.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Yone
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Spirit Blossom Yone
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Battle Academia Yone
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Dawnbringer Yone
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Ocean Song Yone
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Inkshadow Yone
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: HEARTSTEEL Yone
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: Prestige HEARTSTEEL Yone
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: High Noon Yone
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Peacemaker High Noon Yone
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Masked Justice Yone
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: T1 Yone
+--------------------------------------------------------------------------------
+Yorick (https://www.leagueoflegends.com/en-us/champions/yorick/)
+citeturn32view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/yorick/","lineno":null}); Total lines: 91
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: Shepherd of Souls
+L5: # Yorick
+L6: 
+L7: The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking wraiths that he gathers to him. Yorick's monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.
+L8: 
+L9: Role
+L10: 
+L11: Fighter / Tank
+L12: 
+L13: Difficulty
+L14: 
+L15: Medium
+L16: 
+L17: Champion Mastery
+L18: 
+L19: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L20: ## ABILITIES
+L21: 
+L22:   1. cite5†Image†ddragon.leagueoflegends.com L23: 
+L24: Shepherd of Souls
+L25: 
+L26:   2. cite6†Image†ddragon.leagueoflegends.com L27: 
+L28: Last Rites
+L29: 
+L30:   3. cite7†Image†ddragon.leagueoflegends.com L31: 
+L32: Dark Procession
+L33: 
+L34:   4. cite8†Image†ddragon.leagueoflegends.com L35: 
+L36: Mourning Mist
+L37: 
+L38:   5. cite9†Image†ddragon.leagueoflegends.com L39: 
+L40: Eulogy of the Isles
+L41: 
+L42: Shepherd of Souls
+L43: 
+L44: PASSIVE
+L45: 
+L46: The Cursed Horde: Yorick can summon Mist Walkers to swarm and attack nearby enemies.
+L47: Yorick summons the Maiden of the Mist that causes Yorick's attacks against the Maiden's target to deal bonus damage. The Maiden will also automatically raise Walkers from dead enemies.
+L48: 
+L49: Available Skins
+L50: 
+L51: cite1†Image†ddragon.leagueoflegends.com L52: 
+L53:   1. cite1†Image†ddragon.leagueoflegends.com L54: 
+L55: Yorick
+L56: 
+L57:   2. cite10†Image†ddragon.leagueoflegends.com L58: 
+L59: Undertaker Yorick
+L60: 
+L61:   3. cite11†Image†ddragon.leagueoflegends.com L62: 
+L63: Pentakill Yorick
+L64: 
+L65:   4. cite12†Image†ddragon.leagueoflegends.com L66: 
+L67: Arclight Yorick
+L68:   5. cite13†Image†ddragon.leagueoflegends.com L69: 
+L70: Meowrick
+L71: 
+L72:   6. cite14†Image†ddragon.leagueoflegends.com L73: 
+L74: Resistance Yorick
+L75: 
+L76:   7. cite15†Image†ddragon.leagueoflegends.com L77: 
+L78: Pentakill III: Lost Chapter Yorick
+L79: 
+L80:   8. cite16†Image†ddragon.leagueoflegends.com L81: 
+L82: Spirit Blossom Yorick
+L83: 
+L84:   9. cite17†Image†ddragon.leagueoflegends.com L85: 
+L86: Dark Star Yorick
+L87: 
+L88:   10. cite18†Image†ddragon.leagueoflegends.com L89: 
+L90: High Noon Yorick
+--------------------------------------------------------------------------------
+Zaahen (https://www.leagueoflegends.com/en-us/champions/zaahen/)
+citeturn32view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/zaahen/","lineno":null}); Total lines: 58
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: The Unsundered
+L5: # Zaahen
+L6: 
+L7: A fallen god wielding both divine and profane power, Zaahen hunts his fellow Darkin while defying the corruption that threatens to consume him. Once willingly sealed within his glaive to stave off madness, he now walks free, noble in heart and vicious in purpose. Zaahen fights an eternal war within—but so long as he endures, he will rise above all who seek to bring Runeterra to ruin.
+L8: 
+L9: Role
+L10: 
+L11: Fighter
+L12: 
+L13: Difficulty
+L14: 
+L15: Low
+L16: 
+L17: Champion Mastery
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Cultivation of War
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: The Darkin Glaive
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Dreaded Return
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Aureate Rush
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Grim Deliverance
+L40: 
+L41: Cultivation of War
+L42: 
+L43: PASSIVE
+L44: Zaahen's attacks and abilities against enemy champions grant him stacks of Determination, gaining bonus Attack Damage per stack. When filled with Determination, Zaahen gains increased Attack Damage and can revive.
+L45: 
+L46: Zaahen's attacks and abilities against enemy champions grant him stacks of Determination, gaining bonus Attack Damage per stack. When filled with Determination, Zaahen gains increased Attack Damage and can revive.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51:   1. cite1†Image†ddragon.leagueoflegends.com L52: 
+L53: Zaahen
+L54: 
+L55:   2. cite10†Image†ddragon.leagueoflegends.com L56: 
+L57: Immortal Journey Zaahen
+--------------------------------------------------------------------------------
+Olaf (https://www.leagueoflegends.com/en-us/champions/olaf/)
+citeturn32view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.leagueoflegends.com/en-us/champions/olaf/","lineno":null}); Total lines: 98
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Image†ddragon.leagueoflegends.com L3: 
+L4: the Berserker
+L5: # Olaf
+L6: An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great insult among his people. Seeking death, and fueled by rage, he rampaged across the land, slaughtering scores of great warriors and legendary beasts in search of any opponent who could stop him.
+L7: Now a brutal enforcer for the Winter's Claw, he seeks his end in the great wars to come.
+L8: Role
+L9: 
+L10: Fighter / Tank
+L11: 
+L12: Difficulty
+L13: 
+L14: Low
+L15: 
+L16: Champion Mastery
+L17: 
+L18: cite2†OP.GG†op.gg cite3†U.GG†u.gg cite4†Probuild Stats†probuildstats.com L19: ## ABILITIES
+L20: 
+L21:   1. cite5†Image†ddragon.leagueoflegends.com L22: 
+L23: Berserker Rage
+L24: 
+L25:   2. cite6†Image†ddragon.leagueoflegends.com L26: 
+L27: Undertow
+L28: 
+L29:   3. cite7†Image†ddragon.leagueoflegends.com L30: 
+L31: Tough It Out
+L32: 
+L33:   4. cite8†Image†ddragon.leagueoflegends.com L34: 
+L35: Reckless Swing
+L36: 
+L37:   5. cite9†Image†ddragon.leagueoflegends.com L38: 
+L39: Ragnarok
+L40: 
+L41: Berserker Rage
+L42: 
+L43: PASSIVE
+L44: 
+L45: Olaf gains Attack Speed and Life Steal based on his missing Health.
+L46: Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and reducing their Armor and Move Speed. If Olaf picks up the axe, the ability's cooldown is reset.
+L47: 
+L48: Available Skins
+L49: 
+L50: cite1†Image†ddragon.leagueoflegends.com L51: 
+L52:   1. cite1†Image†ddragon.leagueoflegends.com L53: 
+L54: Olaf
+L55: 
+L56:   2. cite10†Image†ddragon.leagueoflegends.com L57: 
+L58: Forsaken Olaf
+L59: 
+L60:   3. cite11†Image†ddragon.leagueoflegends.com L61: 
+L62: Glacial Olaf
+L63: 
+L64:   4. cite12†Image†ddragon.leagueoflegends.com L65: 
+L66: Brolaf
+L67:   5. cite13†Image†ddragon.leagueoflegends.com L68: 
+L69: Pentakill Olaf
+L70: 
+L71:   6. cite14†Image†ddragon.leagueoflegends.com L72: 
+L73: Marauder Olaf
+L74: 
+L75:   7. cite15†Image†ddragon.leagueoflegends.com L76: 
+L77: Butcher Olaf
+L78: 
+L79:   8. cite16†Image†ddragon.leagueoflegends.com L80: 
+L81: SKT T1 Olaf
+L82: 
+L83:   9. cite17†Image†ddragon.leagueoflegends.com L84: 
+L85: Dragonslayer Olaf
+L86: 
+L87:   10. cite18†Image†ddragon.leagueoflegends.com L88: 
+L89: Sentinel Olaf
+L90: 
+L91:   11. cite19†Image†ddragon.leagueoflegends.com L92: 
+L93: Pentakill III: Lost Chapter Olaf
+L94: 
+L95:   12. cite20†Image†ddragon.leagueoflegends.com L96: 
+L97: Infernal Olaf
+
+
