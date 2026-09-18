@@ -18,6 +18,7 @@ test('recommendation API accepts a team and rejects malformed or excessive input
  assert.equal(response.status,200);assert.equal((await response.json()).build.length,5);
  assert.equal((await post('{')).status,400);assert.equal((await post('x'.repeat(17000))).status,400);
  assert.equal((await post(JSON.stringify({collection:'missing'}))).status,400);
+ assert.equal((await post(JSON.stringify({collection:['olaf-top'],matchup:'aatrox'}))).status,400);
  assert.equal((await fetch(base+'/api/recommendations',{method:'POST',body:'{}'})).status,400);
  assert.equal((await fetch(base+'/secrets/db_password')).status,404);
  assert.equal((await fetch(base+'/data/champions.json')).status,404);

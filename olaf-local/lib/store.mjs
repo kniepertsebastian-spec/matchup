@@ -16,7 +16,7 @@ export async function createStore({mode=process.env.STORAGE||'files'}={}){
  const {default:mariadb}=await import('mariadb');
  const pool=mariadb.createPool({host:process.env.DB_HOST||'db',port:Number(process.env.DB_PORT||3306),
   user:process.env.DB_USER||'matchup',password:await password(),database:process.env.DB_NAME||'matchup',
-  connectionLimit:5,connectTimeout:5000,acquireTimeout:8000,bigIntAsNumber:true});
+  connectionLimit:5,connectTimeout:5000,acquireTimeout:8000,bigIntAsNumber:true,jsonStrings:true});
  try{
   await pool.query(`CREATE TABLE IF NOT EXISTS documents (
    id VARCHAR(40) PRIMARY KEY, payload LONGTEXT NOT NULL CHECK(JSON_VALID(payload)),

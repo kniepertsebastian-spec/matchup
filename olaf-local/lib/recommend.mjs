@@ -5,6 +5,7 @@ const lifeline=new Set([3053,3156,3155]);
 export function compatible(ids,id){return !ids.includes(id)&&!(hydra.has(id)&&ids.some(x=>hydra.has(x)))&&!(lifeline.has(id)&&ids.some(x=>lifeline.has(x)));}
 export function recommend(input,{champions,equipment,loadouts,collections}){
  if(!input||typeof input!=='object'||Array.isArray(input))throw new InputError('Ungültige Anfrage.');
+ if(typeof input.collection!=='string'||typeof input.matchup!=='string')throw new InputError('Sammlung und Matchup müssen Textwerte sein.');
  const collection=Object.hasOwn(collections,input.collection)?collections[input.collection]:null;
  if(!collection)throw new InputError('Unbekannte Champion-/Lane-Auswahl.');
  const matchup=collection.matchups.find(m=>m.slug===input.matchup);
