@@ -1,0 +1,50 @@
+{
+  "slug": "yasuo",
+  "name": "Yasuo",
+  "tier": "C",
+  "reason": "Yasuos Windwall blockiert Undertow und jeden Q-basierten Poke-Versuch, während sein Schild frühe All-in-Trades abfedert. Gleichzeitig ist Yasuo vor Level 6 fragil und ohne Combo-Partner ohne echte Hard-CC, sodass Olaf saubere Kontaktfenster bekommt, wenn der Schild bereits verbraucht ist.",
+  "runeReason": "Conqueror passt zum Ziel eines verlängerten Nahkampf-Duells, in dem Yasuos Schild nach den ersten Treffern fällt und die Heilung den Ressourcen-Austausch von Reckless Swing ausgleicht. Bone Plating dämpft die Burst-Fenster aus Q3-Tornado und kritischer Auto-Attacke-Serie in den ersten Sekunden eines Engages.",
+  "l1": "Im direkten Kontakt gewinnt Olaf, solange Yasuos Schild aktiv ist, meist keinen sauberen All-in; wartet er den Schild-Verbrauch durch eine Minion-Q oder einen eigenen Poke-Versuch ab, kippt der Trade klar zu Olafs Gunsten.",
+  "l25": "Yasuo farmt Wellen mit Q-Poke aus Distanz und weicht direktem Kontakt aus; Olaf muss unter Druck laufend Undertow zum Farmen nutzen und darf nur all-in gehen, wenn Yasuos Schild sichtbar down ist.",
+  "l6": "Yasuos R funktioniert nur mit einem eigenen oder fremden Knockup, den er solo selten hat, daher ändert sein Ultimate das Duell weniger als erwartet; Ragnarok ist hier primär für Tempo und Heilung im verlängerten Austausch relevant, nicht zum CC-Cleanse.",
+  "threats": "Windwall gegen Projektile, Schild-Passive gegen Burst, Q3-Tornado bei Airborne-Kombo, kritische Auto-Attacken, Mobilität über Minions/Wards.",
+  "window": "Sobald der Schild sichtbar verbraucht ist (nach einem getankten Auto oder Spell) und Windwall auf Cooldown liegt, ist ein Reckless-Swing-Allin ohne Gegenwehr am stärksten.",
+  "errors": "Q direkt in die Windwall werfen, wenn sie sichtbar aktivierbar ist. Gegen aktiven Schild all-in gehen, bevor er fällt. Nach einem verfehlten Q3-Tornado ungedeckt weiterverfolgen, wenn Yasuo Richtung eigener Wave dashen kann.",
+  "wave": "Gegen Yasuos Fernpoke lohnt sich eine leichte Freeze nahe der eigenen Turmkante, um Windwall-Reichweite zu minimieren; bei Wellen-Crash kann Olaf kurz roamen, da Yasuo ohne Wave selten aggressiv folgt.",
+  "trade": "Q auf die Wave oder Yasuo, dann Kontakt suchen, E erst zünden, wenn der Schild bereits weg ist, R erst nach dem ersten sauberen Trefferpaket für die Sustain im verlängerten Austausch.",
+  "items": "Der Zugriffsdruck durch Yasuos Mobilität und Windwall macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen und Trades zu verlängern.",
+  "situ": "Gegen kritischen Schaden ist eine frühe defensive Option wie Randuin's sinnvoll, sobald Yasuo Infinity Edge/Kraken online hat.",
+  "side": "1 Item: Olaf gewinnt geraden Kontakt klar, sobald der Schild fällt. 2 Items: Yasuo holt über Krit-Spikes auf, Trades werden even. 3 Items: Yasuos Schadensoutput pro Auto übersteigt Olafs Sustain oft, Duelle nur mit Tempo-Vorteil (frischer Cooldowns) suchen.",
+  "plan": "Früh auf verbrauchten Schild und Windwall-Cooldown lauern, dann kompromisslos all-in gehen; in der mittleren Phase Wellen kontrollieren statt Fernduelle mit Windwall zu erzwingen. Late Game nur mit Tempovorteil (Items, Cooldowns) in Duelle gehen, nicht blind reinlaufen.",
+  "override": "Bei viel Magieschaden im gegnerischen Team (z. B. AP-Jungler) auf conqueror_secondwind wechseln, um Poke-Chip in der Lane abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Plated Steelcaps gegen physischen Auto-/Krit-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/yasuo/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

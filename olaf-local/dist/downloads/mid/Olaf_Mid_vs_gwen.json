@@ -1,0 +1,50 @@
+{
+  "slug": "gwen",
+  "name": "Gwen",
+  "tier": "D",
+  "reason": "Gwen ist eine echte Skirmisher-Antwort mit eigenem True-Damage-Stapel-Passiv und einer Nebel-Fähigkeit, die Schaden von außerhalb massiv reduziert – Olaf muss sich physisch in ihren Nebel hineinbewegen, um vollen Schaden zu verursachen. Ihr Dash mit Reset bei Treffer macht sie zusätzlich schwerer endgültig zu töten als ihre HP-Werte vermuten lassen.",
+  "runeReason": "Conqueror passt zu einem Matchup, das auf ausgedehnte, mehrfache Auto-Austausche statt einen einzelnen Burst-Moment hinausläuft. Boneplating federt ihre Q-Flächenschaden-Ausbrüche und den anfänglichen R-Volley ab.",
+  "l1": "Im offenen Nahkampf ohne ihre Nebelzone ist der Trade relativ ausgeglichen, sobald sie W aktiv hat, verschiebt sich der Vorteil klar zu ihr, solange Olaf von außerhalb angreift.",
+  "l25": "Poke von außerhalb ihres Nebels verpufft größtenteils, All-in daher nur, wenn Olaf bereit ist, direkt in ihre Nebelzone hineinzugehen und den vollen Schaden zu tauschen. Farm-Fokus, solange ihr E-Dash für einen Fluchtreset verfügbar ist.",
+  "l6": "Ihr Ultimate ist ein verzögerter Flächen-Volley, der bei Zielverlust Verfolgung erschwert und aus der Distanz zusätzlichen Schaden liefert. Olafs R hilft primär gegen den Slow-Effekt des Volleys, nicht gegen die reine Distanz, die sie durch E gewinnt.",
+  "threats": "Nebelzone mit Schadensreduktion von außerhalb, True-Damage-Stapel-Passiv, Dash mit Reset bei Treffer, verzögerter Flächen-Volley als Ultimate.",
+  "window": "Sobald ihr E-Dash verbraucht ist und Olaf bereits innerhalb ihrer Nebelzone steht, ist der Trade am direktesten zu gewinnen.",
+  "errors": "Von außerhalb ihrer Nebelzone pokend anlaufen und sich über reduzierten Schaden wundern. Ihren E-Reset unterschätzen und einen vermeintlich sicheren Kill zu früh feiern.",
+  "wave": "Kontrolliertes Freezing, damit sie ihre Nebelzone nicht risikofrei über die Wave legen kann. Nach verbrauchtem E kurze Aggressionsfenster für Farm oder Trade nutzen.",
+  "trade": "Direkt in ihre Nebelzone hineingehen statt von außen zu pushen, Q zum Slow, E zwischen Autos, R erst wenn ihr E-Dash sichtbar verbraucht ist.",
+  "items": "Ravenous Hydra für Sustain im verlängerten Auto-Austausch und Antiheal-Ansatz gegen ihren stapelnden True-Damage-Vorteil bei langen Fights.",
+  "situ": "Executioner's Calling, wenn ihr Passiv-Stapel-Damage das Duell wiederholt kippt, Maw of Malmortius bei zusätzlichem AP-Burst aus ihrem Build.",
+  "side": "1 Item: enges Duell, ihre Nebelzone gleicht viel Vorteil aus. 2 Items: mit R und Sustain aus Hydra meist gewinnbar, wenn direkt im Nebel gekämpft wird. 3 Items: hängt stark davon ab, ob sie auf reinen AP-Burst oder On-Hit-Build geht.",
+  "plan": "Zwinge den Kampf konsequent in ihre eigene Nebelzone hinein, statt von außen zu pushen, und nutze ihren E-Cooldown als Killfenster. Akzeptiere, dass reiner Distanz-Poke gegen sie kaum Wirkung zeigt.",
+  "override": "PTA statt Conqueror, wenn ein schneller Pick vor Level 6 wichtiger ist als der ausgedehnte Sidelane-Fight.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/gwen/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

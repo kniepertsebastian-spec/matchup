@@ -1,0 +1,50 @@
+{
+  "slug": "ivern",
+  "name": "Ivern",
+  "tier": "A",
+  "reason": "Ivern ist im direkten Duell kaum eine Bedrohung, da er weder harten Burst noch nennenswerten Sustain gegen einen Skirmisher wie Olaf mitbringt und primär über Rootcaller-Root und Schilde peelt statt selbst zu kämpfen. Olaf kann Ivern und seine Camps in der frühen Phase praktisch ungestraft angreifen, muss aber Daisy und die Shields im späteren Team-Kontext respektieren.",
+  "runeReason": "PTA passt, da Ivern selten Schild oder Sustain für sich selbst aufbaut und ein sauberer Drei-Treffer-Auto-Fenster meist reicht, um ihn zurückzudrängen. Boneplating federt den Root-Combo-Einstieg über Rootcaller ab.",
+  "l1": "Level 1-2 hat Ivern keine nennenswerte eigene Duellstärke; ein Scuttle-Contest um 2:30-3:00 geht bei offenem Kontakt praktisch immer an Olaf, solange kein Root aus Rootcaller trifft.",
+  "l25": "Ivern verlässt früh seine eigenen Camps zugunsten von Lane-Ganks und Brambles-Kontrolle, wodurch Counter-Jungling seinem Team zwar wenig direkten Goldverlust bei ihm selbst, aber verlorene Ressourcen für seine Lanes bringt.",
+  "l6": "Mit Daisy als Sechster-Level-Ultimate kann Ivern in Objective-Kämpfen einen zusätzlichen Tank-Körper und einen Stampf-Knockup einbringen; Olaf sollte Daisy dabei separat einschätzen und nicht direkt Ivern selbst als Bedrohung werten.",
+  "threats": "Rootcaller-Root (Q), Triggerseed-Schild und Bramble-Root (W), Daisy-Stampf-Knockup (R).",
+  "window": "Praktisch jedes offene 1v1 gegen Ivern ohne aktives Rootcaller oder Daisy in der Nähe ist ein sicheres Invade-Fenster für Olaf.",
+  "errors": "Blind in eine frisch gepflanzte Bramble-Bush hineinlaufen und den Root kassieren. Daisy in einem Objective-Kampf ignorieren, obwohl sie erheblichen Zusatzschaden und Crowd Control liefert.",
+  "wave": "Aggressives Counter-Jungling lohnt sich, um Iverns Lanes Ressourcen zu entziehen, auch wenn Ivern selbst wenig eigenes Gold verliert; ein Drei-Camp-Rhythmus mit frühem Gank ist meist effizienter als der volle eigene Clear.",
+  "trade": "Q zuerst, um Iverns Fluchtdistanz zu verringern, dann direkt E für Schaden und Sustain; R ist gegen Ivern selten nötig, sollte aber für Daisy oder ankommende Teamhilfe aufgespart werden.",
+  "items": "Die Hydra-Death's-Dance-Linie ist der solide Standardweg, da Ivern selbst keinen speziellen Zugriffs- oder Magiedruck erzeugt, gegen den reagiert werden müsste.",
+  "situ": "Ein defensiver Gegenstand ist gegen Ivern selten nötig; situativ lohnt sich eher etwas gegen Daisy oder den restlichen Team-CC-Druck.",
+  "side": "1 Item: Olaf dominiert jedes offene Duell klar. 2 Items: Ivern bleibt weiterhin praktisch chancenlos im 1v1. 3 Items: Der Fokus verschiebt sich auf Daisy und Iverns Team-Peel statt auf Ivern selbst.",
+  "plan": "Ivern früh und konsequent counter-jungeln, um seinen Lanes Ressourcen zu entziehen, ohne Rootcaller-Root zu riskieren. In späteren Objective-Kämpfen Daisy als eigenständige Bedrohung einplanen, nicht Ivern selbst.",
+  "override": "Bei viel gegnerischem CC-Druck durch Ivern-Peel und weitere Kontrolleffekte auf pta_inspiration wechseln, um schneller durch Root- und Schild-Fenster zu kommen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Root- und Knockup-Kontrolle von Ivern und Daisy.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "A",
+  "late": "B",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/ivern/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

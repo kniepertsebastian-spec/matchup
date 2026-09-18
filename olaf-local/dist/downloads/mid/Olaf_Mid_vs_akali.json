@@ -1,0 +1,50 @@
+{
+  "slug": "akali",
+  "name": "Akali",
+  "tier": "C",
+  "reason": "Akali ist vor Level 6 durch begrenzte Ressourcen und den langen W-Cooldown fragil gegen direkte All-ins, was Olaf frühe Kill-Fenster verschafft. Ab Level 6 kombiniert sie Shroud-Stealth mit einem R-Doppeldash, der Burst und Fluchtweg in einem liefert, wodurch das späte Duell strukturell riskanter wird.",
+  "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, in dem Olaf drei saubere Treffer landen kann, bevor Akali über Shroud aus der Sichtlinie verschwindet. Bone Plating dämpft ihren Energie-limitierten Q-Poke-Einstieg in der frühen Lanephase.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist klar, da Akalis Energie-Pool frühe Trades stark limitiert und Shroud noch nicht verfügbar ist.",
+  "l25": "Akali poked vorsichtig mit Q und hält sich außerhalb sicherer All-in-Reichweite; Olaf sollte aggressiv committen, sobald ihr W-Shroud sichtbar auf Cooldown liegt, da sie dann ohne Fluchtwerkzeug im Nahbereich steht.",
+  "l6": "Akalis R ist ein Doppeldash, der Burst-Schaden mit garantiertem Rückweg kombiniert; Ragnarok entfernt keine Hard-CC aus ihrem Kit, liefert aber die Heilung, um die Burst-Rotation zu überleben und danach selbst nachzusetzen, bevor der zweite R-Dash verfügbar ist.",
+  "threats": "W-Shroud als Stealth/Heilungs-Reset, Q-Poke mit Doppeltreffer bei Rückkehr, R-Doppeldash mit Burst und Fluchtweg, E-Twin-Disciplines-Markierungsschaden.",
+  "window": "Solange Akalis W-Shroud auf Cooldown liegt oder bereits verbraucht ist, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+  "errors": "Nach dem Verschwinden in Shroud blind in die vermutete Position schlagen. Vor Level 6 zu passiv bleiben und das größte Energie-limitierte Kill-Fenster verpassen. Gegen einen frischen zweiten R-Dash committen, statt die Fluchtdistanz einzukalkulieren.",
+  "wave": "Gegen Akalis vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um ihre Energie-limitierten Trades zu erzwingen; bei sichtbarem Shroud-Verbrauch kann Olaf aggressiv pushen und roamen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, solange Shroud down ist, R als Antwort auf die R-Rotation oder um die Heilung im verlängerten Trade gegen ihren Burst zu sichern.",
+  "items": "Der Zugriffsdruck durch Akalis Shroud-Stealth und R-Doppeldash macht Tempo entscheidender als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen, bevor sie verschwindet.",
+  "situ": "Gegen ihren Burst ist ein früher Zusatzitem wie Wits' End oder Randuin's sinnvoll, sobald Akali kritisches Schadenspotenzial über Q-Marken aufbaut.",
+  "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Akali unter Level 6 bleibt. 2 Items: Akalis R-Rotation macht offene Duelle riskanter, nur mit Cooldown-Vorteil committen. 3 Items: Akalis Burst-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok suchen.",
+  "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes Energie- und Shroud-Cooldown-Fenster nutzen. Ab Level 6 die R-Rotation respektieren und nur mit vollem Ragnarok oder klarem Vorsprung committen, im Late Game auf Vision gegen Shroud-Stealth achten.",
+  "override": "Bei sehr aggressivem frühem Akali-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor Level 6 noch konsequenter zu gewinnen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen Akalis Magieburst und Twin-Disciplines-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/akali/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

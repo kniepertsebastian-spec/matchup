@@ -1,0 +1,50 @@
+{
+  "slug": "sylas",
+  "name": "Sylas",
+  "tier": "D",
+  "reason": "Sylas ist im Jungle eher ein Nebenweg für Mid-Spieler und hat dadurch früh eine schwächere Clear- und Skirmish-Stärke als reine Jungler, was Olaf ein reales frühes Zeitfenster gibt. Sobald Sylas Level 6 erreicht, wird er durch die Möglichkeit, gegnerische Ultimates zu stehlen, sowie durch Lifesteal auf Q und hohen Magieschaden zu einer ernsten Bedrohung, insbesondere weil er theoretisch Ragnarok selbst stehlen kann. Insgesamt überwiegt Sylas' späte Burst- und Sustain-Kombination Olafs frühen Vorteil.",
+  "runeReason": "Conqueror mit Boneplating passt zu Sylas' Lifesteal auf Q-Treffer und seiner Kettenkontrolle über E-Dash, da Olaf im ausgedehnten Duell sowohl Health als auch Adaptive-Stats braucht, um gegen seine Selbstheilung zu bestehen.",
+  "l1": "Ohne vollen Kombo-Zugriff ist Sylas im Level-2-Duell verwundbarer, Olaf kann bei aggressivem Invade häufig gewinnen, solange Sylas Q noch nicht auf mehrere Ziele trifft.",
+  "l25": "Sylas will meist zügig seine ersten Camps clearen und ab Level 3 mit der vollen Q-W-E-Kombo ganken, Olaf sollte diese frühen Camps aktiv kontestieren, solange Sylas' Kombo-Schaden noch begrenzt ist.",
+  "l6": "Ab Level 6 wird Sylas durch potenziellen Ultimate-Diebstahl gefährlich, im schlimmsten Fall kann er Olafs eigenes R stehlen, Olaf sollte R deshalb bewusst timen und nicht unnötig vor Sylas zünden, wenn ein Diebstahl möglich ist.",
+  "threats": "Q-Root mit Lifesteal, E-Ketten-Dash für Mobilität, W-Flächenburst, R-Ultimate-Diebstahl inklusive möglichem Zugriff auf Olafs eigenes R.",
+  "window": "Solange Sylas' Kombo aus Q, W und E noch nicht vollständig verfügbar ist, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest sicherer.",
+  "errors": "R nicht sorglos vor Sylas zünden, wenn er selbst noch Zugriff auf sein eigenes R hat, nicht in die Reichweite von Q-Root laufen, ohne den Cooldown im Kopf zu haben.",
+  "wave": "Vor Level 6 lohnt sich aktives Konter-Jungle gegen Sylas' schwächere frühe Präsenz, nach 6 sollte Olaf Fights defensiver timen und besonders auf den Zustand von Sylas' R achten.",
+  "trade": "Erst Q auf Sylas werfen, dann Autos solange er außerhalb seiner vollen Kombo-Reichweite ist, R nur zünden wenn Sylas' eigenes R bereits verbraucht oder klar sichtbar in Vorbereitung ist.",
+  "items": "Hydra-Maw kontert Sylas' magischen Burst-Schaden direkt und liefert den nötigen Magieresistenz-Puffer für ausgedehnte Duelle gegen seine Kombo.",
+  "situ": "Gegen eine sehr aggressive Sylas-Spielweise mit früher Kombo kann ein noch früherer Magieresistenz-Gegenstand das Überleben eines Ganks deutlich verbessern.",
+  "side": "1 Item: Olaf im Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Sylas' Kombo vollständig verfügbar ist. 3 Items: Sylas' Burst- und Sustain-Kombination wird gefährlich, Olaf sollte Fights dann kürzer und gezielter timen.",
+  "plan": "Vor Level 6 aktiv konter-jungeln, da Sylas hier klar unterlegen ist. Ab Level 6 R-Timing bewusst gegen einen möglichen Ultimate-Diebstahl planen und Fights meiden, solange Sylas' eigenes R noch verfügbar ist.",
+  "override": "Bei sehr hohem zusätzlichen Ganking-Druck durch das gegnerische Team kann conqueror_inspiration sinnvoller sein, um früher Tempo für Gegen-Ganks aufzubauen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Sylas' Q-Root und seinen überwiegend magischen Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "E",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/sylas/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

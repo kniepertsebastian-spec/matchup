@@ -1,11 +1,11 @@
-# Toplane Matchup-Buch: Olaf & Warwick
+# Matchup-Buch: Olaf & Warwick
 
 ## Webanwendung mit Datenbank und Team-Planer
 
 Der Docker-Stack umfasst jetzt Node.js und MariaDB, wahlweise mit Caddy/HTTPS
 oder Cloudflare Tunnel für `matchup.pwa-tree.de`. Der Team-Planer bewertet fünf
 Gegner anhand von 173 Riot-Champion-Kits und schlägt begründete Item-Anpassungen
-zu den vorhandenen 132 Matchups vor. Build-Annahmen und Bedrohung sind anpassbar.
+zu den vorhandenen 188 Matchups vor. Build-Annahmen und Bedrohung sind anpassbar.
 
 **[Start, Domain, Tunnel, Backups und Datenpflege → docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**
 
@@ -14,9 +14,10 @@ braucht zusätzlich eine der dokumentierten Hosting-Varianten. GitHub Actions
 prüft Logik, Docker-Stack und Browser. Die folgenden Hinweise beschreiben auch
 den ursprünglichen Datenexport.
 
-Lokale Webapp mit jeweils 51 Toplane-Matchups plus 30 Olaf-ADC-Matchups, Lane- und Championauswahl, Suche, Filtern,
-Detailansichten, Quellen und Excel-Downloads. Dieses Paket enthält das gesamte
-vorhandene Projekt einschließlich Recherche, Erstellungsskripten und Prüfdateien.
+Lokale Webapp mit 51 Toplane-Matchups je Champion (Olaf und Warwick) sowie eigenständigen
+Olaf-Sammlungen für Jungle (28), Mid (28) und ADC (30), Lane- und Championauswahl, Suche,
+Filtern, Detailansichten, Quellen und Excel- bzw. JSON-Downloads. Dieses Paket enthält das
+gesamte vorhandene Projekt einschließlich Recherche, Erstellungsskripten und Prüfdateien.
 
 ## Start mit Docker / WSL
 
@@ -75,10 +76,16 @@ Bei Übernahme in ein bestehendes Repository dessen Ignore-Regeln zusammenführe
 - `docs/ERSTELLUNG.md`: Pflegehinweise und Grenzen der ursprünglichen Skripte.
 - `MANIFEST.sha256`: historische Prüfsummen des ursprünglichen Exports, nicht des weiterentwickelten Git-Stands.
 
-Die aktive App liest Olaf aus `olaf-local/dist/data.json` und Warwick aus
-`olaf-local/dist/warwick.json`. ADC liegt in `olaf-local/dist/olaf-adc.json`, mit
-JSON-Einzeldownloads unter `dist/downloads/adc/`. Der ADC-Leitfaden beschreibt
-die vorläufigen Kit-Tiers, Support-Abhängigkeit und Hydra-/Hexplate-Builds.
+Die aktive App liest Olaf-Toplane aus `olaf-local/dist/data.json` und Warwick aus
+`olaf-local/dist/warwick.json`. Olaf-ADC liegt in `olaf-local/dist/olaf-adc.json`
+(JSON-Einzeldownloads unter `dist/downloads/adc/`), Olaf-Mid in
+`olaf-local/dist/olaf-mid.json` (`dist/downloads/mid/`) und Olaf-Jungle in
+`olaf-local/dist/olaf-jungle.json` (`dist/downloads/jungle/`). ADC, Mid und Jungle
+sind eigenständige, qualitative Kit-Einschätzungen ohne verifizierte
+Olaf-Paarungsstatistik für diesen Patch (kein Netzwerkzugriff auf Statistikseiten
+bei der Erstellung dieser drei Sammlungen); die Toplane-Winrates werden nicht
+übertragen. Der Jungle-Leitfaden weist zusätzlich darauf hin, dass das
+Jungle-Rollenitem im lokalen Icon-Katalog dieser App nicht hinterlegt ist.
 Änderungen an Entwürfen in `work/` erscheinen
 nicht automatisch in der App. Excel-Dateien sind separate Exporte und müssen
 bei Datenänderungen ebenfalls gepflegt werden. Nach Änderungen für Docker
@@ -86,7 +93,7 @@ im App-Ordner `docker compose up -d --build` ausführen.
 
 ## Datenstand
 
-Paket aktualisiert am 18.09.2026. Olaf ADC neu recherchiert für 26.18; keine erneute Toplane-Recherche beim Verpacken.
+Paket aktualisiert am 18.09.2026. Olaf ADC, Mid und Jungle neu erstellt für 26.18; keine erneute Toplane-Recherche beim Verpacken.
 Olaf: Kit-Einordnung 26.18, geprüft 10.09.2026; Statistik 26.17 / 16.17.
 Warwick: Kit-Abgleich 26.18, geprüft 14.09.2026; teilweise Statistik 26.18 / 16.18,
 fehlende Werte ausdrücklich gekennzeichnet. Tiers sind qualitative Einschätzungen.

@@ -1,0 +1,50 @@
+{
+  "slug": "riven",
+  "name": "Riven",
+  "tier": "D",
+  "reason": "Riven ist selbst ein aggressiver früher All-in-Skirmisher mit eigenem AOE-Stun und mehreren Dashes, was ihre Trades gegen Olaf sehr symmetrisch und riskant macht. Wenn ihre Q-E-Kombo mit Betäubung sauber sitzt, kann sie den Fight vor Olafs eigenem Kill-Zeitpunkt entscheiden, während sie gleichzeitig über Dashes aus schlecht laufenden Kämpfen entkommt.",
+  "runeReason": "Conqueror passt zu einem echten Sustain-Duell zwischen zwei Nahkampf-Bruisern besser als ein kurzes Burstfenster. Boneplating federt ihre eigene All-in-Kombo mit Betäubung und Folgeschaden ab.",
+  "l1": "Beide gewinnen offene Trades primär über den ersten sauberen Kontakt – ihr Betäubungsradius ist kurz, aber bei Treffer folgt sofort massiver Schaden. Olaf sollte nicht blind in ihre Betäubungsreichweite laufen.",
+  "l25": "Ausgeglichene Poke-Phase, All-in nur nach verbrauchter Betäubung oder wenn sie ihre Dashes bereits offensiv statt defensiv nutzt. Farm-Fokus, wenn ihre volle Kombo verfügbar bleibt.",
+  "l6": "Ihr Ultimate ist ein fächerförmiger Distanzschaden, der gegen geschildete Ziele verstärkt wirkt, aber keine zusätzliche Mobilität bringt. Olafs R entfernt eine vorherige Betäubung sofort und hält den Damage-Output während ihres Fluchtversuchs über Dashes aufrecht.",
+  "threats": "AOE-Betäubung aus W, mehrfache Dashes zur Repositionierung, Distanzschaden-Ultimate gegen Schilde, hohe Burst-Kombo-Dichte.",
+  "window": "Direkt nach ihrer verbrauchten Betäubung und wenn mindestens ein Dash bereits für Positionierung statt Flucht genutzt wurde, ist der Kill realistisch.",
+  "errors": "Blind in ihre W-Betäubungsreichweite laufen. Nach einem gewonnenen Trade ohne verbleibende Dash-Reserve ihrerseits trotzdem weiterverfolgen, wenn sie noch einen Dash übrig hat.",
+  "wave": "Kontrolliertes Freezing, um ihre Kombo-Reichweite zur eigenen Wave zu begrenzen. Nach verbrauchter Betäubung kurze Aggressionsfenster für Trade nutzen.",
+  "trade": "Q zum Slow, seitlich um ihre Betäubungsreichweite herumlaufen, E nach sicherem Kontakt, R erst wenn ihre Betäubung bereits verbraucht ist.",
+  "items": "Stridebreaker plus Death's Dance, da der Kern des Duells ihr Dash-Zugriff ist und Sustain gegen ihre physische Burst-Kombo entscheidend bleibt.",
+  "situ": "Sterak's Gage gegen ihre Kombo-Burst-Dichte, Quicksilver Sash bei zusätzlicher harter Kontrolle aus der Comp.",
+  "side": "1 Item: sehr enges, riskantes Duell für beide Seiten. 2 Items: mit Stridebreaker-Zugriff und R meist spielbar. 3 Items: hängt stark davon ab, wer den ersten Fehler im Trade macht, kein klarer Vorteil.",
+  "plan": "Behandle diese Lane wie ein echtes Duell zwischen zwei All-in-Bruisern und vermeide reine Verdachts-Commits gegen ihre Betäubungsreichweite. Nutze Stridebreaker-Slow, um ihre Dash-Fluchtoptionen zu verkürzen.",
+  "override": "PTA statt Conqueror, wenn ein sehr kurzes Kill-Fenster vor Level 3 wichtiger ist als das ausgedehnte Sidelane-Duell.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Plated Steelcaps gegen physischen Auto-/Poke-Druck.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/riven/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

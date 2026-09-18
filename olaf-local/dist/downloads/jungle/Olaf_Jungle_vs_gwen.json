@@ -1,0 +1,50 @@
+{
+  "slug": "gwen",
+  "name": "Gwen",
+  "tier": "D",
+  "reason": "Gwens Jungle-Clear ist früh eher schwach, weshalb Olaf in den ersten Levels reale Invade-Chancen hat; sobald sie aber über Snip-Snip-Stacks und Skip-'n-Slash-Resets skaliert, zählt sie zu den gefährlichsten reinen Duellanten gegen Bruiser wie Olaf. Olafs E-Truedamage umgeht immerhin Gwens Hallowed-Mist-Reduktion, was den späten Rückstand etwas abfedert, ohne ihn aufzuheben.",
+  "runeReason": "Conqueror passt zum verlängerten Stack-Duell gegen Gwens Q-Rotation, da Olaf Sustain gegen ihre Nebel-Reduktion braucht; Boneplating dämpft die Burst-Spitze aus Skip-'n-Slash-Dash und den ersten Q-Treffern.",
+  "l1": "Level 1-2 ist Gwen ohne aufgebaute Q-Stacks vergleichsweise schwach; ein Scuttle-Contest um 2:30-3:00 steht meist zugunsten von Olaf, solange sie sich nicht bereits im eigenen Hallowed Mist verschanzt.",
+  "l25": "Gwens Clear-Tempo ist unterdurchschnittlich, weshalb sie selten früh aggressiv ganken kann; Olaf sollte diese Phase aktiv für Invades oder eigene Ganks nutzen, bevor Gwen ihre ersten Items und Stacks aufbaut.",
+  "l6": "Mit R kann Gwen aus Distanz slowen und Truedamage-Nova austeilen, was Fluchtversuche von Olaf erschwert; Olafs eigenes R hilft primär gegen ihren Nahkampf-Dash-Zugriff, nicht gegen die Fernkomponente von Needlework.",
+  "threats": "Hallowed-Mist-Schadensreduktion (W), Skip-'n-Slash-Dash-Resets (E), Snip-Snip-Truedamage-Stacks (Q), Needlework-Slow-Nova (R).",
+  "window": "Solange Gwen ihre Q-Stacks für den nächsten großen Treffer noch nicht aufgebaut hat oder W bereits für Vorwärtsverteidigung verbraucht wurde, ist ein früher Kontakt für Olaf deutlich sicherer.",
+  "errors": "Außerhalb von Gwens Hallowed Mist auf Autos setzen, wo die Reduktion greift, statt aktiv mit E hineinzugehen. Nach einem Skip-'n-Slash-Reset planlos weiterverfolgen, statt die Distanz neu einzuschätzen.",
+  "wave": "Früh lohnt sich aggressives Counter-Jungling und ein Drei-Camp-Gank-Rhythmus, da Gwens Clear-Tempo unterdurchschnittlich ist; im späteren Spiel sollte Olaf direkte Camp-Wettläufe meiden, sobald Gwen mehrere Items hat.",
+  "trade": "Q zuerst für den Slow, dann sofort mit E hinein in Gwens Hallowed Mist, da die True-Damage-Komponente ihre Reduktion umgeht; R erst zünden, wenn ihr Skip-'n-Slash-Dash bereits verbraucht ist.",
+  "items": "Stridebreaker hilft, Gwens Dash-Resets einzuholen und sie im Nebel festzuhalten, da reine Hydra-Sustain gegen ihre Mobilität allein zu wenig Zugriff bietet.",
+  "situ": "Bei starkem physischem Zusatzdruck aus dem Gwen-Team kann ein defensiver Armor-Gegenstand das Überleben in verlängerten Duellen verbessern.",
+  "side": "1 Item: Olaf hat durch Gwens schwachen Clear reale Vorteile. 2 Items: Der Kampf wird ausgeglichener, sobald Gwen Q-Stacks zuverlässig aufbaut. 3 Items: Gwen wird zu einer der gefährlichsten Duellantinnen im Spiel, Olaf sollte direkte 1v1 vermeiden.",
+  "plan": "Die frühe Schwäche von Gwens Clear konsequent über Invades und Counter-Jungling ausnutzen. Im späteren Spiel offene 1v1 gegen eine ausgebaute Gwen meiden und stattdessen über Zahlenvorteile und Objectives spielen.",
+  "override": "Bei viel gegnerischem Chip-Schaden aus Poke-Lanern auf conqueror_secondwind wechseln, um die frühe Phase gegen zusätzlichen Dauerdruck abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Gwens überwiegend magischen Schaden und die Needlework-Slow.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "E",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/gwen/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

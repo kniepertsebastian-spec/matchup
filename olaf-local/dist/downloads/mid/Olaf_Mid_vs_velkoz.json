@@ -1,0 +1,50 @@
+{
+  "slug": "velkoz",
+  "name": "Vel'Koz",
+  "tier": "C",
+  "reason": "Vel'Koz hat keinerlei Mobilität und ist bei erfolgreichem Kontakt eines der leichtesten Ziele im Feld, was Olafs späten Sidelane-Impact stark begünstigt. Die frühe Laning-Phase ist trotzdem hart, weil seine Reichweite und sein Knockup jeden unvorsichtigen Anlauf bestrafen.",
+  "runeReason": "Second Wind mildert die konstante Q/W-Poke-Serie über die gesamte Laning-Phase, in der Olaf sonst nur passiv HP verliert. PTA belohnt die wenigen sauberen Kontaktfenster stärker als ein auf viele Autos ausgelegtes Setup.",
+  "l1": "Ohne Bush-Vision ist Vel'Koz' Q auf kurze Distanz vermeidbar, sein E-Knockup bei Kontakt aber ein zuverlässiger Anti-All-in. Olaf sollte den ersten Kontakt nicht erzwingen, sondern auf einen Fehlwurf warten.",
+  "l25": "Reine Poke-Phase, in der Olaf CS-Verluste unter Turm akzeptieren muss, solange E-Knockup verfügbar ist. All-in nach verbrauchtem E oder wenn er zu nah an der Wave steht, um auszuweichen.",
+  "l6": "Sein R-Laser ist auf Distanz verheerend, bricht aber ab, sobald er hart kontrolliert oder gezwungen wird, den Kanal zu unterbrechen. Olafs R hält den Kontakt während R und neutralisiert seine Fluchtoptionen, da er selbst keine hat.",
+  "threats": "Q-Split-Poke, W-Flächenschaden, E-Knockup als Anti-Engage, R-Kanal mit True-Damage-Stapel.",
+  "window": "Nach verbrauchtem E-Knockup oder mitten im R-Kanal, wenn er den Kanal nicht rechtzeitig abbrechen kann, ist der Kill realistisch.",
+  "errors": "Frontal durch offene Sichtlinien anlaufen, wo E ihn trifft. Den R-Kanal aus zu großer Distanz unterbrechen wollen, statt direkt durchzugehen.",
+  "wave": "Kontrollierter Slowpush, um seine Poke-Reichweite zur eigenen Wave zu minimieren. Nach jedem verbrauchten E kurze Aggressionsfenster für Farm oder Trade nutzen.",
+  "trade": "Q zum Slow, im Bogen an ihn heranlaufen statt geradlinig, E sofort nach Kontakt, R erst wenn Auto-Reichweite gesichert ist und sein E-Knockup verbraucht ist.",
+  "items": "Ravenous Hydra in Maw-Linie, da sein reiner AP-Burst über die Poke-Phase sonst zu viel HP kostet, bevor überhaupt ein Duell zustande kommt.",
+  "situ": "Maw of Malmortius als Standard, Quicksilver Sash bei zusätzlicher harter Hard-CC aus der gegnerischen Comp gegen sein E.",
+  "side": "1 Item: Poke dominiert weiterhin, Kills selten. 2 Items: mit R und Tenacity aus Merc-Boots realistische Kill-Fenster bei jedem Fehlwurf seinerseits. 3 Items: klarer Vorteil, da er im Nahkampf praktisch keine Antwort hat.",
+  "plan": "Farme die frühe Poke-Phase defensiv aus, spare Ressourcen für Roams und suche den ersten echten Kontakt erst mit Boots und R verfügbar. Ab dem Moment, in dem Olaf ihn im Nahkampf erwischt, ist das Duell fast immer für ihn gewonnen.",
+  "override": "Conqueror statt PTA/Second-Wind, wenn die Lane durch Ganks früh entschieden wird und lange Sidelane-Duelle wahrscheinlicher sind als reine Poke-Fenster.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "B",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/velkoz/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "xerath",
+  "name": "Xerath",
+  "tier": "C",
+  "reason": "Xerath hat keinerlei Mobilität und ist im Nahkampf praktisch chancenlos, sobald Olaf die Distanz überbrückt, was das späte Duell klar zu Olafs Gunsten verschiebt. Die frühe Lanephase ist jedoch brutal, da Xerath über Q und W aus großer Reichweite pokt und jeden Annäherungsversuch teuer macht, bevor Olaf überhaupt Kontakt herstellen kann.",
+  "runeReason": "Conqueror liefert die Sustain über Omnivamp, um den Poke-Schaden beim Heranlaufen abzufedern und in einen verlängerten Nahkampf-Vorteil umzumünzen, sobald Kontakt steht. Second Wind mildert den chronischen Fernschaden, dem Olaf über weite Teile der Lanephase ausgesetzt ist, bevor er überhaupt die erste Reckless Swing landen kann.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, falls er ihn erzwingen kann, aber Xerath wird selten freiwillig in Reichweite kommen; Bush-Kontrolle und First-Blood-Potenzial hängen fast vollständig davon ab, ob Olaf ihn aus der Deckung erwischt.",
+  "l25": "Xerath poked konstant mit Q und W aus sehr großer Distanz und farmt praktisch risikofrei; Olaf muss unter Druck vor allem farmen und darf nur all-in gehen, wenn er über Minions oder Terrain gedeckt heranlaufen und Xeraths Q-Cooldown ausnutzen kann.",
+  "l6": "Xeraths R ist ein globaler Snipe-Stun mit hohem Schaden, der primär im Sidelane- oder Teamfight-Kontext relevant wird und weniger im direkten 1v1; Ragnarok entfernt den R-Stun bei aktivem Cast vollständig, was das Matchup im direkten Duell stark zu Olafs Gunsten kippt, sobald er tatsächlich in Reichweite steht.",
+  "threats": "Q-Arcanopulse-Poke mit hoher Reichweite, W-Eye-of-Destruction-AoE-Poke, E-Root, R-Globalstun mit hohem Einzelschaden.",
+  "window": "Sobald Olaf über Minion-Deckung oder Terrain in unmittelbare Nahkampfreichweite kommt und Xeraths Q-Cooldown sichtbar down ist, ist der All-in praktisch immer gewinnbar, da Xerath keine Fluchtmöglichkeit hat.",
+  "errors": "Offen und ungedeckt auf Xerath zulaufen, ohne Minion-Wellen als Deckung zu nutzen. Gegen sein E-Root committen, ohne den Wurzel-Radius einzukalkulieren. Die Lanephase durch ständiges Pushen gegen den Turm unnötig verlängern, statt Roams des Junglers zu nutzen.",
+  "wave": "Gegen Xeraths Dauerpoke ist eine enge Freeze oder sogar bewusstes Slow-Pushen zur eigenen Turmkante sinnvoll, um seine Sichtlinien-Reichweite zu minimieren; bei jeder Gelegenheit sollte Olaf die Wave crashen und roamen, da Xerath ohne Wave kaum Pressure ausüben kann.",
+  "trade": "Wave-Clear priorisieren, bei sichtbarem Q-Cooldown und Minion-Deckung schnell heranlaufen, E erst im Nahkampf zünden, R für den finalen Burst oder um das E-Root/R-Snipe zu entfernen.",
+  "items": "Gegen Xeraths reinen Magieburst aus der Distanz ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion, sobald der Nahkampf steht.",
+  "situ": "Bei besonders hohem Poke-Druck im gegnerischen Team kann ein früherer Defensiv-Fokus wie Force of Nature oder ein Health-heavy Item sinnvoll sein, um die Annäherung zu überstehen.",
+  "side": "1 Item: Sobald Olaf in Reichweite kommt, gewinnt er das Duell praktisch immer. 2 Items: Xeraths Poke-Schaden bleibt gefährlich, aber der direkte Nahkampf bleibt klar zu Olafs Gunsten. 3 Items: Xerath kann durch reine Item-Reichweite kaum aufholen, das Problem bleibt strukturell die Annäherung, nicht das Duell selbst.",
+  "plan": "Die frühe Lanephase primär überleben und farmen, Poke über Minion-Deckung minimieren und auf Jungler-Ganks für Level-1-3-Kills setzen. Sobald Items und Level Zugang zum Nahkampf erlauben, konsequent all-in gehen, da Xerath strukturell keine Antwort auf direkten Kontakt hat.",
+  "override": "Bei besonders defensivem, poke-fokussiertem Xerath-Spiel auf pta_secondwind wechseln, um im seltenen Kontaktfenster maximalen Burst statt Sustain zu priorisieren.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen den Magieburst und die Root/Stun-Kombination.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "B",
+  "rune": "Conqueror",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/xerath/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "viego",
+  "name": "Viego",
+  "tier": "C",
+  "reason": "Viego kombiniert Stealth über E, einen Dash-Reset über Q und Selbstheilung über sein Passiv zu einem der aggressivsten frühen Jungle-Duellanten, was Olafs eigenes Skirmish-Fenster stark verkleinert. Sobald Olaf R hat, entfernt er Viegos Furcht sofort und kann dank Sustain gegenhalten, Viego bleibt aber durch Q-Reset-Mobilität schwer endgültig zu töten. Insgesamt ein enges, beidseitig gefährliches Matchup.",
+  "runeReason": "Conqueror mit Boneplating passt zu Viegos wiederholten Q-Dash-Treffern und dem Selbstheilungs-Passiv, da Olaf über die längere Auseinandersetzung sowohl Health als auch Adaptive-Stats braucht, um den Sustain-Wettlauf zu gewinnen.",
+  "l1": "Viego kann über E-Stealth aus dem Busch einen Level-2-Invade praktisch unsichtbar einleiten, ein Olaf ohne Vision auf die gegnerische Startposition verliert diesen Kontakt häufig.",
+  "l25": "Viego will früh isoliert Krabbe oder Scuttle stehlen und danach über Q-Resets ganken, Olaf sollte eigene Camps zügig clearen und Krabbenkontrolle nicht ohne Wards riskieren.",
+  "l6": "Ab 6 verliert Viegos R-Furcht ihren Schrecken gegen Olaf, sobald R aktiv ist, gleichzeitig bleibt Viego durch Q-Dash auf tote Einheiten weiterhin mobil genug, um Objective-Fights einseitig zu eröffnen oder zu verlassen.",
+  "threats": "E-Stealth-Ambush, Q-Dash mit Reset auf niedrige HP, Passiv-Selbstheilung nach Takedowns, R-Furcht und Massen-CC im Teamfight.",
+  "window": "Sobald Viego E auf Cooldown verbraucht hat, meist unmittelbar nach einem Stealth-Gank-Versuch, ist ein Gegen-Invade sicherer, da ihm dann die Überraschungskomponente fehlt.",
+  "errors": "Nicht blind in vermeintlich leere Büsche laufen, ohne Viegos E-Cooldown im Kopf zu haben, R nicht vor der eigentlichen R-Furcht zünden, sondern erst wenn sie tatsächlich greift.",
+  "wave": "Gegen Viego lohnt sich ein zügiger, aber wachsamer Clear mit Wards an den eigenen Krabben- und Scuttle-Zugängen, da er gezielt isolierte Stealth-Kontests sucht, ein offener Camp-Race ohne Vision favorisiert meist ihn.",
+  "trade": "Erst Q auf Viego werfen sobald er aus dem Stealth committed, dann Autos, R zünden sobald die Furcht tatsächlich greift, nicht präventiv, da sie sonst verpufft.",
+  "items": "Hydra-DD liefert Antiheal gegen Viegos Passiv-Selbstheilung nach Kills und hält gleichzeitig das Clear-Tempo hoch genug, um seine Stealth-Fenster zu verkürzen.",
+  "situ": "Gegen ein zweites schweres CC-Werkzeug im gegnerischen Team kann ein früherer Tenacity- oder Health-Gegenstand die Diveüberlebenschance nach einer Furcht deutlich verbessern.",
+  "side": "1 Item: Viego bleibt durch Mobilität und Stealth im Vorteil. 2 Items: das Duell wird ausgeglichen, sobald Olaf R konstant zur Verfügung steht. 3 Items: Olaf gewinnt einen fairen 1v1-Fight meist knapp, sofern Viego keinen Reset über eine dritte Einheit findet.",
+  "plan": "Eigene Camps mit Vision absichern und frühe Solo-Kontests ohne Wards vermeiden. Ab Level 6 aktiv Objective-Fights suchen, da R Viegos Furcht neutralisiert und Olaf im geraden Sustain-Duell die Oberhand gewinnt, sofern Viego keinen Q-Reset findet.",
+  "override": "Bei einem sehr passiv spielenden Viego ohne frühe Stealth-Aggression kann pta_boneplating für schnellere Trade-Fenster die bessere Wahl sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Viegos R-Furcht und generelles Team-CC.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/viego/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "neeko",
+  "name": "Neeko",
+  "tier": "B",
+  "reason": "Neeko ist fragil und ihr gesamter Kombo-Schaden hängt an einem kurzen Dash und einem stark telegrafierten Flächen-Ultimate, das leicht vorhersehbar ist. Solange Olaf ihren Engage-Dash überlebt, ist der Rest des Trades meist zu seinen Gunsten.",
+  "runeReason": "PTA passt zu ihrer Rolle als burst-lastiges, aber fragiles Ziel mit begrenztem Fluchtwerkzeug. Boneplating dämpft ihre Q-Doppelschaden-Serie im Vorfeld eines echten All-ins.",
+  "l1": "Direkter Kontakt ohne ihren Dash ist meist gewinnbar für Olaf, ihre Verkleidungs-Fähigkeit außerhalb des Kampfes kann Bush-Kontrolle aber unklar machen.",
+  "l25": "Ihr Q-Poke aus der Distanz ist unangenehm, aber verkraftbar. All-in direkt nach verbrauchtem Dash oder wenn sie sich zu weit aus sicherer Distanz vorwagt.",
+  "l6": "Ihr Ultimate ist ein verzögertes, großflächiges Betäubungs-Ultimate, das bei Treffer den Kampf sofort entscheiden kann, aber durch seine Vorlaufzeit oft vermeidbar ist. Olafs R entfernt die Betäubung, falls sie doch trifft, und stellt den Damage-Output sofort wieder her.",
+  "threats": "Kurzer Dash mit Doppelbild, Q-Doppelschaden-Poke, Slow-Kette aus E, verzögertes Flächen-Betäubungs-Ultimate.",
+  "window": "Nach verbrauchtem Dash und außerhalb der Reichweite ihres Ultimates ist der All-in am zuverlässigsten.",
+  "errors": "In der Bush ihre Verkleidung ignorieren und blind auf vermeintliche Minions zulaufen. Direkt im Zentrum ihres verzögerten Ultimates stehen bleiben, statt seitlich auszuweichen.",
+  "wave": "Kontrolliertes Freezing, um ihre Q-Poke-Reichweite zu begrenzen. Nach verbrauchtem Dash kurze Aggressionsfenster für Trade oder Farm nutzen.",
+  "trade": "Q zum Slow, nach ihrem Dash sofort nachsetzen, E zwischen Autos, R erst bei echtem Auto-Kontakt und außerhalb ihres Ultimate-Radius einsetzen.",
+  "items": "Ravenous Hydra in Maw-Linie, da ihr Schaden rein magisch ist und die Poke-Phase sonst unnötig viel HP kostet.",
+  "situ": "Maw of Malmortius als Standard, Quicksilver Sash wenn ihr Ultimate wiederholt entscheidende Fights kippt.",
+  "side": "1 Item: solide Trades, wenn ihr Dash sichtbar verbraucht ist. 2 Items: mit Maw und R meist gewinnbares Duell. 3 Items: klarer Vorteil, sofern ihr Ultimate nicht überraschend trifft.",
+  "plan": "Halte Abstand von ihrem Ultimate-Radius, suche Kontakt direkt nach ihrem Dash und nutze ihre fehlende echte Fluchtoption im offenen Duell konsequent aus. Bush-Kontrolle gegen ihre Verkleidung ernst nehmen.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/neeko/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

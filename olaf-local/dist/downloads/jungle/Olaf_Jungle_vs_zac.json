@@ -1,0 +1,50 @@
+{
+  "slug": "zac",
+  "name": "Zac",
+  "tier": "C",
+  "reason": "Zac hat über seinen Q-Zieharm frühe Zugriffs-CC und über E einen Doppel-Knockup, der Olaf ohne eigenes R in Skirmishes empfindlich treffen kann, besonders in Kombination mit seiner Passiv-Regeneration außerhalb von Fights. Sobald Olaf R hat, werden beide Knockup-Komponenten sofort entfernt, und Zacs eigener Schaden reicht gegen einen sustain-starken Olaf oft nicht aus, um das Duell zu gewinnen. Insgesamt spricht die frühe Phase für Zac, die späte klar für Olaf.",
+  "runeReason": "Conqueror mit Boneplating passt zu Zacs zäher, regenerationsstarker Statur, da Olaf über einen langen Fight sowohl gegen seine CC-Fenster als auch gegen seine passive Heilung außerhalb von Kämpfen ankommen muss.",
+  "l1": "Zac kann über den Q-Zieharm einen Level-2-Kontakt aus überraschender Distanz erzwingen, Olaf sollte diesen Zugriff respektieren und Fights nicht in offener Zieharm-Reichweite eingehen.",
+  "l25": "Zac will früh über W-Sprung mit Flächen-Knockup ganken statt Camps zu kontestieren, Olaf kann in diesem Fenster eigene Krabben und Scuttle kontrollieren, sollte aber Vision auf Zacs Q-Reichweite halten.",
+  "l6": "Sobald Olaf R hat, verlieren sowohl der Q-Zieharm als auch der E-Doppel-Knockup ihre Wirkung gegen ihn, Zac bleibt durch seine Tankiness und Blob-Wiederbelebung trotzdem schwer endgültig zu finishen, weshalb Fights länger dauern als erwartet.",
+  "threats": "Q-Zieharm als Zugriffs-CC, E-Doppel-Knockup bei Aufprall und Rückkehr, Passiv-Regeneration außerhalb von Kämpfen, mögliche Wiederbelebung über Blobs nach dem Tod.",
+  "window": "Sobald Zacs Q-Zieharm auf Cooldown verbraucht wurde, meist direkt nach einem Gank-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+  "errors": "Nicht in offener Q-Zieharm-Reichweite ohne Fluchtoption stehen, einen niedrigen Zac nicht als sicher tot betrachten, solange genug Blob-HP für eine Wiederbelebung übrig ist.",
+  "wave": "Ein normaler Clear mit Vision auf Zacs Q-Reichweite ist gegen ihn sinnvoller als aggressives Konter-Jungle, da sein Zieharm-Zugriff frühe Invades riskant macht, ein 1-für-1-Camp-Tausch bleibt wegen seiner Passiv-Regeneration meist zu seinen Gunsten.",
+  "trade": "Q werfen sobald Zac committed, dann Autos solange sein Q-Zieharm auf Cooldown ist, R zünden sobald einer der beiden Knockups tatsächlich trifft, nicht präventiv.",
+  "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Zacs tanky Build, da seine Passiv-Regeneration ohne Shred-Schaden schwer genug zu überwinden ist.",
+  "situ": "Gegen einen frühen, aggressiven Zac mit viel Zieharm-Zugriff kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ganks verbessern.",
+  "side": "1 Item: Zac bleibt durch Zugriff und CC im Vorteil. 2 Items: das Duell wird ausgeglichener, sobald Olaf R konstant zur Verfügung steht. 3 Items: Olaf gewinnt einen geplanten Fight meist klar, sollte aber auf ausreichend übrig gebliebene Blob-HP für eine mögliche Wiederbelebung achten.",
+  "plan": "Frühe Solo-Duelle in offener Q-Zieharm-Reichweite vermeiden und stattdessen mit Vision und Teamunterstützung agieren. Ab Level 6 aktiv Objective-Fights suchen, da R Zacs beide Knockup-Komponenten neutralisiert und Olaf im geraden Sustain-Duell die Oberhand gewinnt.",
+  "override": "Bei einem sehr passiv spielenden Zac ohne frühe Zieharm-Aggression kann pta_boneplating für schnellere Trade-Fenster vor Level 6 sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Mercury's Treads gegen Zacs zwei Knockup-Komponenten und generelles Team-CC.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "B",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/zac/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

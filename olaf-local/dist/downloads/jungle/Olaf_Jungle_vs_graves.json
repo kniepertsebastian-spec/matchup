@@ -1,0 +1,50 @@
+{
+  "slug": "graves",
+  "name": "Graves",
+  "tier": "D",
+  "reason": "Graves' Rauchwand blendet Olafs Autoattacks komplett, was direkt seinen Kernmechanismus trifft, da Ragnaroks Heilung auf tatsächlich zugefügtem Schaden basiert und verfehlte Autos keinen Effekt haben. Früh ist das Duell noch ausgeglichener, da Graves' Buckshot-Kombo Mana und Cooldowns braucht, spät wird die Blend-Komponente in Kombination mit True-Damage-Nahschüssen zunehmend gefährlich für Olafs gesamten Spielplan. Insgesamt ein unangenehmes Matchup speziell wegen der Anti-Synergie zwischen Blind und Ragnarok.",
+  "runeReason": "Präzision-Übernahme mit Boneplating zielt auf ein kurzes, sauberes Trade-Fenster ab, bevor Graves die Rauchwand zünden und den Fight neutralisieren kann, Boneplating dämpft dabei den harten frühen Nahschuss-Burst.",
+  "l1": "Der Level-2-Duell ist relativ eng, solange Graves' Rauchwand noch nicht verfügbar ist, Olaf sollte den Kontakt möglichst schnell und nah suchen, bevor Graves auf Distanz gehen kann.",
+  "l25": "Graves will meist zügig clearen und ab Level 3 mit Buckshot-Poke ganken statt Nahkämpfe zu suchen, Olaf sollte eigene Krabben verteidigen, aber unnötige Distanzduelle gegen seinen True-Damage-Buckshot vermeiden.",
+  "l6": "Ab 6 wird Graves' Rauchwand zum zentralen Problem in jedem längeren Duell, da sie Olafs Auto-basierte Heilung durch R direkt unterbindet, Olaf sollte Fights danach nur noch außerhalb der Rauchwand oder mit sofortigem Nahkontakt suchen.",
+  "threats": "Buckshot mit True-Damage-Nahschuss, Rauchwand-Blind gegen Olafs Autoattacks, Sprung-Mobilität über E, R-Flächenschaden mit Rückstoß.",
+  "window": "Ein gutes Fenster ist unmittelbar nach Graves' Rauchwand-Einsatz, da sie einen langen Cooldown hat und er danach ohne Blend-Schutz kämpfen muss.",
+  "errors": "Nicht versuchen, innerhalb einer aktiven Rauchwand normal Autoattack-Trades zu führen, R nicht in eine bereits aktive Blend hinein zünden, da die Heilungskomponente dann größtenteils verpufft.",
+  "wave": "Ein normaler Clear mit vorsichtiger Krabbenkontrolle ist gegen Graves sinnvoller als aggressives Konter-Jungle, da seine Nahschuss-Bursts frühe Invades riskant machen, ein 1-für-1-Camp-Tausch bleibt meist ausgeglichen.",
+  "trade": "Q werfen sobald Graves committed, dann schnell auf Nahdistanz gehen bevor die Rauchwand fällt, R erst zünden wenn der Fight bereits außerhalb der Blend-Zone stattfindet.",
+  "items": "Hydra-DD bleibt Standard für Clear-Tempo, echte Antiheal-Relevanz ist gering, da Graves selbst kaum heilt, der Fokus liegt eher auf schnellem Nahkontakt.",
+  "situ": "Gegen einen sehr fed Graves mit True-Damage-Nahschuss kann ein früherer Health-lastiger Defensivgegenstand das Überleben eines Ganks deutlich verbessern.",
+  "side": "1 Item: das Duell bleibt eng und fenster-abhängig. 2 Items: Graves' Blend-Kombination wird spürbar gefährlicher in ausgedehnten Fights. 3 Items: Olaf sollte Fights nur noch außerhalb der Rauchwand suchen, da die Heilung über R sonst stark eingeschränkt ist.",
+  "plan": "Frühe Nahkontakt-Duelle suchen, bevor Graves' Rauchwand verfügbar ist, und spätere Fights bewusst außerhalb der Blend-Zone timen. Grievous Wounds ist hier weniger relevant als schnelles Schließen der Distanz vor dem Rauchwand-Cooldown.",
+  "override": "Gegen ein Team mit viel zusätzlichem Burst-Schaden um Graves herum kann conqueror_boneplating für mehr Sustain in längeren Fights sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Graves' Schaden fast vollständig physisch und True Damage ist.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "E",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/graves/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

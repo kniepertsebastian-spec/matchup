@@ -1,0 +1,50 @@
+{
+  "slug": "qiyana",
+  "name": "Qiyana",
+  "tier": "B",
+  "reason": "Qiyana ist bis Level 6 sehr fragil und auf Terrainelemente angewiesen, um ihren Nahkampf-Vorteil zu holen – ohne Fels/Fluss/Gras in Reichweite verliert sie viel von ihrem Kit. Olaf kann sie vor dem ersten großen Kombo-Level bestrafen, muss aber ab 6 ihr empowertes Q und den R-Knockback am Terrainrand respektieren.",
+  "runeReason": "Precision (Presence of Mind/Inspiration) gibt Tempo, um sie vor einem Terrain-Reset zu erreichen, statt nach dem ersten verpassten Kontakt hinterherzulaufen. Reiner Boneplating-Ansatz bringt wenig, wenn sie den Kampf über Distanz zum nächsten Element eröffnet.",
+  "l1": "Im Nahkampf ohne Terrain in der Bush verliert Qiyana die meisten offenen Trades gegen Olafs W-Sustain und E-Wahrscheinschaden. Bei Fels- oder Flusselementen in Reichweite wird sie durch Knockup/Slow deutlich gefährlicher.",
+  "l25": "Solange sie kein Terrainelement erreichen kann, ist Q-Poke von Olaf und kontrolliertes Freezing im Vorteil. All-in erst nach ihrem verbrauchten E-Dash oder wenn kein Element in ihrer Reichweite liegt.",
+  "l6": "R zieht Gegner zum Kartenrand und schneidet mit Rüstungsdurchdringung – bei Kontakt am Terrainrand ein echter Killwinkel für sie. Olafs R entfernt den Slow/Knockup-Wert eines vorherigen E-Empower, verhindert aber nicht den reinen Damage-Burst danach.",
+  "threats": "Terrain-empowertes Q (Knockup/Slow/Unsichtbarkeit), E-Dash über Terrain, R-Knockback mit Rüstungsschred.",
+  "window": "Nach verbrauchtem E-Dash ohne erreichbares Terrainelement in der Nähe und vor ihrem nächsten Backrecall ist das beste Fenster für Kontakt.",
+  "errors": "Trades in Fels- oder Flussnähe suchen, wenn sie Mana/Cooldowns dafür frei hat. Blind in ihre R-Reichweite am Kartenrand laufen.",
+  "wave": "Slowpush ohne Terrain in der Lane bevorzugen, damit sie ihre Empower-Mechanik nicht nutzen kann. Bei freiem Crash kurze Recall-Fenster für Tränke/Komponenten nutzen.",
+  "trade": "Q treffen, an sie heranlaufen, E zwischen zwei Autos setzen, erst committen wenn kein Terrain in ihrer unmittelbaren Nähe liegt. R erst bei sicherem Auto-Kontakt, nicht auf Verdacht.",
+  "items": "Stridebreaker plus Death's Dance für Zugriff auf ihre Dash-Reset-Fenster und Sustain im verlängerten Duell, da reine Hydra-Wellenkontrolle ihre Mobilität nicht löst.",
+  "situ": "Maw of Malmortius bei starkem Burst-Ausbau ihrerseits, Executioner's Calling wenn ihr Team zusätzliche Heilquellen stellt.",
+  "side": "1 Item: frühe Stridebreaker-Slows ermöglichen erste All-ins gegen ihr fehlendes Escape. 2 Items: mit R meist gewinnbares Duell abseits von Terrain. 3 Items: hängt stark davon ab, ob sie zu reinem Burst-Build oder Crit/Onhit geht.",
+  "plan": "Zwinge Trades abseits von Fels und Fluss und nutze ihre fehlende Fluchtoption vor Level 6 konsequent aus. Nach 6 nur an Kartenkanten committen, wenn ihr E-Dash sichtbar verbraucht ist.",
+  "override": "Conqueror statt PTA, wenn das Spiel in eine lange Sidelane-Pattsituation nach mehreren Items kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads wegen Knockup/Slow-Potenzial aus ihrem Terrain-Kit und dem R-Rüstungsschred.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "C",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/qiyana/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

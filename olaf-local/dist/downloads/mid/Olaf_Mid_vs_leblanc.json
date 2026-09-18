@@ -1,0 +1,50 @@
+{
+  "slug": "leblanc",
+  "name": "LeBlanc",
+  "tier": "D",
+  "reason": "LeBlanc kombiniert eine markierungsbasierte Burst-Kombo mit einem doppelten Blink, der sie sowohl engagieren als auch sofort wieder aus der Reichweite bringen lässt. Ihr Ultimate erlaubt zusätzlich, eine Fähigkeit doppelt einzusetzen, was ihre Burst-Spitze oder ihre Fluchtdistanz je nach Situation erheblich erhöht.",
+  "runeReason": "PTA passt zu ihrer extrem fragilen, burst-lastigen Statur mit sehr begrenztem Nahkampf-Standvermögen. Boneplating dämpft speziell ihre Markierungs-Detonation und den Folgeschaden ihrer Kette.",
+  "l1": "Im offenen Nahkampf ohne ihren Doppel-Blink ist der Trade klar für Olaf, sobald sie den ersten Blink offensiv statt defensiv nutzt, wird der Kontakt riskant.",
+  "l25": "Ihre Markierungs-Kombo poked effektiv aus sicherer Distanz, All-in nur wenn ein Blink bereits verbraucht und nicht mehr zum sofortigen Rückzug verfügbar ist. Farm-Fokus, solange beide Blinks bereitstehen.",
+  "l6": "Ihr Ultimate erlaubt den doppelten Einsatz einer Fähigkeit, wodurch entweder ihr Burst oder ihre Fluchtdistanz effektiv verdoppelt wird. Olafs R entfernt eine greifende Kettenfessel sofort und hält den Damage-Output während ihres Fluchtversuchs aufrecht.",
+  "threats": "Markierungs-Detonation mit Burst-Setup, Doppel-Blink zur Repositionierung, Kettenfessel bei anhaltendem Kontakt, Ultimate-Recast für doppelte Kombo-Wirkung.",
+  "window": "Nach verbrauchtem Doppel-Blink und ohne aktives Ultimate-Recast ist der All-in am verlässlichsten.",
+  "errors": "Ihre Kettenfessel durch Stillstehen voll auslaufen lassen, statt aus der Reichweite zu ziehen. Nach dem ersten Blink weiterverfolgen, ohne den zweiten Rückblink einzukalkulieren.",
+  "wave": "Enges Freezing unter dem eigenen Turm, um ihre Poke-Reichweite und Markierungs-Setups zu minimieren. Nach verbrauchtem Doppel-Blink kurze Aggressionsfenster nutzen.",
+  "trade": "Nur nach verbrauchtem Blink-Paar anlaufen, Q zum Slow, E zwischen Autos, R sofort bei einer greifenden Kettenfessel oder bei sicherem Auto-Kontakt.",
+  "items": "Stridebreaker plus Maw of Malmortius, da der Kern des Problems ihr Blink-Zugriff und ihr reiner AP-Burst sind, nicht fehlender Sustain.",
+  "situ": "Quicksilver Sash bei wiederholt entscheidender Kettenfessel, Mercury's Treads als Basis gegen ihren Magieschaden.",
+  "side": "1 Item: Poke und Burst-Risiko dominieren die Lane. 2 Items: mit Stridebreaker-Zugriff realistische Kill-Fenster nach verbrauchtem Blink-Paar. 3 Items: spielbar, aber ihr Recast-Ultimate bleibt ein dauerhaftes Fluchtproblem.",
+  "plan": "Spiele defensiv, bis beide Blinks sichtbar verbraucht sind, und vermeide offene Poke-Distanz ohne Grund. Priorisiere Roams, wenn ihr Poke- und Burst-Vorteil die Lane unwirtschaftlich macht.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/leblanc/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

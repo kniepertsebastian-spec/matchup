@@ -1,0 +1,50 @@
+{
+  "slug": "kayle",
+  "name": "Kayle",
+  "tier": "B",
+  "reason": "Kayle ist in den ersten Levels eine der schwächsten Nahkampf-Matchups im Spiel und praktisch ohne echte Antwort auf einen konsequenten Olaf-All-in. Das Problem ist die Skalierung: sobald sie ihre späten Power-Spikes erreicht, wird sie zunehmend unantastbar und irgendwann für Olaf schlicht nicht mehr duellierbar.",
+  "runeReason": "PTA maximiert genau das frühe, kurze Aggressionsfenster, in dem Kayle am verwundbarsten ist, bevor sie überhaupt ihre volle Reichweite und späteren Skalierungs-Boni hat. Boneplating sichert gegen ihre wachsende Poke-Reichweite ab 6 ab.",
+  "l1": "Kayle ist level 1 nahezu ohne Verteidigung gegen konsequenten Nahkampfdruck, Olaf gewinnt praktisch jeden offenen Kontakt in dieser Phase.",
+  "l25": "Solange sie noch reduzierte Reichweite hat, ist konstanter Druck richtig – jeder verpasste Trade ihrerseits ist ein Einladung zum All-in. Erst mit voller Reichweite ab 6 vorsichtiger werden.",
+  "l6": "Ab 6 erhält sie volle Reichweite plus Bewegungstempo, was den direkten Nahkampfkontakt erschwert, ihre Selbst-Unverwundbarkeit kommt aber erst auf späteren Levels. Olafs R hilft gegen ihren Slow, kann die spätere Skalierungsphase aber nicht ausgleichen.",
+  "threats": "Reichweiten- und Skalierungssprünge über Level, Slow-Effekt, spätere Selbst-Unverwundbarkeit, True-Damage-Brand auf hohem Level.",
+  "window": "Vor Level 6 ist praktisch jeder direkte Kontakt ein Killfenster. Nach ihrem letzten großen Skalierungs-Level ist ein echtes Duell realistisch nicht mehr gewinnbar.",
+  "errors": "Die Lane passiv spielen und ihr erlauben, ungestört zu skalieren. Nach ihrem späten Power-Spike noch versuchen, sie in ein offenes Duell zu zwingen.",
+  "wave": "Aggressiver Slowpush und Crash so früh wie möglich, um Kills vor Level 6 zu erzwingen. Nach ihrem Spike-Level eigene Vorteile über Roams statt Lane-Duelle suchen.",
+  "trade": "Q zum Slow, direkt anlaufen, E mehrfach zwischen Autos in den frühen Levels, R nur vor ihrer Unverwundbarkeits-Skalierung als Absicherung gegen ihren Slow einsetzen.",
+  "items": "Ravenous Hydra in Cleaver-Linie, da sie sich mit Rüstung und Skalierung zunehmend zäh ausbaut und der Vorteil nur früh realisierbar ist.",
+  "situ": "Sterak's Gage gegen ihren späteren True-Damage-Brand, Quicksilver Sash situativ gegen zusätzliche Hard-CC aus der Comp.",
+  "side": "1 Item: klarer Vorteil, Kills vor 6 realistisch. 2 Items: noch spielbar, wenn der Vorsprung aus der Lane bereits mitgenommen wurde. 3 Items: praktisch kein Duell mehr, ihr Skalierungs-Power-Spike übersteigt Olafs Item-Fenster vollständig.",
+  "plan": "Erzwinge so viele Kontakte wie möglich vor Level 6 und konvertiere den Vorsprung sofort in Item- oder Objective-Vorteil. Nach ihrer vollen Skalierung das Duell komplett meiden und stattdessen über den Rest der Karte spielen.",
+  "override": "Conqueror statt PTA, falls die Lane absehbar nicht früh entschieden wird und in eine längere Skalierungsphase gegen sie kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Blade + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "A",
+  "late": "F",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/kayle/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

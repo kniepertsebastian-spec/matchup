@@ -1,0 +1,50 @@
+{
+  "slug": "fizz",
+  "name": "Fizz",
+  "tier": "C",
+  "reason": "Fizz ist ein weiterer früher Skirmisher mit eigenem All-in-Fokus, dessen E ihn kurzzeitig unangreifbar für gezielte Effekte macht, was Olafs Reckless-Swing-Timing erschwert. Gegen sauberes Spacing bleibt das Duell eng, aber Fizz' R-Fisch-Stun und späterer Magie-Burst verschieben das Bild im Sidelane-Duell zu seinen Gunsten.",
+  "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, in dem Olaf Fizz vor der E-Ausweichphase oder dem R-Stun-Fenster punishen kann. Bone Plating dämpft speziell die Q-Poke-in-Auto-Serie und den Burst-Einstieg über R.",
+  "l1": "Im direkten Kontakt ist der Trade eng, da beide auf frühe All-ins ausgelegt sind; wer den ersten Kontakt im Bush kontrolliert und Fizz' Q-Poke vermeidet, gewinnt meist den Level-1-Austausch.",
+  "l25": "Fizz poked mit Q-Trident aus mittlerer Distanz und nutzt E, um direkten Skillshots wie Undertow auszuweichen; Olaf sollte all-in gehen, sobald E sichtbar verbraucht oder auf Cooldown ist.",
+  "l6": "Fizz' R ist ein Fisch-Wurf mit Verzögerung, der bei Treffer stunned und massiven Flächenschaden verursacht; Ragnarok entfernt den Stun-Effekt bei aktivem Cast und ist hier direkt matchup-relevant, sollte aber möglichst vor dem sichtbaren R-Wurf aktiviert werden.",
+  "threats": "E-Ausweichsprung gegen gezielte Effekte, Q-Trident-Poke, R-verzögerter Flächenstun mit hohem Schaden, spätes Magie-Burst-Itemization-Potenzial.",
+  "window": "Solange Fizz' E sichtbar auf Cooldown liegt oder bereits zum Ausweichen verbraucht wurde, ist ein Reckless-Swing-Allin am sichersten, besonders wenn sein R noch nicht verfügbar ist.",
+  "errors": "Direkt nach einem sichtbaren E-Sprung committen und den Ausweich-Effekt unterschätzen. Den verzögerten R-Fisch-Wurf ignorieren und im Wurfradius stehen bleiben. Vor Level 6 zu passiv spielen und das dichteste All-in-Fenster verpassen.",
+  "wave": "Gegen Fizz' Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine Q-Reichweite zu minimieren; bei sichtbarem E-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Fizz' eigenes E verbraucht ist, R rechtzeitig vor einem sichtbaren R-Wurf aktivieren, um den Stun zu entfernen und die Heilung im Austausch zu sichern.",
+  "items": "Der Zugriffsdruck durch Fizz' E-Ausweichsprung und generelle Mobilität macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um Kontakt zu erzwingen.",
+  "situ": "Gegen seinen Magieburst ist ein früher Zusatzitem wie Wits' End oder ein Maw-Fokus sinnvoll, sobald Fizz kritisches AP-Schadenspotenzial aufbaut.",
+  "side": "1 Item: Das Duell bleibt eng, meist entscheidet wer zuerst E oder Q verbraucht. 2 Items: Fizz' Burst-Fenster über R macht offene Duelle riskanter. 3 Items: Fizz' Magieschaden kann Olafs Sustain klar übersteigen, Fights nur mit vollem Ragnarok und Timing gegen R suchen.",
+  "plan": "Früh auf E-Cooldown lauern und im Bush aggressiv um Kontrolle kämpfen. Ab Level 6 den verzögerten R-Fisch-Wurf respektieren und rechtzeitig Ragnarok für den Stun-Cleanse einplanen, im Late Game Magieresistenz priorisieren.",
+  "override": "Bei sehr aggressivem frühem Fizz-Spiel auf conqueror_boneplating wechseln, um die verlängerten Nahkampf-Trades vor dem ersten großen R-Fenster zu gewinnen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Mercury's Treads gegen den R-Stun und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/fizz/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

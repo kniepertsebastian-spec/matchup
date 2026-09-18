@@ -1,0 +1,50 @@
+{
+  "slug": "aurelionsol",
+  "name": "Aurelion Sol",
+  "tier": "C",
+  "reason": "Aurelion Sol ist vor dem Aufbau von Stardust-Stacks relativ schadensschwach und riskiert bei jedem Q-Einsatz, Sterne in Reichweite zu haben, was ihn früh anfällig für direkte All-ins macht. Sein W-Stun aus großer Distanz und die E-Mobilität geben ihm jedoch ein starkes Werkzeug gegen Nahkampf-Engages, sobald er genug Ressourcen investiert hat, um Duelle aus der Distanz zu kontrollieren.",
+  "runeReason": "Press the Attack passt zum kurzen Kontakt-Fenster, das Olaf nutzen kann, bevor Aurelion Sols W-Stun-Skillshot den Engage unterbricht. Bone Plating dämpft speziell den Q-Sternenexplosion-Burst, den Aurelion Sol bei erzwungenem Nahkampfkontakt einsetzt.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 meist, da Aurelion Sols Q ohne aufgebaute Stardust-Stacks wenig Schaden macht und er sich für die Sternenreichweite riskant nah heranwagen muss.",
+  "l25": "Aurelion Sol poked vorsichtig mit W-Stun aus großer Distanz und hält E für den Rückzug bereit; Olaf sollte all-in gehen, sobald W sichtbar verfehlt wurde oder auf Cooldown liegt, da Aurelion Sol dann kaum Verteidigung gegen Nahkampf hat.",
+  "l6": "Aurelion Sols R ist ein globaler Effekt, der Gegner über die Karte hinweg zieht und verlangsamt, primär relevant für Roaming und Objectives statt das direkte 1v1; Ragnarok bleibt im Lane-Duell wichtiger für die Heilung als für den Cleanse, da R selten direkt CC im Nahkampf appliziert.",
+  "threats": "W-Shooting-Star als Stun-Skillshot aus großer Distanz, Q-Sternenexplosion im Nahbereich, E als Fluchtwerkzeug mit Movement-Speed, globales R-Zuggeschoss mit Verlangsamung.",
+  "window": "Solange Aurelion Sols W sichtbar verfehlt wurde oder auf Cooldown liegt, ist ein direkter Reckless-Swing-Allin am sichersten, besonders wenn er sich für Q-Reichweite bereits nah herangewagt hat.",
+  "errors": "Blind in die Sichtlinie des W-Stun-Skillshots laufen. Gegen einen frisch aufgebauten Stardust-Stack-Vorteil all-in gehen und den Q-Schaden unterschätzen. Nach einem verpassten eigenen Engage die E-Mobilität von Aurelion Sol als Fluchtweg unterschätzen.",
+  "wave": "Gegen Aurelion Sols vorsichtigen Poke lohnt sich eine enge Freeze nahe der eigenen Kante, um seine W-Reichweite zu minimieren; bei sichtbarem W-Verbrauch kann Olaf aggressiv nachsetzen und pushen.",
+  "trade": "Q auf die Wave, bei Kontakt E zünden, sobald Aurelion Sols W verbraucht oder verfehlt ist, R als Antwort auf seinen Q-Nahkampf-Burst oder um im Duell gegen seine Stardust-Skalierung durchzuhalten.",
+  "items": "Gegen Aurelion Sols reinen Magieburst ist Hydra mit Maw-Linie die naheliegende Wahl für Magieresistenz und Schadensreduktion in seinem größten Schadensfenster.",
+  "situ": "Bei besonders starkem Poke-Fokus im gegnerischen Team kann früh eine defensive Priorisierung wie Force of Nature sinnvoll sein, um W-Treffer über die Lanephase abzufedern.",
+  "side": "1 Item: Olaf gewinnt kurze All-ins klar, wenn W fehlt. 2 Items: Aurelion Sols Stardust-Skalierung beginnt spürbar zu tragen, Duelle werden riskanter. 3 Items: Aurelion Sols Distanzschaden und Burst-Fenster übersteigen Olafs Sustain oft, nur mit vollem Ragnarok und Cooldown-Vorteil committen.",
+  "plan": "Früh auf W-Cooldown lauern und kompromisslos all-in gehen, solange Aurelion Sol ohne Stun-Deckung im Nahbereich steht. In der mittleren Phase Wellen kontrollieren statt Fernduelle zu erzwingen, im Late Game seine globale Ultimate für Roaming/Objectives einkalkulieren statt nur das direkte Duell.",
+  "override": "Bei besonders poke-fokussiertem Aurelion-Sol-Spiel auf pta_secondwind wechseln, um den W-Chip über die Lanephase abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen den W-Stun und den Magieburst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/aurelionsol/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

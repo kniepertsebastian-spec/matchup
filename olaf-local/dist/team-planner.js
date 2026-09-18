@@ -18,7 +18,7 @@ function loadState(key){
 export async function mountTeamPlanner({collection,matchups,matchup}){
  const element=document.querySelector('#team-planner');if(!element)return;
  const current=++revision;request?.abort();
- const state=loadState(collection),laneRole=collection==='olaf-adc'?'adc':'top',own=collection.startsWith('olaf')?'olaf':'warwick';
+ const state=loadState(collection),laneRole=collection.slice(collection.indexOf('-')+1),own=collection.startsWith('olaf')?'olaf':'warwick';
  const save=()=>{try{sessionStorage.setItem('team-'+collection,JSON.stringify(state));}catch{}};
  let catalog;
  try{catalog=await getCatalog();}catch{

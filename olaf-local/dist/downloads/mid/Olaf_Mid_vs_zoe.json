@@ -1,0 +1,50 @@
+{
+  "slug": "zoe",
+  "name": "Zoe",
+  "tier": "D",
+  "reason": "Zoe kann während des Castens ihrer Fähigkeiten weiter laufen und aus voller Distanz eine Schlaf-Betäubung aufbauen, die den kompletten Combo-Schaden ohne Gegenwehr durchsetzt. Ihr Kurzteleport erlaubt ihr zusätzlich, Kontakt jederzeit zu erzwingen oder zu vermeiden, was Olaf im Zugriff massiv einschränkt.",
+  "runeReason": "PTA passt zum kurzen, tödlichen Burstfenster nach ihrer Schlaf-Kombo besser als ein auf lange Fights ausgelegtes Setup. Boneplating dämpft speziell den Schaden direkt nach dem Aufwachen aus dem Schlaf.",
+  "l1": "Im direkten Kontakt ohne ihre Schlafblase ist der Trade für Olaf gewinnbar, ihre Bewegung-während-Cast-Mechanik erschwert aber jeden sauberen Auto-Kontakt.",
+  "l25": "Reine Poke-Phase mit hohem Risiko, in eine Schlaf-Kombo zu laufen – CS unter Turm priorisieren, solange ihre Schlafblase verfügbar ist. All-in nur nach sichtbar verbrauchter Schlafblase.",
+  "l6": "Ihr Kurzteleport erlaubt plötzlichen Kontakt oder sofortigen Rückzug und macht Verfolgung unzuverlässig. Olafs R hilft, den Schlaf-Effekt selbst zu neutralisieren, verhindert aber nicht, dass sie über den Teleport aus dem Duell verschwindet.",
+  "threats": "Schlaf-Betäubung mit Combo-Setup, Bewegung während des Castens, Kurzteleport zur Repositionierung, hohe Distanz-Poke-Frequenz.",
+  "window": "Direkt nach verbrauchter Schlafblase und ohne verfügbaren Teleport ist der einzige verlässliche All-in-Moment.",
+  "errors": "Bei sichtbarer Schlafblase weiter offen im Poke-Radius stehen bleiben. Nach einem Kill-Versuch ihren Teleport ignorieren und blind weiterverfolgen.",
+  "wave": "Enges Freezing unter dem eigenen Turm, um ihre Poke- und Schlaf-Reichweite zu minimieren. Nach verbrauchter Schlafblase kurze Aggressionsfenster für CS oder Trade nutzen.",
+  "trade": "Nur nach verbrauchter Schlafblase anlaufen, Q zum Slow, E zwischen Autos, R einsetzen sobald ein Schlaf-Effekt tatsächlich greift.",
+  "items": "Stridebreaker plus Maw of Malmortius, da der Kern des Problems ihr Teleport-Zugriff und ihr reiner AP-Burst sind, nicht fehlender Sustain.",
+  "situ": "Quicksilver Sash bei wiederholt entscheidender Schlaf-Kombo, Mercury's Treads als Basis gegen ihren Magieschaden.",
+  "side": "1 Item: Poke und Schlaf-Risiko dominieren die Lane. 2 Items: mit Stridebreaker-Zugriff realistische Kill-Fenster nach verbrauchter Schlafblase. 3 Items: spielbar, aber ihr Teleport bleibt ein dauerhaftes Fluchtproblem.",
+  "plan": "Spiele defensiv unter Turm, bis ihre Schlafblase sichtbar verbraucht ist, und vermeide offene Poke-Distanz ohne echten Grund. Priorisiere Roams, wenn ihr Poke-Vorteil die Lane unwirtschaftlich macht.",
+  "override": "Conqueror statt PTA, wenn das Spiel absehbar in lange Sidelane-Standoffs statt kurze Burstfenster kippt.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ghost",
+  "boots": "Mercury's Treads gegen CC/AP-Burst.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "E",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/zoe/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}
