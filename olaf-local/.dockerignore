@@ -1,5 +1,12 @@
 *
 !server.mjs
 !package.json
+!pnpm-lock.yaml
+!lib/
+!lib/**
+!data/
+!data/**
+!scripts/
+!scripts/**
 !dist/
 !dist/**

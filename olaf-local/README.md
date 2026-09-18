@@ -1,5 +1,9 @@
 # Olaf & Warwick Matchup-Buch – lokal mit Docker und WSL
 
+> Aktueller Betrieb: **[Docker, MariaDB, Team-Planer und Domain-Einrichtung](../docs/DEPLOYMENT.md)**.
+> `sh start.sh` erzeugt die lokale Konfiguration und startet den Datenbank-Stack.
+> Die folgenden Abschnitte dokumentieren zusätzlich den ursprünglichen Entwurf.
+
 ## Visuelle Runen- und Itemübersicht
 
 Alle 132 Matchup-Ansichten zeigen die empfohlene vollständige Runenseite inklusive

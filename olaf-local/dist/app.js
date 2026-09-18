@@ -1,5 +1,6 @@
 import {runePage,buildPanel} from './equipment-view.js';
 import {tiers,filterMatchups,groups,parseRoute} from './model.js';
+import {mountTeamPlanner} from './team-planner.js';
 const app=document.querySelector('#app');
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const badge=t=>`<span class="tier tier-${t}">${t}</span>`;
@@ -86,6 +87,7 @@ function route(){
   if(m)detail(m);else app.innerHTML='<h1>Matchup nicht gefunden</h1><a href="'+home()+'">Zur Sammlung</a>';
  }else listing();
  window.scrollTo(0,0);
+ mountTeamPlanner({collection:active+'-'+lane,matchups:data.matchups,matchup:parsed.page==='matchup'?parsed.slug:null});
  document.title=parsed.page==='matchup'?champion()+' vs. '+(data.matchups.find(m=>m.slug===parsed.slug)?.name||'Unbekannt'):champion()+' · '+laneLabel()+' · Matchup-Buch';
 }
 try{

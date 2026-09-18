@@ -1,0 +1,50 @@
+name: Application and Docker checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: olaf-local
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+          run_install: false
+      - run: pnpm install --frozen-lockfile
+      - run: node --test test.mjs test/*.test.mjs
+      - run: node scripts/init-config.mjs
+      - run: docker compose --profile direct --profile tunnel config --quiet
+      - run: docker compose up --build -d --wait --wait-timeout 180
+      - run: docker compose exec -T -e INTEGRATION_TEST=1 web node scripts/check-stack.mjs
+      - run: docker compose run --rm --no-deps caddy caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: node scripts/browser-smoke.mjs
+      - run: sh scripts/backup.sh
+      - name: Restart and verify persistence
+        run: |
+          docker compose restart db web
+          docker compose up -d --wait --wait-timeout 120
+          docker compose exec -T -e INTEGRATION_TEST=1 web node scripts/check-stack.mjs
+      - name: Failure logs
+        if: failure()
+        run: docker compose logs --tail 100
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: browser-screenshots
+          path: olaf-local/test-results/
+      - name: Stop disposable stack
+        if: always()
+        run: docker compose down -v

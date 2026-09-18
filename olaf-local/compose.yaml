@@ -1,11 +1,99 @@
-name: olaf-matchups
+name: matchup
 services:
   web:
     build: .
+    environment:
+      STORAGE: mariadb
+      DB_HOST: db
+      DB_NAME: matchup
+      DB_USER: matchup
+      DB_PASSWORD_FILE: /run/secrets/db_password
+    secrets: [db_password]
     ports:
       - "127.0.0.1:${OLAF_PORT:-8080}:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks: [edge, database]
+    restart: unless-stopped
+    read_only: true
+    init: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    logging:
+      driver: json-file
+      options: {max-size: "10m", max-file: "3"}
+
+  db:
+    image: mariadb:11.8
+    environment:
+      MARIADB_DATABASE: matchup
+      MARIADB_USER: matchup
+      MARIADB_PASSWORD_FILE: /run/secrets/db_password
+      MARIADB_ROOT_PASSWORD_FILE: /run/secrets/db_root_password
+    secrets: [db_password, db_root_password]
+    volumes: [database:/var/lib/mysql]
+    networks: [database]
+    restart: unless-stopped
+    healthcheck:
+      test: [CMD, healthcheck.sh, --connect, --innodb_initialized]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 30s
+    logging:
+      driver: json-file
+      options: {max-size: "10m", max-file: "3"}
+
+  caddy:
+    image: caddy:2-alpine
+    profiles: [direct]
+    environment:
+      DOMAIN: ${DOMAIN:-matchup.pwa-tree.de}
+    ports: ["80:80", "443:443", "443:443/udp"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [edge]
+    depends_on:
+      web:
+        condition: service_healthy
+    restart: unless-stopped
+    security_opt: [no-new-privileges:true]
+    logging:
+      driver: json-file
+      options: {max-size: "10m", max-file: "3"}
+
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    profiles: [tunnel]
+    command: [tunnel, --no-autoupdate, run, --token-file, /run/secrets/cloudflare_token]
+    secrets: [cloudflare_token]
+    networks: [edge]
+    depends_on:
+      web:
+        condition: service_healthy
     restart: unless-stopped
     read_only: true
     cap_drop: [ALL]
-    security_opt:
-      - no-new-privileges:true
+    security_opt: [no-new-privileges:true]
+    logging:
+      driver: json-file
+      options: {max-size: "10m", max-file: "3"}
+
+networks:
+  edge:
+  database:
+    internal: true
+volumes:
+  database:
+  caddy_data:
+  caddy_config:
+secrets:
+  db_password:
+    file: ./secrets/db_password
+  db_root_password:
+    file: ./secrets/db_root_password
+  cloudflare_token:
+    file: ./secrets/cloudflare_token

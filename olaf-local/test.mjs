@@ -34,7 +34,7 @@ test('missing paths, private files, and mutations rejected',async()=>{
  assert.equal((await fetch(base+'/',{method:'HEAD'})).status,200);
 });
 test('Warwick has an independent complete pool; Olaf data preserved',async()=>{
- const sourceBytes=await readFile(new URL('./dist/data.json',import.meta.url));
+ const sourceBytes=(await readFile(new URL('./dist/data.json',import.meta.url),'utf8')).replace(/\r\n/g,'\n');
  assert.equal(createHash('sha256').update(sourceBytes).digest('hex'), '6806e145932e51aaca9690d79611957392a57921a6dd014554cd2adebce35e4b');
  assert.equal(warwick.matchups.length,51);
  assert.deepEqual(warwick.matchups.map(m=>m.slug).sort(),data.matchups.map(m=>m.slug==='warwick'?'olaf':m.slug).sort());
@@ -67,7 +67,7 @@ test('UI rendering: both champions, guide, all details, correct downloads and mi
  const document={title:'',querySelector(q){if(!nodes.has(q))nodes.set(q,make());return nodes.get(q);},querySelectorAll(q){return q==='[data-lane]'?lanes:picks;}};
  const location={hash:'#warwick'};const events={};
  const execute=Object.getPrototypeOf(async function(){}).constructor;
- await new execute('runePage','buildPanel','tiers','filterMatchups','groups','parseRoute','document','location','window','fetch','addEventListener',source.replace(/^import[^\n]+\n/gm,''))(runePage,buildPanel,tiers,filterMatchups,groups,parseRoute,document,location,{scrollTo(){}},url=>fetch(base+url),(name,fn)=>events[name]=fn);
+ await new execute('mountTeamPlanner','runePage','buildPanel','tiers','filterMatchups','groups','parseRoute','document','location','window','fetch','addEventListener',source.replace(/^import[^\n]+\n/gm,''))(()=>{},runePage,buildPanel,tiers,filterMatchups,groups,parseRoute,document,location,{scrollTo(){}},url=>fetch(base+url),(name,fn)=>events[name]=fn);
  assert.match(nodes.get('#app').innerHTML,/Lethal Tempo/);
  for(const [id,dataset] of [['olaf',data],['warwick',warwick]]){
   location.hash=id==='olaf'?'#leitfaden':'#warwick/leitfaden';events.hashchange();assert.match(nodes.get('#app').innerHTML,/Geltungsbereich/);
