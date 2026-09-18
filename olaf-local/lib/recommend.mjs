@@ -15,7 +15,7 @@ export function recommend(input,{champions,equipment,loadouts,collections}){
  if(typeof input.allyAntiheal!=='boolean')throw new InputError('Ungültige Antiheal-Auswahl.');
  const own=input.collection.startsWith('olaf')?'olaf':'warwick';
  const roles=['top','jungle','mid','adc','support'];
- const laneRole=input.collection==='olaf-adc'?'adc':'top';
+ const laneRole=input.collection.slice(input.collection.indexOf('-')+1);
  const seen=new Set(),seenRoles=new Set();
  const enemies=input.enemies.map(e=>{
   if(!e||typeof e!=='object')throw new InputError('Ungültiger Gegner.');
