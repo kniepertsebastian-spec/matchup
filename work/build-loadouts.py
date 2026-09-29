@@ -81,8 +81,8 @@ for file,key,champ,lane in [('data.json','olaf-top','olaf','top'),('warwick.json
         else:
             first=3748 if slug in ['akali','jax'] else 6631 if slug in ranged or slug=='singed' else 3153
             second=3065 if magic or slug in ['chogath','malphite'] else 3748 if slug in hp else 3153 if first==6631 and slug!='gangplank' else 6333
-        boots=3111 if magic else 3047
-        bootsWhy='Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle.' if magic else 'Wenn gegnerische Autos den Rückschaden bestimmen; bei AP-/Poke-Support neu abwägen.'
+        boots=(3009 if magic else 3047) if lane=='adc' else 3111 if magic else 3047
+        bootsWhy=('Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel.' if lane=='adc' else 'Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle.') if magic else 'Wenn gegnerische Autos den Rückschaden bestimmen; bei AP-/Poke-Support neu abwägen.'
         if second==3156:secondWhy='Gegen AP-Burst; bei rein physischer Bedrohung stattdessen AD-Defensive.'
         elif second==3065:secondWhy='Bei anhaltendem Magieschaden und relevantem Wert eigener Heilung/Schilde.'
         elif second==6333:secondWhy='Gegen physischen Rückschaden. Kein Schutz vor beliebigem True Damage.'
