@@ -1,6 +1,7 @@
 """Build local, patch-pinned Riot asset catalog and explicit matchup loadouts."""
 from pathlib import Path
 import json, urllib.request, re, html, concurrent.futures
+import adc_build
 
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'olaf-local/dist'
@@ -115,6 +116,7 @@ for file,key,champ,lane in [('data.json','olaf-top','olaf','top'),('warwick.json
             'alternatives':alternatives,'situational':[{'slot':3,'options':third},{'slot':4,'options':fourth},{'slot':5,'options':fifth}],
             'shards':['attack-speed','adaptive','health'],
         }
+for slug,entry in loadouts['olaf-adc'].items():adc_build.apply(entry,slug in apbot)
 payload={'patch':PATCH,'checked':'18.09.2026','note':'Visuelle Empfehlungen ergänzen die bestehenden Matchuptexte; keine erneute Tier-Bewertung. Slots zählen fertige Items ohne Boots. Alternativen sind bedingte Optionen, kein fester Sechs-Item-Build.','collections':loadouts}
 (OUT/'equipment.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
 (OUT/'loadouts.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
