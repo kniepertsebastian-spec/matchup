@@ -115,7 +115,7 @@ docker run --rm --user "$(id -u):$(id -g)" -v "$(pwd):/app" -w /app node:24-alpi
 Das erste Core-Item bleibt aus der vorhandenen Lane-Empfehlung. Vier weitere Slots
 und Boots werden anhand des Teams priorisiert. Alternative Karten können ein
 enthaltenes Item ersetzen; sie sind keine zusätzlichen Slots. Doppelte Items,
-mehrere Hydra-Items und Maw plus Sterak’s werden ausgeschlossen.
+mehrere Hydra-Items und Maw plus Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt).
 
 Bedrohung gering / normal / hoch hat Gewicht 0,5 / 1 / 2. Im Lane-/Side-Fokus erhält
 der Lane-Gegner zusätzlich Faktor 2,5, andere Gegner Faktor 0,5. Gemischter Schaden

@@ -53,11 +53,11 @@ SITU5 = [(3026, "Für entscheidende späte Kämpfe; Wiederbelebung braucht eine 
 
 BOOTS_WHY = {
     'mid': {'steelcaps': "Wenn gegnerischer Auto-/Poke-Schaden überwiegt; bei zusätzlichem AP-Druck neu abwägen.",
-            'mercs': "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."},
+            'mercs': "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."},
     'jungle': {'steelcaps': "Wenn gegnerischer Auto-/Invade-Schaden überwiegt; bei zusätzlichem CC/AP neu abwägen.",
-               'mercs': "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."},
+               'mercs': "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."},
 }
-BOOTS_ID = {'steelcaps': 3047, 'mercs': 3111}
+BOOTS_ID = {'steelcaps': 3047, 'mercs': 3009}
 
 START_ITEM = {'shield': (1054, "Doran's Shield + Health Potion"), 'blade': (1055, "Doran's Blade + Health Potion")}
 
@@ -132,13 +132,13 @@ def make_loadout(entry, lane):
         situ3 = [(3065, "Bei anhaltendem AP-Druck und Heilwert."),
                   (2512, "Offensive R-/Crit-Abzweigung nur, wenn du drei Autos zuverlässig anbringen und den Rückschaden überleben kannst.")]
         situ4 = [(3143, "Gegen bedrohlichen Crit-Schaden."),
-                  (3065, "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."),
+                  (3065, "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."),
                   (3031, "Nur als Fortsetzung eines begonnenen Crit-Builds; nicht allein als defensive Lösung.")]
     else:
-        situ3 = [(3053, "Burstpuffer; Sterak's nicht mit Maw kombinieren."),
+        situ3 = [(6610, "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."),
                   (2512, "Offensive R-/Crit-Abzweigung nur, wenn du drei Autos zuverlässig anbringen und den Rückschaden überleben kannst.")]
         situ4 = [(3143, "Gegen bedrohlichen Crit-Schaden."),
-                  (3156, "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."),
+                  (3156, "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."),
                   (3031, "Nur als Fortsetzung eines begonnenen Crit-Builds; nicht allein als defensive Lösung.")]
 
     boots_key = entry['bootsKey']

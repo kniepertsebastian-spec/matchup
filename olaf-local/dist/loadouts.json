@@ -62,8 +62,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -80,7 +80,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -140,8 +140,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -188,7 +188,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -278,8 +278,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -296,7 +296,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -386,8 +386,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -404,7 +404,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -494,8 +494,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -512,7 +512,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -602,8 +602,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -620,7 +620,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -710,8 +710,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -728,7 +728,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -802,7 +802,7 @@
             "why": "Gegen physischen Rückschaden. Kein Schutz vor beliebigem True Damage."
           }
         ],
-        "coreNote": "Ravenous Hydra gegen ihr Sustain, danach Death’s Dance bei hohem physischen Anteil oder Sterak’s für einen größeren Schildpuffer. Kein Armor-Rush ohne Schadensplan.",
+        "coreNote": "Ravenous Hydra gegen ihr Sustain, danach Death’s Dance bei hohem physischen Anteil oder Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt). Kein Armor-Rush ohne Schadensplan.",
         "alternatives": [
           {
             "id": 3073,
@@ -818,8 +818,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -836,7 +836,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -926,8 +926,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -944,7 +944,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1014,11 +1014,11 @@
             "why": "Sustain zwischen Trades und Waveclear."
           },
           {
-            "id": 3053,
-            "why": "Schildpuffer gegen Burst; nicht gemeinsam mit Maw als doppelte Lifeline planen."
+            "id": 6610,
+            "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
           }
         ],
-        "coreNote": "Ravenous Hydra zum Ausgleich seines Sustains, dann Sterak’s gegen Burst/Execute-Puffer. Death’s Dance, wenn AD-Comp den größeren Schaden liefert.",
+        "coreNote": "Ravenous Hydra zum Ausgleich seines Sustains, dann Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt). Death’s Dance, wenn AD-Comp den größeren Schaden liefert.",
         "alternatives": [
           {
             "id": 3073,
@@ -1048,7 +1048,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1138,8 +1138,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -1156,7 +1156,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1216,8 +1216,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -1264,7 +1264,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1324,8 +1324,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -1372,7 +1372,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1432,8 +1432,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -1480,7 +1480,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1570,8 +1570,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -1588,7 +1588,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1678,8 +1678,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -1696,7 +1696,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1786,8 +1786,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -1804,7 +1804,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -1894,8 +1894,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -1912,7 +1912,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2002,8 +2002,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2020,7 +2020,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2110,8 +2110,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2128,7 +2128,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2188,8 +2188,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -2236,7 +2236,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2326,8 +2326,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2344,7 +2344,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2434,8 +2434,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2452,7 +2452,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2512,8 +2512,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -2560,7 +2560,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2650,8 +2650,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2668,7 +2668,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2758,8 +2758,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2776,7 +2776,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2866,8 +2866,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2884,7 +2884,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -2974,8 +2974,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -2992,7 +2992,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3066,7 +3066,7 @@
             "why": "Gegen physischen Rückschaden. Kein Schutz vor beliebigem True Damage."
           }
         ],
-        "coreNote": "Stridebreaker, danach Death’s Dance gegen AD oder Sterak’s bei gemischtem Burst. Ravenous nur, wenn du sonst aus der Lane gepokt wirst.",
+        "coreNote": "Stridebreaker, danach Death’s Dance gegen AD oder Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt). Ravenous nur, wenn du sonst aus der Lane gepokt wirst.",
         "alternatives": [
           {
             "id": 3073,
@@ -3082,8 +3082,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3100,7 +3100,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3190,8 +3190,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3208,7 +3208,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3298,8 +3298,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3316,7 +3316,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3376,8 +3376,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -3424,7 +3424,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3514,8 +3514,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3532,7 +3532,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3622,8 +3622,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3640,7 +3640,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3700,8 +3700,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -3748,7 +3748,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3838,8 +3838,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -3856,7 +3856,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -3916,8 +3916,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -3964,7 +3964,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4054,8 +4054,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4072,7 +4072,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4132,8 +4132,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -4180,7 +4180,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4270,8 +4270,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4288,7 +4288,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4378,8 +4378,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4396,7 +4396,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4486,8 +4486,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4504,7 +4504,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4578,7 +4578,7 @@
             "why": "Gegen physischen Rückschaden. Kein Schutz vor beliebigem True Damage."
           }
         ],
-        "coreNote": "Stridebreaker für Anschluss, danach Death’s Dance gegen physischen Anteil/AD-Comp oder Sterak’s gegen gemischten Burst. Beides löst W-True-Damage nicht.",
+        "coreNote": "Stridebreaker für Anschluss, danach Death’s Dance gegen physischen Anteil/AD-Comp oder Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt). Beides löst W-True-Damage nicht.",
         "alternatives": [
           {
             "id": 3073,
@@ -4594,8 +4594,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4612,7 +4612,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4672,8 +4672,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -4720,7 +4720,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4810,8 +4810,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4828,7 +4828,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -4918,8 +4918,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -4936,7 +4936,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5026,8 +5026,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -5044,7 +5044,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5134,8 +5134,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -5152,7 +5152,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5242,8 +5242,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -5260,7 +5260,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5350,8 +5350,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -5368,7 +5368,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5458,8 +5458,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -5476,7 +5476,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -5564,8 +5564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -5582,7 +5582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -5638,8 +5638,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -5664,8 +5664,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -5682,7 +5682,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -5764,8 +5764,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -5782,7 +5782,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -5864,8 +5864,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -5882,7 +5882,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -5964,8 +5964,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -5982,7 +5982,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6064,8 +6064,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6082,7 +6082,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6164,8 +6164,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6182,7 +6182,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6264,8 +6264,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6282,7 +6282,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6364,8 +6364,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6382,7 +6382,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6464,8 +6464,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6482,7 +6482,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6564,8 +6564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6582,7 +6582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6638,8 +6638,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -6664,8 +6664,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -6682,7 +6682,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6738,8 +6738,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -6764,8 +6764,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -6782,7 +6782,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6838,8 +6838,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -6864,8 +6864,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -6882,7 +6882,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -6964,8 +6964,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -6982,7 +6982,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7064,8 +7064,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7082,7 +7082,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7164,8 +7164,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7182,7 +7182,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7264,8 +7264,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7282,7 +7282,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7364,8 +7364,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7382,7 +7382,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7464,8 +7464,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7482,7 +7482,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7538,8 +7538,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -7564,8 +7564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -7582,7 +7582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7664,8 +7664,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7682,7 +7682,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7764,8 +7764,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -7782,7 +7782,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7838,8 +7838,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -7864,8 +7864,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -7882,7 +7882,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -7964,8 +7964,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -7982,7 +7982,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8064,8 +8064,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8082,7 +8082,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8164,8 +8164,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8182,7 +8182,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8264,8 +8264,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8282,7 +8282,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8364,8 +8364,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8382,7 +8382,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8464,8 +8464,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8482,7 +8482,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8564,8 +8564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8582,7 +8582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8664,8 +8664,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8682,7 +8682,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8738,8 +8738,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -8764,8 +8764,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -8782,7 +8782,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8864,8 +8864,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8882,7 +8882,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -8964,8 +8964,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -8982,7 +8982,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9038,8 +9038,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -9064,8 +9064,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -9082,7 +9082,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9164,8 +9164,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9182,7 +9182,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9238,8 +9238,8 @@
         "startNote": "Doran’s Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -9264,8 +9264,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -9282,7 +9282,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9364,8 +9364,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9382,7 +9382,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9438,8 +9438,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -9464,8 +9464,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -9482,7 +9482,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9564,8 +9564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9582,7 +9582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9664,8 +9664,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9682,7 +9682,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9764,8 +9764,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9782,7 +9782,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9864,8 +9864,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -9882,7 +9882,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -9938,8 +9938,8 @@
         "startNote": "Doran’s Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -9964,8 +9964,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 6333,
@@ -9982,7 +9982,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10064,8 +10064,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10082,7 +10082,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10164,8 +10164,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10182,7 +10182,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10264,8 +10264,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10282,7 +10282,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10364,8 +10364,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10382,7 +10382,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10464,8 +10464,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10482,7 +10482,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10564,8 +10564,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak’s nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 3065,
@@ -10582,7 +10582,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               }
             ]
           },
@@ -10654,7 +10654,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -10665,8 +10665,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -10778,7 +10778,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -10789,8 +10789,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -10902,7 +10902,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -10913,8 +10913,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11026,7 +11026,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11037,8 +11037,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11150,7 +11150,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11161,8 +11161,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11274,7 +11274,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11285,8 +11285,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11385,7 +11385,7 @@
         "boots": [
           {
             "id": 3009,
-            "why": "Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
+            "why": "Bei viel AP-Schaden Swiftness statt Boots of Swiftness oder Omnivamp-Stiefel: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -11409,8 +11409,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item statt Maw bei gemischtem Schaden und Burst-Risiko."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11522,7 +11522,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11533,8 +11533,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11646,7 +11646,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11657,8 +11657,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11770,7 +11770,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11781,8 +11781,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -11894,7 +11894,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -11905,8 +11905,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12018,7 +12018,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12029,8 +12029,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12142,7 +12142,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12153,8 +12153,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12266,7 +12266,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12277,8 +12277,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12390,7 +12390,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12401,8 +12401,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12514,7 +12514,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12525,8 +12525,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12625,7 +12625,7 @@
         "boots": [
           {
             "id": 3009,
-            "why": "Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
+            "why": "Bei viel AP-Schaden Swiftness statt Boots of Swiftness oder Omnivamp-Stiefel: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -12649,8 +12649,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item statt Maw bei gemischtem Schaden und Burst-Risiko."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12762,7 +12762,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12773,8 +12773,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12886,7 +12886,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -12897,8 +12897,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -12997,7 +12997,7 @@
         "boots": [
           {
             "id": 3009,
-            "why": "Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
+            "why": "Bei viel AP-Schaden Swiftness statt Boots of Swiftness oder Omnivamp-Stiefel: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -13021,8 +13021,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item statt Maw bei gemischtem Schaden und Burst-Risiko."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13134,7 +13134,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13145,8 +13145,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13258,7 +13258,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13269,8 +13269,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13382,7 +13382,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13393,8 +13393,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13506,7 +13506,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13517,8 +13517,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13617,7 +13617,7 @@
         "boots": [
           {
             "id": 3009,
-            "why": "Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
+            "why": "Bei viel AP-Schaden Swiftness statt Boots of Swiftness oder Omnivamp-Stiefel: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -13641,8 +13641,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item statt Maw bei gemischtem Schaden und Burst-Risiko."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13754,7 +13754,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13765,8 +13765,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -13878,7 +13878,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -13889,8 +13889,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -14002,7 +14002,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -14013,8 +14013,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -14126,7 +14126,7 @@
             "why": "Bruiser-Variante für das 2. Item: hält dich im Kontakt am Leben, bis die Autos landen. Alternativ schon Crit (siehe Alternativen)."
           }
         ],
-        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sterak’s) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
+        "coreNote": "1. Item immer Ravenous Hydra. 2. Item ist eine Abwägung: noch ein Bruiser-Item (Death’s Dance, alternativ Sundered Sky) oder schon Crit. Ab dem 3. Item volle Kanone: Infinity Edge, Crit oder High-Damage wie Bloodthirster – Hauptsache ins Gesicht.",
         "alternatives": [
           {
             "id": 2512,
@@ -14137,8 +14137,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item: weiteres Bruiser-Item, wenn du zu schnell gebursted wirst."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -14237,7 +14237,7 @@
         "boots": [
           {
             "id": 3009,
-            "why": "Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
+            "why": "Bei viel AP-Schaden Swiftness statt Boots of Swiftness oder Omnivamp-Stiefel: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -14261,8 +14261,8 @@
             "why": "Alternative als 2. Item: Crit, Angriffstempo und Bewegungstempo für Zugriff und Kiting-Verfolgung."
           },
           {
-            "id": 3053,
-            "why": "Alternative als 2. Item statt Maw bei gemischtem Schaden und Burst-Risiko."
+            "id": 6610,
+            "why": "Alternative als 2. Item: Bruiser mit Leben und AD; der erste Angriff gegen einen Champion trifft kritisch und heilt – passt zum Überraschungs-Engage."
           }
         ],
         "situational": [
@@ -14392,8 +14392,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -14410,7 +14410,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -14470,8 +14470,8 @@
         "startNote": "Doran's Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -14500,8 +14500,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -14518,7 +14518,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -14578,8 +14578,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -14626,7 +14626,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -14716,8 +14716,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -14734,7 +14734,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -14794,8 +14794,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -14842,7 +14842,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -14902,8 +14902,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -14932,8 +14932,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -14950,7 +14950,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15010,8 +15010,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15058,7 +15058,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15118,8 +15118,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15148,8 +15148,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -15166,7 +15166,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15226,8 +15226,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15274,7 +15274,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15334,8 +15334,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15382,7 +15382,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15442,8 +15442,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15490,7 +15490,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15550,8 +15550,8 @@
         "startNote": "Doran's Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15580,8 +15580,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -15598,7 +15598,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15688,8 +15688,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -15706,7 +15706,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15766,8 +15766,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15814,7 +15814,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15874,8 +15874,8 @@
         "startNote": "Doran's Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -15904,8 +15904,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -15922,7 +15922,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -15982,8 +15982,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16030,7 +16030,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16090,8 +16090,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16138,7 +16138,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16198,8 +16198,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16246,7 +16246,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16306,8 +16306,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16336,8 +16336,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -16354,7 +16354,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16414,8 +16414,8 @@
         "startNote": "Doran's Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16444,8 +16444,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -16462,7 +16462,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16522,8 +16522,8 @@
         "startNote": "Doran's Blade + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16552,8 +16552,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -16570,7 +16570,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16630,8 +16630,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -16678,7 +16678,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16768,8 +16768,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -16786,7 +16786,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16894,7 +16894,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -16954,8 +16954,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -17002,7 +17002,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17092,8 +17092,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17110,7 +17110,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17170,8 +17170,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -17218,7 +17218,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17278,8 +17278,8 @@
         "startNote": "Doran's Shield + Health Potion",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -17326,7 +17326,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17414,8 +17414,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17432,7 +17432,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17518,8 +17518,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17536,7 +17536,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17592,8 +17592,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -17622,8 +17622,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17640,7 +17640,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17726,8 +17726,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17744,7 +17744,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17830,8 +17830,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17848,7 +17848,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -17934,8 +17934,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -17952,7 +17952,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18008,8 +18008,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18056,7 +18056,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18142,8 +18142,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18160,7 +18160,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18216,8 +18216,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18246,8 +18246,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18264,7 +18264,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18350,8 +18350,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18368,7 +18368,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18454,8 +18454,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18472,7 +18472,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18528,8 +18528,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18576,7 +18576,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18632,8 +18632,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18662,8 +18662,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18680,7 +18680,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18736,8 +18736,8 @@
         "startNote": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18766,8 +18766,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18784,7 +18784,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18870,8 +18870,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -18888,7 +18888,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -18944,8 +18944,8 @@
         "startNote": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -18992,7 +18992,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19078,8 +19078,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19096,7 +19096,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19182,8 +19182,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19200,7 +19200,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19256,8 +19256,8 @@
         "startNote": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -19286,8 +19286,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19304,7 +19304,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19360,8 +19360,8 @@
         "startNote": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -19390,8 +19390,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19408,7 +19408,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19494,8 +19494,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19512,7 +19512,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19598,8 +19598,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19616,7 +19616,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19702,8 +19702,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19720,7 +19720,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19806,8 +19806,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19824,7 +19824,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -19910,8 +19910,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -19928,7 +19928,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -20014,8 +20014,8 @@
             "slot": 3,
             "options": [
               {
-                "id": 3053,
-                "why": "Burstpuffer; Sterak's nicht mit Maw kombinieren."
+                "id": 6610,
+                "why": "Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt."
               },
               {
                 "id": 2512,
@@ -20032,7 +20032,7 @@
               },
               {
                 "id": 3156,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -20088,8 +20088,8 @@
         "startNote": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -20136,7 +20136,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,
@@ -20192,8 +20192,8 @@
         "startNote": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
         "boots": [
           {
-            "id": 3111,
-            "why": "Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle."
+            "id": 3009,
+            "why": "Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel."
           }
         ],
         "core": [
@@ -20240,7 +20240,7 @@
               },
               {
                 "id": 3065,
-                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak's, nicht ergänzen."
+                "why": "Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen."
               },
               {
                 "id": 3031,

@@ -20,7 +20,7 @@ def datafile(name,locale):
 en=datafile('item.json','en_US')['data']
 de=datafile('item.json','de_DE')['data']
 trees=datafile('runesReforged.json','de_DE')
-ids=[1001,2003,1054,1055,3047,3111,3009,3077,3074,6631,3153,3071,6333,3053,3156,3065,3143,3075,3072,3031,3032,2512,3073,3748,3026,3033,6609,3139,3036,3046,3161,3123,3211,3155,3006,6695]
+ids=[1001,2003,1054,1055,3047,3111,3009,6610,3077,3074,6631,3153,3071,6333,3053,3156,3065,3143,3075,3072,3031,3032,2512,3073,3748,3026,3033,6609,3139,3036,3046,3161,3123,3211,3155,3006,6695]
 ids=[i for i in ids if str(i) in en]
 catalog={'patch':PATCH,'version':VERSION,'checked':'18.09.2026','source':f'{CDN}/cdn/{VERSION}/data/de_DE/item.json','items':{},'trees':trees,'runes':{}}
 jobs=[]
@@ -77,12 +77,12 @@ for file,key,champ,lane in [('data.json','olaf-top','olaf','top'),('warwick.json
         if lane=='adc':first,second=3074,3156 if magic else 6333
         elif champ=='olaf':
             first=6631 if m['items'].startswith('Stridebreaker') else 3074
-            second=3156 if magic else 3071 if slug in armor else 3153 if slug=='drmundo' else 3053 if slug=='garen' else 3073 if slug in ['gnar','kayle'] else 6333
+            second=3156 if magic else 3071 if slug in armor else 3153 if slug=='drmundo' else 6610 if slug=='garen' else 3073 if slug in ['gnar','kayle'] else 6333
         else:
             first=3748 if slug in ['akali','jax'] else 6631 if slug in ranged or slug=='singed' else 3153
             second=3065 if magic or slug in ['chogath','malphite'] else 3748 if slug in hp else 3153 if first==6631 and slug!='gangplank' else 6333
-        boots=(3009 if magic else 3047) if lane=='adc' else 3111 if magic else 3047
-        bootsWhy=('Bei viel AP-Schaden Swiftness statt Mercury’s: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel.' if lane=='adc' else 'Bei relevantem Magieschaden; Tenacity hilft nur gegen reduzierbare Kontrolle.') if magic else 'Wenn gegnerische Autos den Rückschaden bestimmen; bei AP-/Poke-Support neu abwägen.'
+        boots=3009 if magic else 3047
+        bootsWhy='Bei viel AP-Schaden Swiftness statt Zähigkeitsstiefeln: Ragnarok gibt CC-Immunität, Zähigkeit ist verschenkt. Alternativ Omnivamp-Stiefel.' if magic else 'Wenn gegnerische Autos den Rückschaden bestimmen; bei AP-/Poke-Support neu abwägen.'
         if second==3156:secondWhy='Gegen AP-Burst; bei rein physischer Bedrohung stattdessen AD-Defensive.'
         elif second==3065:secondWhy='Bei anhaltendem Magieschaden und relevantem Wert eigener Heilung/Schilde.'
         elif second==6333:secondWhy='Gegen physischen Rückschaden. Kein Schutz vor beliebigem True Damage.'
@@ -98,10 +98,10 @@ for file,key,champ,lane in [('data.json','olaf-top','olaf','top'),('warwick.json
             alternatives.append(option(6631 if first==3074 else 3074,'Alternative als 1. Item: Kontakt priorisieren.' if first==3074 else 'Alternative als 1. Item: Sustain und Waveclear priorisieren.'))
         else:alternatives.append(option(3748 if first!=3748 else 3153,'Alternative als 1. Item: Waveclear/HP gegen sicheren Einzelzielkontakt abwägen.'))
         defensive=3156 if second!=3156 else 3065
-        third=[option(3053 if second!=3156 else 3065,'Burstpuffer; Sterak’s nicht mit Maw kombinieren.' if second!=3156 else 'Bei anhaltendem AP-Druck und Heilwert.')]
+        third=[option(6610 if second!=3156 else 3065,'Bruiser-Alternative: Leben und AD, der erste Angriff gegen einen Champion trifft kritisch und heilt.' if second!=3156 else 'Bei anhaltendem AP-Druck und Heilwert.')]
         if champ=='olaf':third.append(option(2512,'Offensive R-/Crit-Abzweigung nur, wenn du drei Autos zuverlässig anbringen und den Rückschaden überleben kannst.'))
         else:third.append(option(3065 if second!=3065 else 6333,'Passende Defensive nach tatsächlichem Magie- bzw. physischem Druck wählen.'))
-        fourth=[option(3143,'Gegen bedrohlichen Crit-Schaden.'),option(defensive,'Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw ersetzt Sterak’s, nicht ergänzen.')]
+        fourth=[option(3143,'Gegen bedrohlichen Crit-Schaden.'),option(defensive,'Gegen AP-Burst (Maw) oder anhaltende Magie (Visage). Maw und Visage nicht doppelt als Lifeline planen.')]
         if champ=='olaf':fourth.append(option(3031,'Nur als Fortsetzung eines begonnenen Crit-Builds; nicht allein als defensive Lösung.'))
         fifth=[option(3026,'Für entscheidende späte Kämpfe; Wiederbelebung braucht eine rettbare Position.'),option(6695,'Gegen wiederholte Schilde, wenn du die geschützten Ziele tatsächlich triffst.'),option(3033,'Bei entscheidender Heilung und sinnvoller Crit-/AD-Ausrichtung; sonst günstigere Antiheal-Komponente erwägen.')]
         # A conditional option is never a second copy of an already chosen core item.

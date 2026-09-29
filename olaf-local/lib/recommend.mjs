@@ -48,12 +48,11 @@ export function recommend(input,{champions,equipment,loadouts,collections}){
   candidates.push({id,score:Math.round(score*100)/100,why,caution,item:equipment.items[id]});
  }
  add(3047,physical*5+weight('attacks')*3,'Rüstung und Schutz gegen normalen Angriffsschaden.', 'Verringert nicht pauschal On-Hit-Effekte oder absoluten Schaden.');
- add(3111,magic*4+weight('cc')*(own==='olaf'?0.7:3),'Magieresistenz; Zähigkeit gegen reduzierbare Kontrolle.',own==='olaf'?'Olafs R macht Zähigkeit während Ragnarok weniger wichtig.':'Zähigkeit verkürzt keine Knock-ups oder Unterdrückung.');
- add(3009,weight('access')*3,'Lauftempo, wenn der Zugang zum Ziel wichtiger ist als Widerstände.');
+ add(3009,0.5+weight('access')*3+magic*2,'Lauftempo für Zugang und Ausweichen; gegen viel AP-Schaden statt Zähigkeitsstiefeln, denn Ragnarok gibt CC-Immunität. Omnivamp-Stiefel sind die Alternative.');
  add(6333,physical*7,'Gegen überwiegend physischen Druck; besonders wertvoll, wenn du Takedowns erreichen kannst.');
  add(3065,magic*7,'Magieresistenz und Verstärkung deiner eigenen Heilung und Schilde.');
- if(magic>=0.3)add(3156,magic*6.5,'Offensive Alternative gegen gefährliche Magieschadens-Spitzen.','Ersetzt Sterak’s; der Schild schützt nur vor Magieschaden.');
- add(3053,3.2,'Allgemeiner Puffer für Nahkampf-All-ins.','Ersetzt Maw; kein zweiter Rettungsanker im selben Build.');
+ if(magic>=0.3)add(3156,magic*6.5,'Offensive Alternative gegen gefährliche Magieschadens-Spitzen.','Der Schild schützt nur vor Magieschaden.');
+ add(6610,3.2,'Bruiser-Item mit Leben und AD: Der erste Angriff gegen einen Champion trifft kritisch und heilt.','Kein Rettungsanker; bei viel Burst auf Überleben vor den ersten Autos achten.');
  if(weight('crit'))add(3143,weight('crit')*8+physical*2,`Crit-Annahme bei ${names('crit')}: Randuin gegen deren kritische Treffer.`, 'Nur priorisieren, wenn diese Gegner tatsächlich Crit bauen.');
  if(weight('healing'))add(6609,input.allyAntiheal?weight('healing')*1.5:4+weight('healing')*5,`Heilung bei ${names('healing')}: Wunden durch deinen normalen Schaden auf die geheilten Ziele auftragen.`,input.allyAntiheal?'Verbündete decken Wunden bereits ab; nur bei Anwendungslücken selbst kaufen.':`Früh oft Executioner’s Calling (${equipment.items[3123].gold} Gold) statt sofort das fertige Item.`);
  if(weight('shielding'))add(6695,1+weight('shielding')*5,`Schilde bei ${names('shielding')}: Serpent’s Fang ist eine offensive Spezialoption.`, 'Nur wenn du die geschützten Ziele zuverlässig triffst und dein Team keinen verlässlichen Schildbrecher hat; kostet einen defensiven Slot.');
@@ -69,8 +68,8 @@ export function recommend(input,{champions,equipment,loadouts,collections}){
   add(6631,weight('access')*4,`Abstand gegen ${names('access')}: Stridebreaker hilft beim Halten des Angriffskontakts.`, 'Hydra-Alternative; ersetzt Ravenous oder Titanic, nicht zusätzlich dazu kaufen.');
   if(own==='olaf')add(3073,weight('access')*4.5,'Experimental Hexplate für Angriffstempo und Lauftempo nach Ragnarok.', 'Hilft beim Verfolgen; löst keinen fehlenden ersten Zugang über Wände.');
  }
- const boots=candidates.filter(c=>[3047,3111,3009].includes(c.id)).sort((a,b)=>b.score-a.score||a.id-b.id);
- const ranked=candidates.filter(c=>![3047,3111,3009].includes(c.id)).sort((a,b)=>b.score-a.score||a.id-b.id);
+ const boots=candidates.filter(c=>[3047,3009].includes(c.id)).sort((a,b)=>b.score-a.score||a.id-b.id);
+ const ranked=candidates.filter(c=>![3047,3009].includes(c.id)).sort((a,b)=>b.score-a.score||a.id-b.id);
  // Preserve the lane's first core item. The remaining suggestions are team-dependent.
  const first=base.core[0];
  const build=[{...first,item:equipment.items[first.id],why:`Lane-Basis bleibt: ${first.why}`,score:null,caution:''}];
