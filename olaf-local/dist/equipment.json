@@ -363,6 +363,16 @@
       "image": "/assets/items/6695.png",
       "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
       "note": "Diese Riot-Beschreibung enthält unaufgelöste dynamische Werte. Verbindliche skalierte Zahlen stehen im Spiel-Tooltip."
+    },
+    "6610": {
+      "id": 6610,
+      "name": "Sundered Sky",
+      "localName": "Gespaltener Himmel",
+      "description": "40 Angriffsschaden\n400 Leben\n10 Fähigkeitstempo\n\nLichtschild-Schlag\nDer erste Angriff gegen einen Champion trifft kritisch und stellt Leben wieder her.",
+      "gold": 3100,
+      "image": "/assets/items/6610.png",
+      "source": "https://ddragon.leagueoflegends.com/cdn/16.18.1/data/de_DE/item.json",
+      "note": "Riot-Kurzbeschreibung; dynamische Schadens-, Schild- und Skalierungswerte sind nicht immer enthalten."
     }
   },
   "trees": [

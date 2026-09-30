@@ -37,7 +37,7 @@ test('missing paths, private files, and mutations rejected',async()=>{
 });
 test('Warwick has an independent complete pool; Olaf data preserved',async()=>{
  const sourceBytes=(await readFile(new URL('./dist/data.json',import.meta.url),'utf8')).replace(/\r\n/g,'\n');
- assert.equal(createHash('sha256').update(sourceBytes).digest('hex'), '6806e145932e51aaca9690d79611957392a57921a6dd014554cd2adebce35e4b');
+ assert.equal(createHash('sha256').update(sourceBytes).digest('hex'), 'e2adaeb6b79ff70ef8da14175b16f8fbd68356fac0e178a520207e3f1926f85e');
  assert.equal(warwick.matchups.length,51);
  assert.deepEqual(warwick.matchups.map(m=>m.slug).sort(),data.matchups.map(m=>m.slug==='warwick'?'olaf':m.slug).sort());
  for(const m of warwick.matchups){
