@@ -1,0 +1,50 @@
+{
+  "slug": "nocturne",
+  "name": "Nocturne",
+  "tier": "C",
+  "reason": "Nocturne ist ein starker früher Skirmisher mit Furcht-Tether und Spellshield, der über den Q-Schattenpfad zusätzliches Tempo für Invades hat, während sein W einen der ersten Olaf-Casts komplett blocken kann. Da Nocturne selbst wenig eigene Sustain mitbringt, kann Olaf mit R den Furcht-Lock überstehen und den verlängerten Kampf für sich entscheiden, sofern er nicht in den Spellshield hineinläuft.",
+  "runeReason": "PTA passt zur kurzen, brutalen Duellöffnung, bevor Nocturnes W-Spellshield oder E-Fear-Tether das Momentum kippen; Boneplating dämpft den Ultimate-Einstieg über Paranoia.",
+  "l1": "Level 1-2 ist Nocturne dank Umbra-Blades-Tempo ein gefährlicher Skirmisher; ein Scuttle-Contest um 2:30-3:00 sollte Olaf mit Vorsicht angehen und den W-Spellshield mit einem Bait-Cast zuerst provozieren.",
+  "l25": "Nocturne nutzt Duskbringer-Wurflinien, um schnell zwischen Camps zu rotieren und früh zu invadieren; Olaf sollte den ersten Ability-Cast bewusst als Köder für den Spellshield einsetzen, bevor er den echten Trade sucht.",
+  "l6": "Paranoia erlaubt Nocturne globale Einstiege auf isolierte Ziele; im direkten Duell gegen Olaf hilft R, den Fear-Tether aus E zu überstehen, während Nocturnes fehlende eigene Sustain den verlängerten Kampf zugunsten von Olaf verschiebt.",
+  "threats": "Fear-Tether (E), Spellshield mit Attack-Speed-Bonus (W), Paranoia-Global-Einstieg (R), Umbra-Blades-Tempo-Stacks.",
+  "window": "Sobald Nocturnes W-Spellshield durch einen Köder-Cast verbraucht ist oder sein E-Tether bereits eingesetzt wurde, ist der offene Duell-Fight deutlich sicherer für Olaf.",
+  "errors": "Die erste eigene Fähigkeit ungeschützt in den Spellshield hineinwerfen, statt bewusst zu baiten. Nach einem gebrochenen Fear-Tether die eigene Positionierung vernachlässigen und in weitere Cooldowns hineinlaufen.",
+  "wave": "Gegen Nocturne lohnt sich defensiveres Pathing mit Vision an Kreuzungen, da sein Rotationstempo über Q-Schattenpfade hoch ist; ein direkter Camp-Wettlauf ist riskant, solange sein W-Spellshield aktiv ist.",
+  "trade": "Erst eine kleine Fähigkeit als Köder für den Spellshield einsetzen, dann Q für den Slow und E für Sustain; R erst zünden, wenn Nocturnes Fear-Tether bereits aktiv oder verbraucht ist.",
+  "items": "Stridebreaker hilft, Nocturne trotz seiner Schatten-Mobilität im Duell festzuhalten, da reine Hydra-Sustain gegen seine Zugriffsprobleme allein zu wenig bietet.",
+  "situ": "Ein früher defensiver Armor-Gegenstand gegen Nocturnes physischen Burst-Druck kann das Überleben des ersten Kontakts verbessern.",
+  "side": "1 Item: Nocturne gewinnt kurze, scharfe Duelle über sein Tempo. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf den Spellshield konsequent baitet. 3 Items: Olafs Sustain-Vorteil gegenüber einer sustainarmen Nocturne wird deutlicher.",
+  "plan": "Den Spellshield aktiv mit einer kleinen Fähigkeit provozieren, bevor der echte Trade beginnt. Frühe Rotationen über Kreuzungen mit Vision absichern und Objective-Kämpfe erst suchen, wenn Nocturnes Fear-Tether bereits verbraucht ist.",
+  "override": "Bei viel gegnerischem Magiedruck im Nocturne-Team auf pta_inspiration wechseln, um mehr Tempo für frühe Gegenstöße zu bekommen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Nocturnes überwiegend physischen Burstschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/nocturne/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

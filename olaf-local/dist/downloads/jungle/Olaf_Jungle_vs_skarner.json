@@ -1,0 +1,50 @@
+{
+  "slug": "skarner",
+  "name": "Skarner",
+  "tier": "D",
+  "reason": "Der überarbeitete Skarner zählt aktuell zu den stärksten frühen Jungle-Duellanten, mit schnellem Clear, einem Schild für verlängerte Kämpfe und einem Suppression-Ultimate, das jeden Fight einseitig entscheiden kann. Olaf hat gegen die tankige Statur und die Sustain über den Schild kaum echte Antworten, außer die frühe Phase zu meiden und auf sein Late-Game-Tempo zu setzen.",
+  "runeReason": "Conqueror ist gegen einen tankigen Dauerduellanten mit Schild fast Pflicht, um die Heilung im verlängerten Kampf zu kompensieren; Boneplating dämpft die Stun-Burst-Kombo aus Sprung und R-Griff.",
+  "l1": "Level 1-2 gewinnt Skarner die meisten offenen Duelle dank Schild und höherer Basiswerte; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit klarem Vorteil (Summoner-Spell-Vorsprung, Teamhilfe) suchen.",
+  "l25": "Skarner pathet aggressiv und invadiert häufig selbst, da sein Clear zu den schnellsten im Spiel zählt; Olaf sollte in dieser Phase eher den eigenen Rhythmus sichern als einen Camp-Wettlauf gegen ihn zu führen.",
+  "l6": "Mit R kann Olaf einer Suppression durch Skarners Griff zuvorkommen, wenn er früh genug reagiert, da Ragnarok bestehende Crowd Control sofort entfernt; verpasst er das Timing, entscheidet der Griff den Kampf meist zugunsten von Skarner.",
+  "threats": "Crystal-Slash-Cleave (Q), Exoskeleton-Schild (W), Sprung mit Kristallspitze (E), Suppression-Griff (R).",
+  "window": "Erst nach Skarners W-Schild und E-Sprung auf Cooldown ist ein Konter-Invade realistisch – idealerweise kombiniert mit Teamunterstützung, da ein reines 1v1 selten in Olafs Favor steht.",
+  "errors": "Ein offenes 1v1 gegen vollen Skarner ohne Item- oder Levelvorsprung suchen. Nach dem R-Griff im offenen Feld weiterkämpfen, statt die verbleibende Immunitätsdauer aus Olafs eigenem R aktiv zu nutzen.",
+  "wave": "Gegen Skarner lohnt sich meist der volle Clear mit maximaler Vision, da ein direkter Camp-Wettlauf oder Counter-Jungle-Versuch wegen seines überlegenen frühen Tempos selten profitabel ist.",
+  "trade": "Q zuerst für den Slow, dann sofort E für Sustain; R nur zünden, wenn Skarner bereits committed ist oder seinen Griff verbraucht hat, sonst früh abbrechen, statt in den Schild hineinzukämpfen.",
+  "items": "Die Cleaver-Linie liefert den nötigen Rüstungsschred gegen Skarners tankige Statur, da reine Lebensraub-Sustain gegen seinen Schild zu langsam skaliert.",
+  "situ": "Ein früher defensiver Gegenstand mit Health gegen Skarners Burst-Kombo aus Sprung und Griff kann das Überleben in erzwungenen Kontakten deutlich verbessern.",
+  "side": "1 Item: Skarner dominiert die meisten offenen Duelle klar. 2 Items: Der Abstand verringert sich, Olaf kann bei gutem Timing des Griffs mithalten. 3 Items: Extended Fights werden ausgeglichener, bleiben aber wegen Skarners Tankiness riskant.",
+  "plan": "Frühe direkte Kontakte meiden und stattdessen über Vision und Teamhilfe spielen, bis Olaf Item- und Levelvorteile aufgebaut hat. Objective-Kämpfe erst suchen, wenn Skarners Schild und Griff bereits verbraucht sind.",
+  "override": "Bei starkem gegnerischen Sustain-Team zusätzlich auf conqueror_secondwind wechseln, um den Dauerkampf gegen Skarner und seine Verbündeten abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Skarners überwiegend physischen Nahkampfschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "E",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/skarner/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "warwick",
+  "name": "Warwick",
+  "tier": "D",
+  "reason": "Warwick ist der klassische Sustain-Spiegel-Gegner: seine Passive heilt ihn bei jedem Treffer, Blood Hunt gibt ihm gegen niedrige Ziele zusätzliches Tempo, und seine Suppression-Ultimate kann ein Duell einseitig beenden, bevor Olaf reagieren kann. Da beide Champions auf Lebensraub-Sustain setzen, entscheidet meist, wer den ersten großen CC-Treffer landet, was tendenziell Warwick begünstigt.",
+  "runeReason": "Conqueror ist im Sustain-Wettlauf gegen Warwick fast Pflicht, um mit seiner Eternal-Hunger-Heilung mitzuhalten; Boneplating dämpft die Suppression-Burst-Kombo aus R.",
+  "l1": "Level 1-2 ist eng, da beide über Lebensraub aus Grundfähigkeiten heilen; ein Scuttle-Contest um 2:30-3:00 kann leicht zugunsten von Warwick kippen, wenn er zuerst Q trifft.",
+  "l25": "Warwicks passive Blood-Hunt-Erkennung verrät ihm verwundete Ziele auf der Karte und gibt ihm zusätzliches Tempo für Ganks gegen geschwächte Lanes; Olaf sollte niedrige HP-Werte im eigenen Team gegen Warwick besonders im Blick behalten.",
+  "l6": "Infinite Duress kann ein Duell durch Suppression sofort entscheiden; reagiert Olaf rechtzeitig mit eigenem R, verhindert er die Suppression und kann den Sustain-Wettlauf offener gestalten.",
+  "threats": "Eternal-Hunger-Sustain (Passive), Blood-Hunt-Tempo gegen niedrige HP (W), Primal-Howl-Furcht (E), Infinite-Duress-Suppression (R).",
+  "window": "Sobald Warwicks R bereits gegen ein anderes Ziel verbraucht wurde oder sein Blood-Hunt-Tempo nicht aktiv ist, ist ein Konter-Invade gegen ihn spürbar sicherer.",
+  "errors": "Mit niedrigem eigenem HP-Wert in Sichtweite von Warwick bleiben, da Blood Hunt ihn dann gezielt anzieht. Den Suppression-Range von R unterschätzen und zu früh committen, bevor R überhaupt verfügbar ist.",
+  "wave": "Gegen Warwick lohnt sich eher ein vorsichtiger Drei-Camp-Rhythmus mit Vision als ein offener Camp-Wettlauf, da sein Blood-Hunt-Tempo ihn im Vorteil bei verwundeten Zielen hält.",
+  "trade": "Q zuerst für den Slow, dann E für Sustain, wobei der eigene HP-Wert im Blick behalten werden muss, um Blood Hunt nicht zu triggern; R erst zünden, wenn Warwicks eigenes R bereits verbraucht ist.",
+  "items": "Die Hydra-Death's-Dance-Linie mit früher Grievous-Wounds-Option ist zentral, um Warwicks Eternal-Hunger-Heilung im Duell spürbar zu senken.",
+  "situ": "Ein Gegenstand mit Grievous-Wounds-Effekt ist gegen Warwicks Sustain-Kit fast Pflicht, sobald er im Spiel relevant wird.",
+  "side": "1 Item: Der Sustain-Wettlauf ist eng und tendiert zu Warwick. 2 Items: Mit Grievous Wounds im Build gleicht sich der Kampf spürbar aus. 3 Items: Olafs Rohschaden und Sustain-Kürzung gegen Warwick greifen deutlicher.",
+  "plan": "Den eigenen HP-Wert im Sichtfeld von Warwick im Blick behalten, um Blood Hunt nicht zu triggern, und Grievous Wounds so früh wie möglich einplanen. Direkte 1v1 erst suchen, wenn Warwicks R bereits verbraucht ist.",
+  "override": "Bei viel gegnerischem Poke- statt All-in-Druck auf conqueror_secondwind wechseln, um Chip-Schaden abseits von Warwicks direktem Duell abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Warwicks überwiegend physischen On-Hit- und True-Damage-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/warwick/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

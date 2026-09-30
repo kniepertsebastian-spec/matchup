@@ -190,7 +190,7 @@ const method=[
  ],
  [
   "Bruiser-Olaf",
-  "Stridebreaker → Death’s Dance gegen physischen Druck, Maw gegen AP-Burst oder Sterak’s gegen gemischten Burst. Stride hält Ziele erreichbar; es ist kein Lifesteal-Item. Experimental Hexplate ist eine Alternative für wiederholte R-Fenster, wenn kein dringender defensiver Kauf ansteht."
+  "Stridebreaker → Death’s Dance gegen physischen Druck, Maw gegen AP-Burst oder Sundered Sky als Bruiser-Alternative (Leben und AD, erster Angriff trifft kritisch und heilt). Stride hält Ziele erreichbar; es ist kein Lifesteal-Item. Experimental Hexplate ist eine Alternative für wiederholte R-Fenster, wenn kein dringender defensiver Kauf ansteht."
  ],
  [
   "Ravenous-Olaf",
@@ -214,7 +214,7 @@ const method=[
  ],
  [
   "Boots und Antiheal",
-  "Steelcaps gegen relevante Autos/physische Bedrohung; Armor stoppt keinen True Damage. Mercury’s nicht allein wegen eines mit R übergehbaren Stuns kaufen: MR und die Phasen ohne R zählen. Antiheal vor dem entscheidenden Heal-Fenster aktivieren; keine Verdopplung gleicher Grievous-Wounds-Wirkung erwarten."
+  "Steelcaps gegen relevante Autos/physische Bedrohung; Armor stoppt keinen True Damage. Zähigkeitsstiefel sind auf Olaf verschenkt (Ragnarok gibt CC-Immunität); bei AP-Druck Boots of Swiftness oder Omnivamp-Stiefel. Antiheal vor dem entscheidenden Heal-Fenster aktivieren; keine Verdopplung gleicher Grievous-Wounds-Wirkung erwarten."
  ],
  [
   "Summoners / Top-Quest",
@@ -222,7 +222,7 @@ const method=[
  ],
  [
   "Item-Konflikte",
-  "Maw und Sterak’s sind alternative Lifeline-Käufe, kein gemeinsamer Standard. Black Cleaver nur mit relevantem Armor-/Teamschadenswert; Olafs Q-Shred und E mitdenken. Itemreihenfolgen sind bedingte Empfehlungen, keine sechs fest verdrahteten Slots."
+  "Maw ist der Lifeline-Kauf gegen AP-Burst, Sundered Sky die Bruiser-Alternative ohne Lifeline. Black Cleaver nur mit relevantem Armor-/Teamschadenswert; Olafs Q-Shred und E mitdenken. Itemreihenfolgen sind bedingte Empfehlungen, keine sechs fest verdrahteten Slots."
  ],
  [
   "Jungle-Heilung",

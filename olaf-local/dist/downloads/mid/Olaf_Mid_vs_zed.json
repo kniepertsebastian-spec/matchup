@@ -1,0 +1,50 @@
+{
+  "slug": "zed",
+  "name": "Zed",
+  "tier": "B",
+  "reason": "Zed hat vor Level 6 kaum Werkzeuge gegen einen direkten All-in, da sein Shuriken-Poke allein Olafs Reckless-Swing-Trades nicht aufwiegt und er keine Fluchtmöglichkeit vor der ersten Shadow-Investition hat. Ab Level 6 kippt das Bild aber deutlich, da sein Ultimate Burst mit garantiertem Reset-Fluchtweg über den Schatten kombiniert.",
+  "runeReason": "Press the Attack passt zum kurzen, sauberen Trade-Fenster in der frühen Lanephase, in der Zed noch keine verlässliche Verteidigung gegen drei Treffer hat. Bone Plating dämpft speziell die Shuriken-Poke-Serie und den Einstiegsschaden seiner Todesmarke-Combo.",
+  "l1": "Im direkten Kontakt gewinnt Olaf Level 1 klar, da Zed ohne Shadow keinen Fluchtweg hat und sein Q-Schaden allein gegen Reckless Swing nicht ausreicht.",
+  "l25": "Zed hält Distanz mit Shuriken-Poke und wartet auf Level 6; Olaf sollte in diesem Fenster aggressiv all-in gehen, sobald Zeds W-Shadow auf Cooldown liegt oder bereits als Fluchtanker platziert und somit gebunden ist.",
+  "l6": "Zeds R markiert das Ziel und lässt ihn nach Verzögerung mit garantiertem Schaden zur Markierung zurückschwappen; Ragnarok entfernt keine harte CC, da Zed kaum welche hat, liefert aber die Heilung, um die Burst-Rotation zu überleben und danach selbst zu punishen.",
+  "threats": "W-Shadow als Dash/Fluchtanker, R-Markierungsburst mit garantiertem Rückwarp, Energie-Reset über Q-Auto-Kombos, Ultimate-Vision-Reveal auf CC-immune Ziele.",
+  "window": "Solange Zeds W-Shadow bereits als Fluchtanker verbraucht oder auf Cooldown ist, insbesondere vor Level 6, ist ein direkter Reckless-Swing-Allin am sichersten.",
+  "errors": "Nach einem sichtbaren R-Cast sofort weglaufen, statt den garantierten Rückwarp-Schaden einzukalkulieren. Gegen frische Shadow-Platzierung all-in gehen und den Swap-Fluchtweg unterschätzen. Vor Level 6 zu passiv farmen und das größte Kill-Fenster der Lane verpassen.",
+  "wave": "Gegen Zeds Poke lohnt sich eine leichte Freeze nahe der eigenen Kante, um seine Shadow-Reichweite für Ganks zu limitieren; bei sichtbarem Shadow-Verbrauch kann Olaf kurz aggressiv pushen, um Zeds Rückkehr zur Wave zu erzwingen.",
+  "trade": "Q auf die Wave, bei Kontakt sofort E zünden, solange Zeds Shadow gebunden oder down ist, R als Antwort auf die R-Rotation oder um die Heilung im verlängerten Trade zu sichern.",
+  "items": "Der Zugriffsdruck durch Zeds Shadow-Mobilität macht Tempo wichtiger als reine Sustain, daher Stridebreaker mit Death's Dance, um vor Level 6 Kontakt zu erzwingen.",
+  "situ": "Gegen sein spätes Burst-Fenster lohnt sich stattdessen ein defensiver Zusatzitem wie Randuin's, sobald Zed kritisches Schadenspotenzial aufbaut.",
+  "side": "1 Item: Olaf dominiert die frühe Phase klar, solange Zed unter Level 6 bleibt. 2 Items: Zeds R-Rotation macht offene Duelle riskant, nur mit Cooldown-Vorteil committen. 3 Items: Zeds Burst-Reset-Potenzial übersteigt Olafs Sustain oft, Fights nur mit vollem Ragnarok und Zahlenvorteil suchen.",
+  "plan": "Vor Level 6 kompromisslos aggressiv spielen und jedes Shadow-Cooldown-Fenster für All-ins nutzen. Ab Level 6 die R-Rotation respektieren und Duelle nur mit vollem Ragnarok oder klarem Vorsprung suchen, im Late Game auf Cooldown-Vorteile statt offene Konfrontation setzen.",
+  "override": "Bei sehr aggressivem, frühem Zed-Spiel auf conqueror_boneplating wechseln, um die verlängerten Q-Auto-Trades vor Level 6 noch stärker zu gewinnen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Lane und späte Side sind getrennte Phasenurteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Mid-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Doran's Shield + Health Potion",
+  "sums": "Flash + Ignite",
+  "boots": "Plated Steelcaps gegen Zeds auto-/schuriken-basierten Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Mid-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Mid-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "PTA",
+  "role": "mid",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Mid-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/zed/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Mid-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/mid"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "kayn",
+  "name": "Kayn",
+  "tier": "D",
+  "reason": "Kayn zählt aktuell laut vielen Tier-Listen zu den stärksten Junglern, ist aber vor Level 6 ohne Formwahl spürbar schwächer und ohne echte Crowd Control verwundbar für frühe Skirmishes. Nach der Formwahl wird er entweder als Rhaast ein zäher Lifesteal-Bruiser oder als Schattenassassine ein Wall-Dash-Assassine, beides macht ihn im späten 1v1 deutlich schwerer zu bezwingen als vorher. Insgesamt überwiegt Kayns Stärke in der späten Duell-Phase Olafs frühes Zeitfenster.",
+  "runeReason": "Conqueror mit Boneplating passt zu beiden Kayn-Formen, da Rhaast über lange Fights Lifesteal aufbaut und die Schattenassassine kurzzeitig sehr viel Burst-Schaden austeilt, Boneplating dämpft speziell diesen frühen Burst vor der Formwahl.",
+  "l1": "Vor Level 6 hat Kayn keine nennenswerte Fluchtoption oder CC, Olaf gewinnt den Level-2-Duell in den meisten Fällen klar über reine Statlines und W-Sustain.",
+  "l25": "Kayn will vor 6 zügig durch den Dschungel wandern und Blau-Buff-Camps stapeln, um schneller die Formwahl freizuschalten, Olaf kann in diesem Fenster aktiv seine Krabben und Camps kontestieren, ohne echten Gegendruck zu riskieren.",
+  "l6": "Sobald Kayn seine Form wählt, kippt das Kräfteverhältnis deutlich, Rhaast wird durch Lifesteal im längeren Fight sehr zäh, während die Schattenassassine über die Wand-Passage jeden ungünstigen Fight einfach verlassen kann, Olaf sollte Fights danach nur noch bei klarem Cooldown-Vorteil suchen.",
+  "threats": "E-Wanddash und Unsichtbarkeit als Schattenassassine, Passiv-Lifesteal und Grab-Reset als Rhaast, R-Massen-CC im Teamfight, hohe Burst- oder Sustain-Skalierung je nach Form.",
+  "window": "Vor Level 6 ist praktisch jedes offene Duell und jeder Invade ein gutes Fenster, danach nur noch, wenn Kayns Formfähigkeit E gerade verbraucht wurde.",
+  "errors": "Nicht versuchen, eine geformte Schattenassassine ohne Wandkontrolle über eine Wand zu jagen, gegen Rhaast nicht ohne Antiheal in einen langen Fight gehen.",
+  "wave": "Vor Level 6 lohnt sich aggressives Konter-Jungle und Krabbenkontrolle, da Kayn hier klar unterlegen ist, nach der Formwahl sollte Olaf Camp-Races meiden und stattdessen über Objective-Timing spielen.",
+  "trade": "Vor 6 Q werfen und durchgehend Autos gegen den formlosen Kayn, R erst ab Level 6 sinnvoll gegen seine R-Fear-Komponente im Teamfight einsetzen, nicht im Solo-Duell verschwenden.",
+  "items": "Hydra-DD liefert wichtige Antiheal gegen Rhaasts Passiv-Lifesteal und hält gleichzeitig genug Clear-Tempo, um das frühe Zeitfenster vor der Formwahl maximal auszunutzen.",
+  "situ": "Gegen eine Schattenassassine mit viel Burst-Potenzial kann ein früherer Health-Gegenstand die Überlebenschance in überraschten Ganks deutlich verbessern.",
+  "side": "1 Item: Olaf dominiert die frühe Phase klar. 2 Items: das Duell bleibt knapp im Olaf-Vorteil, solange Kayn noch nicht geformt hat. 3 Items: ein geformter Kayn gewinnt die meisten Duelle, Olaf sollte dann gezielt Objective-Timing statt direkter Fights spielen.",
+  "plan": "Vor Level 6 aggressiv invaden, konter-jungeln und Blau-Buff-Stacking verhindern, um Kayns Formwahl zu verzögern. Nach der Formwahl Duelle nur noch bei klarem Cooldown-Vorteil suchen und stattdessen über Vision und Objective-Timing arbeiten.",
+  "override": "Gegen eine früh sehr aggressive Schattenassassinen-Wahl kann pta_boneplating für kürzere, definierte Burst-Fenster vor der vollen Formentwicklung sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Kayns Schaden in beiden Formen überwiegend physisch ist.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "E",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/kayn/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

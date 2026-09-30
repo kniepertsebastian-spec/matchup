@@ -1,0 +1,50 @@
+{
+  "slug": "vi",
+  "name": "Vi",
+  "tier": "C",
+  "reason": "Vi ist über Vault-Breaker-Dash und Denting-Blows-Rüstungsschred eine der aggressivsten frühen Invade-Junglerinnen und gewinnt die meisten Level-2-3-Kontakte gegen Olaf. Da Vi selbst kaum eigene Sustain mitbringt, dreht sich der Sustain-Wettlauf im verlängerten Duell später eher zu Olafs Gunsten, sofern er den Ultimate-Einstieg übersteht.",
+  "runeReason": "Conqueror passt zum verlängerten Bruiser-Duell, da Olaf gegen Vis fehlende Eigen-Sustain über Zeit aufholt; Boneplating dämpft die Vault-Breaker-Öffnung und den Ultimate-Combo-Einstieg.",
+  "l1": "Level 1-2 gewinnt Vi über den Vault-Breaker-Dash und Denting Blows die meisten offenen Duelle; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit klarem Vorteil suchen.",
+  "l25": "Vi invadiert früh aktiv über den weitreichenden Q-Dash und sucht frühe Skirmishes; Olaf sollte eigene Camps absichern und Invasionsversuche nur mit gesicherter Vision starten.",
+  "l6": "Vis R kann Olaf über weite Distanz fixieren und kurz kontrollieren; reagiert Olaf rechtzeitig mit eigenem R, verhindert er die anschließende Kontrolle und kann den Sustain-Wettlauf im offenen Kampf für sich entscheiden.",
+  "threats": "Vault-Breaker-Gap-Close (Q), Denting-Blows-Rüstungsschred (W), Cease-and-Desist-Fernfixierung (R).",
+  "window": "Sobald Vis Q-Dash auf Cooldown liegt oder ihr R bereits für einen Pick anderswo verbraucht wurde, ist ein Konter-Invade gegen sie deutlich sicherer.",
+  "errors": "Den weitreichenden R-Dash unterschätzen und sich isoliert von der eigenen Vision bewegen. Nach dem ersten Vault-Breaker-Treffer den eigenen Positionsvorteil nicht nutzen, um den fehlenden Vi-Sustain auszunutzen.",
+  "wave": "Gegen Vi lohnt sich eher defensiveres Pathing mit Vision an Kreuzungen als ein direkter Camp-Wettlauf, da ihr Invade-Tempo über den Q-Dash hoch ist.",
+  "trade": "Q zuerst für den Slow, dann E für Sustain und Schaden; R erst zünden, wenn Vis eigener Dash oder ihr Ultimate bereits verbraucht sind, da sie sonst den Einstieg diktiert.",
+  "items": "Die Hydra-Death's-Dance-Linie ist solide, da Vi selbst wenig eigene Sustain hat und der Sustain-Wettlauf im verlängerten Duell zugunsten von Olaf verläuft.",
+  "situ": "Ein früher defensiver Armor-Gegenstand gegen Vis physischen Rüstungsschred-Druck kann das Überleben in erzwungenen Kontakten verbessern.",
+  "side": "1 Item: Vi gewinnt die meisten offenen Duelle über ihren Dash-Einstieg. 2 Items: Der Kampf wird ausgeglichener, sobald Olaf ihren Ultimate-Einstieg übersteht. 3 Items: Olafs Sustain-Vorteil gegenüber einer Vi ohne eigene Heilung wird deutlicher.",
+  "plan": "Frühe offene Kontakte defensiv spielen und Vis weitreichenden Dash respektieren. Ab Level 6 Objective-Kämpfe suchen, in denen Vis Ultimate bereits verbraucht ist, um den Sustain-Vorteil auszuspielen.",
+  "override": "Bei viel gegnerischem Magiedruck im Vi-Team zusätzlich auf hydra_maw wechseln, um Magieresistenz für den Rest des Teams einzuplanen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Vis überwiegend physischen Nahkampfschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/vi/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

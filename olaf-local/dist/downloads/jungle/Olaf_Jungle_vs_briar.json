@@ -1,0 +1,50 @@
+{
+  "slug": "briar",
+  "name": "Briar",
+  "tier": "E",
+  "reason": "Briar ist als reiner Skirmish-Jungler mit Selbst-CC-Frenzy, Heilung auf Schaden und einem Fear-Passiv nach Takedowns direkt auf Olafs eigenes Spielfeld ausgelegt und bringt dabei mehr harte Kontrolle mit, konkret Betäubung über E und Slow über Q. Beide Champions wollen dieselben frühen Skirmishes und Camps, Briar hat aber die stärkeren Werkzeuge, um diese Fights zu erzwingen und zu gewinnen. Insgesamt eines der unangenehmsten Matchups für Olaf im Jungle.",
+  "runeReason": "Conqueror mit Boneplating ist praktisch Pflicht, da beide Champions auf ausgedehnte, gegenseitig heilende Duelle setzen und Olaf die zusätzliche frühe Rüstung braucht, um Briars Q-Slow-Setup und E-Betäubung überhaupt zu überleben.",
+  "l1": "Briar gewinnt den Level-2-Duell in den meisten Fällen, da Q-Slow plus E-Betäubung eine verlässliche Lock-Down-Kombo liefert, die Olaf ohne eigenes R nicht brechen kann, ein Invade ohne klaren Vorteil ist riskant.",
+  "l25": "Briar will aggressiv Krabbe und frühe Skirmishes suchen statt einen sauberen Clear, Olaf sollte defensiv pathen und eigene Camps nur mit Vision auf Briars Position kontestieren.",
+  "l6": "Sobald Olaf R hat, entfernt er Briars Betäubung sofort und kann über Sustain gegenhalten, Briars eigenes R liefert ihr aber vergleichbare Heilung und Tempo, sodass der Fight auch danach eng bleibt und meist der zuerst treffende Spieler gewinnt.",
+  "threats": "Q-Dash mit Slow, E-Betäubung, Passiv-Heilung auf Schaden, R-Furchtlos-Frenzy mit erhöhtem Tempo und Heilung, Fear nach Takedowns.",
+  "window": "Ein gutes Fenster existiert nur, wenn Briars R bereits verbraucht ist oder wenn Olaf mit einem Ally gleichzeitig ansetzen kann, ein reiner Solo-Kontest sollte vermieden werden, solange beide Ultimates verfügbar sind.",
+  "errors": "Nicht in Briars Q-Reichweite stehen bleiben, um die Betäubung zu vermeiden, R nicht vor Briars R zünden, da sie sonst ihre eigene Heilung ungestört aufbaut.",
+  "wave": "Gegen Briar ist ein defensiverer Clear mit klarer Krabben-Priorität über Wards sinnvoller als ein offener Camp-Race, da sie fast jeden neutralen 1-für-1-Kontest im Skirmish für sich entscheidet.",
+  "trade": "Q aus Distanz werfen und Nahkontakt vermeiden bis Briars E-Betäubung verbraucht ist, erst dann Autos und R zünden, ein früher Nahkampf ohne verbrauchte Betäubung ist meist verloren.",
+  "items": "Hydra-DD ist wichtig, um über Grievous Wounds Briars starke Selbstheilung zu drücken, da sie sonst in praktisch jedem Duell zurückheilt.",
+  "situ": "Gegen Briar kann ein früherer robuster Defensivgegenstand mit Health und Tenacity das Überleben der E-Betäubung deutlich verbessern, wenn das Duell nicht vermeidbar ist.",
+  "side": "1 Item: Briar dominiert die meisten direkten Fights. 2 Items: weiterhin knapper Nachteil für Olaf, besonders vor R. 3 Items: mit R und Antiheal wird der Fight ausgeglichener, bleibt aber ein Münzwurf abhängig davon, wer zuerst trifft.",
+  "plan": "Frühe Solo-Duelle möglichst vermeiden und stattdessen mit Vision und Team-Unterstützung agieren. Grievous Wounds so früh wie möglich sichern und Fights nur eingehen, wenn Briars R bereits verbraucht ist oder ein Ally gleichzeitig ansetzt.",
+  "override": "Bei einem Team mit zusätzlichem harten Peel um Briar herum kann conqueror_secondwind sinnvoller sein, um ihren wiederholten Q-Poke besser abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Briars überwiegend physischen Skirmish-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "E",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/briar/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

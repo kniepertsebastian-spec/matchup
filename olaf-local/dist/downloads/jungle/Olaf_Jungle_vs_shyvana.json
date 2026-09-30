@@ -1,0 +1,50 @@
+{
+  "slug": "shyvana",
+  "name": "Shyvana",
+  "tier": "C",
+  "reason": "Shyvana hat einen soliden, aber nicht besonders defensiven Clear, was frühe Konter-Jungle-Versuche von Olaf begünstigt, solange sie noch nicht Level 6 ist. Sobald ihre Drachenform verfügbar ist, wird sie durch zusätzliche Rüstung, Magieresistenz und die True-Damage-Komponente ihres Passivs zu einem deutlich zäheren und gefährlicheren Dauerduellanten. Insgesamt ein Matchup, das früh für Olaf, spät eher für Shyvana spricht.",
+  "runeReason": "Conqueror mit Boneplating passt zu Shyvanas Flächenschaden über E und ihrem prozentualen HP-Schaden, da Olaf über den Sustain-Aufbau in der Drachenform hinweg relevant bleiben muss, Boneplating dämpft zusätzlich ihre frühen E-Treffer beim Invade.",
+  "l1": "Vor Level 6 ist Shyvana im direkten Duell verwundbarer, da ihr die Drachenform und der zusätzliche Widerstand fehlen, Olaf gewinnt einen Level-2-Kontest meist über reine Statlines.",
+  "l25": "Shyvana will zügig durch ihre Camps clearen und früh ihre Ultimate-Level erreichen statt aggressiv zu ganken, Olaf kann in diesem Fenster aktiv Krabbe und Scuttle kontestieren.",
+  "l6": "Sobald Shyvana Drachenform hat, gewinnt sie durch zusätzlichen Widerstand und die True-Damage-Komponente ihres Passivs deutlich mehr ausgedehnte Duelle, Olafs R bleibt zwar stark, reicht aber allein oft nicht mehr für einen klaren Sieg.",
+  "threats": "E-Flächenschaden mit prozentualem HP-Anteil, Passiv-True-Damage bei Doppel-Angriffen, R-Drachenform mit zusätzlichem Widerstand und Flächenschaden bei Landung.",
+  "window": "Vor Level 6 ist praktisch jedes Duell ein gutes Fenster für Olaf, danach lohnt sich ein Kontest nur, wenn Shyvanas R bereits verbraucht ist.",
+  "errors": "Nicht versuchen, eine aktive Drachenform-Shyvana ohne eigenes R im offenen Duell zu stellen, E-Flächenschaden bei niedriger HP nicht unterschätzen.",
+  "wave": "Vor Level 6 lohnt sich aktives Konter-Jungle, da Shyvanas Clear offensiv statt defensiv ausgelegt ist, nach der Drachenform sollte Olaf Camp-Races vermeiden und stattdessen über Objective-Timing spielen.",
+  "trade": "Q werfen sobald Shyvana committed, dann Autos solange sie in Menschenform ist, R gezielt gegen ihre aktive Drachenform sparen statt früh zu verbrauchen.",
+  "items": "Hydra-Cleaver liefert die nötige Rüstungsdurchdringung gegen Shyvanas zunehmend tanky Build und ihre Drachenform-Widerstände in ausgedehnten Fights.",
+  "situ": "Gegen eine sehr früh gefährliche Drachenform kann ein früherer Health- oder Widerstandsgegenstand das Überleben des Landing-Flächenschadens verbessern.",
+  "side": "1 Item: Olaf im klaren Vorteil vor Level 6. 2 Items: das Duell bleibt eng, sobald Shyvana Drachenform verfügbar hat. 3 Items: Shyvana wird durch zusätzlichen Widerstand und True Damage im langen Fight zunehmend gefährlich, Olaf sollte dann kürzere, definierte Fenster suchen.",
+  "plan": "Vor Level 6 aktiv konter-jungeln und Krabbenkontrolle sichern, da Shyvana hier klar unterlegen ist. Nach ihrer Drachenform Fights nur noch gezielt nach verbrauchtem R suchen und über Objective-Timing statt offener Duelle spielen.",
+  "override": "Gegen eine sehr passiv spielende Shyvana ohne frühen Skirmish-Fokus kann pta_boneplating für schnellere Trade-Fenster vor Level 6 sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Shyvanas überwiegend physischen Auto- und E-Schaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/shyvana/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

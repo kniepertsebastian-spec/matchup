@@ -1,0 +1,50 @@
+{
+  "slug": "masteryi",
+  "name": "Master Yi",
+  "tier": "B",
+  "reason": "Yi hat früh kaum Werkzeuge gegen Invades oder Konter-Jungle, da Alpha Strike primär Farmtool ist und Highlander erst spät zur Verfügung steht. Olaf gewinnt frühe Skirmishes über rohe Statlines und Q-Poke, verliert aber an Kontrolle, sobald Yi mit Critical-Items und Highlander unantastbar wird. Insgesamt bleibt Olaf im Vorteil, weil Yi kein Peel und keine Crowd Control gegen einen R-immunen Duellanten hat.",
+  "runeReason": "PTA belohnt saubere frühe Auto-Trades, bevor Yi über Alpha Strike aus dem Auto-Reset-Fenster verschwindet. Boneplating dämpft die Alpha-Strike-Treffer plus Folgeautos beim Invade um 2:30. Gegen Yis reines Autoattack-Damage ist die zusätzliche Rüstung wertvoller als Second Wind.",
+  "l1": "Yi hat kein Werkzeug gegen einen frühen Invade, Olaf gewinnt den Level-2-Duell fast immer über Q-Poke plus W-Sustain, solange kein Support-Gank hilft.",
+  "l25": "Yi will die eigene Blue-Seite schnell clearen und danach ungestört weiterfarmen statt früh zu ganken, Olaf kann das ausnutzen und seine Krabben-/Scuttle-Camps kontestieren, ohne echten Gegendruck zu riskieren.",
+  "l6": "Ab 6 wird Yi über Highlander erstmals mobil und CC-immun gegen Slows, Olafs R bleibt trotzdem die stärkere Ressource in einem geraden 1v1, weil Yi kaum Zugriff auf Distanz hat, wenn Olaf ihn einmal fixiert.",
+  "threats": "Alpha-Strike-Unverwundbarkeit gegen Autos, Double-Strike-Passiv-Schaden, Highlander-Tempo und Slow-Immunität, True-Damage-Ult bei erhöhtem Angriffstempo.",
+  "window": "Solange Yi kein Highlander hat, ist jeder Invade und jede Krabbe ab 2:30 ein gutes Fenster, weil er weder Fluchtwerkzeug noch CC besitzt.",
+  "errors": "Nicht in Alpha Strike hineinklicken und Autos verschwenden, nicht versuchen einen Highlander-Yi ohne eigenes R über offenes Feld zu jagen.",
+  "wave": "Voller Clear ist gegen Yi meist besser als aggressives 3-Camp-Gank-Pathing, weil Olaf im Camp-Race die Skirmish-Fenster diktiert und Yi im 1-für-1-Tausch meist verliert, solange kein Alpha-Strike-Reset zwischen den Camps sitzt.",
+  "trade": "Q auf Yi werfen sobald er ein Camp startet, dann Auto-Autos bis W aktiv ist, R erst wenn Yi tatsächlich Highlander gezündet hat, sonst reicht reines Stat-Trading.",
+  "items": "Hydra mit Grievous-Wounds-Komponente ist Standard, weil sie Yis spätere Lifesteal-Builds direkt neutralisiert und gleichzeitig den Clear beschleunigt.",
+  "situ": "Gegen einen fetten, fed Yi mit Infinity-Edge-Crit kann ein früherer defensiver Ausrüstungsgegenstand mit Health nötig werden, um den Highlander-Diveburst zu überleben.",
+  "side": "1 Item: Olaf dominiert jeden Skirmish klar. 2 Items: weiterhin knapper Vorteil, solange kein Highlander gezündet ist. 3 Items: Yi kann mit vollem Crit-Build einen sauberen Auto-Reset-Fight gewinnen, Olaf braucht dann R sofort bei Kontakt.",
+  "plan": "Früh aggressiv invaden und Krabben kontestieren, solange Yi noch kein Highlander hat. Mit Hydra-DD Antiheal gegen spätere Lifesteal-Builds vorbereiten und Fights nur eingehen, wenn Yi Alpha Strike bereits verbraucht hat.",
+  "override": "Bei viel gegnerischem CC-Zugriff im restlichen Team kann conqueror_boneplating statt PTA sinnvoller sein, um den Sustain-Vorteil über längere Fights zu sichern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Yis gesamter Schaden aus Autoattacks und Critical Strikes besteht.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "A",
+  "late": "C",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/masteryi/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

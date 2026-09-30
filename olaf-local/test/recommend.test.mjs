@@ -33,7 +33,7 @@ test('weight, damage correction and lane focus materially affect threat evaluati
 test('all matchups can produce legal six-slot builds without duplicate items',()=>{
  for(const [collection,rows]of Object.entries(data.collections))for(const m of rows.matchups){
   const normalize=s=>s.replace(/[^a-z0-9]/g,'');const c=data.champions.champions.find(c=>normalize(c.id)===normalize(m.slug));assert.ok(c,m.slug);
-  const r=recommend(input([enemy(c.id,collection==='olaf-adc'?'adc':'top')],{collection,matchup:m.slug}),data);
+  const r=recommend(input([enemy(c.id,collection.slice(collection.indexOf('-')+1))],{collection,matchup:m.slug}),data);
   const ids=[r.boots.id,...r.build.map(i=>i.id)];assert.equal(ids.length,6);assert.equal(new Set(ids).size,6);
   assert.ok(!(ids.includes(3053)&&ids.includes(3156)));assert.ok(ids.filter(i=>[3074,3748,6631].includes(i)).length<=1);
   assert.ok(r.warnings.some(w=>w.includes('1/5')));

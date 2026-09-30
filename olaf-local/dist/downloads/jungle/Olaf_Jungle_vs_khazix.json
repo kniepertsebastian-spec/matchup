@@ -1,0 +1,50 @@
+{
+  "slug": "khazix",
+  "name": "Kha'Zix",
+  "tier": "D",
+  "reason": "Kha'Zix' Isolations-Passiv gibt seiner Q massiv erhöhten Schaden gegen Ziele ohne nahe Einheiten, und ein Olaf allein im Dschungel an einem Camp oder in der Krabbe zählt praktisch immer als isoliert, was diesen Burst besonders gefährlich macht. Gleichzeitig fehlt Kha'Zix echte harte Crowd Control, sodass Olaf mit R einen laufenden Fight über Sustain durchstehen kann, sofern er den ersten Burst überlebt. Insgesamt ein enges, burst-lastiges Matchup zu Gunsten des schneller treffenden Spielers.",
+  "runeReason": "Conqueror mit Boneplating liefert die zusätzliche frühe Rüstung und den Health-Puffer, um Kha'Zix' isolierten Q-Burst zu überstehen, während der Adaptive-Bonus im längeren Duell gegen seine Evolve-Upgrades relevant bleibt.",
+  "l1": "Ein Level-2-Invade gegen Kha'Zix ist riskant, da seine Isolations-Q bereits früh hohen Einzelzielschaden liefert, Olaf sollte den Kontakt nur mit Support-Hilfe suchen, um die Isolation zu brechen.",
+  "l25": "Kha'Zix will gezielt isolierte Ziele an Krabbe oder Buff-Camps jagen statt offene Kontests zu suchen, Olaf sollte eigene Camps möglichst mit einer zweiten Einheit in der Nähe clearen, um die Isolations-Bonus zu vermeiden.",
+  "l6": "Ab 6 kann Kha'Zix über Stealth aus seiner Ultimate noch gezielter isolierte Ziele anspringen, Olafs R hilft primär gegen den Slow seiner E-Sprungklauen, ein Fight bleibt aber gefährlich, wenn Olaf bereits isoliert getroffen wird, bevor R reagieren kann.",
+  "threats": "Isolations-Q mit stark erhöhtem Einzelzielschaden, E-Sprung mit Slow, R-Nahezu-Unsichtbarkeit für Ambush-Angriffe, hohe Evolve-Skalierung im späteren Spiel.",
+  "window": "Sobald Kha'Zix' E-Sprung auf Cooldown verbraucht wurde, meist direkt nach einem Ambush-Versuch, ist ein Gegen-Invade oder eine Krabbenkontest deutlich sicherer.",
+  "errors": "Nicht allein und isoliert an Krabbe oder Buff-Camps ohne Vision stehen, R nicht erst nach dem ersten großen Isolations-Q-Treffer zünden, da der Schaden dann bereits eingeschlagen ist.",
+  "wave": "Camps möglichst mit einer zweiten Einheit oder Vision in der Nähe clearen, um Kha'Zix' Isolationsbonus zu neutralisieren, ein offener Solo-Camp-Race an abgelegenen Stellen der Karte ist gegen ihn riskant.",
+  "trade": "Q werfen sobald Kha'Zix committed, dann sofort Autos um seinen eigenen Isolationsbonus zu verhindern, R zünden sobald sein E-Sprung verbraucht ist, um den Slow-Vorteil auszugleichen.",
+  "items": "Hydra-DD liefert genug Sustain und Clear-Tempo, um isolierte Situationen an abgelegenen Camps zu vermeiden, echte Antiheal-Relevanz ist gering, da Kha'Zix selbst kaum heilt.",
+  "situ": "Gegen einen sehr fed Kha'Zix mit evolvierter Isolations-Q kann ein früherer Health-Gegenstand das Überleben eines überraschenden Ambush deutlich verbessern.",
+  "side": "1 Item: der Isolationsbonus macht Kha'Zix in abgelegenen Duellen gefährlich. 2 Items: das Duell wird ausgeglichener, sobald Olaf Camps nicht mehr isoliert clearen muss. 3 Items: Olaf gewinnt geplante, nicht-isolierte Fights meist klar dank R-Sustain.",
+  "plan": "Camps möglichst nicht komplett isoliert clearen und abgelegene Krabben- oder Buff-Kontests mit Vision absichern. Fights gezielt nach verbrauchtem E-Sprung suchen, da Kha'Zix dann weder Mobilität noch seinen vollen Isolationsbonus hat.",
+  "override": "Bei einem sehr passiv spielenden Kha'Zix ohne frühe Isolations-Jagd kann pta_boneplating für schnellere Trade-Fenster sinnvoller sein.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Rollenitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Kha'Zix' Schaden überwiegend physisch aus Q und Autos kommt.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "D",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/khazix/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

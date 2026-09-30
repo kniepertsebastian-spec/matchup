@@ -1,0 +1,50 @@
+{
+  "slug": "zed",
+  "name": "Zed",
+  "tier": "B",
+  "reason": "Zed ist vor Level 6 ohne Shield oder harte Defensive extrem verwundbar, weshalb ein sauberer Level-2-Kontakt oder ein früher Invade meist zugunsten von Olaf ausgeht. Sobald Zed skaliert, sucht er den offenen Duell-Fight gegen Olaf ohnehin kaum noch, sondern weicht über Shadow-Dashes aus und jagt stattdessen Backline-Ziele in anderen Lanes.",
+  "runeReason": "PTA belohnt genau die drei sauberen Autos, die Olaf braucht, bevor Zed sich per W wegteleportiert oder Distanz aufbaut. Boneplating dämpft die Burst-Spitze aus Q-E-R, falls Zed zuerst den Kontakt sucht.",
+  "l1": "Level 1-2 hat Zed keinerlei Schild oder CC; ein Invade oder Scuttle-Contest um 2:30-3:00 kippt bei getroffenem Q klar zu Olaf, solange Zed nicht bereits im Bush wartet.",
+  "l25": "Zed pusht seinen Clear meist zügig auf Level 3-4 für den ersten Gank und meidet direkten Kontakt im Fluss; genau diese frühen Wegkreuzungen sind Olafs beste Invade-Fenster, solange Zeds W noch nicht bereit ist.",
+  "l6": "Mit R übersteht Olaf Zeds Todesmarkierung und kann den Gegenstoß setzen, sobald die Q-E-R-Kombo verpufft ist; ab Level 6 sucht Zed aber eher Roams auf Mid oder Bot statt den offenen Jungle-Duell mit Olaf.",
+  "threats": "Shadow-Dash (W) zum Reset, Death Mark (R) Burst, Living Shadow-Slash (E), Q-Poke aus Distanz.",
+  "window": "Sobald Zeds W bereits für eine Rotation oder einen Fluchtversuch verbraucht wurde, ist er im offenen Duell praktisch ungeschützt – das ist Olafs Moment für Invade oder Konter-Gank.",
+  "errors": "Frontal in Zeds Q-Range laufen, statt selbst zuerst den eigenen Q zu platzieren. Nach der R-Markierung planlos weiterkämpfen, statt R sofort für die Sustain zu zünden.",
+  "wave": "Voller Clear lohnt sich, wenn Zed früh invadiert werden kann, da er kaum Gegenwehr hat; ansonsten lohnen sich drei Camps und ein früher Gank, um Zeds langsamen Frühclear direkt zu bestrafen.",
+  "trade": "Erst Q für den Slow, dann E für den True-Damage-Tick und die Sustain; R erst zünden, wenn Zed seine Death Mark oder den Shadow-Dash tatsächlich einsetzt, danach saubere Autos gegen den schildlosen Zed.",
+  "items": "Stridebreaker liefert den Slow und die Tenacity, um Zeds Repositionierung über den Schatten zu kontern, da reine Sustain gegen einen Gegner, der Duelle meidet, weniger Wert hat.",
+  "situ": "Bei früher aggressiver Invade-Linie von Zed kann ein defensiver Gegenstand mit Health und Armor gegen seine Burst-Spitze sinnvoll sein.",
+  "side": "1 Item: Olaf gewinnt saubere Level-2-3-Kontakte klar. 2 Items: Zed sucht bereits aktiv Ausweichrouten, direkte Duelle werden selten. 3 Items: Zed meidet Olaf komplett und spielt über Roams, Olaf sollte diese Zeit für Objective-Druck nutzen.",
+  "plan": "Früh aggressiv invadieren und Level-2-Kontakt suchen, da Zed hier am schwächsten ist. Ab Mitte des Spiels nicht hinter Zed herjagen, sondern Seiten und Objectives kontrollieren, während Zed seine Kills anderswo sucht.",
+  "override": "Bei starker Magie-Flankierung im Zed-Team auf pta_inspiration wechseln, um mehr Tempo für frühe Invades zu bekommen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps, da Zeds Schaden fast vollständig physisch aus Autos und Q kommt.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "B",
+  "late": "B",
+  "rune": "PTA",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/zed/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

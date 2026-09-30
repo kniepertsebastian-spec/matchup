@@ -1,0 +1,50 @@
+{
+  "slug": "jarvaniv",
+  "name": "Jarvan IV",
+  "tier": "C",
+  "reason": "Jarvan IV ist ein klassischer früher Skirmisher mit EQ-Knockup-Kombo und starkem Invade-Potenzial, was gegen Olaf ein enges, aber lesbares Bruiser-Duell ergibt. Cataclysm kann beide Seiten in einer geschlossenen Arena einsperren, was im Endeffekt den stärkeren reinen Duellanten begünstigt, und dort hat Olaf dank Sustain über die Spieldauer tendenziell die Oberhand.",
+  "runeReason": "Conqueror passt zum verlängerten Bruiser-gegen-Bruiser-Duell und liefert die Sustain, um Jarvans Kombo-Öffnung auszugleichen; Boneplating dämpft die EQ-Stun-Kombo direkt.",
+  "l1": "Level 1-2 ist die EQ-Kombo von Jarvan bei richtigem Timing sehr stark; ein Scuttle-Contest um 2:30-3:00 ist eng und hängt stark davon ab, wer zuerst committet.",
+  "l25": "Jarvan pathet aktiv für frühe Invades und Ganks über die Flagge-Speer-Kombo; Olaf sollte Kreuzungen mit Vision absichern und eigene Ganks synchron zu Jarvans Cooldowns timen.",
+  "l6": "Cataclysm kann beide in eine isolierte Arena sperren; sobald Olaf R zündet, überlebt er die anfängliche Knockup-Kombo besser und kann den eingeschlossenen Kampf über die Spieldauer für sich entscheiden.",
+  "threats": "Demacian-Standard-Flagge mit Pull (Q/E-Kombo), Golden-Aegis-Schild, Cataclysm-Arena-Isolation (R).",
+  "window": "Sobald Jarvans EQ-Kombo und Golden Aegis verbraucht sind, ist ein offener Gegenstoß oder Konter-Invade für Olaf deutlich sicherer.",
+  "errors": "Auf der Demacian-Standard-Flagge stehen bleiben und den Q-Pull unterschätzen. Nach Cataclysm panisch fliehen wollen, statt die Isolation für ein reines Duell zu nutzen, in dem Olaf über die Zeit im Vorteil ist.",
+  "wave": "Ein Drei-Camp-Gank-Rhythmus ist gegen Jarvan sinnvoll, da beide Seiten ähnliches Invade-Tempo haben; ein direkter Camp-Wettlauf ist meist ausgeglichen und hängt vom ersten Kontakt ab.",
+  "trade": "Q zuerst für den Slow, dann E für Sustain; R erst zünden, wenn Jarvans EQ-Kombo bereits eingesetzt wurde, da Olaf danach den längeren Atem im Duell hat.",
+  "items": "Die Hydra-Death's-Dance-Linie ist der solide Standardweg für den Sustain-Wettlauf gegen einen anderen Bruiser ohne große Zugriffsprobleme.",
+  "situ": "Ein früher defensiver Gegenstand mit Health gegen die EQ-Stun-Kombo kann das Überleben des ersten großen Kontakts verbessern.",
+  "side": "1 Item: Der Kampf ist eng und hängt vom Kombo-Timing ab. 2 Items: Olafs Sustain beginnt den Unterschied zu machen. 3 Items: Olaf gewinnt verlängerte Duelle klarer, sofern er die anfängliche Kombo übersteht.",
+  "plan": "Frühe Kontakte nur mit gesicherter Vision und idealerweise Summoner-Spell-Vorteil suchen. Cataclysm nicht fürchten, sondern als Chance für ein isoliertes Duell nutzen, in dem Olafs Sustain über die Zeit trägt.",
+  "override": "Bei viel gegnerischem Magiedruck im Jarvan-Team auf conqueror_inspiration wechseln, um mehr Tempo für frühe Gegenstöße zu bekommen.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Jarvan IVs überwiegend physischen Nahkampfschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "C",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/jarvaniv/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}

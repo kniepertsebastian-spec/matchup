@@ -1,0 +1,50 @@
+{
+  "slug": "xinzhao",
+  "name": "Xin Zhao",
+  "tier": "C",
+  "reason": "Xin Zhaos Drei-Treffer-Passive und die Q-Knockup-Kombo machen ihn zu einem der stärksten frühen Skirmisher gegen Olaf, zumal sein E die Heilung des Ziels für die Dauer des Effekts reduziert und damit direkt Olafs Sustain-Plan angreift. Im späteren Spiel gleicht sich die Duellstärke etwas an, da Xin ohne eigene Sustain-Quelle auskommt und Olafs Rohschaden aufholt.",
+  "runeReason": "Conqueror passt zum verlängerten Dauerduell gegen einen anderen Bruiser; Boneplating dämpft die Q-E-Knockup-Kombo, mit der Xin den Kampf eröffnet.",
+  "l1": "Level 1-2 gewinnt Xin durch seine Passive und die Drei-Treffer-Knockup-Kombo die meisten offenen Duelle; ein Scuttle-Contest um 2:30-3:00 sollte Olaf nur mit Summoner-Spell- oder Levelvorteil suchen.",
+  "l25": "Xin Zhao ist ein aktiver früher Invader mit hohem Tempo über E-Dash zu Einheiten; Olaf sollte in dieser Phase defensiver pathen und eigene Camps eher absichern als offene Kreuzungen zu suchen.",
+  "l6": "Ab Level 6 kann Olaf mit R Xins Knockup-Combo überstehen und dank fehlender eigener Sustain auf Xins Seite den Sustain-Wettlauf gewinnen, sofern das E-Heal-Reduktion-Fenster von Xin bereits abgelaufen ist.",
+  "threats": "Drei-Treffer-Knockup (Q/Passive), Heilungsreduktion durch Battle Cry (E), Crescent-Guard-Fernschaden-Immunität (R).",
+  "window": "Sobald Xins E-Heilungsreduktion abgelaufen ist und sein Q-Knockup verbraucht wurde, ist der Sustain-Wettlauf klar zugunsten von Olaf – dieses Fenster eignet sich für Konter-Invade oder Objective-Druck.",
+  "errors": "In der aktiven Heilungsreduktion durch Battle Cry auf reine Lebensraub-Sustain vertrauen, statt Rohschaden zu priorisieren. Den Q-Knockup unterschätzen und ohne Fluchtoption in offene Flächen ziehen.",
+  "wave": "Gegen Xin lohnt sich meist der eigene volle Clear mit Vision an Kreuzungen, da ein direkter Camp-Wettlauf wegen seines hohen frühen Invade-Tempos riskant ist.",
+  "trade": "Q zuerst für den Slow, dann E für Schaden, wobei die Heilungsreduktion aus Xins E einkalkuliert werden muss; R erst zünden, wenn Xins Q-Knockup-Kombo bereits verbraucht ist.",
+  "items": "Die Cleaver-Linie liefert Rüstungsschred und Rohschaden, um Xins Heilungsreduktion zu kompensieren, da reine Lebensraub-Sustain in diesem Fenster wirkungslos ist.",
+  "situ": "Ein früher defensiver Gegenstand mit Health gegen Xins Knockup-Combo kann das Überleben des ersten Kontakts deutlich verbessern.",
+  "side": "1 Item: Xin gewinnt die meisten offenen Duelle klar. 2 Items: Der Kampf wird ausgeglichener, sofern Olaf die Heilungsreduktion einkalkuliert. 3 Items: Olafs Rohschaden und R-Sustain gleichen Xins fehlende eigene Sustain zunehmend aus.",
+  "plan": "Frühe offene Kontakte defensiv spielen und eigene Camps sichern, statt Xins Invade-Tempo direkt zu kontern. Ab Level 6 Objective-Kämpfe suchen, in denen Xins Heilungsreduktion bereits abgelaufen ist.",
+  "override": "Bei viel gegnerischem Burst-Druck zusätzlich zu Xin auf conqueror_secondwind wechseln, um repetitive Chip-Schäden im Team abzufedern.",
+  "uncertainty": "Eigene qualitative Einschätzung, keine getestete optimale Spielweise. Gesamt-Tier meist mit etwa einer Stufe Spielraum. Frühe und späte Phase sind getrennte Urteile; Teamcomp, Gold, Level und Build können sie verschieben. Keine verifizierten Olaf-Jungle-Paarungsstatistiken für diesen Patch verfügbar.",
+  "start": "Jungle-Startitem passend zum Clear-Tempo, danach Health Potions.",
+  "sums": "Flash + Smite",
+  "boots": "Plated Steelcaps gegen Xin Zhaos überwiegend physischen Nahkampfschaden.",
+  "note": "Patch 26.18 · Kit-Abgleich, keine Jungle-Paarungsstatistik verifiziert.",
+  "revision": "Neu: unabhängige Olaf-Jungle-Analyse, keine Übernahme der Toplane-Wertung.",
+  "lane": "D",
+  "late": "C",
+  "rune": "Conqueror",
+  "role": "jungle",
+  "stats": {
+    "opponentWR": null,
+    "n": null,
+    "opponentGD": null,
+    "rawWR": null,
+    "ln": null,
+    "delta2": null
+  },
+  "statsNote": "Keine ausreichend belastbare Olaf-Jungle-Paarungsstatistik verifiziert (Netzwerkzugriff auf Statistikseiten in dieser Build-Umgebung nicht verfügbar). Deshalb keine numerische Winrate und keine Übernahme von Toplane-Statistiken.",
+  "official": "https://www.leagueoflegends.com/en-us/champions/xinzhao/",
+  "sources": [
+    [
+      "Riot · Olaf",
+      "https://www.leagueoflegends.com/en-us/champions/olaf/"
+    ],
+    [
+      "METAsrc · Jungle-Pool (keine Olaf-Matchupwertung)",
+      "https://www.metasrc.com/lol/tier-list/jungle"
+    ]
+  ]
+}
